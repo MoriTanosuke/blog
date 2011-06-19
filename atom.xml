@@ -1,14 +1,13 @@
 ---
 layout: nil
 ---
-<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>{{ site.owner-title }}</title>
  <link href="{{ site.base-url }}/atom.xml" rel="self" />
  <link href="{{ site.base-url }}" />
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.base-url }}<id>
+ <id>{{ site.base-url }}</id>
  <author>
    <name>{{ site.owner-name }}</name>
    <email>{{ site.owner-email }}</email>
