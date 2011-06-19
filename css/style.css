@@ -167,6 +167,11 @@ header ul li#first {
   color: red;
 }
 
+#related h2 {
+  margin-top: 1em;
+  font-size: 1.2em;
+}
+
 /* 3.TYPOGRAPHY */
 
 p, 
