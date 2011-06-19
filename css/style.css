@@ -296,6 +296,10 @@ background-color : transparent; }
 /* 12.COMPLIMENTARY */
 /* 13.CONTENTINFO */
 
+footer {
+  margin-top: 2em;
+}
+
 /* 14.GLOBAL OBJECTS */
 
 .clearfix { 
