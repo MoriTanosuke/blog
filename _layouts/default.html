@@ -27,8 +27,11 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 <body class="clearfix">
 
 <header role="banner" class="clearfix">
-<h1><a href="/">{{ site.owner-title }}</a></h2>
-<h2>{{ page.title }}</h2>
+<ul>
+<li id="first"><a href="{{ site.base-url }}">{{ site.owner-title }}</a></li>
+<li><a href="/">home</a></li>
+<h1>{{ page.title }}</h1>
+<ul>
 </header>
 
 <div class="content clearfix">
