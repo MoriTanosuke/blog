@@ -22,10 +22,13 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 
 {% include boilerplate_css_scripts.html %}
 
+{% include github_ribbon.html %}
+
 <body class="clearfix">
 
 <header role="banner" class="clearfix">
-<h1>{{ page.title }}</h1>
+<h1><a href="/">{{ site.owner-title }}</a></h2>
+<h2>{{ page.title }}</h2>
 </header>
 
 <div class="content clearfix">
@@ -41,6 +44,7 @@ URL: http://stuffandnonsense.co.uk/projects/320andup
 
 <footer role="contentinfo" class="clearfix">
   <p>{{ site.license }} <a href="{{ site.owner-page }}">{{ site.owner-name}}</a></p>
+  <p>This page is build with <a href="http://github.com/mojombo/jekyll">Jekyll</a></p>
 </footer>
 
 {% include boilerplate_analytics_scripts.html %}

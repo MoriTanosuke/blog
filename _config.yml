@@ -1,10 +1,17 @@
 markdown: rdiscount
 auto: true
+paginate: 10
+
+permalink: /:year/:month/:day/:title
 
 exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test"]
 
-owner-name: your name
-owner-page: your homepage
-owner-email: your email
+owner-name: Carsten Ringe
+owner-page: http://moritanosuke.github.com
+owner-email: carsten@kopis.de
+owner-title: Blog of Carsten Ringe
 
-license: your license of choice
+disqus-shortname: kopisde
+base-url: http://blog.kopis.de
+
+license: CC by/cc/sa
