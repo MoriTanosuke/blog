@@ -2,7 +2,7 @@ markdown: rdiscount
 auto: true
 paginate: 10
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 
 exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test", "CNAME"]
 
