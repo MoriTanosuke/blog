@@ -11,12 +11,12 @@ wordpress_url: http://blog.kopis.de/?p=127
   <div class="code"><pre>package main
 
 import (
-    &quot;fmt&quot;
+   &amp;quot;fmt&quot;
 )
 
 func main() {
     var m = map[string]string{&quot;1&quot;:&quot;eins&quot;}
-    m[&quot;2&quot;] = &quot;zwei&quot;
+    m[&quot;2&quot;] =&amp;quot;zwei&quot;
     fmt.Println(m)
 }</pre></div>
 </div>
@@ -35,26 +35,26 @@ func main() {
   <div class="code"><pre>package main
 
 import (
-    &quot;fmt&quot;
-    &quot;strings&quot;
-    &quot;sort&quot;
+   &amp;quot;fmt&quot;
+   &amp;quot;strings&quot;
+   &amp;quot;sort&quot;
 )
 
 func gq(m map[string]string) string {
     ma := make([]string, len(m))
     i := 0
     for key,value := range(m) {
-        ma[i] = key + &quot;=&quot; + value
+        ma[i] = key +&amp;quot;=&quot; + value
         i++
     }
     sort.SortStrings(ma)
-    query := strings.Join(ma, &quot;&amp;&quot;)
+    query := strings.Join(ma,&amp;quot;&amp;&quot;)
     return query
 }
 
 func main() {
-    var m = map[string]string{&quot;1&quot;:&quot;eins&quot;, &quot;acht&quot;:&quot;8&quot;}
-    m[&quot;2&quot;] = &quot;zwei&quot;
+    var m = map[string]string{&quot;1&quot;:&quot;eins&quot;,&amp;quot;acht&quot;:&quot;8&quot;}
+    m[&quot;2&quot;] =&amp;quot;zwei&quot;
     query := gq(m)
     fmt.Printf(&quot;result: ?%sn&quot;, query)
 }</pre></div>

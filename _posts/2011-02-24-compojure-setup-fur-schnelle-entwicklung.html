@@ -17,14 +17,14 @@ lein new CmpjrAjaxTest
 Anschliessend editiere ich die Datei <code>project.clj</code> und füge die Abhängigkeiten für ein minimales Compojure-Setup ein:
 
 [clojure]
-(defproject CmpjrAjaxTest &quot;1.0.0-SNAPSHOT&quot;
-  :description &quot;FIXME: write&quot;
-  :dependencies [[org.clojure/clojure &quot;1.2.0&quot;]
-                 [org.clojure/clojure-contrib &quot;1.2.0&quot;]
-                 [enlive &quot;1.0.0-SNAPSHOT&quot;]
-                 [compojure &quot;0.6.0-RC4&quot;]
-                 [ring/ring-jetty-adapter &quot;0.3.5&quot;]]
-  :dev-dependencies [[lein-ring &quot;0.3.2&quot;]]
+(defproject CmpjrAjaxTest&amp;quot;1.0.0-SNAPSHOT&quot;
+  :description&amp;quot;FIXME: write&quot;
+  :dependencies [[org.clojure/clojure&amp;quot;1.2.0&quot;]
+                 [org.clojure/clojure-contrib&amp;quot;1.2.0&quot;]
+                 [enlive&amp;quot;1.0.0-SNAPSHOT&quot;]
+                 [compojure&amp;quot;0.6.0-RC4&quot;]
+                 [ring/ring-jetty-adapter&amp;quot;0.3.5&quot;]]
+  :dev-dependencies [[lein-ring&amp;quot;0.3.2&quot;]]
   :ring {:handler CmpjrAjaxTest.app/app})
 [/clojure]
 
@@ -42,18 +42,18 @@ Mit <code>:ring {:handler CmpjrAjaxTest.app/app})</code> gebe ich damit eine Ref
   (:require [compojure.route :as route]
     [compojure.handler :as handler]))
 
-(deftemplate index &quot;resources/test.html&quot;
+(deftemplate index&amp;quot;resources/test.html&quot;
   [cmap]
   [:span#msg] (content (:msg cmap)))
 
 (defroutes main-routes
-  (GET &quot;/&quot; [] (index {:msg &quot;Hello World!&quot;}))
-  (GET &quot;/msg/:msg&quot; [msg] (index {:msg msg}))
-  (GET &quot;/json&quot; []
-    {:headers {&quot;Content-Type&quot; &quot;application/json&quot;}
-     :body (json-str {:foo &quot;foo&quot;, :bar &quot;bar&quot;})})
-  (route/resources &quot;/&quot;)
-  (route/not-found &quot;Page not found&quot;))
+  (GET&amp;quot;/&quot; [] (index {:msg&amp;quot;Hello World!&quot;}))
+  (GET&amp;quot;/msg/:msg&quot; [msg] (index {:msg msg}))
+  (GET&amp;quot;/json&quot; []
+    {:headers {&quot;Content-Type&quot;&amp;quot;application/json&quot;}
+     :body (json-str {:foo&amp;quot;foo&quot;, :bar&amp;quot;bar&quot;})})
+  (route/resources&amp;quot;/&quot;)
+  (route/not-found&amp;quot;Page not found&quot;))
 
 (def app
   (handler/site main-routes))
@@ -69,7 +69,7 @@ Die erste Route führt ihr aus, wenn ihr einfach <code>http://127.0.0.1:3000</co
 [clojure]
 (defroutes main-routes
   ...
-  (GET &quot;/msg/:msg&quot; [msg] (index {:msg msg}))
+  (GET&amp;quot;/msg/:msg&quot; [msg] (index {:msg msg}))
   ...)
 [/clojure]
 
@@ -80,16 +80,16 @@ Und noch interessanter ist das dritte Beispiel:
 [clojure]
 (defroutes main-routes
   ...
-  (GET &quot;/json&quot; []
-    {:headers {&quot;Content-Type&quot; &quot;application/json&quot;}
-     :body (json-str {:foo &quot;foo&quot;, :bar &quot;bar&quot;})})
+  (GET&amp;quot;/json&quot; []
+    {:headers {&quot;Content-Type&quot;&amp;quot;application/json&quot;}
+     :body (json-str {:foo&amp;quot;foo&quot;, :bar&amp;quot;bar&quot;})})
   ...)
 [/clojure]
 
 Wenn ihr also <code>http://127.0.0.1:3000/json</code> im Browser öffnet, wird euch ein JSON-Objekt mit 2 Attributen zurückgegeben. Das ganze läuft über <a href="http://richhickey.github.com/clojure-contrib/json-api.html">die ganz normale clojure.contrib JSON API</a>, hat also weder was mit Compojure oder meiner Template-Engine zu tun. Ich erzeuge einfach mit folgenden Aufruf ein JSON-Objekt aus einer Map:
 
 [clojure]
-(json-str {:foo &quot;foo&quot;, :bar &quot;bar&quot;})
+(json-str {:foo&amp;quot;foo&quot;, :bar&amp;quot;bar&quot;})
 [/clojure]
 
 Und das Ergebnis ist folgendes:
@@ -101,7 +101,7 @@ Und das Ergebnis ist folgendes:
 Ich habe in meinem Beispiel bereits <a href="https://github.com/cgrand/enlive#readme">die Template-Engine Enlive</a> verwendet. Damit kann ich meine Antwort aus einer HTML-Datei lesen, mit Variablen anreichern und dem Nutzer zurückliefern. Dazu definiere ich mir ein Template, das eine <code>map</code> mit Werten bekommt und in die Datei einsetzt:
 
 [clojure]
-(deftemplate index &quot;resources/test.html&quot;
+(deftemplate index&amp;quot;resources/test.html&quot;
   [cmap]
   [:span#msg] (content (:msg cmap)))
 [/clojure]

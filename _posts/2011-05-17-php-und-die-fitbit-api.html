@@ -19,17 +19,17 @@ Die Erzeugung des Request Tokens seht ihr hier:
 
 [php]
 &lt;?php
-include_once &quot;library/OAuthStore.php&quot;;
-include_once &quot;library/OAuthRequester.php&quot;;
+include_once&amp;quot;library/OAuthStore.php&quot;;
+include_once&amp;quot;library/OAuthRequester.php&quot;;
 
-define(&quot;FITBIT_CONSUMER_KEY&quot;, &quot;yourkey&quot;);
-define(&quot;FITBIT_CONSUMER_SECRET&quot;, &quot;yoursecret&quot;);
+define(&quot;FITBIT_CONSUMER_KEY&quot;,&amp;quot;yourkey&quot;);
+define(&quot;FITBIT_CONSUMER_SECRET&quot;,&amp;quot;yoursecret&quot;);
 
-define(&quot;FITBIT_OAUTH_HOST&quot;, &quot;http://api.fitbit.com&quot;);
-define(&quot;FITBIT_REQUEST_TOKEN_URL&quot;, FITBIT_OAUTH_HOST . &quot;/oauth/request_token&quot;);
-define(&quot;FITBIT_AUTHORIZE_URL&quot;, FITBIT_OAUTH_HOST . &quot;/oauth/authorize&quot;);
-define(&quot;FITBIT_ACCESS_TOKEN_URL&quot;, FITBIT_OAUTH_HOST . &quot;/oauth/access_token&quot;);
-define(&quot;FITBIT_ACTIVITIES_URL&quot;, FITBIT_OAUTH_HOST . &quot;/1/user/-/activities/date/2011-05-13.json&quot;); // not sure about this
+define(&quot;FITBIT_OAUTH_HOST&quot;,&amp;quot;http://api.fitbit.com&quot;);
+define(&quot;FITBIT_REQUEST_TOKEN_URL&quot;, FITBIT_OAUTH_HOST .&amp;quot;/oauth/request_token&quot;);
+define(&quot;FITBIT_AUTHORIZE_URL&quot;, FITBIT_OAUTH_HOST .&amp;quot;/oauth/authorize&quot;);
+define(&quot;FITBIT_ACCESS_TOKEN_URL&quot;, FITBIT_OAUTH_HOST .&amp;quot;/oauth/access_token&quot;);
+define(&quot;FITBIT_ACTIVITIES_URL&quot;, FITBIT_OAUTH_HOST .&amp;quot;/1/user/-/activities/date/2011-05-13.json&quot;); // not sure about this
 
 define('OAUTH_TMP_DIR', function_exists('sys_get_temp_dir') ? sys_get_temp_dir() : realpath($_ENV[&quot;TMP&quot;]));
 
@@ -94,13 +94,13 @@ $timeInBed = json_decode($result3['body'], true);
 $awakeningsCount = json_decode($result4['body'], true);
 
 // print out few information as json
-echo &quot;{'steps':&quot;, $activities['summary']['steps'], &quot;,&quot;,
-&quot;'distance':&quot;, $activities['summary']['distances'][0]['distance'], &quot;,&quot;,
-&quot;'calories':&quot;, $foods['summary']['calories'], &quot;,&quot;,
-&quot;'caloriesOut':&quot;, $activities['summary']['caloriesOut'], &quot;,&quot;,
-&quot;'activeScore':&quot;, $activities['summary']['activeScore'], &quot;,&quot;,
-&quot;'timeInBed':&quot;, round($timeInBed['sleep-timeInBed'][0]['value'] / 60, 2), &quot;,&quot;,
-&quot;'awakeningsCount':&quot;, $awakeningsCount['sleep-awakeningsCount'][0]['value'], &quot;}&quot;;
+echo&amp;quot;{'steps':&quot;, $activities['summary']['steps'],&amp;quot;,&quot;,
+&quot;'distance':&quot;, $activities['summary']['distances'][0]['distance'],&amp;quot;,&quot;,
+&quot;'calories':&quot;, $foods['summary']['calories'],&amp;quot;,&quot;,
+&quot;'caloriesOut':&quot;, $activities['summary']['caloriesOut'],&amp;quot;,&quot;,
+&quot;'activeScore':&quot;, $activities['summary']['activeScore'],&amp;quot;,&quot;,
+&quot;'timeInBed':&quot;, round($timeInBed['sleep-timeInBed'][0]['value'] / 60, 2),&amp;quot;,&quot;,
+&quot;'awakeningsCount':&quot;, $awakeningsCount['sleep-awakeningsCount'][0]['value'],&amp;quot;}&quot;;
 ?&gt;
 [/php]
 

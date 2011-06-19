@@ -12,8 +12,8 @@ function convertUsToEu() {
   var maxRows = range.getNumRows() + 1;
   var maxColumns = range.getNumColumns() + 1;
   
-  for(var column = 1; column &lt; maxColumns; column++) {
-    for(var row = 1; row &lt; maxRows; row++) {
+  for(var column = 1; column&amp;lt; maxColumns; column++) {
+    for(var row = 1; row&amp;lt; maxRows; row++) {
       var cell = range.getCell(row, column);
       var value = cell.getValue();
       value = value.replace('.', ',');

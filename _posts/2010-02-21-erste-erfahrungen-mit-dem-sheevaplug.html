@@ -25,7 +25,7 @@ umount /mnt/usbstick</pre></div>
 
 </span></p>
 <p><strong>Backup der SD-Karte</strong></p>
-<p><strong></strong> Startet wieder von der NAND-Partition und bootet Ubuntu. Sobald ihr den SheevaPlug wieder erreichen k&ouml;nnt, wird per <em>ssh</em> und <em>dd</em> direkt ein Image der SD-Karte gezogen - auf dem Plug selbst ist nat&uuml;rlich zu wenig Platz f&uuml;r die 8GB der Karte, daher wird alles direkt &uuml;ber SSH auf den lokalen Rechner gezogen.</p>
+<p><strong></strong> Startet wieder von der NAND-Partition und bootet Ubuntu. Sobald ihr den SheevaPlug wieder erreichen k&ouml;nnt, wird per <em>ssh</em> und <em>dd</em> direkt ein Image der SD-Karte gezogen - auf dem Plug selbst ist nat&uuml;rlich zu wenig Platz f&uuml;r die 8GB der Karte, daher wird alles direkt&amp;uuml;ber SSH auf den lokalen Rechner gezogen.</p>
 <p><span style="font-family: Times New Roman; font-size: medium;">
 <div class="CodeRay">
   <div class="code"><pre>ssh ZIELADRESSE dd if=/dev/mmcblk0 | dd of=sheevaplug-sdcard.img</pre></div>

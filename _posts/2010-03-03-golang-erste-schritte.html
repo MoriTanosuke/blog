@@ -5,7 +5,7 @@ title: "golang: Erste Schritte"
 wordpress_url: http://blog.kopis.de/?p=130
 ---
 
-    <p><span class="dropCap">I</span>ch bin in den letzten Tagen wieder &ouml;fter auf <a href="http://golang.org/">Go</a> gestossen, <a href="http://www.google.com/">Googles</a> neue Programmiersprache. Und jetzt habe ich beschlossen, das ganze auch auszuprobieren - obwohl mir die Syntax erstmal nicht gef&auml;llt. Zu nah an C, zu viele Pointer... ;-) Aber trotzdem bin ich an neuen Inputs in Sachen Softwareentwicklung interessiert und gerade die Ausrichtung auf Mehrprozessorsysteme und message-basierte Anwendungen hat eine gro&szlig;e Anziehungskraft. Also richte ich mir eine kleine Linux-VM ein und installiere alle notwendigen Pakete f&uuml;r <strong>Go</strong> (und ab jetzt werde ich mit <em>golang</em> auf die Sprache verweisen, denn 2 Buchstaben sind einfach zu wenig f&uuml;r eine Suchmaschine...).</p>
+    <p><span class="dropCap">I</span>ch bin in den letzten Tagen wieder&amp;ouml;fter auf <a href="http://golang.org/">Go</a> gestossen, <a href="http://www.google.com/">Googles</a> neue Programmiersprache. Und jetzt habe ich beschlossen, das ganze auch auszuprobieren - obwohl mir die Syntax erstmal nicht gef&auml;llt. Zu nah an C, zu viele Pointer... ;-) Aber trotzdem bin ich an neuen Inputs in Sachen Softwareentwicklung interessiert und gerade die Ausrichtung auf Mehrprozessorsysteme und message-basierte Anwendungen hat eine gro&szlig;e Anziehungskraft. Also richte ich mir eine kleine Linux-VM ein und installiere alle notwendigen Pakete f&uuml;r <strong>Go</strong> (und ab jetzt werde ich mit <em>golang</em> auf die Sprache verweisen, denn 2 Buchstaben sind einfach zu wenig f&uuml;r eine Suchmaschine...).</p>
 <p><strong>Mercurial</strong></p>
 <p><strong></strong> Als erstes wird <a href="http://mercurial.selenic.com/">Mercurial</a> installiert, da ich auf die neuste Version von Golang zugreifen m&ouml;chte. Unter <a href="http://www.debian.org/">Debian</a> geht das mit folgendem Kommando:</p>
 <p><span style="font-family: Times New Roman; font-size: medium;">
@@ -15,7 +15,7 @@ wordpress_url: http://blog.kopis.de/?p=130
 
 </span></p>
 <p><strong>Golang</strong></p>
-<p><strong></strong> Seltsamerweise konnte ich nicht zu 100% der <a href="http://golang.org/doc/install.html">offiziellen Installationsanleitung</a> folgen. Meine Installation von Mercurial wollte das Repository partout nicht &uuml;ber <a href="http://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure">HTTPS</a> klonen. Aber <a href="http://code.google.com">Google Code</a> liefert <a href="http://go.googlecode.com/hg">das Golang-Repository auch &uuml;ber HTTP</a> und damit bin ich schliesslich zum Ziel gekommen:</p>
+<p><strong></strong> Seltsamerweise konnte ich nicht zu 100% der <a href="http://golang.org/doc/install.html">offiziellen Installationsanleitung</a> folgen. Meine Installation von Mercurial wollte das Repository partout nicht&amp;uuml;ber <a href="http://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure">HTTPS</a> klonen. Aber <a href="http://code.google.com">Google Code</a> liefert <a href="http://go.googlecode.com/hg">das Golang-Repository auch&amp;uuml;ber HTTP</a> und damit bin ich schliesslich zum Ziel gekommen:</p>
 <p><span style="font-family: Times New Roman; font-size: medium;">
 <div class="CodeRay">
   <div class="code"><pre>$ export GOROOT=/pfad/zu/go # Standard ist $HOME/go

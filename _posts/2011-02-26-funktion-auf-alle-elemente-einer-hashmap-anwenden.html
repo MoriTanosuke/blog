@@ -15,8 +15,8 @@ Heute bin ich dann auf die Lösung gekommen, <a href="http://stackoverflow.com/q
 ;; map anlegen
 (def m {:foo 'foo, :bar 'bar, :baz 'baz})
 ;; zipmap erstellt eine neue map aus einer 2 Listen mit Keys und Values
-(zipmap (map #(str &quot;key=&quot; %) (keys m)) (vals m))
-;; =&gt; {&quot;key=:baz&quot; baz, &quot;key=:bar&quot; bar, &quot;key=:foo&quot; foo}
+(zipmap (map #(str&amp;quot;key=&quot; %) (keys m)) (vals m))
+;; =&gt; {&quot;key=:baz&quot; baz,&amp;quot;key=:bar&quot; bar,&amp;quot;key=:foo&quot; foo}
 [/clojure]
 
 Nochmal auf Deutsch: Zeile 4 erstellt mit der Funktion <code>zipmap</code> eine neue <code>map</code> aus der Liste der Keys und Values aus meiner <code>map m</code>.

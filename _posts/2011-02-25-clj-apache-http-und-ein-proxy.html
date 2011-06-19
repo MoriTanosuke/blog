@@ -10,9 +10,9 @@ Falls ihr mal in die Verlegenheit kommen solltet, eine HTTP-Verbindung per <a hr
 (require ['com.twinql.clojure.http :as 'http])
 
 (:content 
-  (http/get (java.net.URI. &quot;http://www.kopis.de&quot;)
+  (http/get (java.net.URI.&amp;quot;http://www.kopis.de&quot;)
     :parameters (http/map-&gt;params {
       :default-proxy (http/http-host
-        :host &quot;127.0.0.1&quot; 
+        :host&amp;quot;127.0.0.1&quot; 
         :port 8765)}) :as :string))
 [/clojure]

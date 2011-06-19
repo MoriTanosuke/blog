@@ -84,9 +84,9 @@ private void execute(Connection conn, String statement) throws SQLException {
 
       ResultSet result = stmt.getResultSet();
 
-      for (int column = 1; column &lt;= result.getMetaData().getColumnCount(); column++) {
+      for (int column = 1; column&amp;lt;= result.getMetaData().getColumnCount(); column++) {
 
-        System.out.print(result.getMetaData().getColumnName(column) + &quot;,&quot;);
+        System.out.print(result.getMetaData().getColumnName(column) +&amp;quot;,&quot;);
 
       }
 
@@ -94,9 +94,9 @@ private void execute(Connection conn, String statement) throws SQLException {
 
 while(result.next()) {
 
-        for (int column = 1; column &lt;= result.getMetaData().getColumnCount(); column++) {
+        for (int column = 1; column&amp;lt;= result.getMetaData().getColumnCount(); column++) {
 
-          System.out.print(result.getObject(column) + &quot;,&quot;);
+          System.out.print(result.getObject(column) +&amp;quot;,&quot;);
 
         }
 
@@ -110,7 +110,7 @@ public static void main(String[] args) {
 
       if(args == null || args.length != 5) {
 
-        System.err.println(&quot;Usage:t&quot; + SimpleSqlClient.class + &quot;  SQLSTATEMENT DRIVER_CLASSNAME DB_URL USERNAME PASSWORD&quot;);
+        System.err.println(&quot;Usage:t&quot; + SimpleSqlClient.class +&amp;quot;  SQLSTATEMENT DRIVER_CLASSNAME DB_URL USERNAME PASSWORD&quot;);
 
         System.exit(-1);
 

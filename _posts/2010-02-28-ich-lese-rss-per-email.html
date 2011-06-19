@@ -5,7 +5,7 @@ title: Ich lese RSS per eMail
 wordpress_url: http://blog.kopis.de/?p=131
 ---
 
-    <p><span class="dropCap">W</span>ieso? Weil ich immer noch gro&szlig;er Fan von eMail bin. Asynchrone Kommunikation, trotzdem Quasi-Echtzeit und kostenlos. Und weil ich auf meine eMail von &uuml;berall Zugriff habe, Iphone sei Dank.  Nachdem ich schon den Service <a href="http://www.feedmyinbox.com/">FeedMyInbox</a> ausprobiert habe und mit dem <a href="http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/kopisde-21">Amazon Kindle</a> einen sinnvollen Endpunkt f&uuml;r so einen Dienst in meiner Reisetasche habe, wollte ich mal sehen, ob ich das ganze nicht auch auf meinen eigenen Rechnern und damit unter meiner Kontrolle aufsetzen kann. Gesagt, getan: <a href="http://www.allthingsrss.com/rss2email/">rss2email</a> erledigt genau diese Aufgabe.  Unter Debian ist das Programm schnell installiert:</p>
+    <p><span class="dropCap">W</span>ieso? Weil ich immer noch gro&szlig;er Fan von eMail bin. Asynchrone Kommunikation, trotzdem Quasi-Echtzeit und kostenlos. Und weil ich auf meine eMail von&amp;uuml;berall Zugriff habe, Iphone sei Dank.  Nachdem ich schon den Service <a href="http://www.feedmyinbox.com/">FeedMyInbox</a> ausprobiert habe und mit dem <a href="http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/kopisde-21">Amazon Kindle</a> einen sinnvollen Endpunkt f&uuml;r so einen Dienst in meiner Reisetasche habe, wollte ich mal sehen, ob ich das ganze nicht auch auf meinen eigenen Rechnern und damit unter meiner Kontrolle aufsetzen kann. Gesagt, getan: <a href="http://www.allthingsrss.com/rss2email/">rss2email</a> erledigt genau diese Aufgabe.  Unter Debian ist das Programm schnell installiert:</p>
 <p><span style="font-family: Times New Roman; font-size: medium;">
 <div class="CodeRay">
   <div class="code"><pre>apt-get install rss2email</pre></div>
@@ -21,7 +21,7 @@ r2e run --no-send</pre></div>
 </div>
 
 </span></p>
-<p>Damit ist der erste Feed hinzugef&uuml;gt und der erste Lauf hat den aktuellen Stand des Feeds geholt. Der Parameter <tt>--no-send</tt> verhindert das Versenden aller Feedartikel, erst bei einem Aufruf ohne diesen Parameter werden eMails verschickt. Das sollte man aber einem <a href="http://de.wikipedia.org/wiki/Cron">cronjob</a> &uuml;berlassen, der zyklisch l&auml;uft. Bei mir ist das alle 30 Minuten:</p>
+<p>Damit ist der erste Feed hinzugef&uuml;gt und der erste Lauf hat den aktuellen Stand des Feeds geholt. Der Parameter <tt>--no-send</tt> verhindert das Versenden aller Feedartikel, erst bei einem Aufruf ohne diesen Parameter werden eMails verschickt. Das sollte man aber einem <a href="http://de.wikipedia.org/wiki/Cron">cronjob</a>&amp;uuml;berlassen, der zyklisch l&auml;uft. Bei mir ist das alle 30 Minuten:</p>
 <p><span style="font-family: Times New Roman; font-size: medium;">
 <div class="CodeRay">
   <div class="code"><pre>crontab -l
