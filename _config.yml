@@ -9,7 +9,7 @@ exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test", "CNAME"]
 owner-name: Carsten Ringe
 owner-page: http://moritanosuke.github.com
 owner-email: carsten@kopis.de
-owner-title: Blog of Carsten Ringe
+owner-title: Blog von Carsten Ringe
 
 disqus-shortname: kopisde
 base-url: http://blog.kopis.de
