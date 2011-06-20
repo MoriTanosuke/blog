@@ -314,6 +314,11 @@ background-color : transparent; }
 /* 8.BANNER */
 /* 9.NAVIGATION */
 /* 10.CONTENT */
+pre {
+  background: lightgray;
+  padding: 1em;
+  border: 1px solid black;
+}
 /* 11.MAIN */
 /* 12.COMPLIMENTARY */
 /* 13.CONTENTINFO */
