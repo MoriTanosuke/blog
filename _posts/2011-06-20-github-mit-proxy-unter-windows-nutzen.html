@@ -1,0 +1,15 @@
+---
+layout: post
+title: Github mit Proxy unter Windows nutzen
+---
+<p>Falls ihr ein <a href="http://github.com">Github</a>-Repository per HTTPS unter Windows
+clonen wollt und dazu einen Proxy nutzen müsst, dann hilft euch vielleicht folgender
+Tipp:</p>
+
+<pre>
+export http_proxy=http://euer.proxy:1234
+export https_proxy=http://euer.proxy:1234
+git clone https://euer.host/repo.git
+</pre>
+
+<p>Ohne die Variable <em>https_proxy</em> war bei mir kein clonen möglich.</p>
