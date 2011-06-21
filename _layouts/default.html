@@ -24,7 +24,7 @@
 <ul>
 <li id="first"><a href="{{ site.base-url }}">{{ site.owner-title }}</a></li>
 <li><a href="/">start</a></li>
-<li>{% include search.html %}</li>
+<li><div id="cse-search-form" style="width: 250px;">Loading</div></li>
 </ul>
 <h1>{{ page.title }}</h1>
 </header>
@@ -47,5 +47,6 @@
 
 {% include boilerplate_analytics_scripts.html %}
 
+{% include search.html %}
 </body>
 </html>
