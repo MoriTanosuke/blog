@@ -2,11 +2,7 @@
 layout: post
 title: Jekyll auf Amazon CloudFront hosten
 ---
-<p>Heute nachmittag hab ich mal ausprobiert, wie man den eigenen Jekyll-Blog auf einem <a href="http://aws.amazon.com/de/s3/">Amazon S3-Bucket</a> hosten und mit <a href="http://aws.amazon.com/de/cloudfront/">Amazon CloudFront</a> weltweit verteilen kann.</p>
-
-<p>Mein erster Eindruck: fast so einfach wie Schuhe anziehen.</p>
-
-<p>Und hier kommt die Langfassung:</p>
+<p>Heute nachmittag hab ich mal ausprobiert, wie man den eigenen Jekyll-Blog auf einem <a href="http://aws.amazon.com/de/s3/">Amazon S3-Bucket</a> hosten und mit <a href="http://aws.amazon.com/de/cloudfront/">Amazon CloudFront</a> weltweit verteilen kann. Mein erster Eindruck: fast so einfach wie Schuhe anziehen.</p>
 
 <h2>Einrichten des S3-Buckets</h2>
 
@@ -14,7 +10,7 @@ title: Jekyll auf Amazon CloudFront hosten
 
 <p><a href="http://www.flickr.com/photos/cringe/5856725391/" title="aws-s3-bucket-fuer-jekyll by cringe, on Flickr"><img src="http://farm6.static.flickr.com/5315/5856725391_f202428760_m.jpg" width="240" height="63" alt="aws-s3-bucket-fuer-jekyll"></a></p>
 
-<p>Jetzt muss ich noch mit s3cmd mein AWS-Zugang konfigurieren. Dazu rufe ich folgendes Kommando auf und folge den Hinweisen auf dem Bildschirm:</p>
+<p>Jetzt muss ich noch mit <a href="http://s3tools.org/s3cmd">s3cmd</a> mein AWS-Zugang konfigurieren. Dazu rufe ich folgendes Kommando auf und folge den Hinweisen auf dem Bildschirm:</p>
 
 <pre>
 s3cmd --configure
