@@ -14,5 +14,6 @@ owner-title: Blog von Carsten Ringe
 disqus-shortname: kopisde
 base-url: http://blog.kopis.de
 feedburner: http://feeds.feedburner.com/kopisde
+cdn: http://blog2.kopis.de
 
 license: <a href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC by/cc/sa</a>
