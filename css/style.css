@@ -315,6 +315,14 @@ pre {
   padding: 1em;
   border: 1px solid black;
 }
+#recentcomments {
+  font-size: small;
+  margin-top: 2em;
+  width: 75%;
+}
+#recentcomments h2 {
+  font-size: 1.5em;
+}
 /* 11.MAIN */
 /* 12.COMPLIMENTARY */
 /* 13.CONTENTINFO */
