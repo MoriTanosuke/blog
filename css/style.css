@@ -90,7 +90,7 @@ padding : 0; }
 
 html {
 overflow-y : scroll;
-background : rgb(255,255,255) /* url(../img/tmp/grid.png) repeat-y 50% 0 */; }
+background : -webkit-linear-gradient(top, white, #dFdFdF) /* url(../img/tmp/grid.png) repeat-y 50% 0 */; }
 
 body { 
 margin : 0 auto;
