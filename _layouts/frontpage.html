@@ -6,7 +6,7 @@ layout: default
 <section>
 <header class="post-header">
 <hgroup>
-<li><time datetime="{{ ps.date }}" pubdate>{{ ps.date | date_to_string }}</time>&nbsp;<a href="{{ ps.url }}">{{ ps.title }}</a> (<a href="{{ ps.url }}#disqus_thread">Kein Kommentar und Keine Reaktionen</a>) <span class="g-plusone" data-size="standard" data-count="true"></span></li>
+<li><time datetime="{{ ps.date }}" pubdate>{{ ps.date | date_to_string }}</time>&nbsp;<a href="{{ ps.url }}">{{ ps.title }}</a> (<a href="{{ ps.url }}#disqus_thread">Kein Kommentar und Keine Reaktionen</a>) <g:plusone href="{{ ps.url }}"></g:plusone></li>
 </hgroup>
 </header>
 </section>
