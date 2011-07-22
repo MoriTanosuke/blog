@@ -1,12 +1,3 @@
----
-layout: default
-title: Kontakt
----
-<p>Hier findet ihr ein paar Wege, um Kontakt mit mir aufzunehmen. Am besten versucht ihr es aber einfach per eMail an <img src="carsten-at-kopis-de.png" alt="meine eMail-Adresse"/>.</p>
-
-<h2>GPG Key</h2>
-<p>Wenn ihr es ein wenig sicherer und privater haben wollt, <a href="http://www.gnupg.org/index.de.html">verschl&uuml;sselt ihr eure Mail mit GnuPG</a> (<a href="http://www.gnupg.org/howtos/de/GPGMiniHowto-4.html">Hier ist die absolute Kurzfassung einer Anleitung</a>). Hier ist mein Schlüssel:</p>
-<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2.0.17 (MingW32)
 
@@ -62,5 +53,3 @@ YZIyXBvp87rNBu0m//OwohHVaxWiZZLHANnJnP6FUAiaZS3pAJa1fceWkM0teKsx
 TErY
 =ZQ5d
 -----END PGP PUBLIC KEY BLOCK-----
-</pre>
-<p>Ihr k&ouml;nnt auch gleich <a href="carsten-at-kopis-de.txt">die Schl&uuml;sseldatei runterladen</a>.</p>
