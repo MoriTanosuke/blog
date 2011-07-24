@@ -2,7 +2,8 @@
 <script type="text/javascript">//<!--
 	var uagent = navigator.userAgent.toLowerCase();
 	// if not mobile, display ribbon
-	if((uagent.search("iphone") == -1)
+	if((uagent.search("mobile") == -1)
+			|| (uagent.search("iphone") == -1)
 			|| (uagent.search("ipod") == -1)
 			|| (uagent.search("android") == -1)) {
 		document.getElementById('github').style.visibility = null;
