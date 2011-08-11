@@ -6,6 +6,18 @@ title: Unmarshal a CSV file with Apache Camel
 
 <p>But, oh boy, is the documentation lacking. And the book is not helping me at all at this point. The examples there look easy and when you're reading the book you can follow the thoughts. But when I actually tried to write my first unit test without pasting the whole examples into your project, I got lost. The documentation of <em>Bindy</em> is very confusing if you only start writing tests for Camel. And the examples tests they show in the docs are so complicated I couldn't strip them down to a minimal version that would just read the CSV and unmarshal the rows into POJOs.</p>
 
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1325997557962631";
+/* blog.kopis.de */
+google_ad_slot = "5306287908";
+google_ad_width = 234;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
 <p>And what do you do if you can't figure out how to do stuff? <a href="http://stackoverflow.com/q/6458841/834">You post a question on StackOverflow.</a></p>
 
 <p>And right after I posted that question, I got the test running. Isn't it always like that? As soon as you ask for help, you find the solution to your problem. As if I'm afraid to let others see how much I suck. Anyway, here is a working junit test that will unmarshal a CSV into POJOs with the use of an annotated java bean:</p>
