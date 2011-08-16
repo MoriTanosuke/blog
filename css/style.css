@@ -97,7 +97,7 @@ margin : 0 auto;
 padding : 24px 0;
 min-width: 550px;
 max-width: 750px;
-font : 100%/1.4 Cambria, Georgia, Times, "Times New Roman";
+font-family: 'Droid Serif', serif;
 color : rgb(40,40,40); 
 background-color : transparent; }
 
