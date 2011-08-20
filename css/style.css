@@ -173,7 +173,7 @@ font-size : 1em; /* 16 / 16 = 1 */ }
 
 ul, 
 ol { 
-margin : 0 0 1.5em -24px; 
+margin : 0 0 1.5em 0; 
 padding-left : 24px; }
 
 ul { 
@@ -310,6 +310,10 @@ background-color : transparent; }
 /* 8.BANNER */
 /* 9.NAVIGATION */
 /* 10.CONTENT */
+body {
+  line-height: 1.2em;
+}
+
 pre {
   background: lightgray;
   padding: 1em;
