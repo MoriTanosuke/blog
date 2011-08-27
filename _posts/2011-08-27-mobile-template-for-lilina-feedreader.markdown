@@ -16,5 +16,5 @@ Unfortunatly I have a problem with the templating system. I have yet to figure o
 [1]: http://getlilina.org/
 [2]: http://reader.google.com/
 [3]: https://market.android.com/details?id=org.ttrssreader
-[4]: https://cringe.dnsalias.org/rss2/
+[4]: https://cringe.dnsalias.org/rss/
 [5]: http://code.google.com/p/iui/
