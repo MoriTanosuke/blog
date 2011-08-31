@@ -4,10 +4,7 @@ title: Fitbit API zeigt Zeitpunkt des letzten Sync
 ---
 Heute gab es [eine interessante Ankündigung][2] für die [Fitbit API][1]:
 
-> We've included the tracker last sync time to the API
-> endpoints with the latest platform development. Have
-> a look at the documentation here: 
-> https://wiki.fitbit.com/display/API/API-Get-Devices
+> We've included the tracker last sync time to the API endpoints with the latest platform development. Have a look at the documentation here: https://wiki.fitbit.com/display/API/API-Get-Devices
 
 Die entsprechende Antwort in der API sieht jetzt so aus:
 

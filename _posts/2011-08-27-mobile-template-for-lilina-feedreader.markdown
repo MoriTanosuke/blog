@@ -2,7 +2,7 @@
 layout: post
 title: Mobile template for Lilina RSS feedreader
 ---
-*Update:* In the meantime [I forked Lilina on github][6]. You can get the files for my mobile template from there.
+**Update:** In the meantime [I forked Lilina on github][6]. You can get the files for my mobile template from there.
 
 Yesterday I installed [Lilina][1] on my quest for a replacement of [Google Reader][2] and I missed a nice way to read my feeds from my mobile device. Unfortunatly there is nothing like [the android app for *tiny tiny rss*][3], so I decided to build a nicer template made for mobile devices.
 
