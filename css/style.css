@@ -446,6 +446,10 @@ visibility : hidden; }
 
 /* 16.TEMPLATE SPECIFICS */
 
+#post {
+line-height: 1.2em;
+}
+
 #goog-fixurl ul  {
 list-style-type : none; }
 
