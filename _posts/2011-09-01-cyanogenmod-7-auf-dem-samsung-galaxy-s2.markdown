@@ -6,6 +6,18 @@ Seit ein paar Wochen habe ich jetzt schon [Cyanogenmod 7 nightly][1] auf meinem 
 
 [Cyanogenmod][4] ist einer der wenigen MODs, die sich stark am [original Android-Betriebssystem von Google][5] orientieren. Es gibt keinen aufwändingen grafischen Schnickschnack, keine supertolle neue Oberfläche, kein aufgemotztes Menü. Aber es läuft. Und läuft. Und läuft...
 
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-1325997557962631";
+/* kopis.de smartphone */
+google_ad_slot = "6027243291";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
 Ich habe keinen der *seltsamen Neustarts* mehr erlebt, die mich am Samsung-Android so gestört haben. Kein toller Medienscanner, der andauernd den (internen und externen) Speicher durchsucht. Kein Kies, das mir Windows für ein simples Android-Update aufzwingen will (und sich gar nicht erst installieren lässt). Keine tollen Samsung-Anwendungen, in die ich beim ersten Start meine persönlichen Daten eingeben soll.
 
 Stattdessen habe ich wieder ein *Android-Smartphone*. So wie es gedacht war. Mit ein paar unaufdringlichen, aber sinnvollen Änderungen. Die Kamera-Anwendung kann z.B. die Hardware-Tasten als Auslöser verwenden - um eine dieser Änderungen beim Namen zu nennen.
