@@ -15,11 +15,16 @@ layout: default
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="/page{{paginator.previous_page}}" class="previous">N&auml;chste</a>
+  {% if paginator.previous_page == 1 %}
+    <a href="/" class="previous">N&auml;chste</a>
   {% else %}
-    <span class="previous">Erste</span>
+    {% if paginator.previous_page %}
+      <a href="/page{{paginator.previous_page}}" class="previous">N&auml;chste</a>
+    {% else %}
+      <span class="previous">Erste</span>
+    {% endif %}
   {% endif %}
+
   <span class="page_number ">{{paginator.page}} von {{paginator.total_pages}}</span>
   {% if paginator.next_page %}
     <a href="/page{{paginator.next_page}}" class="next ">Vorherige</a>
