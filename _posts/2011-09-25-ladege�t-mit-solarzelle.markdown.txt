@@ -9,10 +9,11 @@ eines portablen Ladeger&auml;ts mit USB-Anschluss. Hier ist das gute St&uuml;ck 
 
 Da meine Elektronik mittlerweile fast durchgegehen mit einem USB-Anschluss zur
 Stromaufnahme ausgestattet ist, kann ich damit unterwegs die Sonne zum Laden nutzen.
-Damit das ganze nicht zu umst&auml;ndlich wird, habe ich auch [einen relativ groﬂen Akku
-Raikko USB 5200][3] mit rund 5000mAh und USB-Anschluss, den ich tags&uuml;ber per Sonne 
-aufladen werde und anschliessend an meine Ger&auml;te zum Laden anschliessen kann. Damit 
-mache ich mich wieder unabh&auml;ngig von direkter Sonneneinstrahlung.
+Damit das ganze nicht zu umst&auml;ndlich wird, habe ich auch 
+[einen relativ gro&szlig;en Akku Raikko USB 5200][3] mit rund 5000mAh und 
+USB-Anschluss, den ich tags&uuml;ber per Sonne aufladen werde und anschliessend an 
+meine Ger&auml;te zum Laden anschliessen kann. Damit mache ich mich wieder 
+unabh&auml;ngig von direkter Sonneneinstrahlung.
 
 Im Auto habe ich das ganze an mein [Samsung Galaxy S2][1] angeschlossen und bei
 durchwachsener Sonneneinstrahlung folgenden Ladevorgang erreicht:
