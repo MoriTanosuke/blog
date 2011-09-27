@@ -22,7 +22,7 @@ durchwachsener Sonneneinstrahlung folgenden Ladevorgang erreicht:
 
 Zuhause werde ich die Solarzelle wohl in mein Schlafzimmerfenster h&auml;ngen und 
 den USB-Akku anschliessen. Abends kann ich dann mein Handy, meinen Kindle oder mein
-Wakemate daran anschliessen und die Ladung übertragen.
+Wakemate daran anschliessen und die Ladung Ã¼bertragen.
 
 In ein paar Wochen kann ich dann einen Bericht geben, wie sich diese Kombination
 bei mir bew&auml;hrt.
