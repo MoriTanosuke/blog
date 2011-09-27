@@ -23,7 +23,7 @@ Ein zweites Argument ist die zusätzliche Zeit, die gerade bei Personen mit geri
 
 Das ist in Amerika mit den *Suburbs* ein größeres Problem als in Deutschland, denke ich. Bei mir liegen jedenfalls mehrere Supermärkte in der Nähe, so dass ich zu Fuss einkaufen kann. Und mit dem Fahrrad wäre auch ein großer Bauernhof in Reichweite, der lokale Produkte aus eigener Herstellung anbietet.
 
-Aber trotzdem: Es gibt quasi in Mittagspausen-Entfernung einen *Burger King*, aber trotzdem gehe ich dort nicht jeden Tag essen. Ich werfe mir abends eine Tüte Tiefkühlgemüse in die Mikrowelle, backe einen Kürbis mit Speck im Ofen oder mache eine einfache Gemüsepfanne mit maximal 6 Zutaten. Das geht alles unter 30 Minuten Küchenzeit und schmeckt auch noch gut. Ob es günstiger ist als Junk Food, kann ich so nicht sagen. Dazu müsste ich wohl detailliert meine Lebensmittelkosten auf die einzelnen Tage ausrechnen... und das ist mir jetzt auch zu viel Arbeit. [:-)][/img/emotes/face-smile.png]
+Aber trotzdem: Es gibt quasi in Mittagspausen-Entfernung einen *Burger King*, aber trotzdem gehe ich dort nicht jeden Tag essen. Ich werfe mir abends eine Tüte Tiefkühlgemüse in die Mikrowelle, backe einen Kürbis mit Speck im Ofen oder mache eine einfache Gemüsepfanne mit maximal 6 Zutaten. Das geht alles unter 30 Minuten Küchenzeit und schmeckt auch noch gut. Ob es günstiger ist als Junk Food, kann ich so nicht sagen. Dazu müsste ich wohl detailliert meine Lebensmittelkosten auf die einzelnen Tage ausrechnen... und das ist mir jetzt auch zu viel Arbeit. ![:-)](/img/emotes/face-smile.png)
 
 [1]: http://www.nytimes.com/2011/09/25/opinion/sunday/is-junk-food-really-cheaper.html
 [2]: https://github.com/MoriTanosuke/FitbitAnalyzr
