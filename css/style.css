@@ -1,4 +1,4 @@
-/* @import url(mylibs/forms.css); */
+﻿/* @import url(mylibs/forms.css); */
 
 /*
 1.ROOT
@@ -199,6 +199,7 @@ dt {
 font-weight : normal; }
 
 blockquote  { 
+background-color: #efefef;
 margin : 0 0 1.5em -24px; 
 padding-left : 24px; 
 border-left : 1px solid rgb(200,200,200);
@@ -270,7 +271,6 @@ color : rgb(0,0,0); }
 /* 5.FIGURES & IMAGES */
 
 img {
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
