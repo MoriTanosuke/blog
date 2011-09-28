@@ -6,6 +6,8 @@ Heute habe ich mir wieder ein neues Buch gekauft: [Agile Web Development with Ra
 
 Ich habe auch schon [ein Projekt im Kopf][6], das ich damit umsetzen möchte. Aber vorher muss ich mich durch das Buch ackern, damit ich nicht allzu verwirrt bin. Die Syntax von [Ruby][4] ist ja deutlich anders als [Java][5], und die ganzen Zaubereien im Hintergrund von *Rails* möchte ich natürlich auch verstehen.
 
+*Update*: Ihr könnt [meine Fortschritte bei Github verfolgen][7].
+
 
 [1]: http://pragprog.com/book/rails4/agile-web-development-with-rails
 [2]: http://rubyonrails.org/
@@ -13,3 +15,5 @@ Ich habe auch schon [ein Projekt im Kopf][6], das ich damit umsetzen möchte. Ab
 [4]: http://www.ruby-lang.org/
 [5]: http://www.oracle.com/technetwork/java/index.html
 [6]: https://github.com/MoriTanosuke/FitbitAnalyzr
+[7]: https://github.com/MoriTanosuke/AgileWebDevelopmentWithRails_Depot
+
