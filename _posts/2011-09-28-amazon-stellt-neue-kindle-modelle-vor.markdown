@@ -16,4 +16,4 @@ Wenn ihr viel unterwegs seid, lohnt sich der [Kindle 3G][5] mit kostenlosem Mobi
 [2]: http://www.amazon.de/Kindle-eReader-Wi-Fi-Display-deutsches/dp/B0051QVF7A/kopisde-21
 [3]: http://de.wikipedia.org/wiki/Elektronisches_Papier
 [4]: http://www.amazon.de/Kindle-Wireless-Reader-Wifi-Leseger%C3%A4t/dp/B003DZ1Y8Q/kopisde-21
-[5]: http://www.amazon.de/Kindle-Wireless-Reader-3g-Leseger%C3%A4t/dp/B003DZ1Y7Mkopisde-21
+[5]: http://www.amazon.de/Kindle-Wireless-Reader-3g-Leseger%C3%A4t/dp/B003DZ1Y7M/kopisde-21
