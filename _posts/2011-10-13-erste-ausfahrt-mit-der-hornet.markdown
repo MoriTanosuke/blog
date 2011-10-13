@@ -13,7 +13,7 @@ montiert und die Hornet rausgebracht war und dann ging's los. Erst eine
 Weile durch die Stadt, aber die Zeit hab ich gleich genutzt und das
 langsame Fahren vor den Ampeln geübt. Danach hab ich einen kurzen
 Zwischenstop zum Auspacken der Hosentaschen und für ein paar erste
-Fotos:
+Fotos zu Hause eingelegt:
 
 <a href="http://www.flickr.com/photos/cringe/6237685885/" title="Honda Hornet 600 by cringe, on Flickr"><img src="http://farm7.static.flickr.com/6102/6237685885_47ff68d249_m.jpg" width="240" height="180" alt="Honda Hornet 600"></a>
 <a href="http://www.flickr.com/photos/cringe/6238208876/" title="Honda Hornet 600 by cringe, on Flickr"><img src="http://farm7.static.flickr.com/6211/6238208876_5ff44ddfa8_m.jpg" width="180" height="240" alt="Honda Hornet 600"></a>
