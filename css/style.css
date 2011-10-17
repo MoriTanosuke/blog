@@ -319,6 +319,7 @@ body {
 }
 
 #post {
+  line-height: 1.8em;
 }
 
 pre {
@@ -451,9 +452,6 @@ width : auto; }
 visibility : hidden; }
 
 /* 16.TEMPLATE SPECIFICS */
-
-#post {
-}
 
 #goog-fixurl ul  {
 list-style-type : none; }
