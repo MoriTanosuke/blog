@@ -17,6 +17,10 @@ img.src = 'http://tilli.me/privacyimg/einbild.png';
 document.getElementById('testbild').appendChild(img);
 //--></script>
 
+Der Code dazu sieht wie folgt aus:
+
+<script src="https://gist.github.com/1312839.js"> </script>
+
 Dieses Bild ist jetzt per Javascript eingebunden. Ich war so frei, und hab es *nicht* 1x1 Pixel groß gemacht, so dass ihr es sehen könnt. Wäre ich an euren Bewegungsdaten im Internet interessiert, würde ich es vielleicht unsichtbar einbinden, so dass ihr es gar nicht mitbekommen würdet.
 
 Es ist also nicht nur Facebook, das eure Privatsphäre *bedroht*. Manche Sachen kann man einfach nicht vermeiden, wenn man mit der heutigen Technik sinnvoll etwas anstellen will.
