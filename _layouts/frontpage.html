@@ -2,6 +2,7 @@
 layout: default
 ---
 <ul data-role="listview" data-inset="true" class="ui-listview ui-listview-inset ui-corner-all ui-shadow">
+<li data-role="list-divider" class="heading">Artikel</li>
 {% for ps in paginator.posts %}
 <li><a href="{{ ps.url }}">{{ ps.title }}</a></li>
 {% endfor %}
