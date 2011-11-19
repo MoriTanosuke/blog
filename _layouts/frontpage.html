@@ -1,10 +1,18 @@
 ---
 layout: default
 ---
-<ul data-role="listview" data-inset="true" class="ui-listview ui-listview-inset ui-corner-all ui-shadow">
-<li data-role="list-divider" class="heading">Artikel</li>
+<ul data-role="listview" data-inset="true">
 {% for ps in paginator.posts %}
-<li><a href="{{ ps.url }}">{{ ps.title }}</a></li>
+<li data-role="list-divider" role="heading" class="ui-li ui-li-divider ui-btn ui-bar-b ui-li-has-count ui-btn-up-undefined">{{ ps.date | date_to_string }}
+<!-- I don't know yet how to enable disqus comment count.
+ <span class="ui-li-count ui-btn-up-c ui-btn-corner-all">0</span>
+-->
+</li>
+<li><a href="{{ ps.url }}"><h3 class="ul-li-heading">{{ ps.title }}</h3></a>
+<!-- I don't know yet how to style this paragraph too.
+<p class="ui-li-desc"><a href="{{ ps.url }}#disqus_thread">Kein Kommentar und keine Reaktionen</a></p>
+-->
+</li>
 {% endfor %}
 </ul>
 
