@@ -14,18 +14,19 @@
 <link rel="stylesheet" type="text/css" href="/css/style.css" />
 </head>
 <body>
-<div data-role="page">
+<div data-role="page" data-theme="c">
 
 <div data-role="header">
-<ul data-role="listview" data-inset="false" data-filter="false">
-<li><a href="{{ site.base-url }}">{{ site.owner-title }}</a></li>
+<ul data-role="listview">
 <li><a href="/">start</a></li>
+<li><a href="#" onclick="$('#cse').toggle();">suche</a></li>
+<!--
+<li><a href="{{ site.base-url }}">{{ site.owner-title }}</a></li>
 <li><a href="/shop">shop</a></li>
 <li><a href="/contact/">kontakt</a></li>
-<!--
-<li><div id="cse-search-form" style="width: 250px;">{% include google-cse.html %}</div></li>
 -->
 </ul>
+<div id="cse" style="display: none;">{% include google-cse.html %}</div>
 </div>
 
 <div data-role="content">
