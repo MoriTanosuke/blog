@@ -1,53 +1,37 @@
 <!DOCTYPE html>
-
-<!--[if IEMobile 7 ]><html class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
-<!--[if lt IE 7 ]><html class="no-js ie6" lang="de"><![endif]-->
-<!--[if IE 7 ]><html class="no-js ie7" lang="de"><![endif]-->
-<!--[if IE 8 ]><html class="no-js ie8" lang="de"><![endif]-->
-<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" manifest="default.appcache?v=1" lang="de"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
 <title>{{ page.title }} :: {{ site.owner-title }}</title>
-<meta name="description" content="">
+<meta name="description" content="Personal blog">
 <meta name="author" content="{{ site.owner-name }}">
 <meta name="generator" content="Jekyll" /> 
+<link rel="canonical" href="{{ page.url | canonical }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.owner-title }}" href="{{ site.feedburner }}" />
-<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
-{% include boilerplate_css_scripts.html %}
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=1;"> 
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
 </head>
+<body>
+<div data-role="page">
 
-<body class="clearfix">
-{% include github_ribbon.html %}
-
-<header role="banner" class="clearfix">
-<ul>
-<li id="first"><a href="{{ site.base-url }}">{{ site.owner-title }}</a></li>
+<div data-role="header">
+<ul data-role="listview" data-inset="false" data-filter="false">
+<li><a href="{{ site.base-url }}">{{ site.owner-title }}</a></li>
 <li><a href="/">start</a></li>
 <li><a href="/shop">shop</a></li>
 <li><a href="/contact/">kontakt</a></li>
+<!--
 <li><div id="cse-search-form" style="width: 250px;">{% include google-cse.html %}</div></li>
+-->
 </ul>
-<h1>{{ page.title }} <g:plusone href="{{ site.base-url }}{{ page.url }}"></g:plusone></h1>
-</header>
-
-<div class="content clearfix">
-
-<article role="main">
-{{ content }}
-</article>
-
-<aside role="complementary">
-</aside>
-
 </div>
 
-<footer role="contentinfo" class="clearfix">
-  <p>{{ site.license }} <a href="{{ site.owner-page }}">{{ site.owner-name}}</a>.
-  Seite erstellt mit <a href="http://github.com/mojombo/jekyll">Jekyll</a>.</p>
-</footer>
+<div data-role="content">
+{{ content }}
+</div>
 
 {% include boilerplate_analytics_scripts.html %}
-{% include gplusone.html %}
-
 </body>
 </html>
