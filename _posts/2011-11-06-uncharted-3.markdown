@@ -6,7 +6,7 @@ Gestern habe ich meine erste Runde [Uncharted 3][0] gespielt. Vor einigen Tagen 
 
 Wer die Serie nicht kennt, sollte das auf jeden Fall nachholen. Schon Teil 2 war quasi ein Indiana Jones-Film zum Mitspielen. Die Grafik wird zwar nicht mit einem [Battlefield 3][4] mithalten können, aber die Story, das Gameplay und der Soundtrack machen das für mich mehr als wett.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/DG-r3lnLwqo" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.youtube.com/embed/DG-r3lnLwqo" frameborder="0" allowfullscreen></iframe>
 
 Ich habe die ersten Kapitel durch und bis auf meine mangelhaften Schiesskünste und ein paar Stürze in den Tod bin ich zufrieden. Die Übergänge von Spiel zu Zwischensequenz sind gut gemacht, das Spieltempo ist rasant und die Sprüche der Charaktere sind oft einen Lacher wert.
 
