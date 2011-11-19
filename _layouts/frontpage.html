@@ -5,8 +5,8 @@ layout: default
 {% for ps in paginator.posts %}
 <li data-role="list-divider" role="heading" class="ui-li ui-li-divider ui-btn ui-bar-b ui-li-has-count ui-btn-up-undefined">{{ ps.date | date_to_string }}
 <!-- I don't know yet how to enable disqus comment count.
- <span class="ui-li-count ui-btn-up-c ui-btn-corner-all">0</span>
 -->
+ <span class="ui-li-count ui-btn-up-c ui-btn-corner-all"><a href="{{ ps.url }}#disqus_thread">0</a></span>
 </li>
 <li><a href="{{ ps.url }}"><h3 class="ul-li-heading">{{ ps.title }}</h3></a>
 <!-- I don't know yet how to style this paragraph too.
