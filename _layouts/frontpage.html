@@ -1,15 +1,9 @@
 ---
 layout: default
 ---
-<ul class="posts">
+<ul data-role="listview" data-inset="true" class="ui-listview ui-listview-inset ui-corner-all ui-shadow">
 {% for ps in paginator.posts %}
-<section>
-<header class="post-header">
-<hgroup>
-<li><time datetime="{{ ps.date }}" pubdate>{{ ps.date | date_to_string }}</time>&nbsp;<a href="{{ ps.url }}">{{ ps.title }}</a> (<a href="{{ ps.url }}#disqus_thread">Kein Kommentar und Keine Reaktionen</a>) <g:plusone href="{{ site.base-url }}{{ ps.url }}" size="small"></g:plusone></li>
-</hgroup>
-</header>
-</section>
+<li><a href="{{ ps.url }}">{{ ps.title }}</a></li>
 {% endfor %}
 </ul>
 
@@ -32,17 +26,3 @@ layout: default
     <span class="next ">Letzte</span>
   {% endif %}
 </div>
-
-<div id="recentcomments" class="dsq-widget"><h2 class="dsq-widget-title">Neuste Kommentare</h2><script type="text/javascript" src="http://kopisde.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=24&excerpt_length=200"></script></div>
-
-<script type="text/javascript">
-    var disqus_shortname = '{{ site.disqus-shortname }}';
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script>
