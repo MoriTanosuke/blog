@@ -1,4 +1,7 @@
-﻿.primary-content {
+﻿.dsqc {
+	display: none;
+}
+.primary-content {
 	font-size: 1.2em;
 	line-height: 1.3em;
 	font-family: serif;
