@@ -1,5 +1,8 @@
 <script type="text/javascript">
-$(document).ready(function () {
+$(document).bind("mobileinit", function(){
+   $.mobile.hashListeningEnabled = false;
+});
+
     var disqus_shortname = '{{ site.disqus-shortname }}';
 
     var disqus_identifier = '{{ page.url }}';
@@ -12,6 +15,5 @@ $(document).ready(function () {
         dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-});
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
