@@ -2,7 +2,7 @@
 layout: post
 title: Update mit JQuery Mobile
 ---
-Wie ihr vielleicht gesehen habt, sieht mein Blog schon wieder anders aus. Das ganze Layout basiert auf [JQuery Mobile][0] und ist für mobile Geräte optimiert. Aber ich finde, es sieht auch auf Desktopbrowsern ganz gut aus, finde ich.
+Wie ihr vielleicht gesehen habt, sieht mein Blog schon wieder anders aus. Das ganze Layout basiert auf [JQuery Mobile][0] und ist für mobile Geräte optimiert. Aber ich finde, es sieht auch auf Desktopbrowsern ganz gut aus.
 
 Im Prinzip habe ich gar nicht viel verändert, nur ein paar *HTML5-Tags* in *Listen* umgewandelt und ziemlich viel Plunder vom [html5boilerplate][1] rausgeworfen. Die Navigation muss ich natürlich noch etwas bearbeiten, im Moment hab ich einfach alles rausgeworfen und durch ein ausklappbares Suchfeld ersetzt.
 
