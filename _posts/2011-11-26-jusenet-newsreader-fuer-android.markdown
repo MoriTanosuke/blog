@@ -6,7 +6,7 @@ Diese Woche habe ich angefangen, eine echte Anwendung für mein Android-Telefon 
 
 Im Moment bin ich soweit, dass die Anwendung sich beim Server anmelden und die Liste der verfügbaren Gruppen herunterladen kann. Die nächsten Schritte sind das Runterladen der Artikel einer Gruppe, Anzeigen des Artikeltextes und anschliessend das Abonnieren von Gruppen.
 
-Hier ist ein erstes Screenshot:
+Hier ist ein erster Screenshot:
 
 ![Screenshot: List of groups](http://farm8.staticflickr.com/7004/6400333467_20cfb0a97c_o_d.png "Screenshot: List of groups")
 
