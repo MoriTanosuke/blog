@@ -19,5 +19,10 @@ Beim Gewicht bin ich schon beim zweiten Einstellen bei 15kg gelandet und damit f
 
 Da ich am Wochenende unterwegs bin, geht es erst nächsten Montag mit dem Kettlebell weiter. Vielleicht mach ich dann auch mal ein Video.
 
+*Update*: Ich seh gerade, [Zach Even-Esh][2] hat auch [ein Video zum Kettlebell Swing gepostet][3]:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8Imsb7hhj_A" frameborder="0" allowfullscreen></iframe>
+
 [0]: http://www.badcompany.biz/xt/product_info.php?info=p1241_Pro-Kettlebell-Stack-It-Kettlebells-Kugelhantel-Small.html
 [1]: http://www.badcompany.biz/
+[2]: http://www.youtube.com/user/ZEvenEsh
