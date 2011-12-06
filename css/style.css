@@ -1,1 +1,40 @@
+body {
+  font-family: 'Droid Serif', 'Times New Roman', serif;
+}
 
+.page {
+  width: 600px;
+  margin: auto;
+}
+
+.header ul {
+  list-style: none;
+  clear: both;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+.header ul li {
+  float: left;
+  margin-right: 1em;
+}
+
+.content {
+  clear: both;
+  padding-top: 1em;
+}
+
+.content ul {
+  list-style: none;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+h1,h2,h3,h4,h5,h6,.heading {
+  font-family: 'Droid Sans', Helvetica, sans-serif;
+}
+
+.heading {
+  font-size: small;
+  font-weight: bold;
+}
