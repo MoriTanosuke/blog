@@ -4,7 +4,7 @@ layout: default
 <ul data-role="listview" data-inset="true">
 {% for ps in paginator.posts %}
 <li><a href="{{ ps.url }}"><h3 class="ul-li-heading">{{ ps.title }}</a> <span>{{ ps.date | date:"%d.%m.%Y" }} <a href="{{ site.base-url }}{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></h3>
-<p>{{ ps.excerpt }}</p>
+<p>{{ ps.excerpt }} <a href="{{ ps.url }}">weiterlesen</a></p>
 </li>
 {% endfor %}
 </ul>
