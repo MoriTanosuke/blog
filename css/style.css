@@ -1,10 +1,14 @@
 body {
   font-family: 'Droid Serif', 'Times New Roman', serif;
+  background: #cfcfcf;
 }
 
 .page {
   width: 600px;
   margin: auto;
+  background: #EFEFEF;
+  border-radius: 7px;
+  padding: 1em;
 }
 
 .header ul {
