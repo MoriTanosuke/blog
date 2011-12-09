@@ -7,10 +7,11 @@ layout: default
 </div>
 {% include disqus.html %}
 
-<ul data-role="listview" data-inset="true">
-<li data-role="list-divider" role="heading"><h3>Weitere Artikel</h3></li>
+<div class="related-articles">
+<h3>Weitere Artikel</h3>
+<ul>
 {% for post in site.related_posts limit:3 %}
    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
+</div>

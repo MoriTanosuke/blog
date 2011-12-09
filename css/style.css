@@ -1,22 +1,11 @@
-
 body {
   font-family: 'Droid Serif', 'Times New Roman', serif;
-  background: #cfcfcf;
-}
-
-.page {
-  width: 600px;
-  margin: auto;
-  background: #EFEFEF;
-  border-radius: 7px;
-  padding: 1em;
 }
 
 .header ul {
   list-style: none;
-  clear: both;
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
+  padding: 0;
+  margin: 0;
 }
 
 .header ul li {
@@ -24,25 +13,14 @@ body {
   margin-right: 1em;
 }
 
+.page {
+  width: 600px;
+  margin: auto;
+}
+
 .content {
   clear: both;
   padding-top: 1em;
-}
-
-.content ul {
-  list-style: none;
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
-  padding: 1em;
-}
-
-.primary-content, .content ul.frontpage {
-/*
-  border: 1px solid lightgray;
-  border-top: 7px solid black;
-  border-radius: 7px;
-*/
-  padding: 1em;
 }
 
 h1,h2 {
@@ -50,9 +28,4 @@ h1,h2 {
 }
 h3 span {
   font-size: small;
-}
-
-.heading {
-  font-size: small;
-  font-weight: bold;
 }
