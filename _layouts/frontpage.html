@@ -2,14 +2,16 @@
 layout: default
 ---
 <div class="frontpage">
+<h1>Artikel</h1>
+<ul>
 {% for ps in paginator.posts %}
-<h3 class="ul-li-heading"><a href="{{ ps.url }}">{{ ps.title }}</a> <span>{{ ps.date | date:"%d.%m.%Y" }} <a href="{{ site.base-url }}{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></h3>
-<p>{{ ps.excerpt }} <a href="{{ ps.url }}">weiterlesen</a></p>
+<li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> <span class="responses"><a href="{{ site.base-url }}{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></li>
 {% endfor %}
+</ul>
 </div>
 
 <!-- Pagination links -->
-<div class="pagination">
+<div id="pagination">
   {% if paginator.previous_page == 1 %}
     <a href="/" class="previous">N&auml;chste</a>
   {% else %}
@@ -26,6 +28,14 @@ layout: default
   {% else %}
     <span class="next ">Letzte</span>
   {% endif %}
+</div>
+
+<div id="footer">
+<table>
+  <tr><td>Carsten Ringe</td><td><a href="http://github.com/moritanosuke">github.com/moritanosuke</a></td></tr>
+  <tr><td>software developer</td><td><a href="http://stackoverflow.com/users/834/cringe">stackoverflow.com/users/834/cringe</a></td></tr>
+  <tr><td><a href="mailto:carsten@kopis.de">carsten@kopis.de</a></td><td><a href="http://www.kopis.de/">kopis.de</a></td></tr>
+</table>
 </div>
 
 <!--

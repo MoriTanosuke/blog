@@ -2,6 +2,15 @@ body {
   font-family: 'Droid Serif', 'Times New Roman', serif;
 }
 
+.frontpage ul {
+  list-style: none;
+  line-height: 2em;
+}
+.frontpage ul, .frontpage ul li {
+  padding: 0;
+  margin: 0;
+}
+
 .header ul {
   list-style: none;
   padding: 0;
@@ -29,3 +38,28 @@ h1,h2 {
 h3 span {
   font-size: small;
 }
+
+.date, .responses a {
+  color: gray;
+}
+.responses a {
+  font-size: 0.8em;
+}
+
+#pagination {
+  margin-top: 2em;
+}
+
+#footer {
+  color: gray;
+  font-size: small;
+  margin-top: 2em;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0;
+}
+
+#footer a {
+  color: gray;
+}
+
