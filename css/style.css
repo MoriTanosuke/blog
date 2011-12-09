@@ -37,9 +37,11 @@ body {
 }
 
 .primary-content, .content ul.frontpage {
+/*
   border: 1px solid lightgray;
   border-top: 7px solid black;
   border-radius: 7px;
+*/
   padding: 1em;
 }
 
