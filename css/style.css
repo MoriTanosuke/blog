@@ -28,6 +28,13 @@ body {
   list-style: none;
   padding: 0 0 0 0;
   margin: 0 0 0 0;
+  padding: 1em;
+}
+.content ul li {
+  border: 1px solid lightgray;
+  border-top: 7px solid black;
+  border-radius: 7px;
+  padding: 1em;
 }
 
 .primary-content {
@@ -37,10 +44,6 @@ body {
   padding: 1em;
 }
 
-h1,h2,h3,h4,h5,h6 {
-  border-top: 2px solid gray;
-  padding-top: 1em;
-}
 h1,h2 {
   font-family: 'Droid Sans', Helvetica, sans-serif;
 }
