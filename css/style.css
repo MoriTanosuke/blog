@@ -2,6 +2,18 @@ body {
   font-family: 'Droid Serif', 'Times New Roman', serif;
 }
 
+blockquote {
+  border-radius: 7px;
+  border-left: 7px solid gray;
+  border-right: 7px solid gray;
+  background-color: #e0e0e0;
+  margin: 0;
+  margin-left: 2em;
+  padding: 1em;
+  font-style: italic;
+  font-family: 'Droid sans', Helvetica, Arial, sans-serif;
+}
+
 .frontpage ul {
   list-style: none;
   line-height: 2em;
