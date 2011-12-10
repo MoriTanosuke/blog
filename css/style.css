@@ -44,6 +44,10 @@ blockquote {
   padding-top: 1em;
 }
 
+.primary-content ul li {
+  margin-bottom: 1em;
+}
+
 h1,h2 {
   font-family: 'Droid Sans', Helvetica, sans-serif;
 }
