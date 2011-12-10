@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Aldi Lifetab ist ausverkauft
-excerpt: Ich bin gerade noch zum Aldi gegangen, um das *Medion Lifetab* anzugucken. Wenn ihr weiter lest, erfahrt ihr, ob ich es bekommen habe...
+excerpt: Um es kurz zu machen: Ich habe es auch nicht. Ich bin zwar schnell zum lokalen Aldi rübergegangen, um das *Aldi Lifetab* anzugucken.  Aber das war dann nichts, das Tablet ist weiträumig ausverkauft.
 ---
-Ich bin gerade noch zum Aldi gegangen, um das *Medion Lifetab* anzugucken. Wenn ihr weiter lest, erfahrt ihr, ob ich es bekommen habe...
-
-Um es kurz zu machen: Ich habe es nicht. Ich bin zwar schnell zum
+Um es kurz zu machen: Ich habe es auch nicht. Ich bin zwar schnell zum
 lokalen Aldi rübergegangen, um das *Aldi Lifetab* anzugucken.
 Aber das war dann nichts, das Tablet ist weiträumig ausverkauft.
 Schade eigentlich, denn [ich hatte gerade noch gelesen, dass im Zubehör
