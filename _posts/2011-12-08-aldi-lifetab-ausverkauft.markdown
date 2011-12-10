@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Aldi Lifetab ist ausverkauft
-excerpt: Um es kurz zu machen: Ich habe es auch nicht. Ich bin zwar schnell zum lokalen Aldi rübergegangen, um das *Aldi Lifetab* anzugucken.  Aber das war dann nichts, das Tablet ist weiträumig ausverkauft.
 ---
 Um es kurz zu machen: Ich habe es auch nicht. Ich bin zwar schnell zum
 lokalen Aldi rübergegangen, um das *Aldi Lifetab* anzugucken.
