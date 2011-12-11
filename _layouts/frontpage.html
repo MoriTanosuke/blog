@@ -5,7 +5,7 @@ layout: default
 <h1>Artikel</h1>
 <ul>
 {% for ps in paginator.posts %}
-<li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> <span class="responses"><a href="{{ site.base-url }}{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></li>
+<li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> <span class="responses"><a href="{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></li>
 {% endfor %}
 </ul>
 </div>
