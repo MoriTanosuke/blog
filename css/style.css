@@ -14,6 +14,13 @@ blockquote {
   font-family: 'Droid sans', Helvetica, Arial, sans-serif;
 }
 
+pre {
+  background: lightgray;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
 .frontpage ul {
   list-style: none;
   line-height: 2em;
