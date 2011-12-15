@@ -21,7 +21,7 @@ Und schon laufen meine Prozessorkerne auf 80% und schreiben mehrere Hundert Mega
 
 **Update**
 
-Wenn ihr damit noch nicht zufrieden seid, könnt ihr auch diese Variante mit [xarg][3] ausprobieren:
+Wenn ihr damit noch nicht zufrieden seid, könnt ihr auch diese Variante mit [xargs][3] ausprobieren:
 
     ls -1| xargs --max-procs=6 -n 1 grep -RhE "^[0-9\.]+" >>ips.txt
 
