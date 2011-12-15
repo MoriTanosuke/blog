@@ -19,7 +19,14 @@ Zur Erläuterung: Die Schleife läuft über alle Dateien im aktuellen Verzeichni
 
 Und schon laufen meine Prozessorkerne auf 80% und schreiben mehrere Hundert Megabyte in 6 unterschiedliche Ausgabedateien. ![;-)](/img/emotes/face-wink.png)
 
+**Update**
+
+Wenn ihr damit noch nicht zufrieden seid, könnt ihr auch diese Variante mit [xarg][3] ausprobieren:
+
+    ls -1| xargs --max-procs=6 -n 1 grep -RhE "^[0-9\.]+" >>ips.txt
+
 [0]: http://tldp.org/LDP/abs/html/
 [1]: http://cygwin.com/
 [2]: http://linux.die.net/man/1/grep
+[3]: http://linux.die.net/man/1/xargs
 
