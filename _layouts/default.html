@@ -5,33 +5,26 @@
 <meta name="description" content="Personal blog">
 <meta name="author" content="{{ site.owner-name }}">
 <meta name="generator" content="Jekyll" /> 
-<link rel="canonical" href="{{ page.url | canonical }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url | canonical }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.owner-title }}" href="{{ site.feedburner }}" />
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=1;"> 
-<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
-<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/style.css" />
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
-<script type="text/javascript">
-$(document).bind("mobileinit", function(){
-   $.mobile.hashListeningEnabled = false;
-   $.mobile.ajaxEnabled = false;
-});
-</script>
-<script type="text/javascript" src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Sans+Mono|Droid+Serif:400,700,700italic,400italic' rel='stylesheet' type='text/css' />
 </head>
 <body>
-<div data-role="page" data-theme="c">
+<div class="page">
 
-<div data-role="header">
+<div class="header">
 <ul data-role="listview">
-<li><a href="/">start</a></li>
-<li><a href="/contact/">kontakt</a></li>
+<li><a href="{{ site.url }}">start</a></li>
+<li><a href="{{ site.url }}/contact/">kontakt</a></li>
 <li><a href="#" onclick="$('#cse').toggle();">suche</a></li>
 </ul>
 <div id="cse" style="display: none;">{% include google-cse.html %}</div>
 </div>
 
-<div data-role="content">
+<div class="content" data-role="content">
 {{ content }}
 </div>
 

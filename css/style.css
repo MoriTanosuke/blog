@@ -1,20 +1,83 @@
-﻿.dsqc {
-	display: none;
+body {
+  font-family: 'Droid Serif', 'Times New Roman', serif;
 }
-.primary-content {
-	font-size: 1.2em;
-	line-height: 1.3em;
-	font-family: serif;
-}
+
 blockquote {
-	padding-left: 5px;
-	border-left: 2px solid black;
+  border-radius: 7px;
+  border-left: 7px solid gray;
+  border-right: 7px solid gray;
+  background-color: #e0e0e0;
+  margin: 0;
+  margin-left: 2em;
+  padding: 1em;
+  font-style: italic;
+  font-family: 'Droid sans', Helvetica, Arial, sans-serif;
 }
-h1,h2,h3,h4,h5,h6 {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	width: 100%;
-	font-size: 1.2em;
-	line-height: 1.4em;
+
+.frontpage ul {
+  list-style: none;
+  line-height: 2em;
 }
+.frontpage ul, .frontpage ul li {
+  padding: 0;
+  margin: 0;
+}
+
+.header ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.header ul li {
+  float: left;
+  margin-right: 1em;
+}
+
+.page {
+  width: 600px;
+  margin: auto;
+}
+
+.content {
+  clear: both;
+  padding-top: 1em;
+}
+
+.primary-content ul li {
+  margin-bottom: 1em;
+}
+
+h1,h2 {
+  font-family: 'Droid Sans', Helvetica, sans-serif;
+}
+h3 span {
+  font-size: small;
+}
+
+.date, .responses a {
+  color: gray;
+}
+.responses a {
+  font-size: 0.8em;
+}
+
+#pagination {
+  margin-top: 2em;
+}
+
+#footer {
+  color: gray;
+  font-size: small;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0;
+  margin-top: 2em;
+  border-top: 2px solid lightgray;
+  border-radius: 5px;
+}
+
+#footer a {
+  color: gray;
+}
+

@@ -103,6 +103,7 @@ module Jekyll
         '.ttf',
         '.atom',
         '.stl',
+	'.xml',
       ].include?(ext)
     end
 

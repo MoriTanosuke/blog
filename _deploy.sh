@@ -1,3 +1,6 @@
 #!/bin/sh
 
-/var/lib/gems/1.8/bin/jekyll --no-auto && git push origin master
+rm -rf _site
+jekyll --no-server --no-auto
+rsync -irz --progress _site/* kopis:/kunden/191922_26384/blog/
+

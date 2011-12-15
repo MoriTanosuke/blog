@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
-<ul data-role="listview" data-inset="true">
+<div class="frontpage">
+<h1>Artikel</h1>
+<ul>
 {% for ps in paginator.posts %}
-<li data-role="list-divider" role="heading" class="ui-li ui-li-divider ui-btn ui-bar-b ui-li-has-count ui-btn-up-undefined">{{ ps.date | date_to_string }}
- <span class="ui-li-count ui-btn-up-c ui-btn-corner-all"><a href="{{ site.base-url }}{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span>
-</li>
-<li><a href="{{ ps.url }}"><h3 class="ul-li-heading">{{ ps.title }}</h3><p>{{ ps.excerpt }}</p></a>
-</li>
+<li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> <span class="responses"><a href="{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></li>
 {% endfor %}
 </ul>
+</div>
 
 <!-- Pagination links -->
-<div class="pagination">
+<div id="pagination">
   {% if paginator.previous_page == 1 %}
     <a href="/" class="previous">N&auml;chste</a>
   {% else %}
@@ -29,6 +28,14 @@ layout: default
   {% else %}
     <span class="next ">Letzte</span>
   {% endif %}
+</div>
+
+<div id="footer">
+<table>
+  <tr><td>Carsten Ringe</td><td><a href="http://github.com/moritanosuke">github.com/moritanosuke</a></td></tr>
+  <tr><td>software developer</td><td><a href="http://stackoverflow.com/users/834/cringe">stackoverflow.com/users/834/cringe</a></td></tr>
+  <tr><td><a href="mailto:carsten@kopis.de">carsten@kopis.de</a></td><td><a href="http://www.kopis.de/">kopis.de</a></td></tr>
+</table>
 </div>
 
 <!--

@@ -12,7 +12,7 @@ owner-email: carsten@kopis.de
 owner-title: Blog von Carsten Ringe
 
 disqus-shortname: kopisde
-base-url: http://blog.kopis.de
+url: http://blog.kopis.de/
 feedburner: http://feeds.feedburner.com/kopisde
 
 license: <a href="http://creativecommons.org/licenses/by-sa/3.0/de/">CC by/cc/sa</a>
