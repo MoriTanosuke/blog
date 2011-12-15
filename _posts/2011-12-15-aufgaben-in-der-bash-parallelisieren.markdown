@@ -7,13 +7,13 @@ Heute wollte ich in der [Bash][0] (genauer: in der Bash meiner [Cygwin][1]-Insta
 
 Mein erster Ansatz war eine Schleife über die Verzeichnisse mit den Logfiles:
 
-    for i in *;do grep -he "^[0-9\.]*" $i/access_log* > $i-ips.txt;done
+    for i in *;do grep -hE "^[0-9\.]+" $i/access_log* > $i-ips.txt;done
 
 Dabei stellte sich schnell heraus, dass die Logfiles mit mehreren Hundert Megabytes *etwas* zu groß für so eine Herangehensweise waren. Dann ist mir eingefallen, dass ich auf meinem fetten *Intel Core i7 870* mit 8 Kernen sitze. Also lässt sich so eine Aufgabe prima in einzelne Prozesse aufsplitten, damit die CPU auch mal ein wenig ausgelastet wird.
 
 Hier ist mein zweiter Ansatz für die Schleife über alle Verzeichnisse mit Logfiles:
 
-    for i in *;do (grep -he "^[0-9\.]*" $i/access_log* > $i-ips.txt &);done
+    for i in *;do (grep -hE "^[0-9\.]+" $i/access_log* > $i-ips.txt &);done
 
 Zur Erläuterung: Die Schleife läuft über alle Dateien im aktuellen Verzeichnis (ok, da liegen bei mir nur Verzeichnisse...) und führt anschliessend ein *grep* auf allen *access_log* innerhalb der gefundenen Verzeichnisse. Dieses *grep* wird in einem neuen Prozess gestartet und schreibt die Ausgabe in eine Datei mit dem Verzeichnisnamen als Prefix.
 
