@@ -14,6 +14,8 @@ ASUS Transformer zählt. Wenn ihr weiterlest, erfahrt ihr, wie ihr das
 ASUS Transformer TF101 rooten, [ClockworkMod Recovery][5] installieren
 und anschliessend [RevolverMOD 3.9.9][2] installieren könnt.
 
+{% include adsense.html %}
+
 Rooten
 ======
 
