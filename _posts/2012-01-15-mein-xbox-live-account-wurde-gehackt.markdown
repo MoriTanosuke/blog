@@ -16,8 +16,11 @@ Google macht anständige Sicherheit mit dem [Google Authenticator][3] vor - sowa
 
 **Hinweis:** Ich habe jetzt gelesen, dass man evtl einen EA-Account braucht, damit dieser Hack verwendet werden kann. So einen habe ich natürlich auch, weil ich [Dragon Age][4] spiele... auch da habe ich sofort meine eigene eMail eingetragen und das Passwort geändert.
 
+**Update:** [Mein Account ist wieder frei][5].
+
 [0]: http://arstechnica.com/gaming/news/2011/10/xbox-live-users-experiencing-hacked-accounts-fifa-11-and-12-purchases.ars
 [1]: http://trine2.com/site/
 [2]: http://www.zeit.de/digital/datenschutz/2011-05/sony-sorry-singer
 [3]: http://support.google.com/accounts/bin/static.py?hl=de&guide=1056283&page=guide.cs&answer=180744&rd=3
 [4]: http://dragonage.bioware.com
+[5]: /2012/01/21/nach-dem-hack-xbox-account-wieder-freigeschaltet/
