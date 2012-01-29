@@ -49,13 +49,13 @@ wieder herstellen kann.
 RevolverMOD installieren
 ========================
 
-Jetzt kann endlich [Revolver MOD] installiert werden. Dazu einfach die
+Jetzt kann endlich [Revolver MOD][2] installiert werden. Dazu einfach die
 vollständige Installationsdatei runterladen und auf der SD-Karte
 ablegen. Anschliessend in die Recovery booten (dazu schaltet man das
 Gerät ab, hält anschliessend *HOME* und *Volumne Down* gedrückt und
 drückt anschliessend *Volumne Up*, wenn der kleine weiße Text auf dem
 Boot-Bildschirm erscheint) und den Menüeintrag *Install ZIP from sdcard*
-wählen. Wem das zu kompliziert ist, der installiert einfach 
+wählen.
 
 Die Navigation in der Recovery erfolgt über die *Volume*-Tasten und die
 Auswahl bestätigt man mit einem Druck auf *Home*.
