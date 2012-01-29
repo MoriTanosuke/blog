@@ -21,7 +21,7 @@ Rooten
 
 Freundlicherweise gibt es einen *One Click Root* namens [Razorclaw][6]
 für das ASUS Transformer. Die Anwendung kann man sich im [XDA Forum
-runterladen][7] (das sollte sowieso die einzige Anlaufstelle für sowas
+runterladen][6] (das sollte sowieso die einzige Anlaufstelle für sowas
 sein) und das Rooten läuft so ab:
 
 * Razorclaw installieren
@@ -36,13 +36,15 @@ Recovery Bootloader installieren
 ================================
 
 [ClockworkMOD][5] ist wohl die bekannteste Recovery für Android Geräte.
-Für das ASUS Transformer kann man sie auch installieren, und das ist
-genau so einfach wie das Rooten. Hat man die Recovery Firmware erst
-einmal installiert, kann man eigentlich gefahrlos neue Versionen eines
-MOD installieren, da man jetzt Backups anlegen und wieder herstellen
-kann.
+Für das ASUS Transformer kann man sie [hier runterladen][10] und die
+Installation ist genau so einfach wie das Rooten. Hat man die Recovery
+Firmware erst einmal installiert, kann man eigentlich gefahrlos neue
+Versionen eines MOD installieren, da man jetzt Backups anlegen und
+wieder herstellen kann.
 
-TODO Beschreibung einfügen
+* [Recovery Installer][10] runterladen und installieren
+* Die App starten
+* Button drücken
 
 RevolverMOD installieren
 ========================
@@ -80,6 +82,7 @@ MOD modifizieren könnt. Sehr hilfreich.
 [4]: http://forum.xda-developers.com/showthread.php?t=1245892
 [5]: http://forum.xda-developers.com/showthread.php?t=1213723
 [6]: http://forum.xda-developers.com/showthread.php?t=1345049
-[7]: https://market.android.com/details?id=com.keramidas.TitaniumBackup
 [8]: https://market.android.com/details?id=com.gnufabio.revolver_parts
+[9]: https://market.android.com/details?id=com.keramidas.TitaniumBackup
+[10]: http://forum.xda-developers.com/showthread.php?t=1346180
 
