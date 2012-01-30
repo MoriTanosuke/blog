@@ -46,7 +46,7 @@ Open http://localhost:3000 and you'll see a little message that is
 generated with *node* and *express*.
 
 [0]: http://nodejs.org/
-[1]: http://expressjs.org/
+[1]: http://expressjs.com/
 [2]: /2012/01/30/install-nodejs-with-nvm/
 [3]: http://npmjs.org/
 
