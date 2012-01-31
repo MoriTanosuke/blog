@@ -53,7 +53,9 @@ Ok, I cheated a little bit, because the actual file listing is done in a
         li 
           a(href='#{file}') #{file}
 
-As you can probably tell, this *jade* partial will render a simple unordered list with links to the given files. Ok, so now I have a list of files under directory */blog*. What happens when I click one of the links?
+As you can probably tell, this *jade* partial will render a simple unordered list with links
+to the given files. Ok, so now I have a list of files under directory */blog*. What happens
+when I click one of the links?
 
 Another route takes over:
 
@@ -98,7 +100,7 @@ route displays an entry when the user clicked a link. The third route is
 an error handler that will display a *very helpful* error message when the
 user enters a non-existant URL.
 
-Remember, if you want to check out my code, clone me from github and run 
+Remember, if you want to check out my code, [clone me from github][10] and run 
 the blog on your own machine:
 
     git clone git@github.com:MoriTanosuke/blode.git
@@ -158,3 +160,4 @@ Everything works, my stylesheet is in place.
 [6]: https://github.com/andris9/node-markdown
 [7]: http://disqus.com/
 [8]: https://github.com/isaacs/node-supervisor
+[10]: https://github.com/MoriTanosuke/blode
