@@ -97,7 +97,10 @@ ul.posts li .summary {
 }
 
 #footer p {
+    clear: both;
     float: left;
+    margin: 0;
+    padding: 0;
     margin-right: 2em;
 }
 

@@ -7,7 +7,7 @@
 <meta name="author" content="{{ site.owner-name }}">
 <meta name="generator" content="Jekyll" /> 
 <link rel="canonical" href="{{ site.url }}{{ page.url | canonical }}">
-<link rel="alternate" type="application/rss+xml" title="{{ site.owner-title }}" href="/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.owner-title }}" href="{{ site.feedburner }}" />
 <!--
 <meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=0; maximum-scale=1.0; user-scalable=yes;">
 -->
@@ -37,7 +37,6 @@
 </div>
 
 <div id="footer">
-<p>kopis.de</p>
 <div class="social">
 <ul>
   <li><a href="http://github.com/moritanosuke">github</a></li>
@@ -47,6 +46,8 @@
   <li><a rel="author" href="https://plus.google.com/110503464505798755891">google+</a></li>
 </ul>
 </div>
+<p>kopis.de</p>
+<p>alle inhalte unter {{ site.license }}</p>
 </div>
 
 {% include boilerplate_analytics_scripts.html %}
