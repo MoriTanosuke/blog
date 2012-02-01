@@ -6,7 +6,7 @@ Today I wanted to install [nodejs][0] on my [debian][1] machine, and I got stuck
 
     git config --global core.autocrlf false
 
-If you want the reasoning behind this, read http://code52.org/line-endings.html and then set it. But set it.
+If you want the reasoning behind this, read [http://code52.org/line-endings.html][4] and then set it. But set it.
 
 After that I could install [nodejs][0] with one simple line of [nvm][3]. I'll write about that soon.
 
@@ -14,4 +14,5 @@ After that I could install [nodejs][0] with one simple line of [nvm][3]. I'll wr
 [1]: http://debian.org/
 [2]: http://git-scm.org/
 [3]: https://github.com/creationix/nvm#readme
+[4]: http://code52.org/line-endings.html
 
