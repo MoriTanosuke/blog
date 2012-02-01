@@ -15,23 +15,37 @@
 <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Sans+Mono|Droid+Serif:400,700,700italic,400italic' rel='stylesheet' type='text/css' />
 </head>
 <body>
-<div class="page">
+<div id="site">
 
-<div class="header">
-<ul data-role="listview">
+<div id="header">
+<div id="nav">
+<ul>
 <li><a href="{{ site.url }}">start</a></li>
 <li><a href="{{ site.url }}/contact/">kontakt</a></li>
 <li><a href="#" onclick="$('#cse').toggle();">suche</a></li>
-<li><a href="http://feeds.feedburner.com/kopisde"><img src="/img/feed-icon-14x14.png" alt="subscribe to RSS" /></a>
 <li> <a rel="author" href="https://plus.google.com/110503464505798755891">
   <img src="http://www.google.com/images/icons/ui/gprofile_button-16.png" width="16" height="16">
 </a></li>
 </ul>
-<div id="cse" style="display: none;">{% include google-cse.html %}</div>
+<div class="rss">
+  <a href="http://feeds.feedburner.com/kopisde"><img src="/img/feed-icon-14x14.png" alt="Subscribe to RSS" /></a>
+</div>
+</div>
+<div class="cse" style="display: none;">{% include google-cse.html %}</div>
 </div>
 
-<div class="content" data-role="content">
+<div id="content">
 {{ content }}
+</div>
+
+<div id="footer">
+<p>kopis.de</p>
+<div class="social">
+<ul>
+  <li><a href="http://github.com/moritanosuke">github.com/moritanosuke</a></li>
+  <li><a href="http://stackoverflow.com/users/834/cringe">stackoverflow.com/users/834/cringe</a></li>
+</ul>
+</div>
 </div>
 
 {% include boilerplate_analytics_scripts.html %}
