@@ -9,7 +9,7 @@ Express][1] I wanted to get deeper into the world of *node* and build
 another simple, but useable web app. Because I like to blog, I decided
 to build a blog.
 
-You can check out the result at https://github.com/MoriTanosuke/blode/
+You can check out the result at [https://github.com/MoriTanosuke/blode/][10]
 and clone it.
 
 I decided to stick with [express][2] and [jade][3] as my templating
@@ -161,3 +161,4 @@ Everything works, my stylesheet is in place.
 [7]: http://disqus.com/
 [8]: https://github.com/isaacs/node-supervisor
 [10]: https://github.com/MoriTanosuke/blode
+
