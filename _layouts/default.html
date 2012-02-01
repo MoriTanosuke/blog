@@ -10,9 +10,8 @@
 <!--
 <meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=0; maximum-scale=1.0; user-scalable=yes;">
 -->
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Droid+Sans+Mono|Droid+Serif:400,700,700italic,400italic' rel='stylesheet' type='text/css' />
 </head>
 <body>
 <div id="site">
@@ -20,9 +19,9 @@
 <div id="header">
 <div id="nav">
 <ul>
-<li><a href="{{ site.url }}">start</a></li>
-<li><a href="{{ site.url }}/contact/">kontakt</a></li>
-<li><a href="#" onclick="$('#cse').toggle();">suche</a></li>
+<li><a href="/">start</a></li>
+<li><a href="/contact/">kontakt</a></li>
+<li>{% include google-cse.html %}</li>
 <li> <a rel="author" href="https://plus.google.com/110503464505798755891">
   <img src="http://www.google.com/images/icons/ui/gprofile_button-16.png" width="16" height="16">
 </a></li>
@@ -31,10 +30,10 @@
   <a href="http://feeds.feedburner.com/kopisde"><img src="/img/feed-icon-14x14.png" alt="Subscribe to RSS" /></a>
 </div>
 </div>
-<div class="cse" style="display: none;">{% include google-cse.html %}</div>
 </div>
 
 <div id="content">
+<h1>{{ page.title }}</h1>
 {{ content }}
 </div>
 

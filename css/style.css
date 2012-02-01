@@ -1,5 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Abril+Fatface|Open+Sans:400italic,600,400&subset=latin,latin-ext);
 
+#recentcomments {
+    margin-top: 1em;
+}
+
+pre {
+    background-color: #efefef;
+    border: 1px solid #a0a0a0;
+    padding: 5px;
+}
+
 body {
     font-size: 0.9375em; /* 15/16px; */
     font-family: 'Open Sans', sans-serif;
