@@ -39,6 +39,10 @@ p {
     margin: 1em 0;
 }
 
+li {
+    line-height: 1.46666667em;
+}
+
 .date {
     font-size: 0.9em;
     color: gray;
