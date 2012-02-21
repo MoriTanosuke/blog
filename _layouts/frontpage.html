@@ -1,9 +1,9 @@
 ---
 layout: default
+title: Artikel
 ---
 <div class="frontpage">
-<h1>Artikel</h1>
-<ul>
+<ul class="posts">
 {% for ps in paginator.posts %}
 <li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> <span class="responses"><a href="{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0</a></span></li>
 {% endfor %}
@@ -28,14 +28,6 @@ layout: default
   {% else %}
     <span class="next ">Letzte</span>
   {% endif %}
-</div>
-
-<div id="footer">
-<table>
-  <tr><td>Carsten Ringe</td><td><a href="http://github.com/moritanosuke">github.com/moritanosuke</a></td></tr>
-  <tr><td>software developer</td><td><a href="http://stackoverflow.com/users/834/cringe">stackoverflow.com/users/834/cringe</a></td></tr>
-  <tr><td><a href="mailto:carsten@kopis.de">carsten@kopis.de</a></td><td><a href="http://www.kopis.de/">kopis.de</a></td></tr>
-</table>
 </div>
 
 <div id="recentcomments" class="dsq-widget" data-role="collapsible"><h2 class="dsq-widget-title">Recent Comments</h2><script type="text/javascript" src="http://kopisde.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=0&avatar_size=32&excerpt_length=200"></script></div>
