@@ -8,6 +8,9 @@ pre {
     background-color: #efefef;
     border: 1px solid #a0a0a0;
     padding: 5px;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 body {
