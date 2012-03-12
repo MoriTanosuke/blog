@@ -1,7 +1,6 @@
 ---
 layout: post
-date: Mo 12. Mär 18:13:25 CET 2012
-published: true
+published: false
 title: First steps with maven, cucumber and a java web application
 ---
 
