@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Remove all my tweets with Ruby
-date: So 18. Mär 17:46:36 CET 2012
 ---
 Today I decided (in a recent quest to avoid Google for as long as possible) to re-activate [my Twitter account][0]. But I wanted to get rid of all previous tweets first, so I decided to put my recently acquired [ruby][1] skills to play.
 
