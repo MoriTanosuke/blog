@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Vollkorn:400,700,400italic);
 
 #recentcomments {
-    margin-top: 1em;
+    margin-top: 2em;
 }
 
 pre {
@@ -18,7 +18,7 @@ body {
     font-family: 'Vollkorn', serif;
     font-weight: 400;
     color: #181F24;
-    line-height: 1;
+    line-height: 1em;
     margin: 5%;
 }
 
@@ -71,12 +71,14 @@ li {
 
 ul.posts {
     margin: 0;
+    margin-bottom: 1.5em;
     padding: 0;
 }
 
 ul.posts li {
     list-style-type: none;
     margin: 1em 0;
+    font-size: 1.2em;
 }
 
 ul.posts li .summary {
