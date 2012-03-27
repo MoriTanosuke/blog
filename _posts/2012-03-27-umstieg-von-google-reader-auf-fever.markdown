@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Umstieg von Google Reader auf Fever
+published: true
 ---
 Mein Versuch, ernsthaft auf [Google-Produke][0] zu verzichten, hat mich leider auch vom [Google Reader][1] weggebracht - dem wirklich besten Feedreader. Nach einer kurzen Suche hab ich mich entschieden, [Fever][2] auszuprobieren.
 
