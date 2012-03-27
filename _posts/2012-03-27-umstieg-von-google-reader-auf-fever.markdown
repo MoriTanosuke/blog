@@ -25,6 +25,8 @@ Die Dokumentation ist hier etwas schwammig, oder mein Englisch ist nicht ausreic
 
 Meine *Sparks* enthalten z.B. [heise online][4], [techcrunch][5] und [wired][6]. Da werden viele Themen besprochen, die ich interessant finde, wobei mir die Blogs aber viel zu gesprächig sind. Ich hoffe also, Fever wird aus diesen *Sparks* die Themen finden, die mich interessieren und sie anschliessend in *Hot* hervorheben.
 
+Insgesamt bin ich zufrieden mit Fever. Die Oberfläche ist schick, es funktioniert ähnlich wie Google Reader und alles klappt auch einigermassen auf meinem Handy und meinem Tablet. Wer also einen Feedreader sucht, sollte sich unbedingt [Fever][2] angucken.
+
 [0]: http://www.google.de/
 [1]: http://reader.google.com/
 [2]: http://feedafever.com/
