@@ -5,7 +5,7 @@ published: true
 ---
 Mein Versuch, ernsthaft auf [Google-Produke][0] zu verzichten, hat mich leider auch vom [Google Reader][1] weggebracht - dem wirklich besten Feedreader. Nach einer kurzen Suche hab ich mich entschieden, [Fever][2] auszuprobieren.
 
-Das ganze ist eine Kaufsoftware, die auf Webspace mit Datenbank gehostet werden will. Das wird den Durchschnittsnutzer wahrscheinlich schon davon abbringen, aber da ich auf [kopis.de][3] sowieso ausreichend Platz und Datenbanken habe, ist das für mich kein Hinderungsgrund. Der Preis von 30US$ gilt für die aktuelle Major-Version, Minor-Updates sind kostenlos. Sollte eine neue Major-Version herauskommen, müsste die Anwendung neu lizensiert werden - also im Prinzip das altbekannte Prinzip für Desktopsoftware.
+Das ganze ist eine Kaufsoftware, die auf Webspace mit Datenbank gehostet werden will. Das wird den Durchschnittsnutzer wahrscheinlich schon davon abbringen, aber da ich auf [kopis.de][3] sowieso ausreichend Platz und Datenbanken habe, ist das für mich kein Hinderungsgrund. Der Preis von 30US$ gilt für die aktuelle Major-Version, Minor-Updates sind kostenlos. Sollte eine neue Major-Version herauskommen, müsste die Anwendung neu lizensiert werden - also das altbekannte Prinzip für Desktopsoftware.
 
 Die Installation von [Fever][2] ist simpel:
 
