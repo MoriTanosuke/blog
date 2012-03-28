@@ -14,6 +14,8 @@ Ich hab also den viel, viel, viel zu hohen Preis bezahlt. Und falls ihr euch das
 den [Nachfolger][5] kaufen wollt, bestellt einfach die Tastatur mit. Macht sonst echt keinen 
 Sinn...
 
+*Update* Wie ihr vielleicht schon am Link zu Alternate bemerkt habt: als die Lieferung heute ankam, hab ich gesehen, dass das Keydock für das TF201 ist. Ich hab allerdings den Vorgänger TF101, also muss ich das Ding umtauschen...
+
 [0]: http://www.ebay.de/sch/i.html?_nkw=Asus+TF101+tastatur
 [1]: http://www.alternate.de/html/product/ASUS/Eee_Pad_TF201_Transformer_Prime_Keyboard_Dock/981893/
 [3]: http://blog.kopis.de/2010/09/02/der-erste-abend-mit-dem-dell-studio-17/
