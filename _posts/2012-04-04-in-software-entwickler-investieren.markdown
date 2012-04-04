@@ -2,11 +2,11 @@
 layout: post
 title: In Software Entwickler investieren
 ---
-Ich lese gerade [einen interessanten Artikel][0] über -das Ende der
-Welt- Investitionen in Software Entwickler. Der Autor [Venkatesh Rao][1]
+Ich lese gerade [einen interessanten Artikel][0] über <del>das Ende der
+Welt</del>Investitionen in Software Entwickler. Der Autor [Venkatesh Rao][1]
 beschreibt darin seine Strategie, um das heraufziehende Ende der
 Zivilisation als Gewinner zu überstehen. Obwohl ich das Szenario
-grundsätzlich für richtig halte, ist der unterschwellige Ton nicht gut,
+grundsätzlich für richtig halte, stimme ich dem unterschwelligen Ton nicht zu,
 wenn der Autor schreibt:
 
 > In capitalism, every human is either a capitalist, somebody else's
