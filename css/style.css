@@ -4,6 +4,12 @@
     margin-top: 2em;
 }
 
+blockquote {
+    background: lightgray;
+    border-left: 2px solid gray;
+    padding-left: 5px;
+}
+
 pre {
     background-color: #efefef;
     border: 1px solid #a0a0a0;
