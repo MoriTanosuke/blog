@@ -33,8 +33,7 @@ und habe meine Mails, meinen Kalender und meine Kontakte dort.
 Ich hoffe also auf ein baldiges Release - hoffentlich kommt nicht wieder
 ein Rewrite oder ein neues tolles Feature dazwischen, dass unbedingt
 noch eingebaut werden muss. Und wenn [friday][1] nicht an einem Freitag
-erscheint, dann gibt es auch schonmal Punktabzug.
+erscheint, dann gibt es auch schonmal Punktabzug. ;-)
 
 [0]: http://blog.friday-app.com/friday-gets-a-new-look-and-were-going-to-open
 [1]: http://friday-app.com/
-
