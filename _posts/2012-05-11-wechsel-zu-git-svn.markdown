@@ -14,6 +14,8 @@ Mit dem folgenden Befehl habe ich als erstes nur meinen *trunk* ausgecheckt und 
 
 Anschliessend könnte ich die Branches und Tags einrichten, in dem ich den [Branch in die *git config* eintrage][6]. Ob ich das mache, weiß ich noch nicht. Vielleicht lege ich ja auch nur neue Branches an, ohne jemals auf die alten zuzugreifen... abwarten.
 
+Jetzt kann ich zumindest wieder arbeiten und anständige Diffs machen. Mal sehen, was passiert, wenn ich das erst Mal commiten muss. :-)
+
 [0]: http://subversion.apache.org/
 [1]: http://www-01.ibm.com/software/awdtools/developer/application/
 [2]: http://www.eclipse.org/subversive/
