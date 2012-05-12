@@ -9,9 +9,10 @@ einer geschlossenen Betaphase Feedback von den Benutzern einzuholen. Ich
 halte das für falsch, aber die Angst vor negativen Bewertungen bei einem
 zu frühen Start der Anwendung in den Appstores ist wohl zu groß... Wer
 sich mal die Bewertungen - der auch Kommentare bei Youtube - angesehen
-hat, der wird das zum Teil nachvollziehen können. Ich hätte ich aber
-eine frühe Version der Anwendung hergemacht und ich schrecke auch nicht
-bei Rewrites oder großen Updates mit Änderung der Oberfläche zurück.
+hat, der wird das zum Teil nachvollziehen können. Ich hätte mich aber
+auch über eine frühe Version der Anwendung hergemacht und ich schrecke
+auch nicht bei Rewrites oder großen Updates mit Änderung der Oberfläche
+zurück.
 
 Wie auch immer, jetzt soll es [wirklich bald][0] soweit sein und das
 Release im Google Play Store steht kurz bevor. Die Oberfläche sieht
@@ -33,8 +34,7 @@ und habe meine Mails, meinen Kalender und meine Kontakte dort.
 Ich hoffe also auf ein baldiges Release - hoffentlich kommt nicht wieder
 ein Rewrite oder ein neues tolles Feature dazwischen, dass unbedingt
 noch eingebaut werden muss. Und wenn [friday][1] nicht an einem Freitag
-erscheint, dann gibt es auch schonmal Punktabzug.
+erscheint, dann gibt es auch schonmal Punktabzug. ;-)
 
 [0]: http://blog.friday-app.com/friday-gets-a-new-look-and-were-going-to-open
 [1]: http://friday-app.com/
-

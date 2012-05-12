@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Es wird Zeit - Kalorienz&auml;hlen und Training
-date: Sun Feb 12 08:25:06 CET 2012
 ---
 Letzte Woche war mein Limit erreicht: jetzt ist Schluss! Ich hab schon 
 wieder das Training nicht durchgehalten und stattdessen miserabel gegessen. 
