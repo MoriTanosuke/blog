@@ -5,7 +5,7 @@ title: Artikel
 <div class="frontpage">
 <ul class="posts">
 {% for ps in paginator.posts %}
-<li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> &mdash; <span class="responses"><a href="{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0 Antworten</a></span></li>
+<li><span class="date">{{ ps.date | date:"%d.%m.%Y" }} » </span><a href="{{ ps.url }}">{{ ps.title }}</a> &mdash; <span class="responses"><a href="{{ ps.url }}#disqus_thread" data-disqus-identifier="{{ ps.url }}">0 Antworten</a></span><span class="gplusone"><g:plusone href="{{ site.url }}{{ ps.url }}" size="small"></g:plusone></span></li>
 {% endfor %}
 </ul>
 </div>

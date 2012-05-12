@@ -1,7 +1,5 @@
 ---
-layout: post
 title: First webapp with NodeJS and ExpressJS
-date: 2012-01-30 13:17
 category: 
 - nodejs
 - webapp

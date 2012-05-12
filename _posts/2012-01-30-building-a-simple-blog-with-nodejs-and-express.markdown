@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Building a simple blog with NodeJS and Express
-date: Mo 30. Jan 18:58:26 CET 2012
-published: true
 ---
 After [installing NodeJS][0] and [creating a basic web application with
 Express][1] I wanted to get deeper into the world of *node* and build
