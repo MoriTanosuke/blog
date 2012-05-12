@@ -11,7 +11,7 @@ layout: default
     data-flattr-uid="cringe"
     data-flattr-tags="text, opensource"
     data-flattr-category="text"
-    href="{{ site.url }}{{ page.url }}">Flattr</a>
+    href="{{ site.url }}{{ page.url }}">{{ content | strip_html | truncatewords: 50 }}</a>
 </div>
 <div class="related-articles">
 <h3>Weitere Artikel</h3>
