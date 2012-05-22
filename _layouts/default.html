@@ -14,6 +14,7 @@
 <link rel="stylesheet" type="text/css" href="/css/style.css" />
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
 <script type="text/javascript" src="/js/emotes.js"></script>
+{% include flattr.html %}
 </head>
 <body>
 <div id="site">
@@ -25,9 +26,13 @@
   <li><a href="/contact/"><img src="/img/icon/user.png" alt="Kontakt" />&nbsp;kontakt</a></li>
   <li>{% include ddg-cse.html %}</li>
   <li><a href="http://stackexchange.com/users/639"><img src="http://stackexchange.com/users/flair/639.png" width="208" height="58" alt="profile for cringe on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for cringe on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></li>
-<!--
+  <li><a class="FlattrButton" style="display:none;"
+    title="Blog von Carsten Ringe"
+    data-flattr-uid="cringe"
+    data-flattr-tags="text, opensource"
+    data-flattr-category="text"
+    href="{{ site.url }}">Flattr meinen Blog</a></li>
   <li><a rel="author" href="https://plus.google.com/110503464505798755891"><img src="http://www.google.com/images/icons/ui/gprofile_button-16.png" width="16" height="16" /></a></li>
--->
   <li><a href="http://feeds.feedburner.com/kopisde"><img src="/img/icon/rss 2.png" alt="Subscribe to RSS" />&nbsp;RSS abonnieren</a></li>
 </ul>
 </div>
@@ -54,5 +59,6 @@
 </div>
 
 {% include boilerplate_analytics_scripts.html %}
+{% include gplusone.html %}
 </body>
 </html>

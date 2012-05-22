@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Keydock für mein ASUS Transformer TF101
-date: Sun Mar 25 11:41:05 CEST 2012
 ---
 Heute morgen habe ich nach ein paar ernüchternden Suchen bei [ebay][0] eine Bestellung bei 
 [alternate][1] aufgegeben: ein [Tastaturdock][1] für mein ASUS Transformer TF101. Ich 
