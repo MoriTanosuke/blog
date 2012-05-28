@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>{{ page.title }} :: {{ site.owner-title }}</title>
-<meta name="description" content="Personal blog">
+<meta name="description" content="{{ content | strip_html | truncatewords: 50 }}">
 <meta name="author" content="{{ site.owner-name }}">
 <meta name="generator" content="Jekyll" /> 
 <link rel="canonical" href="{{ site.url }}{{ page.url | canonical }}">
