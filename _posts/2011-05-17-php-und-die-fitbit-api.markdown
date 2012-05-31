@@ -14,11 +14,11 @@ Dann erfolgt die Authentifizierung des Benutzers. Das ist bei OAuth ein zweistuf
 
 Die Erzeugung des Request Tokens seht ihr hier:
 
-<script src="https://gist.github.com/2841424.js?file=requesttoken.php"></script>
+<script src="https://gist.github.com/2841424.js?file=index.php"></script>
 
 Hier wird ein Request Token erzeugt und anschliessend wird man zu einer URL bei Fitbit weitergeleitet, auf der man sich in seinen Fitbit Account einloggen muss und der Anwendung (also von meiner Homepage mit *oauth-php*) den Zugriff auf den Account erlauben muss. Der Request gibt gleichzeitig eine Callback URL an Fitbit, die nach erfolgter Authentifizierung wieder bei mir aufgerufen wird. In der PHP-Datei, die hinter der Callback URL liegt, wird anschliessend das Request Token in ein Access Token getauscht:
 
-<script src="https://gist.github.com/2841424.js?file=accesstoken.php"></script>
+<script src="https://gist.github.com/2841424.js?file=fitbit_cb.php"></script>
 
 Wer aufmerksam gelesen hat, der wird die Variable `$user` bemerkt haben, die hart auf *1* gesetzt ist. Das liegt daran, dass ich wirklich nur einen Benutzer mit der API verwende, nämlich mich selbst. ;-) Für alle ernsthaften Anwendungen wird man diesen Wert auch in der Datenbank ablegen, um verschiedene Request und Access Tokens zu unterstützen.
 
