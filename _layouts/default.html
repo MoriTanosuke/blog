@@ -15,6 +15,7 @@
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
 <script type="text/javascript" src="/js/emotes.js"></script>
 {% include flattr.html %}
+{% include gplusone.html %>
 </head>
 <body>
 <div id="site">
@@ -32,7 +33,7 @@
     data-flattr-tags="text, opensource"
     data-flattr-category="text"
     href="{{ site.url }}">Flattr meinen Blog</a></li>
-  <li><a rel="author" href="https://plus.google.com/110503464505798755891"><img src="http://www.google.com/images/icons/ui/gprofile_button-16.png" width="16" height="16" /></a></li>
+  <li><div class="g-plus" data-href="https://plus.google.com/110503464505798755891?rel=author" data-width="208" data-height="69"></div></li>
   <li><a href="http://feeds.feedburner.com/kopisde"><img src="/img/icon/rss 2.png" alt="Subscribe to RSS" />&nbsp;RSS abonnieren</a></li>
 </ul>
 </div>
@@ -59,6 +60,5 @@
 </div>
 
 {% include boilerplate_analytics_scripts.html %}
-{% include gplusone.html %}
 </body>
 </html>
