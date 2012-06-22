@@ -16,8 +16,7 @@ und anschliessend [RevolverMOD 3.9.9][2] installieren könnt.
 
 {% include adsense.html %}
 
-Rooten
-======
+**Rooten**
 
 Freundlicherweise gibt es einen *One Click Root* namens [Razorclaw][6]
 für das ASUS Transformer. Die Anwendung kann man sich im [XDA Forum
@@ -32,8 +31,7 @@ sein) und das Rooten läuft so ab:
 
 Das ist so einfach, das man kaum weitere Anleitungen bei Google findet. 
 
-Recovery Bootloader installieren
-================================
+**Recovery Bootloader installieren**
 
 [ClockworkMOD][5] ist wohl die bekannteste Recovery für Android Geräte.
 Für das ASUS Transformer kann man sie [hier runterladen][10] und die
@@ -46,8 +44,7 @@ wieder herstellen kann.
 * Die App starten
 * Button drücken
 
-RevolverMOD installieren
-========================
+**RevolverMOD installieren**
 
 Jetzt kann endlich [Revolver MOD][2] installiert werden. Dazu einfach die
 vollständige Installationsdatei runterladen und auf der SD-Karte
