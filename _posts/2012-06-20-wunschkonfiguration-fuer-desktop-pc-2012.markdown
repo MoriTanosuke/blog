@@ -18,6 +18,8 @@ Wie auch immer, hier ist meine Wunschkonfiguration für Mitte 2012:
 
 **Gesamtpreis: € 998,30**
 
+**Update** Ich hab jetzt eine Konfiguration *ohne* SSD-Festplatte [bei mindfactory gespeichert][13], da könnte ihr gleich alles bestellen. ;-)
+
 Tja, und damit hätte ich noch keine [MS Ergonomic Tastatur+Maus][11] (nochmal rund 70€) und müsste den Rechner an meinen Fernseher anschliessen. Und die 13" Ultrabooks gehen auch in dem Bereich los und ich könnte sie mitnehmen... schwierig, schwierig. Ich seh immer noch keinen Grund *für* einen Desktop, ausser die Aufrüstmöglichkeit. Die ist bei Ultrabooks natürlich noch begrenzter als bei Laptops insgesamt.
 
 Was meint ihr?
@@ -35,4 +37,5 @@ Was meint ihr?
 [10]: http://www.alternate.de/html/product/information/pageBuilder.html?articleId=781806
 [11]: http://www.alternate.de/html/product/information/pageBuilder.html?articleId=57511
 [12]: /2011/11/20/wunschkonfiguration-fuer-einen-desktop-pc/
+[13]: https://www.mindfactory.de/shopping_cart.php/basket_action/load_basket_extern/id/56ea82220091ced98420d5d706a29921310c8356f00b415df6d
 
