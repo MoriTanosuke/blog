@@ -27,12 +27,6 @@ vom Laptop als Eingabegerät.
 **Update** Ich hab jetzt meine Konfiguration [bei mindfactory gespeichert][13], da
 könnt ihr gleich alles bestellen. Gesamtpreis für die Konfiguration dort ist *€ 702,36* ;-)
 
-Tja, und damit hätte ich noch keine [MS Ergonomic Tastatur+Maus][11] (nochmal rund 70€) 
-und müsste den Rechner an meinen Fernseher anschliessen. Und die 13" Ultrabooks gehen 
-auch in dem Bereich los und ich könnte sie mitnehmen... schwierig, schwierig. Ich seh 
-immer noch keinen Grund *für* einen Desktop, ausser die Aufrüstmöglichkeit. Die ist bei 
-Ultrabooks natürlich noch begrenzter als bei Laptops insgesamt.
-
 Was meint ihr?
 
 [0]: http://alternate.de/
