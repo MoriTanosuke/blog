@@ -7,48 +7,27 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
-
-    <!-- Use the .htaccess and remove these lines to avoid edge case issues.
-         More info: h5bp.com/i/378 -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
     <title>{{ page.title }}</title>
 {% if page.description != empty %}
     <meta name="description" content="{{ page.description }}">
 {% endif %}
-
-    <!-- Mobile viewport optimized: h5bp.com/viewport -->
     <meta name="viewport" content="width=device-width">
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
-
     <link rel="stylesheet" href="/css/main.css">
     <link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Pontano+Sans' rel='stylesheet' type='text/css'>
-
-    <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
-
-    <!-- All JavaScript at the bottom, except this Modernizr build.
-         Modernizr enables HTML5 elements & feature detects for optimal performance.
-         Create your own custom Modernizr build: www.modernizr.com/download/ -->
     <script src="/js/vendor/modernizr-2.5.3.min.js"></script>
 {% include gplusone.html %}
 {% include flattr.html %}
 </head>
 <body>
 {% include github_ribbon.html %}
-    <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
-         chromium.org/developers/how-tos/chrome-frame-getting-started -->
-    <!--[if lt IE 7]><p class="chromeframe">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
-    <!-- Add your site or application content here -->
-
 <header id="banner">
 <h1><a href="/">Blog von Carsten Ringe <strong>yet another blog</strong></a></h1>
 <nav><ul>
 <li><a href="/">start</a></li>
 <li><a href="/shop">shop</a></li>
-<li><a href="/contact">contact</a></li>
+<li><a href="/contact">kontakt</a></li>
 <li><a href="{{ site.feedburner }}">feed</a></li>
 <li>{% include google-cse.html %}</li>
 </ul></nav>
@@ -75,22 +54,15 @@
 <p>Letztes Update: {{ site.time }}</p>
 </footer>
 
-    <!-- JavaScript at the bottom for fast page loading: http://developer.yahoo.com/performance/rules.html#js_bottom -->
-
-    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
 
-    <!-- scripts concatenated and minified via build script -->
     <script src="/js/plugins.js"></script>
     <script src="/js/main.js"></script>
-    <!-- end scripts -->
 
 {% include boilerplate_analytics_scripts.html %}
 <script type="text/javascript">
     var disqus_shortname = '{{ site.disqus-shortname }}';
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
     (function () {
         var s = document.createElement('script'); s.async = true;
         s.type = 'text/javascript';
