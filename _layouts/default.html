@@ -42,11 +42,13 @@
     <!-- Add your site or application content here -->
 
 <header id="banner">
+<h1><a href="/">Blog von Carsten Ringe <strong>yet another blog</strong></a></h1>
 <nav><ul>
 <li><a href="/">start</a></li>
 <li><a href="/shop">shop</a></li>
 <li><a href="/contact">contact</a></li>
 <li><a href="{{ site.feedburner }}">feed</a></li>
+<li>{% include google-cse.html %}</li>
 </ul></nav>
 </header>
 
@@ -66,7 +68,9 @@
 </ul>
 </section>
 
+<footer id="license">
 {% include license.html %}
+</footer>
 
     <!-- JavaScript at the bottom for fast page loading: http://developer.yahoo.com/performance/rules.html#js_bottom -->
 

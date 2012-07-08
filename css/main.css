@@ -456,17 +456,68 @@ blockquote {
   padding: 1em;
 }
 
+#banner h1 a:link, #banner h1 a:visited {
+  color: #000305;
+  display: block;
+  font-weight: bold;
+  text-decoration: none;
+}
+#banner h1 strong {
+  font-size: 0.36em;
+  font-weight: normal;
+  display: block;
+}
+
+#banner nav {
+  background: #000305;
+  height: 40px;
+  line-height: 30px;
+  margin: 0 auto 2em auto;
+  padding: 0;
+  text-align: center;
+  
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+#banner nav ul {
+  list-style: none;
+  margin: 0 auto;
+}
+#banner nav li {
+  float: left;
+  display: inline;
+  margin: 0;
+}
+#banner nav a:link, #banner nav a:visited, #banner nav form {
+  color: #fff;
+  display: inline-block;
+  height: 30px;
+  padding: 5px 1.5em;
+  text-decoration: none;
+}
+#banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited {
+  background: #c74451;
+  color: #fff;
+}
+
 .share {
   height: 2em;
+}
+
+footer#license {
+  clear: both;
 }
 
 #license {
   font-size: small;
 }
 
+#content {
+}
 
-
-
+#extras {
+}
 
 
 
