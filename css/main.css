@@ -455,6 +455,7 @@ a:hover {
 
 h1,h2,h3,h4,h5,h6 * {
   font-family: 'Vollkorn', 'Times', serif;
+  clear: both;
 }
 
 body {
@@ -479,42 +480,44 @@ blockquote {
   display: block;
 }
 
-#banner nav {
-  background: #000305;
-  height: 40px;
-  line-height: 30px;
-  margin: 0 auto 2em auto;
-  padding: 0;
-  text-align: center;
-  
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-}
-#banner nav ul {
-  list-style: none;
-  margin: 0 auto;
-}
-#banner nav li {
-  float: left;
-  display: inline;
-  margin: 0;
-}
-#banner nav a:link, #banner nav a:visited, #banner nav form {
-  color: #fff;
-  display: inline-block;
-  height: 30px;
-  padding: 5px 1.5em;
-  text-decoration: none;
-}
-#banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited {
-  background: #c74451;
-  color: #fff;
-}
-#banner nav ul li:last-child {
-  float: right;
-}
+@media screen and (min-width: 600px) {
+	#banner nav {
+	  background: #000305;
+	  height: 40px;
+	  line-height: 30px;
+	  margin: 0 auto 2em auto;
+	  padding: 0;
+	  text-align: center;
+	  
+	  border-radius: 5px;
+	  -moz-border-radius: 5px;
+	  -webkit-border-radius: 5px;
+	}
 
+	#banner nav ul {
+	  list-style: none;
+	  margin: 0 auto;
+	}
+	#banner nav li {
+	  float: left;
+	  display: inline;
+	  margin: 0;
+	}
+	#banner nav a:link, #banner nav a:visited, #banner nav form {
+	  color: #fff;
+	  display: inline-block;
+	  height: 30px;
+	  padding: 5px 1.5em;
+	  text-decoration: none;
+	}
+	#banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited {
+	  background: #c74451;
+	  color: #fff;
+	}
+	#banner nav ul li:last-child {
+	  float: right;
+	}
+}
 .share {
   height: 2em;
 }
@@ -528,6 +531,11 @@ footer#license {
 }
 
 #content {
+}
+
+#disqus_thread {
+  clear: both;
+  margin-top: 1em;
 }
 
 #extras {
@@ -765,7 +773,7 @@ ol#posts-list {
         page-break-after: avoid;
     }
 
-    #github-ribbon, #disqus_thread, #extras {
+    #github-ribbon, #extras {
       display: none;
     }
 }
