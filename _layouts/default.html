@@ -13,7 +13,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{ content | strip_html | truncatewords: 50 }}">
+{% if page.description != empty %}
+    <meta name="description" content="{{ page.description }}">
+{% endif %}
 
     <!-- Mobile viewport optimized: h5bp.com/viewport -->
     <meta name="viewport" content="width=device-width">
@@ -69,7 +71,8 @@
 </section>
 
 <footer id="license">
-{% include license.html %}
+<p>{% include license.html %}</p>
+<p>Letztes Update: {{ site.time }}</p>
 </footer>
 
     <!-- JavaScript at the bottom for fast page loading: http://developer.yahoo.com/performance/rules.html#js_bottom -->

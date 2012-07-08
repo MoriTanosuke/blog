@@ -1,19 +1,26 @@
 ---
 layout: default
-title: Blog von Carsten Ringe
+title: Letzte Artikel
 ---
 <ol id="posts-list">
 {% for entry in paginator.posts %}
 <li><article class="hentry">
 <header>
 <h2 class="entry-title"><a href="{{ entry.url }}" rel="bookmark" title="{{ entry.title }}">{{ entry.title }}</a></h2>
-<header>
+</header>
 <footer class="post-info">
-gepostet am <abbr class="published" title="{{ entry.date | date_to_xmlschema }}"><!-- {{ entry.date | date_to_xmlschema }} -->{{ entry.date | date_to_string }}</abbr>{% if entry.categories != empty %} unter <em>{{ entry.categories }}</em>{% endif %}{% if entry.tags != empty %} getaggt mit <em>{{ entry.tags }}</em>{% endif %}
+gepostet am <abbr class="published" title="{{ entry.date | date_to_xmlschema }}"><!-- {{ entry.date | date_to_xmlschema }} -->{{ entry.date | date_to_string }}</abbr>
+<!--
+{% if entry.categories != empty %} unter <em>{{ entry.categories }}</em>{% endif %}
+{% if entry.tags != empty %} getaggt mit <em>{{ entry.tags }}</em>{% endif %}
+-->
 </footer>
 <div class="entry-content">
-<p>{{ entry.content | strip_html | truncatewords: 50 }}</p>
+<p>{{ entry.content | strip_html | truncatewords: 50 }} <a href="{{ entry.url }}">weiterlesen</a></p>
 </div>
 </article></li>
 {% endfor %}
 </ol>
+<div id="pagination">
+
+</div>

@@ -442,6 +442,17 @@ td {
   font-family: 'Pontano Sans', Helvetica, sans-serif;
 }
 
+a {
+  color: #000;
+  text-decoration: underline;
+}
+a:visited {
+  color: #060606;
+}
+a:hover {
+  color: #c74451;
+}
+
 h1,h2,h3,h4,h5,h6 * {
   font-family: 'Vollkorn', 'Times', serif;
 }
@@ -522,7 +533,62 @@ footer#license {
 #extras {
 }
 
+/* index */
+.hentry {
+  border-bottom: 1px solid #eee;
+  padding: 0;
+}
 
+li:last-child .hentry, #content > .hentry {
+  border: 0;
+  margin: 0;
+}
+#content > .hentry {
+  padding: 0;
+}
+
+.entry-title {
+  font-size: 1.429em;
+  margin-bottom: 0;
+}
+.entry-title a:link, .entry-title a:visited {
+  text-decoration: none;
+}
+
+.hentry .post-info {
+  font-style: normal;
+}
+
+.hentry footer {
+  margin-bottom: 2em;
+}
+#posts-list {
+  list-style: none;
+  margin: 0;
+}
+ol#posts-list {
+  padding: 0;
+}
+/* large screens */
+@media screen and (min-width: 600px) {
+  #posts-list .hentry {
+    padding: 0;
+    padding-left: 200px;
+    position: relative;
+  }
+  #posts-list footer {
+    left: 10px;
+    position: absolute;
+    top: .9em;
+    width: 190px;
+  }
+}
+/* small screens */
+@media screen and (max-width: 600px) {
+  #github-ribbon {
+    display: none;
+  }
+}
 
 
 
