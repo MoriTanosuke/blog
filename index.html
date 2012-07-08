@@ -10,7 +10,7 @@ title: Letzte Artikel
 </header>
 <footer class="post-info">
 gepostet am <abbr class="published" title="{{ entry.date | date_to_xmlschema }}"><!-- {{ entry.date | date_to_xmlschema }} -->{{ entry.date | date_to_string }}</abbr><br />
-<span class="responses"><a href="{{ site.url}}{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
+<span class="responses"><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
 <span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></g:plusone></span>
 <!--
 {% if entry.categories != empty %} unter <em>{{ entry.categories }}</em>{% endif %}
