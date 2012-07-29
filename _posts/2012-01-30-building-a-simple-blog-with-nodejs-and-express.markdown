@@ -2,6 +2,7 @@
 layout: post
 title: Building a simple blog with NodeJS and Express
 ---
+
 After [installing NodeJS][0] and [creating a basic web application with
 Express][1] I wanted to get deeper into the world of *node* and build
 another simple, but useable web app. Because I like to blog, I decided
@@ -159,4 +160,3 @@ Everything works, my stylesheet is in place.
 [7]: http://disqus.com/
 [8]: https://github.com/isaacs/node-supervisor
 [10]: https://github.com/MoriTanosuke/blode
-
