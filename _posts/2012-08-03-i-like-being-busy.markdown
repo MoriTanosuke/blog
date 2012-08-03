@@ -6,18 +6,17 @@ category: arbeit
 
 > I like being busy.
 
-Diesen Satz habe ich gehört. Und sofort setze ein leichtes Schwindelgefühl ein. *I like being busy.* Wieso sagt man so etwas? Weil man das Gefühl mag, dass andere einen brauchen? Oder das Gefühl von *getting work done*? Oder weil man keine Langeweile verspüren möchte?
+Diesen Satz habe ich kÃ¼rzlich gehÃ¶rt. Und sofort setze ein leichtes SchwindelgefÃ¼hl ein. *I like being busy.* Wieso sagt man so etwas? Weil man das GefÃ¼hl mag, dass andere einen brauchen? Oder das GefÃ¼hl von *getting work done*? Oder weil man keine Langeweile verspÃ¼ren mÃ¶chte?
 
-Ich weiß es nicht.
+Ich weiÃŸ es nicht.
 
-Ich meine, ich mag es auch nicht, wenn mir langweilig ist. Ich suche mir zuhause auch [kleine Spielprojekte mit NodeJS wie einen Webchat][0], aber ich würde im Leben nicht so einen Satz im Büro anwenden.
+Ich meine, ich mag es auch nicht, wenn mir langweilig ist. Ich suche mir zuhause auch [kleine Spielprojekte mit NodeJS wie einen Webchat][0], aber ich wÃ¼rde im Leben nicht so einen Satz im BÃ¼ro anwenden.
 
-*I like being busy.* Vielleicht liegt es auch an meinen mangelnden Übersetzerfertigkeiten, aber dieser Satz impliziert bei mir eher ein Gefühl von *hauptsache was zu tun* oder *irgendwas machen*. Oder es liegt an meiner Arbeitsweise, die eher auf dem Lösen von Problemen aufsetzt, als auf dem Abarbeiten von Aufgaben. Ich mag es generell nicht, wenn man mir Aufgaben gibt. Das hat etwas von Industriedenken, von Arbeitsanweisungen, von Checklisten, von Fliessbandarbeit.
+*I like being busy.* Vielleicht liegt es auch an meinen mangelnden Ãœbersetzerfertigkeiten, aber dieser Satz impliziert bei mir eher ein GefÃ¼hl von *hauptsache was zu tun* oder *irgendwas machen*. Oder es liegt an meiner Arbeitsweise, die eher auf dem LÃ¶sen von Problemen aufsetzt, als auf dem Abarbeiten von Aufgaben. Ich mag es generell nicht, wenn man mir Aufgaben gibt. Das hat etwas von Industriedenken, von Arbeitsanweisungen, von Checklisten, von Fliessbandarbeit.
 
-In meiner Vorstellung sind Fliessbandarbeiter z.b. *busy*, nämlich damit beschäftigt, ihre Arbeitsschritte an den immer gleichen Automobilen fertigzubekommen, bevor das nächste Chassis in ihre Arbeitszone rollt. Ich denke, so eine Art von Arbeit wäre nichts für mich - gut, das beruht zum großen Teil auf Vorurteilen und einer begrenzten Menge von persönlichen Erfahrungen in einem größeren Industriebetrieb. Aber hier geht's ja auch um eine Einstellung bzw ein erzeugtes Gefühl, hervorgerufen durch einen einfachen Halbsatz in einer Fremdsprache. Fakten gibt's dann im nächsten Artikel über NodeJS. ;-)
+In meiner Vorstellung sind Fliessbandarbeiter z.b. *busy*, nÃ¤mlich damit beschÃ¤ftigt, ihre Arbeitsschritte an den immer gleichen Automobilen fertigzubekommen, bevor das nÃ¤chste Chassis in ihre Arbeitszone rollt. Ich denke, so eine Art von Arbeit wÃ¤re nichts fÃ¼r mich - gut, das beruht zum groÃŸen Teil auf Vorurteilen und einer begrenzten Menge von persÃ¶nlichen Erfahrungen in einem grÃ¶ÃŸeren Industriebetrieb. Aber hier geht's ja auch um eine Einstellung bzw ein erzeugtes GefÃ¼hl, hervorgerufen durch einen einfachen Halbsatz in einer Fremdsprache. Fakten gibt's dann im nÃ¤chsten Artikel Ã¼ber *NodeJS*. ;-)
 
-Aber irgendwie hab ich im Moment wieder die Unterschiede in der Arbeits- und Herangehensweise bemerkt. Und wenn dann noch jemand aus einem anderen Kulturkreis dazwischen ist, macht sich sowas noch stärker bemerkbar. Und sei's nur durch meine durch Filme und technische Doku geprägte Sprache. :-)
-
+Aber irgendwie hab ich im Moment wieder die Unterschiede in der Arbeits- und Herangehensweise bemerkt. Und wenn dann noch jemand aus einem anderen Kulturkreis dazwischen ist, macht sich sowas noch stÃ¤rker bemerkbar. Und sei's nur durch meine durch Filme und technische Dokumentation geprÃ¤gte Sprache. :-)
 
 [0]: http://github.com/MoriTanosuke/chocket
 
