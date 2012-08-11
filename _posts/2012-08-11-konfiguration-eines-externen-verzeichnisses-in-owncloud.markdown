@@ -29,7 +29,6 @@ Dazu legt man die Datei `/config/mount.php` an und schreibt folgenden Inhalt hin
 
 Danach [taucht der Ordner aber nicht automatisch in meinen Dateien auf][4], sondern ich musste noch einen Ordner mit dem gleichen Namen `meinedateien` anlegen - erst dann wurden die Bilder angezeigt.
 
-Löschen kann man wohl nicht, auch die anderen Dateioperationen werden wohl eingeschränkt sein. Aber das muss für Bilder auch nicht wirklich sein, jedenfalls nicht für mich.
 
 [0]: http://owncloud.org
 [1]: http://dropbox.com
