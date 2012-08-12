@@ -19,6 +19,14 @@ Die [vollständige Konversation findet sich hier][11]. Zum Schluss gibt es aber 
 <blockquote class="twitter-tweet" data-in-reply-to="230602508865794048" lang="de"><p><a href="https://twitter.com/terrytyler4"><s>@</s><b>terrytyler4</b></a> <a href="https://twitter.com/electagraham"><s>@</s><b>electagraham</b></a> if it isn't going through Amazon, it's breach of copyright. Am off to see if I can borrow it.</p>&mdash; Susan Buchanan (@Susan_Buchanan) <a href="https://twitter.com/Susan_Buchanan/status/230602746892521472" data-datetime="2012-08-01T09:55:53+00:00">August 1, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Anscheindend haben nach den ersten Schrecksekunden auch noch andere Autoren angefangen nachzudenken:
+
+<blockquote class="twitter-tweet" data-in-reply-to="230670655392206850" lang="de"><p><a href="https://twitter.com/mirandastork"><s>@</s><b>mirandastork</b></a> <a href="https://twitter.com/dleadbeater2011"><s>@</s><b>dleadbeater2011</b></a> <a href="https://twitter.com/helen_white2011"><s>@</s><b>helen_white2011</b></a> I went back to look over my rights and licencing for my books and I clicked that kindle &gt;&gt;</p>&mdash; ElectaGraham (@ElectaGraham) <a href="https://twitter.com/ElectaGraham/status/230733014131421186" data-datetime="2012-08-01T18:33:32+00:00">August 1, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-in-reply-to="230693610696359936" lang="de"><p><a href="https://twitter.com/electagraham"><s>@</s><b>electagraham</b></a> - Just found out, Electa. It's not a pirate site. It's a lending svc for the borrows of Amazon &amp; B/N</p>&mdash; Jan Romes (@JanRomes) <a href="https://twitter.com/JanRomes/status/230701365217857536" data-datetime="2012-08-01T16:27:46+00:00">August 1, 2012</a></blockquote>
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Was denkt sich jetzt ein Autor, der von Digitalisierung so überhaupt keine Ahnung zu haben scheint? *"Das raubmordkopiert jemand meine Bücher! Piraterie!"* und ruft seine ahnungslosen Kollegen dazu auf, [DMCA-Takedown Notices][8] an den Hoster zu schicken. Und der hält die Flut nicht lange aus und nimmt die komplett legale Seite vom Netz. Einfach so. **Weil gefährlich.**
 
 Der Betreiber *Dale Porter* hat anschliessend noch [einen traurigen Post bei Facebook geschrieben][10]:
