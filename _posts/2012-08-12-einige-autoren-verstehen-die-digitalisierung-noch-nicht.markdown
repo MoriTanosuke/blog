@@ -27,7 +27,7 @@ Anscheinend haben nach den ersten Schrecksekunden auch noch andere Autoren angef
 <blockquote class="twitter-tweet" data-in-reply-to="230693610696359936" lang="de"><p><a href="https://twitter.com/electagraham"><s>@</s><b>electagraham</b></a> - Just found out, Electa. It's not a pirate site. It's a lending svc for the borrows of Amazon &amp; B/N</p>&mdash; Jan Romes (@JanRomes) <a href="https://twitter.com/JanRomes/status/230701365217857536" data-datetime="2012-08-01T16:27:46+00:00">August 1, 2012</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Was denkt sich jetzt ein Autor, der von Digitalisierung so überhaupt keine Ahnung zu haben scheint? *"Das raubmordkopiert jemand meine Bücher! Piraterie!"* und ruft seine ahnungslosen Kollegen dazu auf, [DMCA-Takedown Notices][8] an den Hoster zu schicken. Und der hält die Flut nicht lange aus und nimmt die komplett legale Seite vom Netz. Einfach so. **Weil gefährlich.**
+Was denkt sich jetzt ein Autor, der von Digitalisierung so überhaupt keine Ahnung zu haben scheint? *"Da raubmordkopiert jemand meine Bücher! Piraterie!"* und ruft seine ahnungslosen Kollegen dazu auf, [DMCA-Takedown Notices][8] an den Hoster zu schicken. Und der hält die Flut nicht lange aus und nimmt die komplett legale Seite vom Netz. Einfach so. **Weil gefährlich.**
 
 Der Betreiber *Dale Porter* hat anschliessend noch [einen traurigen Post bei Facebook geschrieben][10]:
 
@@ -45,7 +45,7 @@ Hier noch ein paar Links mit mehr Details zum Vorgang:
 * [digitalmediamachine][1]
 * [geekosystem][2]
 
-Achja, und [der Betreiber von lendink.com *Dale Porter* schreibt auf Facebook, dass er immer noch darüber nachdenkt, ob er die Seite zurückbringt oder nicht][9]. Was soll man zu sowas noch sagen... mir fällt nichts ein.
+Achja, und [der Betreiber von lendink.com *Dale Porter* schreibt auf Facebook, dass er immer noch darüber nachdenkt, ob er die Seite zurückbringt oder nicht][9]. Was soll man zu sowas noch sagen... mir fällt nichts ein. Ich hoffe jedenfalls, dass die Seite zurückkommt und das man auch in Deutschland bald Bücher verleihen kann.
 
 [0]: http://www.techdirt.com/articles/20120807/21080519958/legit-ebook-lending-site-taken-down-angry-twitmob-writers.shtml
 [1]: http://www.digitalmediamachine.com/2012/08/what-happened-to-lendink-owner-explains.html
