@@ -25,6 +25,8 @@ Today, I gave the script another try:
 
 <script src="https://gist.github.com/3438761.js"> </script>
 
+(If you don't see the code, go to [github][5].)
+
 You can call the script like this:
 
     cd /path/to/your/music
@@ -43,4 +45,5 @@ me if something went wrong. :-D
 [2]: http://aws.amazon.com/glacier/
 [3]: http://drobo.com/
 [4]: http://tldp.org/LDP/abs/html/
+[5]: https://gist.github.com/3438761
 
