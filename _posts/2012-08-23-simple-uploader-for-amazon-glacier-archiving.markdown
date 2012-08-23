@@ -1,7 +1,6 @@
 ---
 title: Simple Upload for Amazon Glacier archiving
 layout: post
-published: false
 ---
 Yesterday I read about the new [Amazon Glacier][0] services that allow
 all customers of [amazons webservice][1] to store backups even cheaper
