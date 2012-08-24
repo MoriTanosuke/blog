@@ -2,6 +2,9 @@
 title: Simple Upload for Amazon Glacier archiving
 layout: post
 ---
+**Update** You can now [download the first version][5]. Keep in mind
+that this is my very first try on the uploader. ;-)
+
 Yesterday I read about the new [Amazon Glacier][0] services that allow
 all customers of [amazons webservice][1] to store backups even cheaper
 than [Amazon S3][2]. And because I am constantly searching for a better
@@ -33,4 +36,5 @@ at home.
 [2]: http://aws.amazon.com/en/s3/
 [3]: http://docs.amazonwebservices.com/amazonglacier/latest/dev/using-aws-sdk-for-java.html
 [4]: https://github.com/MoriTanosuke/glacieruploader
+[5]: https://github.com/MoriTanosuke/glacieruploader/downloads
 
