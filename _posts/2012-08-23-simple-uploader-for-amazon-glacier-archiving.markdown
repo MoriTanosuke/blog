@@ -2,6 +2,11 @@
 title: Simple Upload for Amazon Glacier archiving
 layout: post
 ---
+
+**Update** I uploaded a new version of the [glacieruploader][4]. I want
+to move to a cleaner command line usage, so I introduced better options.
+Check it out and tell me what you think. :-)
+
 **Update** You can now [download the first version][5]. Keep in mind
 that this is my very first try on the uploader. ;-)
 
