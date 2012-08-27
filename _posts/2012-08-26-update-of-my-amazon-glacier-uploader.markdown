@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Update of my Amazon Glacier uploader
-published: false
 ---
 
 [A couple of days ago I started to build a simple command-line upload client for the new Amazon Glacier archival service][0]. You can get the software [from my github project "*glacieruploader*"][1].
