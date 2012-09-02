@@ -14,7 +14,7 @@ There are a couple of other command line clients available now, so I want to com
   * [glacieruploader][1] (my own project, java)
   * [glacierFreezer][2] (java)
   * [amazon-glacier-cmd-interface][3] (python)
-  * [glacier-cli][4] (python)
+  * <del>[glacier-cli][4] (python)</del> use [amazon-glacier-cmd-interface][3] instead
   * [awssum][5] (nodejs, I count that as command line)
 
 If you're working on your own client or if you successfully used a client that's not in this list, please add a comment.
