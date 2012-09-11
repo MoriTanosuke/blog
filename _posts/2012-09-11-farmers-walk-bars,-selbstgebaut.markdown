@@ -27,3 +27,6 @@ Damit hab ich dann folgendes gebaut:
 Damit werd ich also demnächst die Einfahrt hoch und runterlaufen. Mal
 gucken, wie doof die Autofahrer gucken, die in der Rushhour vor der
 Haustür im Stau stehen. :-)
+
+[0]: http://www.bodybuilding.com/exercises/detail/view/name/farmers-walk
+
