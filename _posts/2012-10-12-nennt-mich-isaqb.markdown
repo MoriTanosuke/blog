@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nennt mich ISTAB Certified Professional for Software Architecture, Foundation Level
+title: Nennt mich ISAQB Certified Professional for Software Architecture, Foundation Level
 ---
 
 ...[auch][0] NICHT.
