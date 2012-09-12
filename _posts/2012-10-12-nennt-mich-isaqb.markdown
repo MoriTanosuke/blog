@@ -16,7 +16,7 @@ Ich glaub, ich hab einfach ein Problem mit Multiple-Choice-Tests. Die
 Fragestellung zielte darauf ab, ob ich die vom ISAQB-Board gewollten
 Antworten wußte, nicht ob ich was von Architektur verstehe. Natürlich
 gibt es da eine Schnittmenge, aber die Fragen habe ich zum Teil mit dem
-Gedanken "*Ah, **das** wollen sie jetzt hören" angekreuzt.
+Gedanken "*Ah, **das** wollen sie jetzt hören*" angekreuzt.
 
 Wie auch immer, ich muss jetzt mal gucken, was ich vom gelernten bzw.
 gehörten gleich einsetzen kann und was ich lieber unter "*für die
