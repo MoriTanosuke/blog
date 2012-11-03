@@ -495,9 +495,6 @@ blockquote {
 	  background: #c74451;
 	  color: #fff;
 	}
-	#banner nav ul li:last-child {
-	  float: right;
-	}
 }
 .share {
   height: 2em;
