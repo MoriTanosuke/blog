@@ -16,7 +16,7 @@
 {% endif %}
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="/css/main.css">
-    <script src="/js/vendor/modernizr-2.5.3.min.js"></script>
+    <link rel=" stylesheet" type="text/css" href="/css/joyride-2.0.1.css">
 {% include gplusone.html %}
 {% include flattr.html %}
 </head>
@@ -25,10 +25,13 @@
 <header id="banner">
 <h1><a href="/">Blog von Carsten Ringe <strong>yet another blog</strong></a></h1>
 <nav><ul>
-<li><a href="/">start</a></li>
-<li><a href="/shop">shop</a></li>
-<li><a href="/contact">kontakt</a></li>
-<li><a href="/atom.xml">feed</a></li>
+<li><a id="navlink-home" href="/">start</a></li>
+<li><a id="navlink-shop" href="/shop">shop</a></li>
+<li><a id="navlink-contact" href="/contact">kontakt</a></li>
+<li><a id="navlink-feed" href="/atom.xml">feed</a></li>
+<!--
+<li><a id="navlink-tour" href="#" onclick="startTour(); return false;">hilfe</a></li>
+-->
 <li>{% include google-cse.html %}</li>
 </ul></nav>
 </header>
@@ -55,11 +58,14 @@
 </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
+    <script src="/js/vendor/modernizr-2.5.3.min.js"></script>
+    <script src="/js/vendor/jquery.joyride-2.0.1.js"></script>
 
     <script src="/js/plugins.js"></script>
     <script src="/js/main.js"></script>
     <script src="/js/emotes.js"></script>
+
+{% include tour.html %}
 
 {% include boilerplate_analytics_scripts.html %}
 <script type="text/javascript">
