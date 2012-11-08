@@ -29,11 +29,12 @@ abschicken. Im [Commit 667aaf6][2] kann man in Zeile 128 sehen, wie
 anschliessend die Nachricht im Fall einer Erwähnung des eigenen Nicks
 weitergeleitet wird.
 
-Und schon bekommt man (zumindest in [Chrome][3]) die *Desktop
+Und schon bekommt man (zumindest in [Chrome][4]) die *Desktop
 Notifications* angezeigt. :-)
 
 [0]: http://www.chromium.org/developers/design-documents/desktop-notifications/api-specification
 [1]: http://www.html5rocks.com/en/tutorials/notifications/quick/
 [2]: https://github.com/MoriTanosuke/chocket/commit/667aaf681d90dcb7c7fd98ce3e14cf1b91e12cf0
 [3]: https://github.com/MoriTanosuke/chocket
+[4]: http://chrome.google.com/
 
