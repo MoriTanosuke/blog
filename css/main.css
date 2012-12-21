@@ -440,6 +440,7 @@ h1,h2,h3,h4,h5,h6 * {
 }
 
 body {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAA2CAMAAAABOBKPAAAABlBMVEXl5eXZ2dnP1tDCAAAAIElEQVQ4y2NggAJG3Ax8cqPahqY2htGwGY330bAZMdoA5F8AozelkgsAAAAASUVORK5CYII%3D');
   margin: 1em;
 }
 
@@ -509,6 +510,9 @@ footer#license {
 }
 
 #content {
+  background: white;
+  border-radius: .5em;
+  padding: 1em;
 }
 
 #disqus_thread {
