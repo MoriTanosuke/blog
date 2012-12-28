@@ -39,7 +39,7 @@ dann zur Google+ zu zerfasern...
 
 Natürlich werde ich meinen Account bei Twitter, bei Facebook und bei
 Google+ behalten - aber für meine eigenen Inhalte bleibe ich auf meiner
-Domain, verlinke mit vollen URLs und versuche bei zukünftigen Inhalten
+Domain, verlinke mit vollen URLs und versuche bei zukünftigen Umzügen 
 URLs nicht kaputt zu machen.
 
 [0]: http://www.spreeblick.com/2012/12/28/2013-das-web-zuruck-erobern/
