@@ -3,7 +3,7 @@ layout: post
 title: "Ich bin beim 29c3"
 date: Sat Dec 29 11:12:15 CET 2012
 ---
-Bevor ich das vergesse: ich bin übrigebs beim [29c3][0].
+Bevor ich das vergesse: ich <del>bin</del>war übrigens beim [29c3][0].
 
 [0]: https://events.ccc.de/congress/2012/
 
