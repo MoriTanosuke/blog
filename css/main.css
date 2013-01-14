@@ -529,6 +529,14 @@ footer#license {
 #extras {
 }
 
+#post-meta {
+  color: #909090;
+}
+#post-meta .categories, #post-meta .tags {
+  color: #0f0f0f;
+  font-style: italic;
+}
+
 /* index */
 .hentry {
   border-bottom: 1px solid #eee;
