@@ -34,7 +34,10 @@ editiert und folgendes eingetragen:
     configuration = file:///etc/sync.conf
 
 Damit lädt mein Server jetzt die richtige Konfiguration, die ich verändern  und trotzdem den Server 
-irgendwann mittels [mercurial][5] aktualisieren kann.
+irgendwann mittels [mercurial][5] aktualisieren kann. Den Server starte ich jetzt mit diesem Kommando:
+
+    cd /opt/server-full
+    ./bin/paster serve production.ini --daemon
 
 Danach hab ich erstmal probiert, ob der Server unter der URL `http://MEINSERVER/MEINKONTEXT/user/1.0/a`
 eine Null oder Eins ausgibt. Ist das der Fall, ist der Server erreichbar.
