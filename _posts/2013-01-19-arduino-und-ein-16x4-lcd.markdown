@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Arduino und ein 16x4 LCD"
-published: false
 category: hardware
 tags: arduino
 ---
