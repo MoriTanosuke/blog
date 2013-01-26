@@ -14,7 +14,7 @@ Arduino liefert bereits eine [LiquidCristal Library][1] und damit ist
 das Display ruckzuck im Einsatz. Als Test habe ich ein einfaches [Hello
 World][4] aus den [Arduino Beispielen][5] genommen:
 
-<pre>
+<pre class="brush: cpp">
 ...
 // initialize the library with the numbers of the interface pins
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
