@@ -3,13 +3,13 @@ layout: post
 title: Aufgaben in der BASH parallelisieren
 excerpt: 
 ---
-Heute wollte ich in der [Bash][0] (genauer: in der Bash meiner [Cygwin][1]-Installation) mehrere große Logfiles durchsuchen. Mit [grep][2] habe ich nach einer bestimmten Zeichenfolge ausschau gehalten und die Ausgabe sollte pro Datei in einer eigenen Ausgabedatei landen.
+Heute wollte ich in der [Bash][0] (genauer: in der Bash meiner [Cygwin][1]-Installation) mehrere groÃÂe Logfiles durchsuchen. Mit [grep][2] habe ich nach einer bestimmten Zeichenfolge ausschau gehalten und die Ausgabe sollte pro Datei in einer eigenen Ausgabedatei landen.
 
 Mein erster Ansatz war eine Schleife über die Verzeichnisse mit den Logfiles:
 
     for i in *;do grep -hE "^[0-9\.]+" $i/access_log* > $i-ips.txt;done
 
-Dabei stellte sich schnell heraus, dass die Logfiles mit mehreren Hundert Megabytes *etwas* zu groß für so eine Herangehensweise waren. Dann ist mir eingefallen, dass ich auf meinem fetten *Intel Core i7 870* mit 8 Kernen sitze. Also lässt sich so eine Aufgabe prima in einzelne Prozesse aufsplitten, damit die CPU auch mal ein wenig ausgelastet wird.
+Dabei stellte sich schnell heraus, dass die Logfiles mit mehreren Hundert Megabytes *etwas* zu groÃÂ für so eine Herangehensweise waren. Dann ist mir eingefallen, dass ich auf meinem fetten *Intel Core i7 870* mit 8 Kernen sitze. Also lässt sich so eine Aufgabe prima in einzelne Prozesse aufsplitten, damit die CPU auch mal ein wenig ausgelastet wird.
 
 Hier ist mein zweiter Ansatz für die Schleife über alle Verzeichnisse mit Logfiles:
 

@@ -6,8 +6,8 @@ Heute war ich mal wieder im Fitnessstudio (das zweite Mal diese Woche)
 und musste feststellen, dass es doch einen Unterschied zwischen
 Kellertraining und einem Studio gibt: Im Studio muss ich nicht in den
 *Sportmodus* umschalten. Sobald ich dort angekommen bin, ist mein Fokus
-sofort auf den Übungen. Ich weiß ganz genau, was ich trainieren will,
-welches Gerät ich dafür brauche, wie ich die Übung machen werde. Ich
+sofort auf den ÃÂbungen. Ich weiÃÂ ganz genau, was ich trainieren will,
+welches Gerät ich dafür brauche, wie ich die ÃÂbung machen werde. Ich
 muss nicht drüber nachdenken, ob ich noch eine Wiederholung rausquetsche
 oder nicht - ich mach es einfach.
 

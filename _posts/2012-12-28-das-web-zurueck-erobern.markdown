@@ -6,11 +6,11 @@ Im Moment scheinen die Leute rund um die Welt aufzuwachen und bemerken,
 dass das Internet, wie wir es kennen, bald nicht mehr existiert. [Jetzt
 ist Spreeblick dran][0].
 
-> Es wird also Zeit, dass wir uns – und damit meine ich alle
+> Es wird also Zeit, dass wir uns - und damit meine ich alle
 > Internet-Nutzer, deren Nutzungsverhalten über den gelegentlichen
-> Online-Einkauf von Waren hinaus geht – das Web zurückholen. Nicht,
+> Online-Einkauf von Waren hinaus geht - das Web zurückholen. Nicht,
 > indem die Nerds unter uns die Zeit zurückdrehen wollen und von
-> früher™ schwadronieren. Und auch nicht, indem wir die genannten
+> früher schwadronieren. Und auch nicht, indem wir die genannten
 > Gewinn-orientierten Unternehmen verteufeln, sie boykottieren und
 > ignorieren. Ganz im Gegenteil: Wir sollten von ihnen lernen. 
 

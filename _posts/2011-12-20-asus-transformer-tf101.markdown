@@ -6,7 +6,7 @@ Seit letzter Woche bin ich stolzer Besitzer eines *Tablet PC*. Nennt man das üb
 
 Weil ich [meinen Blog bei Github hoste][4] und neue Artikel per [git][0] in das Repository gelangen, muss ich dafur im Moment aber noch einige kleinere Unannehmlichkeiten in Kauf nehmen. Es gibt z.B. noch keinen Client für *git*, mit dem man auch committen und pushen kann. Anscheinend verhindert ein Bug bei der Behandlung von ZIP-Streams in Android das Verwenden von den üblichen Implementierungen. Also habe ich einen *Clone* meines Repositories auf einem Server mit SSH-Zugang abgelegt und verbinde mich mit [ConnectBot][5] dorthin. Anschliessend kann ich wie gewohnt mit [vim][6] meinen Artikel bearbeiten.
 
-Das ist zwar nicht komfortabel, aber es funktioniert. Und vielleicht löst sivh das Problem mit dem Commit auch bald und ich kann einen der vielen Texteditoren verwenden. Oder ich bastel mir eine Pipeline mit [Dropbox][7], die auf meiner heimischen (natürlich mit [freetz][8] geknackten) Fritzbox ein Repository cloned und bei Änderungen in der Dropbox sofort committed. Mal sehen.
+Das ist zwar nicht komfortabel, aber es funktioniert. Und vielleicht löst sivh das Problem mit dem Commit auch bald und ich kann einen der vielen Texteditoren verwenden. Oder ich bastel mir eine Pipeline mit [Dropbox][7], die auf meiner heimischen (natürlich mit [freetz][8] geknackten) Fritzbox ein Repository cloned und bei Äderungen in der Dropbox sofort committed. Mal sehen.
 
 Zurück zum Tablet. Das Display ist sehr gut, der Blickwinkel hervorragend. Das Gewicht ist für die einhändige Bedienung etwas zu hoch, der Formfaktor würde es aber zulassen. Ich stütze das Tablet meistens auf dem Bein ab oder nutze meine zugekaufte Tasche von *stilgut*, die auch als Aufsteller dient.
 

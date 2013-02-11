@@ -24,7 +24,7 @@ Anschliessend editiere ich die Datei <code>project.clj</code> und füge die Abh�
       :dev-dependencies [[lein-ring "0.3.2"]]
       :ring {:handler CmpjrAjaxTest.app/app})
 
-Wichtig sind die beiden letzten Zeilen mit den Keys <code>:dev-dependencies</code> und <code>:ring</code>. Damit wird leiningen angewiesen, einen Ring-Server zu starten, der automatisch meine Änderungen nachlädt und immer den aktuellen Stand der Entwicklung präsentiert.
+Wichtig sind die beiden letzten Zeilen mit den Keys <code>:dev-dependencies</code> und <code>:ring</code>. Damit wird leiningen angewiesen, einen Ring-Server zu starten, der automatisch meine Äderungen nachlädt und immer den aktuellen Stand der Entwicklung präsentiert.
 
 Mit <code>:ring {:handler CmpjrAjaxTest.app/app})</code> gebe ich damit eine Referenz auf meinen Routen-Handler an leiningen. Die Definition findet sich in der Datei <code>app.clj</code>:
 
@@ -92,7 +92,7 @@ Ich habe in meinem Beispiel bereits <a href="https://github.com/cgrand/enlive#re
 
 <a href="https://github.com/cgrand/enlive#readme">Enlive</a> arbeitet mit Selektoren, wer CSS und/oder JQuery kennt, wird sich da gleich wohl fühlen. Für mich reicht das erstmal aus und ich will für meine Beispiele so einfach wie möglich bleiben. Nachher versteh ich das selbst nicht mehr... ;-)
 
-Jetzt kann ich mit folgendem Kommando den Server starten und meine Seite bewundern. Anschliessend kann ich meine Dateien bearbeiten. <a href="https://github.com/technomancy/leiningen">leiningen</a> übernimmt für mich das Neuladen der Änderungen und ich brauche im Browser nur noch F5 zu drücken. Hiermit wird der Server gestartet:
+Jetzt kann ich mit folgendem Kommando den Server starten und meine Seite bewundern. Anschliessend kann ich meine Dateien bearbeiten. <a href="https://github.com/technomancy/leiningen">leiningen</a> übernimmt für mich das Neuladen der Äderungen und ich brauche im Browser nur noch F5 zu drücken. Hiermit wird der Server gestartet:
 
     $ lein ring server
     2011-02-24 18:14:59.362:INFO::Logging to STDERR via org.mortbay.log.StdErrLog

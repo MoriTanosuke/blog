@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privatsphäre im Netz ist schwierig
+title: "Privatsphäre im Netz ist schwierig"
 ---
 Ich weiß, ihr wollt nichts über Netzwerktechnik hören. Aber wenn man im Internet unterwegs ist, dann ist es manchmal ganz gut, wenn man weiß, wie die Bytes über die Leitung kommen. Und wer dabei alles mitlesen kann.
 

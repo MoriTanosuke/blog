@@ -20,7 +20,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 Ich habe keinen der *seltsamen Neustarts* mehr erlebt, die mich am Samsung-Android so gestört haben. Kein toller Medienscanner, der andauernd den (internen und externen) Speicher durchsucht. Kein Kies, das mir Windows für ein simples Android-Update aufzwingen will (und sich gar nicht erst installieren lässt). Keine tollen Samsung-Anwendungen, in die ich beim ersten Start meine persönlichen Daten eingeben soll.
 
-Stattdessen habe ich wieder ein *Android-Smartphone*. So wie es gedacht war. Mit ein paar unaufdringlichen, aber sinnvollen Änderungen. Die Kamera-Anwendung kann z.B. die Hardware-Tasten als Auslöser verwenden - um eine dieser Änderungen beim Namen zu nennen.
+Stattdessen habe ich wieder ein *Android-Smartphone*. So wie es gedacht war. Mit ein paar unaufdringlichen, aber sinnvollen Äderungen. Die Kamera-Anwendung kann z.B. die Hardware-Tasten als Auslöser verwenden - um eine dieser Äderungen beim Namen zu nennen.
 
 Sobald Cyanogenmod 7 für das Samsung Galaxy S2 (i9100) also [offiziell stabil][6] ist, kann ich jedem von euch nur empfehlen, euer [Smartphone von Samsungs Firmware zu befreien und Cyanogenmod 7 zu installieren][7]!
 

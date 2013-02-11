@@ -29,8 +29,8 @@ Alltag nicht mit Isolationsübungen trainieren kann... aber es dauert
 eben etwas länger, bis man das wirklich glaubt.
 
 Das Buch setzt genau da an: Es werden nur Ganzkörperübungen beschrieben.
-Als erstes natürlich die *Kniebeuge*, die beste Übung aller Zeiten. ;-)
-Und die anstrengendste. Die Übung erfordert da Zusammenspiel von so 
+Als erstes natürlich die *Kniebeuge*, die beste ÃÂbung aller Zeiten. ;-)
+Und die anstrengendste. Die ÃÂbung erfordert da Zusammenspiel von so 
 vielen Muskeln und Gelenken, dass die biomechanische Beschreibung im Buch
 einige Zeichnungen bemüht, um Hebelarme, Gelenke und Kräfte verständlich
 aufzuzeigen. Dazu kommen einfache Tipps, um z.B. die Fussstellung und
@@ -39,14 +39,14 @@ die Position der Hantelstange auf den Schulterblättern zu kontrollieren.
 Zwischendurch gibt es immer wieder ein paar Seitenhiebe auf die etablierten
 Mythen der Fitnessszene:
 
-> “Squatting” in a Smith machine is an oxymoron. A Smith machine is
+> Ã¢ÂÂSquattingÃ¢ÂÂ in a Smith machine is an oxymoron. A Smith machine is
 > not a squat rack, no matter what the girls at the front desk tell you.
 
 Die Skizzen und Tipps sind verständlich und ich werde bei meinem
 nächsten Training sofort ein paar davon anwenden, um meine Technik zu 
 überprüfen und zu verbessern.
 
-**Falls jemand weiß, wie ich einen Link auf meine Highlights aus dem
+**Falls jemand weiÃÂ, wie ich einen Link auf meine Highlights aus dem
 Buch setzen kann, bitte in den Kommentaren melden. Sonst muss ich 
 wirklich anfangen, die per cut-n-paste aus Amazon rauszuschneiden...**
 
@@ -57,7 +57,7 @@ Sätzen zusammengefasst:
 
 > A weak man is not as happy as that same man would be if he were strong. 
 
-> Exercise is not a thing we do to fix a problem – it is a thing we must
+> Exercise is not a thing we do to fix a problem Ã¢ÂÂ it is a thing we must
 > do anyway, a thing without which there will always be problems.
 
 [0]: http://www.amazon.de/gp/product/B006XJR5ZA/kopisde-21

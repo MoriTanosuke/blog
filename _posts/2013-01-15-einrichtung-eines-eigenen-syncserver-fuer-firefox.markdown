@@ -12,7 +12,7 @@ Das ganze funktioniert leider nicht auf jedem beliebigen Webspace, aber zum Glü
 [Sheevaplug][1] im Abstellraum. Darauf ist das benötigte [Python][2], der [lighttpd Server][3] und der 
 [Sync Server][3] relativ problemlos eingerichtet.
 
-Die genaue Installation ist [hier][4] sehr schön beschrieben. Mein Server läuft hinter einerm [lighttpd][3]
+Die genaue Installation ist [hier][4] sehr schön beschrieben. Mein Server läuft hinter einem [lighttpd][3]
 und auch die Konfiguration ist beschrieben. Ich will hier nur die Stolpersteine auflisten, die mich etwas
 aus der Bahn geworfen haben.
 

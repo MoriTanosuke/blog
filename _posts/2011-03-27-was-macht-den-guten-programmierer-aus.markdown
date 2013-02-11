@@ -17,7 +17,7 @@ Ich lese ja öfter mal auf <a href="http://programmers.stackexchange.com">Progra
 
 **Das ist auch meine Meinung.**
 
-Damit will ich nicht sagen, dass alle Entwickler keine Freizeit, kein Leben und keine anderen Interessen haben sollen. Überhaupt nicht. Aber für mich ist das eine Frage des inneren Antriebs:
+Damit will ich nicht sagen, dass alle Entwickler keine Freizeit, kein Leben und keine anderen Interessen haben sollen. ÃÂberhaupt nicht. Aber für mich ist das eine Frage des inneren Antriebs:
 
 **Wenn ich mich für ein Thema interessiere, dann will ich immer mehr und immer neue Dinge darüber erfahren.**
 

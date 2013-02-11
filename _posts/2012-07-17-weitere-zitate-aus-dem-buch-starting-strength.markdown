@@ -10,9 +10,9 @@ Hier die Zitate, in keiner besonderen Reihenfolge:
 
 > A weak man is not as happy as that same man would be if he were strong.
 
-> Exercise is not a thing we do to fix a problem – it is a thing we must do anyway, a thing without which there will always be problems.
+> Exercise is not a thing we do to fix a problem Ã¢ÂÂ it is a thing we must do anyway, a thing without which there will always be problems.
 
-> Furthermore, barbells require the individual to make these adjustments, and any other ones that might be necessary to retain control over the movement of the weight. This aspect of exercise cannot be overstated – the control of the bar, and the balance and coordination demanded of the trainee, are unique to barbell exercise and completely absent in machine-based training.
+> Furthermore, barbells require the individual to make these adjustments, and any other ones that might be necessary to retain control over the movement of the weight. This aspect of exercise cannot be overstated Ã¢ÂÂ the control of the bar, and the balance and coordination demanded of the trainee, are unique to barbell exercise and completely absent in machine-based training.
 
 >If the weight room is not equipped with chalk, bring your own. If the gym complains, change gyms.
 
@@ -44,7 +44,7 @@ Das ist so ziemlich die einfachste Beschreibung, mit der man alle gängigen frei
 
 > Everything else can be wrong with the deadlift and nothing really bad will happen, but if your low back is round under a big load, safety will be compromised.
 
-> The bar should be 1–1½ inches from your shins. For almost every human being on the planet, this distance places the bar directly over the middle of the foot, the position over which the bar stays on its way up to lockout.
+> The bar should be 1Ã¢ÂÂ1ÃÂœ inches from your shins. For almost every human being on the planet, this distance places the bar directly over the middle of the foot, the position over which the bar stays on its way up to lockout.
 > ...
 > Most people are reluctant to keep the bar close enough to their legs during the pull, as well as when setting it down, and for that matter before the bar leaves the ground. This reluctance is often due to the fear of marring the beauty of the shins and thighs and a lack of appreciation of the significance of balance in the pull.
 

@@ -24,7 +24,7 @@ Zubehörliste, aber ich will sie hier auch nochmal aufführen:
   * reichlich Flaschen
 
 Ich hab mich dazu entschlossen, noch einen Läuterbehälter zu kaufen.
-Das ist im Prinzip wieder ein großer Plastikeimer, aber am Boden ist
+Das ist im Prinzip wieder ein groÃÂer Plastikeimer, aber am Boden ist
 direkt ein Ausfluss montiert. Darüber kann man das Läutertuch spannen
 und damit kann ich die Maische hoffentlich direkt aus dem Einkochtopf in
 den Läuterbehälter und anschliessend zum Würzekochen wieder in den
@@ -33,7 +33,7 @@ Brot verwertet.
 
 Das Bierset wahr natürlich vom Schwierigkeitsgrad überhaupt nicht mit
 diesem Vorgang zu vergleichen. Jetzt muss ich selbst kochen, die
-verschiedenen Rasten selbst durchführen, das Läutern ohne große
+verschiedenen Rasten selbst durchführen, das Läutern ohne groÃÂe
 Schweinerei in der Küche durchführen und ganz zum Schluss - wenn die
 schwierigen Schritte erledigt sind - die Würze aufkochen und in den
 Gärbehälter abfüllen. Bei einem Bierbrauset steigt man erst bei diesem

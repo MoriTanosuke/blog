@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wunschkonfiguration für einen Desktop-PC
+title: "Wunschkonfiguration für einen Desktop-PC"
 ---
 Heute hab ich mir bei [Alternate][0] eine PC-Konfiguration
 zusammengeklickt, weil ich irgendwie Lust hab, mir mal wieder was
@@ -15,16 +15,16 @@ man natürlich heute keinen Rechner mehr *ohne* SSD-Platte.
 Falls ihr gerade selbst an einer Konfiguration tüftel, lasst einfach
 einen Kommentar hier. Hier ist also meine Liste:
 
-* [Gainward GeForce GTX 560 PHANTOM][1] €164,90
-* [Intel® Core™ i7-2600K][2] €279,-
-* [be quiet! Dark Power Pro P9 650W][3] €169,90
-* [Cooler Master HAF RC-922M-KKN1-GP][4] €99,90
-* [Sony Optiarc BD-5300S][5] €81,90
-* [MSI P67A-GD53 (B3)][6] €117,90
-* [Western Digital WD5000AADS 500 GB][7] €129,90
-* [G.Skill DIMM 8 GB DDR3-1600 Quad-Kit][8] €119,90
+* [Gainward GeForce GTX 560 PHANTOM][1] 164,90
+* [Intel® Core i7-2600K][2] 279,-
+* [be quiet! Dark Power Pro P9 650W][3] 169,90
+* [Cooler Master HAF RC-922M-KKN1-GP][4] 99,90
+* [Sony Optiarc BD-5300S][5] 81,90
+* [MSI P67A-GD53 (B3)][6] 117,90
+* [Western Digital WD5000AADS 500 GB][7] 129,90
+* [G.Skill DIMM 8 GB DDR3-1600 Quad-Kit][8] 119,90
   
-**Gesamtpreis: €1163,30**
+**Gesamtpreis: 1163,30**
 
 
 [0]: http://www.alternate.de/

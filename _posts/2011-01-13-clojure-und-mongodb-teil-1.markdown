@@ -4,9 +4,9 @@ layout: post
 title: "Clojure Tutorial, Teil 3: MongoDB"
 wordpress_url: http://blog.kopis.de/?p=343
 ---
-*Dies ist der dritte Artikel in einer kleinen Serie, die meine ersten Schritte in der neuen funktionalen Programmiersprache <a href="http://clojure.org/">Clojure</a> dokumentieren soll. Die Artikel werden in unregelmäßigen Abständen hier publiziert.*
+*Dies ist der dritte Artikel in einer kleinen Serie, die meine ersten Schritte in der neuen funktionalen Programmiersprache <a href="http://clojure.org/">Clojure</a> dokumentieren soll. Die Artikel werden in unregelmäÃÂigen Abständen hier publiziert.*
 
-Heute hab ich mit <a href="http://blog.kopis.de/2010/11/30/clojure-tutorial-teil-1/">meinen</a> <a href="http://blog.kopis.de/2010/12/03/clojure-tutorial-teil-2-namespaces/">Gehversuchen</a> in <a href="http://clojure.org/">Clojure</a> weiter gemacht. Diesmal ging's darum, die <a href="http://de.wikipedia.org/wiki/NoSQL">NoSQL</a>-DB <a href="http://www.mongodb.org/">MongoDB</a> anzusprechen. Ich will mir nicht dauernd SQL-Datenbanken wie PostgreSQL oder MySQL ans Bein binden, nur um mich anschliessend mit den elenden `JOIN`-Statements rumzuschlagen. Meine SQL-Kenntnisse hören so ungefähr bei `SELECT * FROM X` auf - und so soll das auch bleiben.
+Heute hab ich mit <a href="http://blog.kopis.de/2010/11/30/clojure-tutorial-teil-1/">meinen</a> <a href="http://blog.kopis.de/2010/12/03/clojure-tutorial-teil-2-namespaces/">Gehversuchen</a> in <a href="http://clojure.org/">Clojure</a> weiter gemacht. Diesmal ging's darum, dieÃÂ <a href="http://de.wikipedia.org/wiki/NoSQL">NoSQL</a>-DB <a href="http://www.mongodb.org/">MongoDB</a> anzusprechen. Ich will mir nicht dauernd SQL-Datenbanken wie PostgreSQL oder MySQL ans Bein binden, nur um mich anschliessend mit den elenden `JOIN`-Statements rumzuschlagen. Meine SQL-Kenntnisse hören so ungefähr bei `SELECT * FROM X` auf - und so soll das auch bleiben.
 
 Deshalb stand heute ein simples Anwendungsgerüst auf meinem Stundenplan, das eine Webseite zur Verfügung stellt, die Daten aus einer MongoDB liefert. Also, ran ans Werk.
 
@@ -130,7 +130,7 @@ Etwas seltsam, aber vielleicht erschliesst sich mir der Grund noch.
 
 **Start der Webanwendung**
 
-Meine Anwendung starte ich jetzt wieder per *leiningen*. Dazu rufe ich eine REPL auf, lade meinen Sourcecode und rufe anschliessend die Funktion `dev` auf, die den Jetty-Server hochfährt. Änderungen an meinem Sourcecode werden automatisch geladen und so kann ich das Ergebnis direkt nach dem Neuladen der Seite begutachten.
+Meine Anwendung starte ich jetzt wieder per *leiningen*. Dazu rufe ich eine REPL auf, lade meinen Sourcecode und rufe anschliessend die Funktion `dev` auf, die den Jetty-Server hochfährt. Äderungen an meinem Sourcecode werden automatisch geladen und so kann ich das Ergebnis direkt nach dem Neuladen der Seite begutachten.
 
     $ lein repl
     REPL started; server listening on localhost:30939.

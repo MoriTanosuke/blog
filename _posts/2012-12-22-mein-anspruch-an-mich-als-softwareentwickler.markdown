@@ -14,8 +14,8 @@ Wenn ich also Software baue, höre ich in meinem Hinterkopf ein paar Fragen:
 
 * Wie oft muss ich klicken, um eine Funktion auszuführen?
 * Werden meine Eingaben übernommen und Fehler markiert oder muss ich alles nochmal ausfüllen?
-* Kann ich den Webservice ohne große Dokumentation verstehen?
-* Weiß ich, welche Daten ich liefern muss, um eine Antwort zu bekommen?
+* Kann ich den Webservice ohne groÃÂe Dokumentation verstehen?
+* WeiÃÂ ich, welche Daten ich liefern muss, um eine Antwort zu bekommen?
 * Ist die Fehlermeldung selbsterklärend oder steht da nur ein kryptischer Fehlercode?
 * Ist das für die Qualitätssicherung im Integrationstest nutzbar?
 * Muss ich noch etwas vorbereiten, damit ich den Code/die Funktionalität beim nächsten Mal erweitern kann?

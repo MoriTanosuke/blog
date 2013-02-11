@@ -27,7 +27,7 @@ also mache ich das jetzt auch wieder.
 
 Ausserdem war ich Samstag im Ausweichfitnessstudio trainieren. Mein
 üblicher PITT-Trainingsplan ist anstrengend genug und hat mir auch früher
-schon gute Dienste geleistet. Die Gewichte bei den einzelnen Übungen
+schon gute Dienste geleistet. Die Gewichte bei den einzelnen ÃÂbungen
 werde ich wieder etwas genauer verfolgen, um wirklich immer eine
 Steigerung der Intensität zu erreichen. Dazu gibt's später sicher noch
 die ein oder andere Tabelle - aber [Google Docs][0] ist auf einem Tablet

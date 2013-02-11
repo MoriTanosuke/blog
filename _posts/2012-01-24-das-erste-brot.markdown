@@ -14,7 +14,7 @@ Das ganze habe ich zu einem Teig vermischt, der zwar recht klebrig war, sich abe
 
 <a href="http://www.flickr.com/photos/cringe/6755892693/" title="2012-0-24_18.53.48 by cringe, on Flickr"><img src="http://farm8.staticflickr.com/7006/6755892693_c5e2fcdd09.jpg" width="375" height="500" alt="2012-0-24_18.53.48"></a>
 
-Da drin hab ich den Teig dann ca. 20min gehen lassen. Danach für 10min bei 250°C in den Ofen und anschliessend bei 180°C für 60min fertigbacken lassen.
+Da drin hab ich den Teig dann ca. 20min gehen lassen. Danach für 10min bei 250ÃÂ°C in den Ofen und anschliessend bei 180ÃÂ°C für 60min fertigbacken lassen.
 
 Das Ergebnis:
 

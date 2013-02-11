@@ -16,7 +16,7 @@ Schenken auf die Englischkenntnisse des Comicfans...
 Diese Comicbuch ist eine wirklch gute Zombie-Geschichte. Ein Cop erwacht
 aus dem Koma und muss sehen, dass die ganze Welt von Zombies überrollt
 wurde. Der Stil richtet sich eher an Erwachsene, das ganze Buch ist
-schwarz/weiß gehalten. Aber ich vermisse die Farbe nicht. Die
+schwarz/weiÃÂ gehalten. Aber ich vermisse die Farbe nicht. Die
 Zeichnungen sind minimalistisch, aber die klaren Linien passen irgendwie
 zum Fluss und zur Geschwindigkeit der Story. Das Kompendium ist gute 5cm
 dick, man muss also im Sitzen oder auf dem Bauch liegend lesen...
@@ -81,7 +81,7 @@ einige Abende gefesselt hat. Lohnt sich auf jeden Fall!
 > Heuschreckenschwarm verlieren sich die ungleichen Freunde aus den
 > Augen. Nun ist jeder von ihnen in einer riesigen, merkwürdigen Einöde
 > auf sich allein gestellt. Einer nach dem anderen gelangen sie in ein
-> geheimnisumwittertes Tal, das voller Furcht einflößender und
+> geheimnisumwittertes Tal, das voller Furcht einflöÃÂender und
 > wunderbarer Kreaturen steckt. Und schon befinden sich Phone, Fone und
 > Smiley auf der abenteuerlichsten Reise ihres Lebens!
 

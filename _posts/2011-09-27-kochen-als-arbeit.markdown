@@ -14,14 +14,14 @@ Ich glaub, ich sehe das auch so. Kochen macht mir keinen Spass und es keine Ents
 Ein zweites Argument ist die zusätzliche Zeit, die gerade bei Personen mit geringem Einkommen und Wohnsitz weit draussen für die Beschaffung von Nahrungsmitteln aufgewendet werden muss:
 
 > There are, of course, the so-called food deserts,
-> places where its hard to find food: the *Department 
+> places where itÃÂs hard to find food: the *Department 
 > of Agriculture* says that more than two million 
 > Americans in low-income rural areas live 10 miles 
 > or more from a supermarket, and 
 > more than five million households without access 
 > to cars live more than a half mile from a supermarket.
 
-Das ist in Amerika mit den *Suburbs* ein größeres Problem als in Deutschland, denke ich. Bei mir liegen jedenfalls mehrere Supermärkte in der Nähe, so dass ich zu Fuss einkaufen kann. Und mit dem Fahrrad wäre auch ein großer Bauernhof in Reichweite, der lokale Produkte aus eigener Herstellung anbietet.
+Das ist in Amerika mit den *Suburbs* ein gröÃÂeres Problem als in Deutschland, denke ich. Bei mir liegen jedenfalls mehrere Supermärkte in der Nähe, so dass ich zu Fuss einkaufen kann. Und mit dem Fahrrad wäre auch ein groÃÂer Bauernhof in Reichweite, der lokale Produkte aus eigener Herstellung anbietet.
 
 Aber trotzdem: Es gibt quasi in Mittagspausen-Entfernung einen *Burger King*, aber trotzdem gehe ich dort nicht jeden Tag essen. Ich werfe mir abends eine Tüte Tiefkühlgemüse in die Mikrowelle, backe einen Kürbis mit Speck im Ofen oder mache eine einfache Gemüsepfanne mit maximal 6 Zutaten. Das geht alles unter 30 Minuten Küchenzeit und schmeckt auch noch gut. Ob es günstiger ist als Junk Food, kann ich so nicht sagen. Dazu müsste ich wohl detailliert meine Lebensmittelkosten auf die einzelnen Tage ausrechnen... und das ist mir jetzt auch zu viel Arbeit. ![:-)](/img/emotes/face-smile.png)
 

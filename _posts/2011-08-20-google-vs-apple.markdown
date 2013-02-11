@@ -2,7 +2,7 @@
 layout: post
 title: Google vs. Apple
 ---
-Ich weiß nicht, ob es euch aufgefallen ist: [Goole hat Motorola Mobility][1] gekauft. Das kann man jetzt gut finden oder schlecht, Tatsache ist aber, dass Google langsam aber sicher Apple den ersten Platz im Mobilfunkgeschäft streitig machen wird.
+Ich weiÃÂ nicht, ob es euch aufgefallen ist: [Goole hat Motorola Mobility][1] gekauft. Das kann man jetzt gut finden oder schlecht, Tatsache ist aber, dass Google langsam aber sicher Apple den ersten Platz im Mobilfunkgeschäft streitig machen wird.
 
 Wie ich darauf komme? Das Iphone ist mittlerweile Massenware. Jeder <del>Depp</del>Möchtegern-Geek hat mittlerweile ein Iphone. Der Markt ist gesättigt. Was will Apple jetzt tun, damit man die Zuwachsraten der letzten Jahre halten kann? Wollen sie noch mehr Iphones verkaufen, müssen sie andere Käuferschichten erreichen - und da bleiben nur die Schichten mit niedrigen Verkaufspreisen übrig. Also wird es vielleicht ein Billig-Iphone geben? Wohl erst, wenn Steve Jobs endgültig die Unternehmensleitung und damit die völlige Kontrolle abgegeben wird. Ich glaube, das passiert erst, wenn er so krank ist, dass er keinen Schritt mehr tun kann...
 

@@ -30,7 +30,7 @@ Der Kapitalismus ist eher der Grund für die gegenwärtige wirtschaftliche
 und weltpolitische Situation. Im Grunde läuft alles auf die Frage
 hinaus, wie man mehr Geld verdient als die anderen. Ob das dann die
 Ausnutzung von fossilen Brennstoffen zur überproportionalen
-Energiegewinnung und des Energietransports oder die Überfischung der
+Energiegewinnung und des Energietransports oder die ÃÂberfischung der
 Meere zur Steigerung der Fisch*produktion* ist, kommt doch eigentlich
 auf das selbe raus... im Moment sind es eher die Rohstoffe, die zur
 Herstellung von Hochtechnologie benutzt werden, die rasant abgebaut
@@ -77,7 +77,7 @@ Wenn man jetzt aber anfängt, Software Entwickler als *stocks* zu
 bezeichnen, hat man gar nichts gewonnen. In Zukunft wird es darauf
 ankommen, seine Zeit mit sinnvollen Tätigkeiten zu verbringen, sich
 dabei wohl zu fühlen und seine sozialen Kreise zu unterstützen. Es wird
-nicht darauf ankommen, wo man den größten Dienstwagen oder den höchsten
+nicht darauf ankommen, wo man den gröÃÂten Dienstwagen oder den höchsten
 Bonus bekommt. Und es wird erst recht nicht darauf ankommen, wer einem
 das tollste Büffet oder den coolsten Platz für den Mittagsschlaf
 bietet.

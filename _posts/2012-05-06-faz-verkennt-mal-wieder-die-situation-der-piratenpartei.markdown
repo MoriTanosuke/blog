@@ -21,7 +21,7 @@ die Partei ins Leben. Das ist alles Unsinn oder seichtes Aufbereiten für
 die Konsumenten von [Spiegel Online][2] oder eben [FAZ][3]. Die
 Piratenpartei entstand, weil einige Leute mit der Situation rund um [The
 Pirate Bay][4], der Verbreitung von Inhalten im Internet, der immer
-stärker werdenden Kontrolle und Überwachung im Netz und auch der
+stärker werdenden Kontrolle und ÃÂberwachung im Netz und auch der
 Einschränkung der Meinungsfreiheit allgemein unzufrieden waren.
 
 Danach kommt noch ein weiterer treffender Punkt:
@@ -57,7 +57,7 @@ umsonst zu haben"*) nicht gerade das erklärte Ziel der Piratenpartei?
 
 Ich bin verwirrt. Nicht von dem Text, sondern von Leuten, die die
 Piratenpartei immer noch als Protestbewegung verstehen und nicht als
-Indikator für eine kulturelle Änderung, die in der gesamten Bevölkerung
+Indikator für eine kulturelle Äderung, die in der gesamten Bevölkerung
 passiert und nicht nur bei einigen Jugendlichen, die einfach alles
 runterladen, was sie irgendwo als Torrent finden...
 

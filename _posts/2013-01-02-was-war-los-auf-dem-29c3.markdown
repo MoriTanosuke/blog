@@ -17,7 +17,7 @@ Neben den ganzen Themen muss ich hier unbedingt noch 2 Sachen erwähnen, die man
 Freiwillige organisiert wohl nur auf wenigen Veranstaltungen sieht:
 
 * ein DECT- und GSM-Netz
-* eine Live-Übersetzung der deutschen Vorträge
+* eine Live-ÃÂbersetzung der deutschen Vorträge
 
 Erstes dient der Kommunikation auf dem Kongress (darum geht's ja schiesslich), in dem
 die Hacker sich eine Telefonnummer für die Tage im CCH besorgt haben und so Kontakte 
@@ -39,7 +39,7 @@ Geschlechts. Ich wäre gar nicht auf die Idee gekommen, dass das Geschlecht eine
 macht. Aber vielleicht bin ich da nicht ganz auf dem Laufenden...
 
 Mir hat der Kongress jedenfalls gefallen. Ich denke, ich bin niemandem auf die Nerven gegangen.
-Mit hat die Themenauswahl gefallen. Ich fand die Organisation großartig. Und ich kann
+Mit hat die Themenauswahl gefallen. Ich fand die Organisation groÃÂartig. Und ich kann
 jedem nur empfehlen, den Kongress nächstes Jahr zu besuchen.
 
 [0]: http://www.ccc.de/

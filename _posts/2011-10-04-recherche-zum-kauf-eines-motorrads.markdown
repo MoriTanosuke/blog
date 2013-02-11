@@ -20,7 +20,7 @@ Ich ziehe keine Marke vor, letztendlich muss sowieso die Probefahrt entscheiden.
 
 Wahrscheinlich werde ich ein gebrauchtes Modell kaufen, ca. 3 Jahre und 10k km. Allerdings ziehe ich einen Händler vor, einfach um mir Unannehmlichkeiten bei späteren Reklamationen oder Problemchen zu ersparen. Eine Garantie und erneuerte HU sind natürlich auch Pluspunkte.
 
-Mein Suchradius ist relativ groß, da ich quasi in 3 Postleitzahlgebieten suche. Aber mehr als 200km würde ich dann nicht mehr rumfahren.
+Mein Suchradius ist relativ groÃÂ, da ich quasi in 3 Postleitzahlgebieten suche. Aber mehr als 200km würde ich dann nicht mehr rumfahren.
 
 Stellen sich noch folgende Fragen:
 

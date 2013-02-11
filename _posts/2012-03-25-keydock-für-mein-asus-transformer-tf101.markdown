@@ -5,7 +5,7 @@ title: Keydock für mein ASUS Transformer TF101
 Heute morgen habe ich nach ein paar ernüchternden Suchen bei [ebay][0] eine Bestellung bei 
 [alternate][1] aufgegeben: ein [Tastaturdock][1] für mein ASUS Transformer TF101. Ich 
 hatte das Tablet ursprünglich ohne Tastatur bestellt, weil ich ja für echte Arbeit meinen 
-großen [Dell Studio 1747][3] habe. Aber eine Bildschirmtastatur reicht wirklich nicht lange. 
+groÃÂen [Dell Studio 1747][3] habe. Aber eine Bildschirmtastatur reicht wirklich nicht lange. 
 Und auch nur mit Tablet bewaffnet will ich am [Fitbit Analyzr][4] basteln oder meinen Blog 
 editieren.
 

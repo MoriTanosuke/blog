@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bin ich ein Schönwetterfahrer?
+title: "Bin ich ein Schönwetterfahrer?"
 ---
 Gestern abend bin ich mit dem Motorrad an der Elbe entlang gefahren. Mittwoch abend gab es schon Wetterwarnungen für Norddeutschland, d.h. es waren Windböen angekündigt. Aber ich bin trotzdem gefahren, weil ich in der nächsten Woche mit dem Motorrad noch etwas weiter möchte.
 

@@ -7,11 +7,11 @@ Smartphones bringen will: [friday][1]. Leider hat das Projekt sein
 Release immer wieder verschoben, um die Anwendung umzuschreiben oder in
 einer geschlossenen Betaphase Feedback von den Benutzern einzuholen. Ich
 halte das für falsch, aber die Angst vor negativen Bewertungen bei einem
-zu frühen Start der Anwendung in den Appstores ist wohl zu groß... Wer
+zu frühen Start der Anwendung in den Appstores ist wohl zu groÃÂ... Wer
 sich mal die Bewertungen - der auch Kommentare bei Youtube - angesehen
 hat, der wird das zum Teil nachvollziehen können. Ich hätte mich aber
 auch über eine frühe Version der Anwendung hergemacht und ich schrecke
-auch nicht bei Rewrites oder großen Updates mit Änderung der Oberfläche
+auch nicht bei Rewrites oder groÃÂen Updates mit Äderung der Oberfläche
 zurück.
 
 Wie auch immer, jetzt soll es [wirklich bald][0] soweit sein und das

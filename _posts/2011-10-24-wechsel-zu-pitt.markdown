@@ -11,7 +11,7 @@ TE1
 
   * Schrägbankdrücken Langhantel
   * Ausfallschritte
-  * Überzüge Kurzhantel
+  * ÃÂberzüge Kurzhantel
 
 TE2
 ---
@@ -20,7 +20,7 @@ TE2
   * French Press Langhantel
   * Kreuzheben
 
-Dazu mache ich ein paar andere Übungen, z.B. Curls, Crunches, Seitheben, Rotator liegend... usw usf.
+Dazu mache ich ein paar andere ÃÂbungen, z.B. Curls, Crunches, Seitheben, Rotator liegend... usw usf.
 
 Ich hab mich auch gerade bei [HealthMonth][0] angemeldet. Da kann man sich einige Ziele setzen, die anschliessend wie ein Spiel nachverfolgt werden. Man hat Lebenspunkte und muss die über den Monat retten. Wenn man viele Punkte hat, bedeutet das, man hat seine Ziele überwiegend erreicht. Ich hab z.B. Ziele wie "*3x Training pro Woche*" und "*5x Gemüse essen*". Man kann aber auch Verbote als Ziel setzen, z.B. "*Weniger Kaffee trinken*".
 
