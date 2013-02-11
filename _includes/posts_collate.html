@@ -26,6 +26,7 @@ Usage:
 	
 	{% if forloop.first %}
 		<h2 class="archives">{{this_year}}</h2>
+		<p>
 		<h3>{{this_month}}</h3>
 		<ul>
 	{% endif %}
@@ -34,19 +35,7 @@ Usage:
 	
 	{% if forloop.last %}
 		</ul>
-	{% else %}
-		{% if this_year != next_year %}
-			</ul>
-			<h2 class='archives'><a href="/{{next_year}}">{{next_year}}</a></h2>
-			<h3><a href="/{{next_year}}/{{next_month_num}}">{{next_month}}</a></h3>
-			<ul>
-		{% else %}		
-			{% if this_month != next_month %}
-				</ul>
-				<h3><a href="/{{this_year}}/{{next_month_num}}">{{next_month}}</a></h3>
-				<ul>
-			{% endif %}
-		{% endif %}
+		</p>
 	{% endif %}
 {% endfor %}
 
