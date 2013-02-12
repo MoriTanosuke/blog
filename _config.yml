@@ -4,7 +4,7 @@ paginate: 10
 
 permalink: /:year/:month/:day/:title/
 
-exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test", "CNAME", "_deploy.sh"]
+exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test", "CNAME", "_deploy.sh", "Rakefile"]
 
 owner-name: Carsten Ringe
 owner-page: http://moritanosuke.github.com
