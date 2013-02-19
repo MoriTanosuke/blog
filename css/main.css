@@ -467,42 +467,6 @@ pre {
   font-weight: normal;
   display: block;
 }
-
-@media screen and (min-width: 600px) {
-	#banner nav {
-	  background: #000305;
-	  height: 40px;
-	  line-height: 30px;
-	  margin: 0 auto 2em auto;
-	  padding: 0;
-	  text-align: center;
-	  
-	  border-radius: 5px;
-	  -moz-border-radius: 5px;
-	  -webkit-border-radius: 5px;
-	}
-
-	#banner nav ul {
-	  list-style: none;
-	  margin: 0 auto;
-	}
-	#banner nav li {
-	  float: left;
-	  display: inline;
-	  margin: 0;
-	}
-	#banner nav a:link, #banner nav a:visited, #banner nav form {
-	  color: #fff;
-	  display: inline-block;
-	  height: 30px;
-	  padding: 5px 1.5em;
-	  text-decoration: none;
-	}
-	#banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited {
-	  background: #c74451;
-	  color: #fff;
-	}
-}
 .share {
   height: 2em;
 }
@@ -576,13 +540,61 @@ ol#posts-list {
 
 /* move this into large screens only? */
 *{
-  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+  font-family: 'Droid Serif', Georgia, Times, serif;
 }
 h1,h2,h3,h4,h5,h6 * {
-  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
 }
+#joyridetour {
+  display: none;
+}
+
+
+/* ==|== media queries ======================================================
+   EXAMPLE Media Query for Responsive Design.
+   This example overrides the primary ('mobile first') styles
+   Modify as content requires.
+   ========================================================================== */
+/*
+@media only screen and (min-width: 35em) {
+}
+*/
 /* large screens */
 @media screen and (min-width: 600px) {
+#banner nav {
+  background: #000305;
+  height: 40px;
+  line-height: 30px;
+  margin: 0 auto 2em auto;
+  padding: 0;
+  text-align: center;
+  
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+#banner nav ul {
+  list-style: none;
+  margin: 0 auto;
+}
+#banner nav li {
+  float: left;
+  display: inline;
+  margin: 0;
+}
+#banner nav a:link, #banner nav a:visited, #banner nav form {
+  color: #fff;
+  display: inline-block;
+  height: 30px;
+  padding: 5px 1.5em;
+  text-decoration: none;
+}
+#banner nav a:hover, #banner nav a:active, #banner nav .active a:link, #banner nav .active a:visited {
+  background: #c74451;
+  color: #fff;
+}
+
   #posts-list .hentry {
     padding: 0;
     padding-left: 200px;
@@ -604,24 +616,6 @@ h1,h2,h3,h4,h5,h6 * {
   }
 }
 
-#joyridetour {
-  display: none;
-}
-
-
-
-
-
-
-/* ==|== media queries ======================================================
-   EXAMPLE Media Query for Responsive Design.
-   This example overrides the primary ('mobile first') styles
-   Modify as content requires.
-   ========================================================================== */
-
-@media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
-}
 
 
 
