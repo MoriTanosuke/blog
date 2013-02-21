@@ -8,6 +8,8 @@ src="carsten-at-kopis-de.png" alt="meine eMail-Adresse"/>.
 
 Ihr könnt auch auf [meinem Profil bei G+][3] vorbeischauen.
 
+Wenn ihr wissen wollt, woran ich gerade arbeite, schaut bei <a href="https://github.com/MoriTanosuke/"><img src="/img/Octocat-small.png" height="24" /> meinem Github-Profil</a> vorbei.
+
 Falls ihr [Bitcoin][4] verwendet, meine Adresse ist
 *15QiUXXBjqkATFj5HZn5ASUqbnrS2rD1Lg*.
 
@@ -75,4 +77,5 @@ Ihr könnt auch gleich [die Schlüsseldatei runterladen][2].
 [2]: /contact/carsten-at-kopis-de.txt
 [3]: https://plus.google.com/110503464505798755891
 [4]: http://bitcoin.org/
+[5]: https://github.com/MoriTanosuke/
 
