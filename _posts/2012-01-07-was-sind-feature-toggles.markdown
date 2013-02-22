@@ -8,7 +8,7 @@ Zeitpunkt einzuschalten, obwohl der entsprechende Code schon
 implementiert ist. Ich habe nur eine einzige Stelle, an der ich diesen
 Schalter brauche und er sitzt sehr weit vom Benutzer entfernt im
 Backend-Code. Damit will ich schnell auf eine Entscheidung aus dem
-Business reagieren, die wir dann ohne groÃÂe Vorlaufzeit durch das
+Business reagieren, die wir dann ohne große Vorlaufzeit durch das
 Umsetzen eines Properties in einer Datei umsetzen können.
 
 Damit begebe ich mich auf dünnes Eis und ich muss jetzt zu jeder
@@ -29,7 +29,7 @@ wiedergeben:
 Es ist also wichtig, dass dieser *Feature Toggle* mit dem nächsten
 vollständigen Release wieder entfernt wird. Ansonsten findet man sich
 schnell mit einer explodierenden Anzahl von Kombinationen der *Toggles*
-wieder und niemand weiÃÂ mehr so genau, was die einzelnen Schalter jetzt
+wieder und niemand weiß mehr so genau, was die einzelnen Schalter jetzt
 ein oder ausschalten. Ausserdem wird der Code schnell unübersichtlich,
 weil man die Schalter wahrscheinlich durch IF-Abfragen implementiert hat
 und jeder Schalter die Anzahl der Programmpfade erhöht.
