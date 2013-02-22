@@ -4,13 +4,13 @@ title: "Steuerschlupflöcher schaden nicht nur dem Finanzamt"
 tags: "umwelt"
 ---
 
-Wenn man sich [diese Geschichte über eine ÃÂlbohrplattform von Shell][0] durchliest, wird einem 
-ganz anders. Shell hat die ÃÂlbohrplattform anscheinend für eine Routineüberprüfung verlegen 
+Wenn man sich [diese Geschichte über eine Ölbohrplattform von Shell][0] durchliest, wird einem 
+ganz anders. Shell hat die Ölbohrplattform anscheinend für eine Routineüberprüfung verlegen 
 wollen und sie während eines Unwetters auf Grund gesetzt. Jetzt vermutet also [The Independent][1],
-dass nicht die ÃÂberprüfung der Grund war, sondern dass der Konzern Steuern in Höhe von ca. 7M US$
+dass nicht die Überprüfung der Grund war, sondern dass der Konzern Steuern in Höhe von ca. 7M US$
 sparen wollte...
 
-Jetzt müssen sie die Evakuierungsmassnahmen und die Bergung bezahlen. *Natürlich* ist kein ÃÂl
+Jetzt müssen sie die Evakuierungsmassnahmen und die Bergung bezahlen. *Natürlich* ist kein Öl
 ausgetreten, es besteht kein Grund zur Beunruhigung, bitte gehen Sie weiter, es gibt nichts zu 
 sehen... (Ok, das war jetzt [Fefe Modus][2].)
 
