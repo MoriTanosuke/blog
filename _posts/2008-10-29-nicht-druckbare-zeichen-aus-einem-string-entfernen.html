@@ -7,7 +7,7 @@ wordpress_url: http://blog.kopis.de/?p=168
 
 <p>Ja, ich wei&szlig;. Ich poste zu viel <a href="http://kopis.wordpress.com/category/allgemeines/musik/">Musik</a>. Aber das muss sein!  Jetzt kommt aber noch etwas anderes, n&auml;mlich das Entfernen von nicht-druckbaren Zeichen aus einem String - in <a href="http://java.sun.com/">Java</a>:</p>
 
-<pre>String s = new String(new char[] {0x05, 0x03, 'H', 'E', 'L', 0x10, 'L', 'O'});
+<pre class="brush: java">String s = new String(new char[] {0x05, 0x03, 'H', 'E', 'L', 0x10, 'L', 'O'});
 String clean = s.replaceAll("[^\p{Print}]", "");
 System.out.println("'" + s + "'");
 System.out.println("'" + clean + "'");</pre>
