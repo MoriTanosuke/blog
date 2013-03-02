@@ -11,7 +11,6 @@ Carlos has a good point:
 <blockquote class="posterous_medium_quote">
 <strong>Avoid useless abstractions</strong>: this is related to the previous topic, but deserves to be treated separately. Abstractions are useful if they simplify the way a feature is implemented. However, some abstractions exist only to satisfy the needs of developers.</blockquote>
 
-<img src="http://posterous.com/getfile/files.posterous.com/import-rzzc/iamjEIiqsntiqIIgsvepkeywvecvBvBdfAqkfmIxEyxitfxyezigioepEJwj/media_httpblogkopisde_sAdvD.jpg.scaled500.jpg" width="300" height="225"/>
 I tend to fall into this pit, because I'm a big fan of patterns. And you can throw a bunch of patterns in every day. ;-) But is it always as useful as you might think? I don't think so. Do you really need the plugin mechanism for a simple file access? Do you really have to implement all the interfaces and classes just to be able to add a new kind of transportation container soon? I try to follow <a href="http://en.wikipedia.org/wiki/KISS_principle">KISS</a> and avoid unneccessary code. A good example for this: I created a small servlet that reads LDAP information and displays them on a web page. All implemented as a servlet. Yes, I know, separation of code and display. But do I have to add a templating layer, JSPs, a model and all that if the application is more likely to vanish than to be continued in a few months?
 
 The next tips in <a href="http://coliveira.net/software/how-to-create-robust-software-designs/">Carlos article</a> are good to keep in mind too.
