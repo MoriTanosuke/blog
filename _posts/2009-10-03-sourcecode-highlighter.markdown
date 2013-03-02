@@ -5,9 +5,9 @@ title: Sourcecode Highlighter
 wordpress_url: http://blog.kopis.de/?p=151
 ---
 
-    Ich teste gerade ein Plugin f&uuml;r Quelltexte:
+Ich teste gerade ein Plugin f&uuml;r Quelltexte:
 
-[sourcecode language="java"]
+<pre class="brush: java">
 /**
  * This is a comment.
  */
@@ -18,5 +18,4 @@ public class Test extends JFrame {
         System.out.println("Hello, World!");
     }
 }
-[/sourcecode]
-  
+</pre>
