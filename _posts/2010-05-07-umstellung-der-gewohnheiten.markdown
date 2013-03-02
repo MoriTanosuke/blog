@@ -5,7 +5,7 @@ title: Umstellung der Gewohnheiten
 wordpress_url: http://blog.kopis.de/?p=116
 ---
 
-    Seit einem Monat trainiere ich nun in meinem Keller, statt im Fitnessstudio. Ich habe daf&uuml;r ein Rack, eine Hantelbank (bei der ich mich wohl verkauft habe), eine SZ-Stange und ca. 80kg Gewicht. Das reicht noch nicht ganz, es fehlt noch eine Langhantelstange und ca. 40kg Gewicht.
+Seit einem Monat trainiere ich nun in meinem Keller, statt im Fitnessstudio. Ich habe daf&uuml;r ein Rack, eine Hantelbank (bei der ich mich wohl verkauft habe), eine SZ-Stange und ca. 80kg Gewicht. Das reicht noch nicht ganz, es fehlt noch eine Langhantelstange und ca. 40kg Gewicht.
 
 Und es fehlt mir die Umgew&ouml;hnung, dass jetzt "<em>zuhause sein</em>" nicht mehr bedeutet "<em>unt&auml;tig herumh&auml;ngen</em>".
 
