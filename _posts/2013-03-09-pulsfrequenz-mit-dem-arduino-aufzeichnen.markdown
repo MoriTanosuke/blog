@@ -6,8 +6,7 @@ Es ist soweit: Nach den letzten Klebe- und Lötarbeiten kann ich jetzt
 mit meinem Arduino auf eine *microSD*-Karte meine Pulsfrequenz
 aufzeichen.
 
-<img src="/img/content/IMG_20130309_161937.jpg" alt="Pulssensor an
-meinem Ohr" />
+<a href="/img/content/IMG_20130309_161937.jpg"><img src="/img/content/thumb_IMG_20130309_161937.png" alt="Pulssensor an meinem Ohr" /></a>
 
 Natürlich habe ich daraus auch gleich ein Diagramm erstellt. ;-)
 
