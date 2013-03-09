@@ -13,4 +13,4 @@ für mich:
 
 <a href="/img/content/IMG_20130309_161937.jpg"><img src="/img/content/thumb_IMG_20130309_161937.png" alt="Pulssensor an meinem Ohr" /></a>
 
-<img src="/img/content/diagramm_IMG_20130309_161937.png" alt="Diagramm meiner Pulsfrequenz" />
+<img src="/img/content/diagramm_20130309_161937.png" alt="Diagramm meiner Pulsfrequenz" />
