@@ -8,6 +8,10 @@ warte ich ja auf das [Fitbit Flex][2], aber wer weiß, wann das wirklich rauskom
 dem Jawbone eine bessere Verarbeitung zu, da mittlerweile die zweite Iteration auf dem Markt ist. So viel
 Erfahrung muss Fitbit erstmal mit einem Armband machen.
 
+Leider synchronisiert Jawbone nicht kabellos, sondern über den Audiostecker. Man muss also mindestens 1x pro
+Tag das Armband abnehmen, die App starten und das Jawbone einstöpseln. Zum Aufladen wird dazu noch ein 
+proprietärer Stecker verwendet. Keine Pluspunkte.
+
 Wieso sollte ich überhaupt wechseln?
 
 1. ist ein Armband viel praktischer als ein Clip. Man muss nichts umstecken, man muss beim umziehen nicht aufpassen, ob das Teil abgesprungen ist, man muss nicht ständig am Hosenbund rumfummeln, um zu kontrollieren, ob das Ding noch da ist. Man sieht es sofort.
