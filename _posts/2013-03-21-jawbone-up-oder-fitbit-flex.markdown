@@ -23,6 +23,9 @@ als CSV oder als JSON? Minütliche Schritt-Daten oder auch nur Zusammenfassungen
 
 **Weiß da jemand mehr? Gibt es da eine Demo oder zumindest ein Video?**
 
+**Update** Ich werd auf das Fitbit Flex warten. Die kabellose Synchronisation muss schon sein, ich
+will nicht immer daran denken müssen, das Armband an mein Telefon zu stöpseln...
+
 [0]: https://jawbone.com/up
 [1]: https://play.google.com/store/apps/details?id=com.jawbone.up
 [2]: http://fitbit.com/de/flex
