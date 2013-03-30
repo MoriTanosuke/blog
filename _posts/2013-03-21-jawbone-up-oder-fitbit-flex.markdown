@@ -10,7 +10,7 @@ Erfahrung muss Fitbit erstmal mit einem Armband machen.
 
 {% include adsense.html %}
 <style type="text/css">
-.adsense {
+#adsense {
   float: left;
   padding-right: 1em;
 }
