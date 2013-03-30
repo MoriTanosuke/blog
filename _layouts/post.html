@@ -5,6 +5,10 @@ layout: default
 <div id="post-meta">{% if page.category %}Abgelegt in <span class="categories">{{page.category}}</span>.{% endif %} {% if page.tags and page.tags != '' %}Getaggt mit <span class="tags">{{page.tags}}</span>.{% endif %}</div>
 -->
 {{ content }}
+<div>
+    Vergesst nicht, <a href="/archive/">meine anderen Artikel durchzugucken</a>. Oder gebt hier einen Suchbegriff ein:
+    {% include google-cse.html %}
+</div>
 <div class="share">
 <a class="FlattrButton" style="display:none;"
     title="{{ page.title }}"
