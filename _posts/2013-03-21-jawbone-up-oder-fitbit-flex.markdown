@@ -9,6 +9,12 @@ dem Jawbone eine bessere Verarbeitung zu, da mittlerweile die zweite Iteration a
 Erfahrung muss Fitbit erstmal mit einem Armband machen.
 
 {% include adsense.html %}
+<style type="text/css">
+.adsense {
+  float: left;
+  padding-right: 1em;
+}
+</style>
 
 Leider synchronisiert Jawbone nicht kabellos, sondern über den Audiostecker. Man muss also mindestens 1x pro
 Tag das Armband abnehmen, die App starten und das Jawbone einstöpseln. Zum Aufladen wird dazu noch ein 
