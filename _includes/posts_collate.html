@@ -19,7 +19,6 @@ Usage:
 {% for post in posts_collate	%}
 	{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 	{% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-	{% capture this_month_localized %}{{ post.date | localize: "%B" }}{% endcapture %}
 	{% capture this_month_num %}{{ post.date | date: "%m" }}{% endcapture %}
 	{% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 	{% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
@@ -29,7 +28,6 @@ Usage:
 		<h3 class="archives">{{this_year}}</h3>
 		<p>
 		<h4>{{this_month}}</h4>
-		<!-- h4>{{this_month_localized}}</h4 -->
 		<ul>
 	{% endif %}
 	
