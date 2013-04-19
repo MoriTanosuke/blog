@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: The 4-Hour Chef von Tim Ferriss
 excerpt: Das neue Buch von Tim Ferriss ist erschienen - The 4-Hour Chef.
@@ -11,14 +11,14 @@ Kindle][2]).
 
 Hier ist was Tim selbst über das Buch sagt:
 
-> HereÃ¢ÂÂs the complete title: The 4-Hour Chef: The Simple Path to Cooking
+> Here's the complete title: The 4-Hour Chef: The Simple Path to Cooking
 > Like a Pro, Learning Anything, and Living the Good Life. Intended to be
-> *the cookbook for people who donÃ¢ÂÂt buy cookbooks,* The 4-Hour Chef will
+> *the cookbook for people who don't buy cookbooks,* The 4-Hour Chef will
 > use food as a vehicle to teach the art and science of meta-learning -
 > the skill of learning skills. Whether you want to learn a new instrument
-> or a new sport (or anything in between), youÃ¢ÂÂll have a field-tested and
+> or a new sport (or anything in between), you'll have a field-tested and
 > research-backed blueprint. In addition to insight from world-class
-> chefs, weÃ¢ÂÂll have an unreal cast of characters helping you to multiply
+> chefs, we'll have an unreal cast of characters helping you to multiply
 > your learning potential.
 
 Natürlich hat Tim das Buch wieder rechtzeitig zur Weihnachtszeit und der

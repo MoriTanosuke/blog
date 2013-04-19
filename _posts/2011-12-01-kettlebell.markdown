@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Kettlebell
 excerpt: "Mein neuer Kettlebell ist angekommen und ich habe ein paar Videos rausgesucht, die bei den ersten Üungen helfen sollen."
@@ -11,8 +11,13 @@ Ich hab mich für diese Bastel-Variante entschieden, weil ich nicht genau wuße,
 
 Nach dem Auspacken habe ich zuerst bei Youtube nach guten Videos gesucht und diese beiden haben mir besonders gut gefallen, weil dort auch die Ausführung erklärt wird:
 
+* http://www.youtube.com/watch?v=emdIuL7LVLE
+* http://www.youtube.com/watch?v=Lw7RPbbHCJY
+
+{% comment %}
 <iframe width="420" height="315" src="http://www.youtube.com/embed/emdIuL7LVLE" frameborder="0" allowfullscreen></iframe>
 <iframe width="420" height="315" src="http://www.youtube.com/embed/Lw7RPbbHCJY" frameborder="0" allowfullscreen></iframe>
+{% endcomment %}
 
 Ich hab auch gleich das erste Training gemacht, ca. 20 Minuten *Double Handed Swing*, *One Handed Swing* und *Dead Clean*. Es war anstrengender, als ich gedacht hab. Nachdem ich Montag und Dienstag auch schon trainiert hatte, war mein Rücken schon etwas vorbelastet und ein kleiner Muskelkater war auch schon zu spüren. Trotzdem hat das Schwingen Spass gemacht und ich denke, ich konnte auch schon spüren, welche Muskelgruppen bei den Üungen belastet werden.
 
