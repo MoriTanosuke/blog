@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Kettlebell
 excerpt: "Mein neuer Kettlebell ist angekommen und ich habe ein paar Videos rausgesucht, die bei den ersten Üungen helfen sollen."
