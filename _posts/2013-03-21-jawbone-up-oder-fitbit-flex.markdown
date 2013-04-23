@@ -1,6 +1,7 @@
 ---
 title: "Jawbone UP oder Fitbit Flex?"
 layout: post
+tags: frontpage
 ---
 Seit dieser Woche gibt es das [Jawbone UP][0] auch in Deutschland, ausserdem ist endlich die [Android App
 für das Jawbone][1] fertig. Damit rückt es auf meiner Wunschliste wieder weiter nach oben. Eigentlich

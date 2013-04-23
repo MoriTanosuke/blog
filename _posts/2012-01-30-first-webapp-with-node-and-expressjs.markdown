@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a simple blog with NodeJS and Express
-tags: nodejs
+tags: nodejs,frontpage
 ---
 
 After [installing NodeJS][0] and [creating a basic web application with
