@@ -1,6 +1,7 @@
 ---
 layout: docs
 title: Kontakt
+contact: true
 ---
 Hier findet ihr ein paar Wege, um Kontakt mit mir aufzunehmen. Am besten
 versucht ihr es aber einfach per eMail an <img

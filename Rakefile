@@ -11,17 +11,12 @@ end
 
 desc "Build site using Jekyll"
 task :build do
-  jekyll "--no-server --no-auto"
+  jekyll "build"
 end
 
 desc "Serve on Localhost with port 4000"
 task :default do
-  jekyll "--server --auto"
-end
-
-desc "Serve on Localhost with port 4000 using development version"
-task :unstable do
-  jekyll "--server --auto", "../jekyll/bin/"
+  jekyll "serve --watch"
 end
 
 namespace :deploy do

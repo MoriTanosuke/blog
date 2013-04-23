@@ -4,7 +4,9 @@
       <h1>
         <a href="{{ site.url }}/">
           <span>KOPIS.DE</span>
+{% comment %}
           <img src="{{ site.url }}/img/logo-2x.png" width="249px" height="115px" alt="">
+{% endcomment %}
         </a>
       </h1>
     </div>
@@ -13,10 +15,10 @@
         <li {% if page.overview %}class="current"{% endif %}>
           <a href="{{ site.url }}/">Startseite</a>
         </li>
-        <li {% unless page.overview %}class="current"{% endunless %}>
+        <li {% if page.archives %}class="current"{% endif %}>
           <a href="{{ site.url }}/archive">Archiv</a>
         </li>
-        <li {% unless page.overview %}class="current"{% endunless %}>
+        <li {% if page.contact %}class="current"{% endif %}>
           <a href="{{ site.url }}/contact">Kontakt</a>
         </li>
 
