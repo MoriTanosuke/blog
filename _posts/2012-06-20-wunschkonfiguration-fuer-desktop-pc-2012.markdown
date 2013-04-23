@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wunschkonfiguration für einen Desktop-PC, Update 2012
-tags: computer, hardware
+tags: computer hardware
 ---
 
 Ich hab mich heute morgen mal wieder hingesetzt und bei [Alternate][0] und dann bei [Mindfactory][4]

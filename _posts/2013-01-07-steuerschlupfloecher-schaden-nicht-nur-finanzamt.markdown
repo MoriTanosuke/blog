@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steuerschlupflöcher schaden nicht nur dem Finanzamt"
-tags: "umwelt"
+tags: umwelt
 ---
 
 Wenn man sich [diese Geschichte über eine Ölbohrplattform von Shell][0] durchliest, wird einem 

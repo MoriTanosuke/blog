@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Das Internet zurückerobern - Projekte zum Einstieg"
-tags: "internet"
+tags: internet
 ---
 
 Vor ein paar Tagen hat [Johnny Häusler bei Spreeblick][0] den Aufruf gemacht, das Internet von den *walled gardens* zurückzuerobern. Dafür müsste die freie und dezentrale Technologie aber auch den Laien zugänglich gemacht werden, damit diese nicht mehr zu Diensten wie Facebook oder Twitter abwandern, um ihre Inhalte zu erstellen und zu teilen.
