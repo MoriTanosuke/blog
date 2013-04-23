@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Mehr freie Apps auf Mobiltelefonen!"
-published: false
 ---
 
-**TL;DR** Ich nutze jetzt wieder [Instapaper][2] mit [Instafetch][3], statt [Pocket][1].
+**TL;DR** Ich nutze jetzt wieder [Instapaper][2] mit [Instafetch][3], statt [Pocket][1]. Der Grund dafür
+sind die ausufernden Berechtigungen der [Android App von Pocket][0].
+
+Und jetzt die ausführliche Geschichte:
 
 Vor einigen Tagen kam ein neues Update für die [Android App von Pocket][0] rein. Ich nutze [Pocket][1] 
 sehr oft, um mir interessante Artikel aus meinen RSS Feeds zu merken und erst später zu lesen. Allerdings
@@ -30,14 +32,26 @@ von Android weitergegeben habe.
 
 Und jetzt wird noch eine Berechtigung angefordert, mit der Pocket alle meine Kontakte auslesen kann
 statt einfach die Standard-Funktion zum Teilen von Inhalten auf Android-Telefonen zu verwenden. Wieso?
+Ich war schon drauf und dran, eine eigene Android App anzufangen, die auf die [API von Pocket][5] zugreift.
 
-Wie auch immer, ich nutze jetzt also wieder [Instapaper][2] und als App nehme ich [Instafetch][3],
+Diese App hätte ich nur mit den allernotwendigsten Berechtigungen entwickelt, z.B. 
+[WRITE_EXTERNAL_STORAGE][6], um Artikel auf der SD-Karte abzulegen oder [INTERNET][7], um die 
+Artikel von Pocket zu laden. Vielleicht noch eine weitere Berechtigung, um einen Hintergrundservice
+für die Synchronisation einzurichten. Und das wär's auch schon. Natürlich würde ich diese
+Anwendung unter die [GPL][8] stellen, damit alle anderen sie nutzen, den Quelltext lesen und sie
+verbessern oder verändern können.
+
+Wie auch immer, ich nutze erstmal wieder [Instapaper][2] und als App nehme ich [Instafetch][3],
 wo die Berechtigungen erträglich sind. Am liebsten würde ich auf sowas ganz verzichten, dann muss ich
-aber z.B. vor einer Zugfahrt oder anderen Offline-Zeiten immer dran denken, die Seite aufzurufen
-und drauf zu hoffen, dass die Entwickler der Seite HTML5 und [local storage][4] nutze.
+aber z.B. vor einer Zugfahrt (oder anderen Offline-Zeiten) immer dran denken, die Seite aufzurufen
+und drauf hoffen, dass die Entwickler der Seite HTML5 und [local storage][4] nutze.
 
 [0]: https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro
 [1]: http://getpocket.com/
 [2]: http://instapaper.com
 [3]: https://play.google.com/store/apps/details?id=pl.immortal.instafetchpro.am
 [4]: http://diveintohtml5.info/storage.html
+[5]: http://getpocket.com/developer/docs/overview
+[6]: http://developer.android.com/reference/android/Manifest.permission.html#WRITE_EXTERNAL_STORAGE
+[7]: http://developer.android.com/reference/android/Manifest.permission.html#INTERNET
+[8]: http://de.wikipedia.org/wiki/GNU_General_Public_License
