@@ -61,7 +61,7 @@ Wer sicher sein will, ein sauberes System zu haben, der sollte in der
 Recovery auch einen *Factory Reset* (auch *Full Wipe* genannt) machen.
 Dann wird die komplette Datenpartition gelöscht und alle Anwendungen und
 Benutzerdaten sind verschwunden. Ich empfehle vorher ein Backup der
-Anwendungen und Daten mit [Titanium Backup][7]. Damit lassen sich
+Anwendungen und Daten mit [Titanium Backup][9]. Damit lassen sich
 Backups einfach auf der SD-Karte erstellen und wiederholen.
 
 Die Installation von *Revolver MOD* dauerte bei mir ca. 15 Minuten.

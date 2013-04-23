@@ -8,7 +8,9 @@ Yesterday I installed [Lilina][1] on my quest for a replacement of [Google Reade
 
 This is my first shot:
 
-<a href="http://www.flickr.com/photos/cringe/6085310770/" title="Lilina: Mobile Template by cringe, on Flickr"><img src="http://farm7.static.flickr.com/6081/6085310770_94091e9ef7.jpg" width="429" height="348" alt="Lilina: Mobile Template"></a><a href="http://www.flickr.com/photos/cringe/6085310780/" title="Lilina: Mobile Template by cringe, on Flickr"><img src="http://farm7.static.flickr.com/6072/6085310780_c3119b9f5c.jpg" width="396" height="500" alt="Lilina: Mobile Template"></a><a href="http://www.flickr.com/photos/cringe/6085310782/" title="Lilina: Mobile Template by cringe, on Flickr"><img src="http://farm7.static.flickr.com/6077/6085310782_10bffec384.jpg" width="362" height="500" alt="Lilina: Mobile Template"></a>
+![Lilina Mobile Template][7]
+![Lilina Mobile Template][8]
+![Lilina Mobile Template][9]
 
 If you want to have a look at my installation, head over to [my self-hosted homepage][4].
 
@@ -21,3 +23,6 @@ Unfortunatly I have a problem with the templating system. I have yet to figure o
 [4]: https://cringe.dnsalias.org/rss/
 [5]: http://code.google.com/p/iui/
 [6]: https://github.com/MoriTanosuke/Lilina
+[7]: http://farm7.static.flickr.com/6081/6085310770_94091e9ef7.jpg
+[8]: http://farm7.static.flickr.com/6072/6085310780_c3119b9f5c.jpg
+[9]: http://farm7.static.flickr.com/6077/6085310782_10bffec384.jpg

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: docs
 title: Kontakt
 ---
 Hier findet ihr ein paar Wege, um Kontakt mit mir aufzunehmen. Am besten

@@ -1,13 +1,10 @@
-﻿---
+---
 layout: post
 title: The 4-Hour Chef von Tim Ferriss
 excerpt: Das neue Buch von Tim Ferriss ist erschienen - The 4-Hour Chef.
 ---
-Es ist soweit: Das neue Buch von [Tim Ferriss][0] mit dem Namen [The
-4-Hour Chef][1] ist jetzt [bei Amazon verfügbar][1] ([auch für
-Kindle][2]).
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1Z-fkHUkCPs" frameborder="0" allowfullscreen></iframe>
+Es ist soweit: Das neue Buch von [Tim Ferriss][0] mit dem Namen [The 4-Hour Chef][1]
+ist jetzt [bei Amazon verfügbar][1] ([auch für Kindle][2]).
 
 Hier ist was Tim selbst über das Buch sagt:
 
@@ -30,7 +27,6 @@ und finde es nach wie vor gut für den Einstieg in effektives Training.
 
 Habt ihr die Bücher von Tim gekauft? Werdet ihr dieses Buch auch kaufen?
 Wenn nicht, wieso nicht?
-
 
 [0]: http://www.fourhourworkweek.com/blog/
 [1]: http://myln.de/12c

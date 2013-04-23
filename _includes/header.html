@@ -1,0 +1,30 @@
+<header>
+  <div class="content">
+    <div class="grid3 first">
+      <h1>
+        <a href="{{ site.url }}/">
+          <span>KOPIS.DE</span>
+          <img src="{{ site.url }}/img/logo-2x.png" width="249px" height="115px" alt="">
+        </a>
+      </h1>
+    </div>
+    <nav class="grid9">
+      <ul>
+        <li {% if page.overview %}class="current"{% endif %}>
+          <a href="{{ site.url }}/">Startseite</a>
+        </li>
+        <li {% unless page.overview %}class="current"{% endunless %}>
+          <a href="{{ site.url }}/archive">Archiv</a>
+        </li>
+        <li {% unless page.overview %}class="current"{% endunless %}>
+          <a href="{{ site.url }}/contact">Kontakt</a>
+        </li>
+
+        <li class="">
+          <a href="https://github.com/MoriTanosuke/moritanosuke.github.com">Auf GitHub ansehen</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="clear"></div>
+  </div>
+</header>

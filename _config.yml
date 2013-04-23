@@ -1,16 +1,8 @@
-markdown: rdiscount
-auto: true
-paginate: 10
-
 permalink: /:year/:month/:day/:title/
-
-exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test", "CNAME", "_deploy.sh", "Rakefile"]
-
-owner-name: Carsten Ringe
-owner-page: http://moritanosuke.github.com
-owner-email: carsten@kopis.de
-owner-title: Blog von Carsten Ringe
-
 disqus-shortname: kopisde
-url: http://blog.kopis.de
-feedburner: http://feeds.feedburner.com/kopisde
+paginate: 5
+# github default settings
+#markdown: rdiscount
+safe: true
+lsi: false
+pygments: false
