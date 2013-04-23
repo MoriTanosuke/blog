@@ -5,7 +5,7 @@ title: "CLANG - Besserer Schwertkampf für Computerspiele"
 
 Vor ein paar Tagen habe ich auf [Kickstarter][0] das [Projekt CLANG][1] entdeckt. Prominenter Fürsprecher ist [Neal Stephenson][2], der anscheinend begeisterter Schwerkämpfer ist. Ihr solltet euch *jetzt sofort* das erste Video angucken:
 
-<iframe frameborder="0" height="360px" src="http://www.kickstarter.com/projects/260688528/clang/widget/video.html" width="480px"></iframe>
+<iframe width="480" height="360" src="http://www.kickstarter.com/projects/260688528/clang/widget/video.html" frameborder="0"> </iframe>
 
 Ich zitiere jetzt einfach mal die drei wichtigsten Punkte aus der Projektbeschreibung:
 
