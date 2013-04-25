@@ -10,9 +10,9 @@ Als ersten Schritt würde ich immer noch einen eigenen Blog sehen. Wer damit los
 
 Es gibt jetzt schon einige Projekte, die genau die Funktionen bereitstellen, mit denen die großen Dienste die Nutzer anlocken. Ich will hier mal ein paar auflisten, damit ihr einen Anhaltspunkt habt, wo ihr als Helfer einsteigen und wo ihr mit eurem Beitrag etwas verändern könnt.
 
-  * [Diaspora][1]
-  * [Owncloud][2]
-  * [StatusNet][3] (genutzt von [identi.ca][5])
+* [Diaspora][1]
+* [Owncloud][2]
+* [StatusNet][3] (genutzt von [identi.ca][5])
 
 Bei [owncloud][2] gibt es sogar eine Extra-Seite für die sog. [Junior Jobs][4], mit denen man in die Entwicklung einsteigen könnte. Fast alle Open Source Projekte bieten so eine Übersicht über die Kleinigkeiten, die noch offen sind, die aber von keinem bearbeitet werden. Ausserdem hat jeden Projekt eine oder mehrere Mailinglisten, über die man mit den anderen Leuten in Kontakt kommen kann.
 
