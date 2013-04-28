@@ -6,8 +6,10 @@ paginate: 5
 safe: true
 lsi: false
 pygments: false
+url: http://blog.kopis.de
 
 # site settings
 owner-name: Carsten Ringe
 owner-email: carsten@kopis.de
+owner-uri: http://www.kopis.de/
 

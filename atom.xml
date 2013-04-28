@@ -6,12 +6,13 @@ layout: nil
  
  <title>Blog von Carsten Ringe</title>
  <link href="{{ site.url }}/atom.xml" rel="self" />
- <link href="{{ site.url }}" />
+ <link href="{{ site.url }}" rel="related" />
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}/</id>
  <author>
    <name>{{ site.owner-name }}</name>
    <email>{{ site.owner-email }}</email>
+   <uri>{{ site.owner-uri }}</uri>
  </author>
 
  {% for post in site.posts limit:20 %}
