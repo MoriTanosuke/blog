@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building a simple blog with NodeJS and Express
+tags: nodejs frontpage
 ---
 
 After [installing NodeJS][0] and [creating a basic web application with
@@ -22,29 +23,29 @@ I started with a simple route that walks down into a directory *"blog"*,
 gets all files and renders a template when the files are fetched:
 
 <pre class="brush: js">
-    exports.list = function(req, res){
-      var walk = require('walk'), fs = require('fs'), options, walker;
-      // walk into directory "blog"
-      var walker = walk.walk('blog');
-      var fs = new Array();
-      walker.on("file", function(root,file,next){
-        // get the file, but remove file extension
-        var f = root + "/" + file['name'].substring(0, file['name'].lastIndexOf('.'));
-        // push without /blog prefix
-        fs.push(f.substring(f.indexOf('/')));
-        next();
-      });
-      walker.on("end", function() {
-        res.render('blog', { title: 'Entries', files: fs })
-      });
-    };
+exports.list = function(req, res){
+  var walk = require('walk'), fs = require('fs'), options, walker;
+  // walk into directory "blog"
+  var walker = walk.walk('blog');
+  var fs = new Array();
+  walker.on("file", function(root,file,next){
+    // get the file, but remove file extension
+    var f = root + "/" + file['name'].substring(0, file['name'].lastIndexOf('.'));
+    // push without /blog prefix
+    fs.push(f.substring(f.indexOf('/')));
+    next();
+  });
+  walker.on("end", function() {
+    res.render('blog', { title: 'Entries', files: fs })
+  });
+};
 </pre>
 
 Then I created a simple view named *'blog'* which displays all the files:
 
 <pre class="brush: js">
-    h1= title
-    !=partial('listing', {files: files})
+h1= title
+!=partial('listing', {files: files})
 </pre>
 
 Ok, I cheated a little bit, because the actual file listing is done in a
@@ -52,10 +53,10 @@ Ok, I cheated a little bit, because the actual file listing is done in a
 *'listing'* isn't complicated either:
 
 <pre class="brush: js">
-    ul
-      - each file in files
-        li 
-          a(href='#{file}') #{file}
+ul
+  - each file in files
+    li 
+      a(href='#{file}') #{file}
 </pre>
 
 As you can probably tell, this *jade* partial will render a simple unordered list with links
@@ -65,27 +66,27 @@ when I click one of the links?
 Another route takes over:
 
 <pre class="brush: js">
-    exports.entry = function(req, res){
-      var md = require('node-markdown').Markdown;
-      res.render('entry', { content: md('' + require('fs').readFileSync('blog/'
-         + req.params.year + "/" + req.params.month + "/" + req.params.day + "/"
-         + req.params.title + ".markdown")), title: req.params.title });
-    };
+exports.entry = function(req, res){
+  var md = require('node-markdown').Markdown;
+  res.render('entry', { content: md('' + require('fs').readFileSync('blog/'
+     + req.params.year + "/" + req.params.month + "/" + req.params.day + "/"
+     + req.params.title + ".markdown")), title: req.params.title });
+};
 </pre>
 
 Now this route builds a filename from the given parameters, reads its 
 content, renders the content as *markdown* and renders the template *'entry'*:
 
 <pre>
-    div.entry !{content}
-    
-    div.nav
-      ul
-        li
-          a(href='/') back
-    
-    div.comments
-      p Feel free to add your comment system here. 
+div.entry !{content}
+
+div.nav
+  ul
+    li
+      a(href='/') back
+
+div.comments
+  p Feel free to add your comment system here. 
 </pre>
 
 Again, a very basic template. I simple put all the *markdown* into a 
@@ -101,9 +102,9 @@ Here is the relevant part from my *app.js* file that connects my routes
 with actual URLs the user enters into the browser address bar:
 
 <pre class="brush: js">
-    app.get('/', routes.list);
-    app.get('/:year/:month/:day/:title', routes.entry);
-    app.get('*', function(req, res){ res.send('Uh, what?', 404); });
+app.get('/', routes.list);
+app.get('/:year/:month/:day/:title', routes.entry);
+app.get('*', function(req, res){ res.send('Uh, what?', 404); });
 </pre>
 
 The first route shows the homepage with the list of entries. The second
@@ -128,8 +129,8 @@ save a file in my editor, the server restarts and I can reload the page to
 see my changes. Just run the application with *supervisor* instead of *node*:
 
 <pre class="brush: bash">
-    npm install node-supervisor
-    supervisor app.js
+npm install node-supervisor
+   supervisor app.js
 </pre>
 
 I really like my development cycle fast and without manually restarting stuff
@@ -147,11 +148,11 @@ After searching the internets I found that in my *app.js* the following lines
 were present:
 
 <pre class="brush: js">
-    app.configure(function(){
-      // ...
-      app.use(app.router);
-      app.use(express.static(__dirname + '/public'));
-    });
+app.configure(function(){
+  // ...
+  app.use(app.router);
+  app.use(express.static(__dirname + '/public'));
+});
 </pre>
 
 If I got the explanation right, this means that my own routes come before
@@ -160,11 +161,11 @@ kicked in because none of my 2 other rules applied. The solution to this is
 re-ordering the configuration:
 
 <pre class="brush: js">
-    app.configure(function(){
-      // ...
-      app.use(express.static(__dirname + '/public'));
-      app.use(app.router);
-    });
+app.configure(function(){
+  // ...
+  app.use(express.static(__dirname + '/public'));
+  app.use(app.router);
+});
 </pre>
 
 Now the static assets are always served before my own routes apply.
