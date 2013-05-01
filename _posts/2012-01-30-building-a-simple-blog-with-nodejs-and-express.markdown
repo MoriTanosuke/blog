@@ -77,7 +77,7 @@ exports.entry = function(req, res){
 Now this route builds a filename from the given parameters, reads its 
 content, renders the content as *markdown* and renders the template *'entry'*:
 
-<pre>
+<pre class="brush: js">
 div.entry !{content}
 
 div.nav
