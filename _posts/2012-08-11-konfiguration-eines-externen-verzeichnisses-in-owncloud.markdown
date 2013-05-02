@@ -17,7 +17,7 @@ Als nächstes stand der Import meiner Bild an. Ich hatte vor einiger Zeit schon 
 Dazu legt man die Datei `/config/mount.php` an und schreibt folgenden Inhalt hinein:
 
 <pre class="brush: php">
-<?php
+&lt;?php
 return array(
   'user'=>array(
     'meinbenutzername'=>array(
@@ -26,7 +26,7 @@ return array(
     )
   )
 );
-?>
+?&gt;
 </pre>
 
 Danach [taucht der Ordner aber nicht automatisch in meinen Dateien auf][4], sondern ich musste noch einen Ordner mit dem gleichen Namen `meinedateien` anlegen - erst dann wurden die Bilder angezeigt.
