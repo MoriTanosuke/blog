@@ -16,16 +16,18 @@ Als nächstes stand der Import meiner Bild an. Ich hatte vor einiger Zeit schon 
 
 Dazu legt man die Datei `/config/mount.php` an und schreibt folgenden Inhalt hinein:
 
-    <?php
-    return array(
-        'user'=>array(
-            'meinbenutzername'=>array(
-                '/$user/files/meinedateien' => array('class'=>'OC_Filestorage_Local',
-                                                     'options'=>array('datadir' => '/pfad/zu/meinen/dateien'))
-            )
-        )
-    );
-    ?>
+<pre class="brush: php">
+<?php
+return array(
+  'user'=>array(
+    'meinbenutzername'=>array(
+      '/$user/files/meinedateien' => array('class'=>'OC_Filestorage_Local',
+                                           'options'=>array('datadir' => '/pfad/zu/meinen/dateien'))
+    )
+  )
+);
+?>
+</pre>
 
 Danach [taucht der Ordner aber nicht automatisch in meinen Dateien auf][4], sondern ich musste noch einen Ordner mit dem gleichen Namen `meinedateien` anlegen - erst dann wurden die Bilder angezeigt.
 
