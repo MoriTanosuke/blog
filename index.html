@@ -14,9 +14,14 @@ overview: true
     <div class="grid4 first">
       <h2>Willkommen</h2>
       <p>
-        Auf dieser Seite findest Du die <em>meistgelesenen Artikel</em> meines Blogs. Im <a href="/archive">Archiv</a>
-		findest Du auch alle weiteren Artikel und wenn Du etwas bestimmtes suchst, gib hier Deinen Suchbegriff ein:
-		{% include google-cse.html %}
+        Auf dieser Seite findest Du die <em>meistgelesenen Artikel</em> meines Blogs. 
+        Der neuste Artikel ist 
+{% assign post = site.posts.first %}
+{% include latest_post.html %}
+        .
+        Im <a href="/archive">Archiv</a>
+	findest Du auch alle weiteren Artikel und wenn Du etwas bestimmtes suchst, gib hier Deinen Suchbegriff ein:
+	{% include google-cse.html %}
       </p>
     </div>
 
