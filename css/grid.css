@@ -5,7 +5,7 @@
 .grid1, .grid2, .grid3, .grid4, .grid5, .grid6, .grid7, .grid8, .grid9, .grid10, .grid11 {
   float: left;
   display: inline;
-  margin-left: 30px;
+  margin-left: 0.5em;
 }
 .grid1 {
   width: 54px;
