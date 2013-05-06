@@ -2,7 +2,6 @@
 layout: post
 title: "Bodyweight Workout Challenge"
 tags: fitness strength training workout
-published: false
 ---
 
 Heute nachmittag werde ich eine neue Challenge annehmen und folgendes Training absolvieren:
