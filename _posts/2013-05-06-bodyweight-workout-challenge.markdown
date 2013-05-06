@@ -16,4 +16,4 @@ Das ganze so schnell wie möglich und ohne Pausen. Vielleicht mache ich von dies
 
 Inspiriert (oder angestachelt) ist das ganze von Zach Even-Eshs Video:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/plTvNqoNxkk" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/plTvNqoNxkk" frameborder="0"></iframe>
