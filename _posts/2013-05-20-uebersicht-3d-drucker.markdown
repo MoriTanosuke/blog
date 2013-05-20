@@ -10,7 +10,7 @@ produzierende Industrie gehen wird. Interessante Fragen müssen dann gestellt we
 * Wer bekommt wofür Geld? Werden nur noch die Lieferanten des Rohmaterials etwas verdienen, weil sich jeder seine Gehäuse, Tassen, Spielzeuge selbst druckt? Oder wird das Geld von den Produzenten der *Blueprints* verdient, die 3D-Modelle für die Drucker erstellen und vertreiben?
 * Wird überhaupt noch Geld verdient? Bei einer ausreichend großen Menge Menschen wird immer jemand dabei sein, der 3D-Modelle in guter Qualität aus Überzeugung oder Interesse unter die GPL stellt und im Internet verbreitet.
 * Welche Rohmaterialien werden verwendet? Nur schädliches Plastik oder werden schon bald ökologisch bessere Alternativen auf den Markt kommen?
-* Wird es (wie in [Daniel Suarez' Buch *Daemon*]({% post_url 2011-05-05-daemon-von-daniel-suarez %}) eine Gesellschaft geben, die Produktionsdienstleistungen gegen Reputation eintauscht, um damit weiter zu handeln bzw neue Dienstleistungen zu erhalten?
+* Wird es (wie in [Daniel Suarez' Buch *Daemon*]({% post_url 2011-05-05-daemon-von-daniel-suarez %})) eine Gesellschaft geben, die Produktionsdienstleistungen gegen Reputation eintauscht, um damit weiter zu handeln bzw neue Dienstleistungen zu erhalten?
 
 Wie auch immer das ausgehen wird, ich will hier eine Liste der aktuell interessantesten Projekte
 zusammentragen. Die meisten davon sind auf Kickstarter gestartet, und nicht als großes Industrieprojekt.
