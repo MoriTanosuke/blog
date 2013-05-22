@@ -2,7 +2,7 @@ permalink: /:year/:month/:day/:title/
 disqus-shortname: kopisde
 paginate: 5
 # github default settings
-#markdown: rdiscount
+markdown: rdiscount
 safe: true
 lsi: false
 pygments: false

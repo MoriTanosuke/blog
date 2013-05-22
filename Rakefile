@@ -1,12 +1,6 @@
 
 def jekyll(opts="", path="")
-  sh "rm -rf _site"
   sh path + "jekyll " + opts
-end
-
-desc "remove generated files"
-task :clean do
-  sh "rm -rf _site"
 end
 
 desc "Build site using Jekyll"
@@ -27,5 +21,10 @@ namespace :deploy do
   
   desc "Deploy to Dev and Live"
   task :all => [:live]
+end
+
+desc "remove generated files"
+task :clean do
+  sh "rm -rf _site"
 end
 

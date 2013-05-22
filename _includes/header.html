@@ -3,10 +3,10 @@
   <div class="content">
     <div class="grid3 first">
       <h1>
-        <a href="{{ site.url }}/">
+        <a href="/">
           <span>KOPIS.DE</span>
 {% comment %}
-          <img src="{{ site.url }}/img/logo-2x.png" width="249px" height="115px" alt="">
+          <img src="/img/logo-2x.png" width="249px" height="115px" alt="">
 {% endcomment %}
         </a>
       </h1>
@@ -14,16 +14,16 @@
     <nav class="grid9">
       <ul>
         <li {% if page.overview %}class="current"{% endif %}>
-          <a href="{{ site.url }}/">Startseite</a>
+          <a href="/">Startseite</a>
         </li>
         <li {% if page.archives %}class="current"{% endif %}>
-          <a href="{{ site.url }}/archive">Archiv</a>
+          <a href="/archive">Archiv</a>
         </li>
 	<li class="feed">
 	  <a href="/atom.xml">Feed</a>
 	</li>
         <li {% if page.contact %}class="current"{% endif %}>
-          <a href="{{ site.url }}/contact">Kontakt</a>
+          <a href="/contact">Kontakt</a>
         </li>
 
         <li>
