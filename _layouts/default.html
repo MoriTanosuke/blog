@@ -1,10 +1,62 @@
-{% include top.html %}
-
+<!DOCTYPE HTML>
+<html lang="de-DE">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="/css/shCore.css" />
+  <link rel="stylesheet" href="/css/shThemeDefault.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" type="image/x-icon" href="/favicon.png" />
+  <link rel="alternate" type="application/rss+xml" href="/atom.xml" title="Blog von Carsten Ringe" />
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/emotes.js"></script>
+  <script src="/js/shCore.js"></script>
+  <script src="/js/shAutoloader.js"></script>
+  <script src="/js/shBrushJScript.js"></script>
+</head>
 <body>
-  {% include header.html %}
+<!-- {% include github_ribbon.html %} -->
+
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="brand" href="/">KOPIS.DE</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav">
+            <li class="{% if page.overview %}active{% endif %}"><a href="/">Startseite</a></li>
+            <li class="{% if page.archives %}active{% endif %}"><a href="/archive">Archiv</a></li>
+            <li class="{% if page.contact %}active{% endif %}"><a href="/contact">Kontakt</a></li>
+            <li class="feed-icon"><a href="/atom.xml">Feed</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
 
   {{ content }}
   
+  <hr />
+
+  <div class="footer">
+    <p>Erstellt von <a href="http://www.kopis.de/">Carsten Ringe</a><br />
+      Ich benutze <a href="http://piwik.com/">Piwik</a> um Benutzer auf meinen Seiten zu tracken.<br />
+      Letztes Update {{ site.time | date: "%d.%m.%Y %H:%M" }}.
+    </p>
+    <p>Läuft auf <a href="https://github.com"><img src="{{ site.url }}/img/footer-logo.png" alt="GitHub • Social coding"></a></p>
+  </div>
+
+  </div>
+
   <script type="text/javascript">
     var disqus_shortname = '{{ site.disqus-shortname }}';
     (function () {
@@ -15,7 +67,9 @@
     }());
   </script>
 
-  {% include footer.html %}
+  {% include flattr.html %}
+  {% include gplusone.html %}
+  {% include syntaxhighlighter.html %}
   {% include analytics.html %}
 
 </body>

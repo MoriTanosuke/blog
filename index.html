@@ -4,44 +4,32 @@ title: "KOPIS.DE"
 overview: true
 ---
 
-<section class="intro">
-  <div class="content">
-    <p class="second">Blog von Carsten Ringe.</p>
-  </div>
-</section>
-<section class="features">
-  <div class="content">
-    <div class="grid4 first">
-      <h2>Willkommen</h2>
-      <p>
-        Auf dieser Seite findest Du die <em>meistgelesenen Artikel</em> meines Blogs. 
-        Der neuste Artikel ist 
-{% assign post = site.posts.first %}
-{% include latest_post.html %}
-        .
-        Im <a href="/archive">Archiv</a>
-	findest Du auch alle weiteren Artikel und wenn Du etwas bestimmtes suchst, gib hier Deinen Suchbegriff ein:
-	{% include google-cse.html %}
-      </p>
-    </div>
+<div>
+  <h2>Willkommen</h2>
+  <p>
+    Auf dieser Seite findest Du die <strong>meistgelesenen Artikel</strong> meines Blogs. 
+    Der neuste Artikel ist <span>{% assign post = site.posts.first %}{% include latest_post.html %}</span>.
+    Im <a href="/archive">Archiv</a> findest Du auch alle weiteren Artikel und wenn Du etwas 
+    bestimmtes suchst, gib hier Deinen Suchbegriff ein:
+    {% include google-cse.html %}
+  </p>
+</div>
+
+<hr />
 
 {% for entry in site.tags.frontpage %}
-    <div class="grid4">
-	  <h2><a href="{{ entry.url }}">{{  entry.title }}</a></h2>
-	  <h3>
-		<span class="responses"><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span> 
-		<span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></g:plusone></span></h3>
-      <p>
-        {{ entry.content | strip_html | truncatewords: 50 }} <a href="{{ entry.url }}">weiterlesen</a>
-      </p>
-	  </article>
-    </div>
+<article>
+  <h2><a href="{{ entry.url }}">{{  entry.title }}</a></h2>
+  <div>
+    <span class="responses"><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span> 
+    <span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></g:plusone></span>
+  </div>
+  <p>
+    {{ entry.content | strip_html | truncatewords: 50 }} <a href="{{ entry.url }}">weiterlesen</a>
+  </p>
+</article>
 {% endfor %}
 
-    <div class="clear"></div>
-	
-	{% include recentcomments.html %}
+<hr />
 
-    <div class="clear"></div>
-  </div>
-</section>
+{% include recentcomments.html %}

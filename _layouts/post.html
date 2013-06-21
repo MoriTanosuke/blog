@@ -2,30 +2,27 @@
 layout: default
 ---
 
-  <section class="docs">
-    <div class="content">
+<section class="article">
+  <article>
+    <h1>{{ page.title }}</h1>
+    <hr />
+    {{ content }}
+    <hr />
+  </article>
+  <div class="search">
+    <p>Vergesst nicht, <a href="/archive/">meine anderen Artikel durchzugucken</a>. Oder gebt hier einen Suchbegriff ein: {% include google-cse.html %}</p>
+  </div>
+  <div class="share">
+    <a class="FlattrButton" style="display:none;"
+      title="{{ page.title }}"
+      data-flattr-uid="cringe"
+      data-flattr-tags="text, opensource"
+      data-flattr-category="text"
+      href="{{ site.url }}{{ page.url }}">{{ content | strip_html | truncatewords: 50 }}</a>
+    <g:plus action="share" href="{{ site.url }}{{ page.url }}"></g:plus>
+  </div>
 
-      <div class="grid10 first">
-        <article>
-          <h1>{{ page.title }}</h1>
-          {{ content }}
-        </article>
-		<div>
-			Vergesst nicht, <a href="/archive/">meine anderen Artikel durchzugucken</a>. Oder gebt hier einen Suchbegriff ein: {% include google-cse.html %}
-		</div>
-		<div class="share">
-		<a class="FlattrButton" style="display:none;"
-			title="{{ page.title }}"
-			data-flattr-uid="cringe"
-			data-flattr-tags="text, opensource"
-			data-flattr-category="text"
-			href="{{ site.url }}{{ page.url }}">{{ content | strip_html | truncatewords: 50 }}</a>
-		<g:plus action="share" href="{{ site.url }}{{ page.url }}"></g:plus>
-      </div>
+  {% include disqus.html %}
 
-	  {% include disqus.html %}
-
-      <div class="clear"></div>
-
-    </div>
-  </section>
+  <div class="clear"></div>
+</section>
