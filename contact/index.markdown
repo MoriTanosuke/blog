@@ -9,6 +9,8 @@ src="carsten-at-kopis-de.png" alt="meine eMail-Adresse"/>.
 
 Ihr könnt auch auf [meinem Profil bei G+][3] vorbeischauen.
 
+<div class="g-person" data-href="https://plus.google.com/110503464505798755891"></div>
+
 Wenn ihr wissen wollt, woran ich gerade arbeite, schaut bei <a href="https://github.com/MoriTanosuke/"><img src="/img/Octocat-small.png" height="24" /> meinem Github-Profil</a> vorbei.
 
 Falls ihr [Bitcoin][4] verwendet, meine Adresse ist
