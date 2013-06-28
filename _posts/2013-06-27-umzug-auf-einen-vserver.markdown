@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Umzug auf einen VServer"
-published: false
 ---
 
 Vor ein paar Jahren hatte ich bereits einen VServer, damals bei [server4you][0]. Jetzt ist es wieder so 
@@ -18,13 +17,24 @@ in eine neue Datenbank auf dem VServer importiert. Anschliessend die Verbindungs
 von [myln.de][5] angepasst und letztendlich den Nameserver bei meinem bisherigen Hoster [domaingo][7] auf meinen
 VServer umgestellt.
 
-Nach ein paar Stunden war die Änderung des DNS im Internet bekannt und die Anfragen kamen bei Hetzner an. [myln.de][5] war erfolgreich umgezogen. :-)
+Nach ein paar Stunden war die Änderung des DNS im Internet bekannt und die Anfragen kamen bei Hetzner an. 
+[myln.de][5] war erfolgreich umgezogen. :-)
 
-Diesen Vorgang hab ich dann noch ein paar Mal wiederholt: [scp][6], SQL-Dump, Konfiguration, DNS. Mittlerweile laufen fast alle Inhalte von [kopis.de][7] auf dem VServer.
+Diesen Vorgang hab ich dann noch ein paar Mal wiederholt: [scp][6], SQL-Dump, Konfiguration, DNS. 
+Mittlerweile laufen fast alle Inhalte von [kopis.de][7] auf dem VServer.
 
 **Wieso mache ich das ganze?**
 
-Ich möchte mehr Kontrolle darüber haben, wer meine Daten und Inhalte in die Finger bekommt. Bisher habe ich viele Cloud-Dienste genutzt, vor allem *Google*, *Dropbox*, *Github* und noch ein paar mehr. Seit ein paar Wochen ([oder sind es schon Monate?][8]) ziehe ich mich davon zurück, nicht nur wegen der letzten Veröffentlichungen, welche Regierung welche Bürger abhört.
+Ich möchte mehr Kontrolle darüber haben, wer meine Daten und Inhalte in die Finger bekommt. Bisher habe 
+ich viele Cloud-Dienste genutzt, vor allem *Google*, *Dropbox*, *Github* und noch ein paar mehr. Seit 
+ein paar Wochen ([oder sind es schon Monate?][8]) ziehe ich mich davon zurück, nicht nur wegen der 
+letzten Veröffentlichungen, welche Regierung welche Bürger abhört. Das ganze ist für mich auch eine Übung,
+ob ich das hinbekomme oder nicht. Irgendwer muss sich schliesslich mit solchen Dingen beschäftigen, sonst
+sind wir bald abhängig von großen Firmen, die unsere Webseiten hosten, die unsere Dateien synchronisieren,
+unsere Mails hosten und dabei alle Informationen 1) zu Geld machen und 2) an die Regierungen weitergeben.
+
+Das mir sowas mit einem VServer nicht passiert ist zwar nicht garantiert, aber zumindest habe ich etwas mehr
+Kontrolle und kann sogar Dinge verschlüsseln, die mir wichtig sind. Mal sehen, wie weit ich damit komme. :-)
 
 [0]: http://www.server4you.de/
 [1]: http://www.hetzner.de/
