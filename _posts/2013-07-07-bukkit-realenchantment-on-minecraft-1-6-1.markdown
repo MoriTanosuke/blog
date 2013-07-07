@@ -7,11 +7,12 @@ makes it easy to switch versions on the client side. At the same time, [bukkit a
 for their server, so everything fell into place.
 
 After the usual backup dance I downloaded the latest bukkit JAR file and started the server. Because I don't 
-use plugins on my server, the update went without complications: download the new JAR, modify my startup script,
+use plugins on my server, the update went without complications: download the new JAR, modify my startup script, 
 run it and the server was up.
 
 Then I decided to have at least one plugin that will fix the stupid Minecraft enchantments: [RealEnchantment][2]
-If you played more than 10 minutes of Minecraft, you already know that enchanting a tool, weapon or piece of
+
+If you played more than 10 minutes of Minecraft, you already know that enchanting a tool, weapon or piece of 
 armor is more than frustrating: Spend 30 levels on a diamond sword and you get [Bane of Athropods, Level 2][3]...
 
 The description of [RealEnchantment][2] sounded like the solution to this problem:
