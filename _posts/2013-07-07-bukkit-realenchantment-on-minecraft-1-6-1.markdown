@@ -36,11 +36,11 @@ only thing I had to change was running on *JDK 7* instead of *JDK 6*. Maybe the 
 next JAR with a more downward compatible *target* switch - or maybe everyone is using *JDK 7* now anyway.
 
 Now at least I as a server admin can use the command `/re fortune 3` to get an enchanted diamond pickaxe 
-with [Fortune 3][4]. To allow other players to use the command, I had to set up permissions. I decided to use
+with [Fortune 3][4]. To allow other players to use the command, I had to set up permissions. I decided to use 
 the plugin [PermissionsEx][5] (PEX in short).
 
-After downloading the latest PEX JAR to my `plugins` directory and reloading the server, I started to edit
-the file *SERVER_ROOT/plugins/PermissionsEx/permissions.yml* and added the following permissions to the *default*
+After downloading the latest PEX JAR to my `plugins` directory and reloading the server, I started to edit 
+the file *SERVER_ROOT/plugins/PermissionsEx/permissions.yml* and added the following permissions to the *default* 
 group:
 
     groups:
@@ -54,9 +54,9 @@ group:
         - RealEnchantment.info
         - RealEnchantment.prepayinfo
 
-I didn't assign all permissions starting with `RealEnchantment.` to users, but only the one necessary to enchant
-items and get the help for the plugin commands. It's not necessary to assign new groups to specific users, because
-everyone on the server should have the `/re` command available. If you need to have a special group for that, you
+I didn't assign all permissions starting with `RealEnchantment.` to users, but only the one necessary to enchant 
+items and get the help for the plugin commands. It's not necessary to assign new groups to specific users, because 
+everyone on the server should have the `/re` command available. If you need to have a special group for that, you 
 can [read up in the PEX documentation][6].
 
 [0]: https://mojang.com/2013/07/minecraft-the-horse-update/
