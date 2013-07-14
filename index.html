@@ -7,8 +7,7 @@ overview: true
 <div>
   <h2>Willkommen</h2>
   <p>
-    Auf dieser Seite findest Du die <strong>meistgelesenen Artikel</strong> meines Blogs. 
-    Der neuste Artikel ist <span>{% assign post = site.posts.first %}{% include latest_post.html %}</span>.
+    Auf dieser Seite findest Du die <strong>5 neusten Artikel</strong> meines Blogs. 
     Im <a href="/archive">Archiv</a> findest Du auch alle weiteren Artikel und wenn Du etwas 
     bestimmtes suchst, gib hier Deinen Suchbegriff ein:
     {% include google-cse.html %}
@@ -17,7 +16,7 @@ overview: true
 
 <hr />
 
-{% for entry in site.tags.frontpage %}
+{% for entry in site.posts limit:5 %}
 <article>
   <h2><a href="{{ entry.url }}">{{  entry.title }}</a></h2>
   <div>
