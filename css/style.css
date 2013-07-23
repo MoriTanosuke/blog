@@ -22,3 +22,7 @@ blockquote p {
 #feed-icon:after {
   content: url('/img/feed-icon-28x28.png');
 }
+
+article div.meta {
+  font-style: italic;
+}

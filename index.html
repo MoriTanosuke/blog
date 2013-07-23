@@ -19,7 +19,8 @@ overview: true
 {% for entry in site.posts limit:5 %}
 <article>
   <h2><a href="{{ entry.url }}">{{  entry.title }}</a></h2>
-  <div>
+  <div class="meta">
+    <span class="date">{{ entry.date | date_to_long_string }}</span>
     <span class="responses"><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span> 
     <span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></g:plusone></span>
   </div>
