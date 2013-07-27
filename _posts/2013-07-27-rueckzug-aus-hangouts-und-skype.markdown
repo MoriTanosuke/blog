@@ -33,3 +33,5 @@ und behauptet nicht immer, ihr hättet nichts zu verbergen.
 [2]: http://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol
 [3]: https://developers.google.com/talk/open_communications#service
 [4]: https://www.eff.org/deeplinks/2013/05/google-abandons-open-standards-instant-messaging
+[5]: http://pidgin.im/
+[6]: http://www.cypherpunks.ca/otr/
