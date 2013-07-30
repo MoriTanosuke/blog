@@ -3,21 +3,27 @@ layout: docs
 title: Kontakt
 contact: true
 ---
-Hier findet ihr ein paar Wege, um Kontakt mit mir aufzunehmen. Am besten
-versucht ihr es aber einfach per eMail an <img
-src="carsten-at-kopis-de.png" alt="meine eMail-Adresse"/>. Falls ihr lieber telefonieren wollt, kann ich 
-euch auf auch die Adresse meines [Mumble][6] Servers mitteilen.
 
-Wenn ihr wissen wollt, woran ich gerade arbeite, schaut bei <a href="https://github.com/MoriTanosuke/"><img src="/img/Octocat-small.png" height="24" /> meinem Github-Profil</a> vorbei.
+Emails bitte an <img src="/contact/carsten-at-kopis-de.png" alt="meine Email" />.
 
-Falls ihr [Bitcoin][4] verwendet, meine Adresse ist *15QiUXXBjqkATFj5HZn5ASUqbnrS2rD1Lg*. ;-)
+Postadresse
+===========
+
+Carsten Ringe
+Strichweg 90
+27476 Cuxhaven
+
+Weitere Profile
+===============
+
+* [Stack Overflow][7]
+* <img src="/img/Octocat-small.png" height="24" style="height: 1em;" />&nbsp;[Github][5]
+* [Google+][3]
 
 GPG Key
 =======
 
-Wenn ihr es ein wenig sicherer und privater haben wollt, 
-[verschlüsselt ihr eure Mail mit GnuPG][0] ([Hier ist die absolute Kurzfassung
-einer Anleitung][1]). Hier ist mein Schlüssel:
+Wenn ihr es ein wenig sicherer und privater haben wollt, [verschlüsselt ihr eure Mail mit GnuPG][0] ([Hier ist die absolute Kurzfassung einer Anleitung][1]). Hier ist mein Schlüssel:
 
 <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -78,3 +84,5 @@ Ihr könnt auch gleich [die Schlüsseldatei runterladen][2].
 [4]: http://bitcoin.org/
 [5]: https://github.com/MoriTanosuke/
 [6]: http://mumble.sourceforge.net/
+[7]: http://stackoverflow.com/users/834/cringe
+
