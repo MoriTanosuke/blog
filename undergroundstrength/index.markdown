@@ -19,7 +19,7 @@ Diagramme
 
 <img src="https://docs.google.com/spreadsheet/oimg?key=0AnPgELYDfX7pdEhJdk1ycDA0TlJJaFljQkJfYlRPa2c&oid=6&zx=28m75ar1h3xt" />
 
-<iframe src="http://www.kopis.de/n/oauth-php/nutrition_week.php">
+<iframe src="http://www.kopis.de/n/oauth-php/nutrition_week.php" scrolling="no" frameborder="0">
 Hier sollte eigentlich eine Übersicht über meine aktuelle Ernährungswerte zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
 </iframe>
 
