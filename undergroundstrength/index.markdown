@@ -19,6 +19,10 @@ Diagramme
 
 <img src="https://docs.google.com/spreadsheet/oimg?key=0AnPgELYDfX7pdEhJdk1ycDA0TlJJaFljQkJfYlRPa2c&oid=6&zx=28m75ar1h3xt" />
 
+<iframe src="http://www.kopis.de/n/oauth-php/nutrition_week.php">
+Hier sollte eigentlich eine Übersicht über meine aktuelle Ernährungswerte zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
+</iframe>
+
 [0]: /
 [1]: https://de.wikipedia.org/wiki/Quantified_Self
 [2]: http://www.undergroundstrengthcoach.com/
