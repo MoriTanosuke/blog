@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 23
 layout: post
-title: "Installation der USB-Treiber f\xC3\xBCr die serielle Konsole des SheevaPlug unter Windows 7"
+title: "Installation der USB-Treiber für die serielle Konsole des SheevaPlug unter Windows 7"
 wordpress_url: http://blog.kopis.de/?p=23
 ---
 
