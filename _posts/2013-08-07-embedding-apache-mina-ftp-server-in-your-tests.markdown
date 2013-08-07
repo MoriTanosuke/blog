@@ -79,14 +79,13 @@ I already configured this notification target for a local FTP server during depl
 	}
 </pre>
 
-I'm using [JUnit][4] to build my integration tests, because I'm lazy and got used to running my tests with the junit view in [Eclipse][5]. :-) The `@BeforeClass` method first creates a directory that JBoss relies on (I still don't know what it's doing in `c:/tmp` when creating the [NotifyFTP][2]...), then starts a new FTP server with *FTP_ROOT* set to my temp directory. I don't care where that directory is, so I'm just creating a temporary file and get the parent path from that.
+I'm using [JUnit][4] to build my integration tests, because I'm lazy and got used to running my tests with the junit view in [Eclipse][5]. :-) The `@BeforeClass` method first creates a directory that JBoss relies on (I still don't know what it's doing in `c:/tmp` when creating the `NotifyFTP`...), then starts a new FTP server with *FTP_ROOT* set to my temp directory. I don't care where that directory is, so I'm just creating a temporary file and get the parent path from that.
 
 After that I add a new user with the method `addUser(username, password, directory)` with the previously created directory as her ftp home directory. After that I create some required directory inside my *FTP_ROOT* where *JBoss ESB* wants to place the result files.
 
 This way whenever I run the test, I have a local FTP server running and accepting files with a user that matches the setup in my locally configured *JBoss ESB*, but I can just run the test and see if it is good or not. Validating the XML files in the FTP directory is just a matter of comparing the result with a predefined XML file via [XMLUnit][6], so no suprises on that end.
 
-
-[0]: jboss esb
+[0]: https://www.jboss.org/jbossesb/
 [1]: http://www.enterpriseintegrationpatterns.com/RecipientList.html
 [3]: http://mina.apache.org/ftpserver-project/index.html
 [4]: http://junit.org/
