@@ -2,7 +2,6 @@
 title: "Embedding the Apache Mina ftp server in your tests"
 layout: post
 tags: unit test, testing
-published: false
 ---
 Every once in a while you need some service running while executing your integration tests. Today I needed a running FTP server to test a new route in my [JBoss ESB][0] that has a [NotificationList (basically a *recipient list* pattern][1] with a *NotifyFTP* action as last action in my action pipeline, that pushes the message as a file onto an FTP server.
 
