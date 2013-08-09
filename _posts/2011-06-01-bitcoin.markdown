@@ -10,9 +10,9 @@ Seit ein paar Tagen hab ich viel über [Bitcoin][0] gelesen, eine virtuelle Wäh
 
 Wenn ihr einsteigen wollt, lest euchÃÂ [http://go-bitcoin.com/][3] durch.
 
-Das ganze [basiert auf Kryptografie][4] und die gesamte Zahlungshistorie soll in einer Bitcoin-Transaktion nachzulesen sein. Allerdings gibt es auch ein paar Sicherheitsbedenken, ob findige Hacker nicht früher oder später die Kryptografie knacken und anschliessend selbst Geld "<em>drucken</em>" können... ich weiÃÂ noch nicht, wie ich dazu stehe, aber interessant ist das ganze schon.
+Das ganze [basiert auf Kryptografie][4] und die gesamte Zahlungshistorie soll in einer Bitcoin-Transaktion nachzulesen sein. Allerdings gibt es auch ein paar Sicherheitsbedenken, ob findige Hacker nicht früher oder später die Kryptografie knacken und anschliessend selbst Geld "<em>drucken</em>" können... ich weiß noch nicht, wie ich dazu stehe, aber interessant ist das ganze schon.
 
-ÃÂberhaupt sehe ich in den letzten Monaten immer mehr Entwicklungen, die wie in den bekannten SciFi-Büchern ablaufen: Regierungen brechen zusammen bzw werden von Megakonzernen übernommen, Währungen verschwinden im Bodenlosen, Globalisierung macht die lokalen Märkte kaputt bis der Kapitalismus zusammenbricht und alternative Zahlungssysteme und Gemeinschaften alle wichtigen Funktionen übernehmen.
+Überhaupt sehe ich in den letzten Monaten immer mehr Entwicklungen, die wie in den bekannten SciFi-Büchern ablaufen: Regierungen brechen zusammen bzw werden von Megakonzernen übernommen, Währungen verschwinden im Bodenlosen, Globalisierung macht die lokalen Märkte kaputt bis der Kapitalismus zusammenbricht und alternative Zahlungssysteme und Gemeinschaften alle wichtigen Funktionen übernehmen.
 
 Tja, mal sehen, wo das alles hinführt.
 
@@ -21,4 +21,3 @@ Tja, mal sehen, wo das alles hinführt.
 [2]: http://www.spiegel.de/netzwelt/netzpolitik/0,1518,765382,00.html
 [3]: http://go-bitcoin.com/
 [4]: http://bitcoin.org/bitcoin.pdf
-
