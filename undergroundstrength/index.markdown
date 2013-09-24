@@ -17,6 +17,9 @@ Diagramme
 Hier sollte eigentlich eine Übersicht über meine aktuelle Schritte zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
 </iframe>
 
+<iframe src="http://www.kopis.de/n/oauth-php/weight_week.php" width="100%" height="250px" scrolling="no" frameborder="0">
+Hier sollte eigentlich eine Übersicht über mein aktuelles Gewicht zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
+</iframe>
 
 <iframe src="http://www.kopis.de/n/oauth-php/nutrition_week.php" width="100%" height="250px" scrolling="no" frameborder="0">
 Hier sollte eigentlich eine Übersicht über meine aktuelle Ernährungswerte zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
