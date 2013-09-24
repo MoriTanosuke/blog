@@ -13,11 +13,10 @@ Wenn ihr eine gute Quelle für Information und Inspiration braucht, schaut mal b
 Diagramme
 ---------
 
-<img src="https://docs.google.com/spreadsheet/oimg?key=0AnPgELYDfX7pdEhJdk1ycDA0TlJJaFljQkJfYlRPa2c&oid=8&zx=ftw43hrd3tcw" />
+<iframe src="http://www.kopis.de/n/oauth-php/steps_week.php" width="100%" height="250px" scrolling="no" frameborder="0">
+Hier sollte eigentlich eine Übersicht über meine aktuelle Schritte zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
+</iframe>
 
-<img src="https://docs.google.com/spreadsheet/oimg?key=0AnPgELYDfX7pdEhJdk1ycDA0TlJJaFljQkJfYlRPa2c&oid=5&zx=dhqb0cxkpx8e" />
-
-<img src="https://docs.google.com/spreadsheet/oimg?key=0AnPgELYDfX7pdEhJdk1ycDA0TlJJaFljQkJfYlRPa2c&oid=6&zx=28m75ar1h3xt" />
 
 <iframe src="http://www.kopis.de/n/oauth-php/nutrition_week.php" width="100%" height="250px" scrolling="no" frameborder="0">
 Hier sollte eigentlich eine Übersicht über meine aktuelle Ernährungswerte zu sehen sein. Wahrscheinlich ist irgendwas in den Tiefen des Internet stecken geblieben...
