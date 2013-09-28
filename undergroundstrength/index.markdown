@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Underground Strength"
 category: body-and-mind
 ---

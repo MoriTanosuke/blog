@@ -1,27 +1,24 @@
 ---
-layout: docs
+layout: post
 title: Kontakt
 contact: true
 ---
 
 Emails bitte verschlüsselt an <img src="/contact/carsten-at-kopis-de.png" alt="meine Email" />.
 
-Postadresse
------------
+**Postadresse**
 
 Carsten Ringe<br />
 Strichweg 90<br />
 27476 Cuxhaven<br />
 
-Weitere Profile
----------------
+**Weitere Profile**
 
 * [Stack Overflow][7]
 * <img src="/img/Octocat-small.png" height="24" style="height: 1em;" />&nbsp;[Github][5]
 * [Google+][3]
 
-GPG Key
--------
+**GPG Key**
 
 Wenn ihr es ein wenig sicherer und privater haben wollt, [verschlüsselt ihr eure Mail mit GnuPG][0] ([Hier ist die absolute Kurzfassung einer Anleitung][1]). Hier ist mein Schlüssel:
 

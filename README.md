@@ -1,3 +1,10 @@
-This is the source for my homepage at http://blog.kopis.de.
+HTML5 Muffin chocchip steps
+============================
 
+Run bundle install
 
+	bundle install
+
+Run jekyll
+
+	jekyll

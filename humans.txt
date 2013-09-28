@@ -1,42 +1,21 @@
-# The humans responsible & technology colophon
-# humanstxt.org
+/* TEAM */
+                            
+Your title: Your name.                        
+Site: email, link to a contact form, etc.                         
+Twitter: your Twitter username.                        
+Location: City, Country.
 
 
-# TEAM
+/* THANKS */
 
-    <name> -- <role> -- <twitter>
+HTML5 Muffin
+This is a Frappuccino Blog
+Name: name or url
 
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
-
-
-
-                               -o/-
-                               +oo//-
-                              :ooo+//:
-                             -ooooo///-
-                             /oooooo//:
-                            :ooooooo+//-
-                           -+oooooooo///-
-           -://////////////+oooooooooo++////////////::
-            :+ooooooooooooooooooooooooooooooooooooo+:::-
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-
-                     -:+ooooooooooooooooo+:://////:--
-                       /ooooooooooooooooo+//////:-
-                      -ooooooooooooooooooo////-
-                      /ooooooooo+oooooooooo//:
-                     :ooooooo+/::/+oooooooo+//-
-                    -oooooo/::///////+oooooo///-
-                    /ooo+::://////:---:/+oooo//:
-                   -o+/::///////:-      -:/+o+//-
-                   :-:///////:-            -:/://
-                     -////:-                 --//:
-                       --                       -:
+                            
+/* SITE */
+                          
+Last update: YYYY/MM/DD                    
+Standards: HTML5, CSS3,..                   
+Components: Modernizr, jQuery, etc.                            
+Software: Software used for the development
