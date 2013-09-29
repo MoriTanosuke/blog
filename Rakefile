@@ -5,7 +5,7 @@ end
 
 desc "Generate CSS from SASS"
 task :generate do
-  sh "sass --update css:css --style compressed"
+  sh "sass --update css/style.scss:css/style.css --style compressed"
 end
 
 desc "Build site using Jekyll"
