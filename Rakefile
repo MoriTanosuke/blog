@@ -3,13 +3,18 @@ def jekyll(opts="", path="")
   sh path + "jekyll " + opts
 end
 
+desc "Generate CSS from SASS"
+task :generate do
+  sh "sass --update css:css --style compressed"
+end
+
 desc "Build site using Jekyll"
-task :build do
+task :build => :generate do
   jekyll "build"
 end
 
 desc "Serve on Localhost with port 4000"
-task :default do
+task :default => :generate do
   jekyll "serve --watch"
 end
 
