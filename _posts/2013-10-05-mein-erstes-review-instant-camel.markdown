@@ -1,5 +1,4 @@
 ---
-published: false
 title: "Mein erstes Buch-Review: Instant Camel"
 layout: post
 ---
