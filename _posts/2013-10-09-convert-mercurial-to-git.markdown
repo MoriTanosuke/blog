@@ -7,7 +7,7 @@ Today I cloned a [mercurial][0] repository, because I'm using an android applica
 
 After trying [hg-git][4] without success, I found [hg-fast-export][3]. With this little tool I was able to convert the cloned mercurial repository into a git repository:
 
-{% highlight bash linenos %}
+{% highlight bash %}
 git clone git://repo.or.cz/fast-export.git
 
 hg clone URL_TO_ORIGINAL_REPOSITORY
