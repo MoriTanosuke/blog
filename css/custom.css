@@ -99,4 +99,6 @@ img.emoji {
 div#disqus_thread {
   width: 80%;
   max-width: 710px;
+  margin: auto;
 }
+
