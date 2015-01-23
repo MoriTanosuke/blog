@@ -8,19 +8,16 @@ title: Mainpage
   <div class="content">
     <main class="container">
     	<div class="row-fluid">
-    		<section class="content">
-    		  <h1>KOPIS.DE</h1>
-    		</section>
     		<ul class="entries">
     		{% for post in paginator.posts %}
     		  <li>
-    		    <a href="{{ post.url }}">
-                <span>{{ post.date | date: "%d %B %Y" }}</span>
-    		        <h3>{{ post.title }}</h3>
-								<span><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
-								<span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></span>
-                <div>{{ post.content | strip_html | strip_newlines | truncatewords: 30 }}</div>
-    		    </a>
+    		        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+       		        <div>{{ post.content | strip_html | strip_newlines | truncatewords: 30 }} <a href="{{ post.url }}">weiter</a></div>
+			<hr class="thin" />
+			<div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
+			<span><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
+			<span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></span></div>
+
     		  </li>
     		{% endfor %}
     		</ul>
