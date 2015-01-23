@@ -12,5 +12,5 @@ Falls ihr das hier also in einem Feed Reader wie [Google Reader][2]
 lest, solltet ihr meinen Blog nochmal neu abonnieren.
 
 [0]: http://www.googlewatchblog.de/2012/09/geruecht-google-feedburner-counter/
-[1]: /atom.xml
+[1]: /feed
 [2]: http://reader.google.com/
