@@ -25,7 +25,7 @@ Previously I used something like this:
 
 This did not return any result, although I could verify via the appengine dashboard that there really was an Entity in the *Datastore* with the given ID.
 
-Anyways, you can now store syntax highlighted code at http://perfect-embassy-830.appspot.com/
+Anyways, you can now store syntax highlighted code at [http://syntaxhighlight.de/][8]
 
 [0]: https://cloud.google.com/appengine/docs/python/
 [1]: https://github.com/MoriTanosuke/highlighty/
@@ -35,4 +35,4 @@ Anyways, you can now store syntax highlighted code at http://perfect-embassy-830
 [5]: https://www.heroku.com/
 [6]: http://redistogo.com/
 [7]: https://cloud.google.com/appengine/docs/python/gettingstartedpython27/templates
-
+[8]: http://syntaxhighlight.de/
