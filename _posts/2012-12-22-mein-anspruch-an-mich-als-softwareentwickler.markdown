@@ -1,8 +1,9 @@
 ---
-title: "Mein Anspruch an mich als Softwareentwickler"
+title: 'Mein Anspruch an mich als Softwareentwickler'
+date: 2012-12-22 00:00:00 
+tags: 
 layout: post
 ---
-
 Ich schreibe jetzt schon seit einigen Jahren verschiedene Arten von Software - kleine Hilfsprogramme, 
 Webservices, Webanwendungen, Desktopsoftware, Shellskripte - und dabei hat sich bei mir eine gewisse 
 Haltung ausgeprägt, wie ich an solche Dinge herangehe und was ich selbst als *gute Software* betrachte.

@@ -1,6 +1,8 @@
 ---
+title: 'FAZ verkennt mal wieder die Situation der Piratenpartei'
+date: 2012-05-06 00:00:00 
+tags: 
 layout: post
-title: FAZ verkennt mal wieder die Situation der Piratenpartei
 ---
 Gestern hab ich [den Artikel "Die Piraten - Eine Partei wie die anderen
 auch" bei der FAZ][1] gelesen, der mal wieder zeigt, dass die meisten
@@ -67,4 +69,3 @@ runterladen, was sie irgendwo als Torrent finden...
 [3]: http://www.faz.net/
 [4]: https://thepiratebay.se/about
 [5]: http://piratenpartei.de/
-

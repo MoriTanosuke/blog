@@ -1,9 +1,9 @@
 ---
+title: 'Konfiguration eines externen Verzeichnisses in owncloud'
+date: 2012-08-11 00:00:00 
+tags: frontpage,cloud
 layout: post
-title: Konfiguration eines externen Verzeichnisses in owncloud
-tags: cloud frontpage
 ---
-
 Seit ein paar Tagen hab ich eine Instanz von [owncloud][0] für mich aufgesetzt, um die Ablösung von [Dropbox][1] zu testen. Generell find ich die Idee von Dropbox & Co super, und die Synchronisation gerade auf mein Android-Telefon ist mein Lieblingsfeature. Aber wenn man mal drüber nachdenkt, dass die Dateien irgendwo auf der Welt herumliegen, dann wird einem doch etwas unwohl. Vor allem nach [den jüngsten Sicherheitsschwankungen][2] bei den Cloud-Anbietern...
 
 Ich hab jetzt also meine eigene kleine Cloud, kann die auf meine Rechner und auf mein Telefon synchronisieren und bin selbst für die Sicherheit verantwortlich. Es gibt natürlich noch ein paar Dinge, die nicht so samtweich laufen wie bei Dropbox:

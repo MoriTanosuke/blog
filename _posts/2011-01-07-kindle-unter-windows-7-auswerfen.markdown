@@ -1,8 +1,8 @@
---- 
-wordpress_id: 331
+---
+title: 'Kindle unter Windows 7 auswerfen'
+date: 2011-01-07 00:00:00 
+tags: 
 layout: post
-title: Kindle unter Windows 7 auswerfen
-wordpress_url: http://blog.kopis.de/?p=331
 ---
 <center><iframe src="http://rcm-de.amazon.de/e/cm?t=kopisde-21&o=3&p=26&l=ur1&category=kindlegaraete&banner=1S816827RAHS85CWB982&f=ifr" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
@@ -28,4 +28,3 @@ kann trotzdem lesen.
 [0]: http://www.amazon.com/Kindle-Wireless-Reading-Device-Display/dp/B00154JDAI/kopisde-21
 [1]: http://www.microsoft.com/windows/windows-7/
 [2]: http://www.ebookworm.us/2010/07/07/using-kindle-connected-to-windows7
-

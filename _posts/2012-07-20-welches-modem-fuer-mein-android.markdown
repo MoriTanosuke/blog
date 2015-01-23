@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Welches Modem für mein Android?"
+title: 'Welches Modem für mein Android?'
+date: 2012-07-20 00:00:00 
 tags: android
+layout: post
 ---
-
 Seit gestern beschäftige ich mich mit der Frage nach dem optimalen Modem für mein Android-Telefon. Wenn man damit mal angefangen hat, kann man den Tag eigentlich erstmal abschreiben. Foren-Threads lesen, Firmware-Versionen und ROMs vergleichen - und hinterher ist man immer noch nicht schlauer.
 
 Ich hab deshalb angefangen, ein paar interessante Links zusammenzutragen:

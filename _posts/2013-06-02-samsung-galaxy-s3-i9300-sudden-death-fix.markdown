@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Samsung Galaxy S3 (i9300) Sudden Death und andauernde Freezes"
+title: 'Samsung Galaxy S3 (i9300) Sudden Death und andauernde Freezes'
+date: 2013-06-02 00:00:00 
 tags: frontpage
+layout: post
 ---
-
 Seit einigen Tagen hatte ich ein sehr nerviges Problem mit meinem [Samsung Galaxy S3][0]:
 
 Das Gerät fror anscheinend zufällig ein und liess sich nicht mehr bedienen.

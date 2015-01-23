@@ -1,5 +1,7 @@
 ---
-title: "Owncloud Plugin to view GPX files"
+title: 'Owncloud Plugin to view GPX files'
+date: 2013-08-03 00:00:00 
+tags: 
 layout: post
 ---
 Today I decided to create a plugin for [Owncloud][0] which displays GPX files directly in your browser. For the plugin I used the great [leaflet][1] library and the [GPX plugin by Maxime Petazzoni][2]. The plugin will display all files with a mimetype of *text/gpx* or *application/gpx+xml* on a map in your browser when you click them while browsing your owncloud folders.

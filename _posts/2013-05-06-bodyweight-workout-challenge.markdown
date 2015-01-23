@@ -1,9 +1,9 @@
 ---
+title: 'Bodyweight Workout Challenge'
+date: 2013-05-06 00:00:00 
+tags: fitness,strength,training,workout
 layout: post
-title: "Bodyweight Workout Challenge"
-tags: fitness strength training workout
 ---
-
 Heute nachmittag werde ich eine neue Challenge annehmen und folgendes Training absolvieren:
 
 * 10 Squat Jumps, 10 Klimmzüge, 10 Lunge Jumps, 10 Liegestütz
@@ -21,10 +21,9 @@ Sportplatz gegangen bin. Springen ist in meinem Keller nicht wirklich
 drin... Die Challenge habe ich in ca. 5m40s absolviert, allerdings hab
 ich die Klimmzüge schon beim zweiten Satz nicht mehr ohne Pause
 geschafft. Ich werd diese Challenge und die 
-[30rep sandbag challenge]({% post_url 2011-04-10-30-rep-sandbag-challenge%}) 
+[30rep sandbag challenge](/30-rep-sandbag-challenge/) 
 alle paar Wochen machen, um meinen Fitnesslevel zu überrüfen.
 
 Inspiriert (oder angestachelt) ist das ganze von Zach Even-Eshs Video:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/plTvNqoNxkk" frameborder="0"></iframe>
-

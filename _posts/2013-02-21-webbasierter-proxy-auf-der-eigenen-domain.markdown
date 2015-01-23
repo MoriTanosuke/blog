@@ -1,6 +1,8 @@
 ---
+title: 'Webbasierter Proxy auf der eigenen Domain'
+date: 2013-02-21 00:00:00 
+tags: 
 layout: post
-title: "Webbasierter Proxy auf der eigenen Domain"
 ---
 Vor ein paar Tagen habe ich mir [Glype][0] auf meiner Domain
 installiert. Damit kann ich Webseiten so laden, als würde meine Domain
@@ -26,4 +28,3 @@ geschützt.
 
 [0]: http://www.glype.com
 [1]: http://www.glype.com/download.php
-

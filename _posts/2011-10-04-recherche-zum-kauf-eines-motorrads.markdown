@@ -1,6 +1,8 @@
 ---
+title: 'Recherche zum Kauf eines Motorrads'
+date: 2011-10-04 00:00:00 
+tags: 
 layout: post
-title: Recherche zum Kauf eines Motorrads
 ---
 Seit ein paar Tagen beschäftige ich mich intensiver mit der Frage, welches Motorrad wohl zu mir passt. Ich würde mein Profil in etwa so einschätzen:
 
@@ -34,4 +36,3 @@ Stellen sich noch folgende Fragen:
 [3]: http://de.wikipedia.org/wiki/Suzuki_GSF_600
 [4]: http://de.wikipedia.org/wiki/Kawasaki_ER-6
 [5]: http://www.scottoiler.de/
-

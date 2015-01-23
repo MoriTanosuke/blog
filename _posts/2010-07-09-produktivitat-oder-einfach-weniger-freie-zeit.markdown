@@ -1,8 +1,8 @@
---- 
-wordpress_id: 78
+---
+title: 'Produktivität oder einfach weniger freie Zeit?'
+date: 2010-07-09 00:00:00 
+tags: 
 layout: post
-title: "Produktivität oder einfach weniger freie Zeit?"
-wordpress_url: http://blog.kopis.de/?p=78
 ---
 Drüber [bei Stepcase Lifehack gibt es einen interessanten Artikel über
 Produktivität, Technologie und Life Balance][0]. Hier ist ein
@@ -37,4 +37,3 @@ am nächsten Tag schon vorwurfsvoll angesehen.
 [0]: http://www.lifehack.org/articles/lifehack/a-new-productivity-for-the-smartphone-era.html
 [1]: http://blog.kopis.de/2010/07/05/demnachst-nexus-one/
 [2]: http://blackberry.com
-

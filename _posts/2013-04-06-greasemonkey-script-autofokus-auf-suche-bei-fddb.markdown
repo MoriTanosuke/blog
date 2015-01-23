@@ -1,8 +1,9 @@
 ---
+title: 'Greasemonkey Script für FDDB - Autofokus auf Suche setzen'
+date: 2013-04-06 00:00:00 
+tags: 
 layout: post
-title: "Greasemonkey Script für FDDB - Autofokus auf Suche setzen"
 ---
-
 Mich hat es schon immer gestört, dass auf den Seiten der [FDDB][3] der Eingabefokus nicht automatisch auf
 dem Suchfeld liegt. Immer wenn ich die Seite öffne, muss ich die Hände von der Tastatur nehmen und 
 einen zusätzlichen Mausklick machen.

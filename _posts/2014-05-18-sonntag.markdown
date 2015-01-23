@@ -1,0 +1,9 @@
+---
+title: 'Sonntag'
+date: 2014-05-18 00:00:00 
+tags: bilder
+layout: post
+---
+Das Wetter war heute ziemlich gut. Sonnenbrand und Wattfüße. :-)
+
+<center><a href="https://www.flickr.com/photos/cringe/14213895694" title="Sonntag by Carsten Ringe, on Flickr"><img src="https://farm6.staticflickr.com/5493/14213895694_0b987f7f36.jpg" width="500" height="283" alt="Sonntag"></a></center>

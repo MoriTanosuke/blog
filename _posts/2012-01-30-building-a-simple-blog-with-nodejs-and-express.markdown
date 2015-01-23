@@ -1,9 +1,9 @@
 ---
+title: 'Building a simple blog with NodeJS and Express'
+date: 2012-01-30 00:00:00 
+tags: frontpage,nodejs
 layout: post
-title: Building a simple blog with NodeJS and Express
-tags: nodejs frontpage
 ---
-
 After [installing NodeJS][0] and [creating a basic web application with
 Express][1] I wanted to get deeper into the world of *node* and build
 another simple, but useable web app. Because I like to blog, I decided

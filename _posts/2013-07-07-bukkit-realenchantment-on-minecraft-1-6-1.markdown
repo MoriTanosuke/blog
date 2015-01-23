@@ -1,6 +1,8 @@
 ---
+title: 'Installing Bukkit plugin RealEnchantment on server 1.6.1'
+date: 2013-07-07 00:00:00 
+tags: 
 layout: post
-title: "Installing Bukkit plugin RealEnchantment on server 1.6.1"
 ---
 Yesterday I decided it's time to get some horses. [Minecraft v1.6.1][0] is released and the new launcher 
 makes it easy to switch versions on the client side. At the same time, [bukkit announced the first development build][1]

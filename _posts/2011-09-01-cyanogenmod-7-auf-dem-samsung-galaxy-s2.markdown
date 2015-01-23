@@ -1,6 +1,8 @@
 ---
+title: 'Cyanogenmod 7 nightly auf dem Samsung Galaxy S2 (i9100)'
+date: 2011-09-01 00:00:00 
+tags: 
 layout: post
-title: Cyanogenmod 7 nightly auf dem Samsung Galaxy S2 (i9100)
 ---
 Seit ein paar Wochen habe ich jetzt schon [Cyanogenmod 7 nightly][1] auf meinem [Samsung Galaxy S2][2]. Alle Updates haben bisher geklappt, mit dem [ROM Manager][3] ist das ganze ein Kinderspiel: dreimal klicken, einmal neustarten und schon läuft der neue *Nightly Build* auf dem Smartphone.
 

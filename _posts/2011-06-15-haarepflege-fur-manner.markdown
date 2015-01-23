@@ -1,8 +1,8 @@
---- 
-wordpress_id: 726
+---
+title: 'Haarepflege für Männer?'
+date: 2011-06-15 00:00:00 
+tags: 
 layout: post
-title: "Haarepflege für Männer?"
-wordpress_url: http://blog.kopis.de/?p=726
 ---
 Wieso gibt es in der letzten Zeit eigentlich so viel Werbung für Haarpflegeprodukte (bzw. allgemein Pflegeprodukte) für Männer? Hat die Industrie nicht mehr genug Raum für Wachstum bei Produkten für Frauen?
 

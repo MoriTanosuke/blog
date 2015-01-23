@@ -1,6 +1,8 @@
 ---
+title: 'Update mit JQuery Mobile'
+date: 2011-11-19 00:00:00 
+tags: 
 layout: post
-title: Update mit JQuery Mobile
 ---
 Wie ihr vielleicht gesehen habt, sieht mein Blog schon wieder anders aus. Das ganze Layout basiert auf [JQuery Mobile][0] und ist für mobile Geräte optimiert. Aber ich finde, es sieht auch auf Desktopbrowsern ganz gut aus.
 

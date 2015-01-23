@@ -1,6 +1,8 @@
 ---
+title: 'Wechsel zu PITT'
+date: 2011-10-24 00:00:00 
+tags: 
 layout: post
-title: Wechsel zu PITT
 ---
 Heute hab ich die zweite Trainingseinheit des PITT Basic Trainingsplan absolviert. Nach fast 1 Jahr 5x5 will ich die nächsten Monate wieder ein anderen Reiz in meinen Trainingseinheiten.
 
@@ -28,4 +30,3 @@ Ausserdem kann man sich "*X Schritte pro Tag*" als Ziel setzen und die Seite mit
 
 [0]: http://www.healthmonth.com/
 [1]: http://www.fitbit.com/
-

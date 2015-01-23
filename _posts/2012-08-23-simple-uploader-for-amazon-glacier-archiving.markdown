@@ -1,8 +1,9 @@
 ---
-title: Simple Upload for Amazon Glacier archiving
+title: 'Simple Upload for Amazon Glacier archiving'
+date: 2012-08-23 00:00:00 
+tags: 
 layout: post
 ---
-
 **Update** I uploaded a new version of the [glacieruploader][4]. I want
 to move to a cleaner command line usage, so I introduced better options.
 Check it out and tell me what you think. :-)
@@ -42,4 +43,3 @@ at home.
 [3]: http://docs.amazonwebservices.com/amazonglacier/latest/dev/using-aws-sdk-for-java.html
 [4]: https://github.com/MoriTanosuke/glacieruploader
 [5]: https://github.com/MoriTanosuke/glacieruploader/downloads
-

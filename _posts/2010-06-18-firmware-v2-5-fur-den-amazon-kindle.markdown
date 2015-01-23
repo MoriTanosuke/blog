@@ -1,10 +1,9 @@
---- 
-wordpress_id: 91
-layout: post
-title: "Firmware v2.5 für den Amazon Kindle"
-wordpress_url: http://blog.kopis.de/?p=91
 ---
-
+title: 'Firmware v2.5 für den Amazon Kindle'
+date: 2010-06-18 00:00:00 
+tags: 
+layout: post
+---
 Vor ein paar Tagen ist <a href="http://www.amazon.com/gp/help/customer/display.html?nodeId=200324680">das Firmwareupdate v2.5 für den Amazon Kindle</a> herausgekommen. Seit 2 Tagen habe ich es auf <a href="http://blog.kopis.de/2010/02/05/demnachst-in-meinem-rucksack-amazon-kindle/">meinem Kindle 2</a> installiert - und bin enttäuscht.
 
 <a href="http://www.amazon.com/gp/help/customer/display.html/ref=hp_kswup_nav_manup?nodeId=200324680&amp;#manual">Das Update selbst ist schnell heruntergeladen</a>. Anschließend muss man die Datei nur in das Hauptverzeichnis auf dem Kindle ablegen und über den HOME-Bildschirm in das Menü *SETTINGS* gehen und mit einem weiteren Druck auf *"Menu"* den Eintrag *"Update your kindle"* aufrufen.
@@ -24,4 +23,3 @@ Alles in allem ist das Update für mich nicht die Erwartete Konkurrenz zu einem 
 **Update** Ich habe im Moment den Eindruck, dass das Umblättern schneller geworden ist. Das, zusammen mit Passwortschutz und mehr Schriftgößen, gibt dem Update eine Existenzberechtigung für internationale Nutzer.
 
 **Update 2** Ok, ich korrigiere mich: Ich habe gerade 2 Ordner angelegt, um meine Bücher zu ordnen.
-  

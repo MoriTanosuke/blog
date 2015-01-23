@@ -1,10 +1,9 @@
---- 
-wordpress_id: 108
-layout: post
-title: Kunstraub in Paris
-wordpress_url: http://blog.kopis.de/?p=108
 ---
-
+title: 'Kunstraub in Paris'
+date: 2010-05-21 00:00:00 
+tags: 
+layout: post
+---
 Unglaublich, das h&ouml;rt sich echt an wie im Film: <a href="http://www.focus.de/panorama/vermischtes/paris-der-wohl-groesste-kunstraub-aller-zeiten_aid_510465.html">Einbruch in das Museum f&uuml;r moderne Kunst in Paris</a>.
 
 <ul>

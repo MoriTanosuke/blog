@@ -1,8 +1,9 @@
 ---
-title: Highlighty - gebaut mit NodeJS und Redis
+title: 'Highlighty - gebaut mit NodeJS und Redis'
+date: 2012-11-12 00:00:00 
+tags: 
 layout: post
 ---
-
 Gestern hab ich mich mal hingesetzt und darüber nachgedacht, wie ich
 eine Webanwendung zum Abspeichern und Anzeigen von kleinen
 Code-Schnippseln aussehen würde. Und weil ich lieber etwas baue als
@@ -41,4 +42,3 @@ Syntax Highlighting ansehen können.
 [9]: https://github.com/MoriTanosuke/highlighty/blob/master/app.js#L18
 [10]: https://github.com/MoriTanosuke/highlighty/blob/master/app.js#L9
 [11]: https://github.com/MoriTanosuke/highlighty/commit/e2312e8af4652509f96ae1b0177190453dae63f4#app.js
-

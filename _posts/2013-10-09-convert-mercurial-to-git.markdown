@@ -1,8 +1,9 @@
 ---
+title: 'Converting a mercurial repository into a git repository'
+date: 2013-10-09 00:00:00 
+tags: 
 layout: post
-title: "Converting a mercurial repository into a git repository"
 ---
-
 Today I cloned a [mercurial][0] repository, because I'm using an android application that I may have some contributions for. The project is hosted on [Google Code][1] and is using a mercurial repository since the beginning. I'm a [git][2] user myself, so I don't want to give up my practiced workflows.
 
 After trying [hg-git][4] without success, I found [hg-fast-export][3]. With this little tool I was able to convert the cloned mercurial repository into a git repository:
@@ -24,4 +25,3 @@ After this little dance I got a valid git repository with history, tags and bran
 [2]: http://git-scm.com/
 [3]: http://repo.or.cz/w/fast-export.git
 [4]: http://hg-git.github.io/
-

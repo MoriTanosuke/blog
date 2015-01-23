@@ -1,6 +1,8 @@
 ---
+title: 'Fitbit API zeigt Zeitpunkt des letzten Sync'
+date: 2011-08-26 00:00:00 
+tags: 
 layout: post
-title: Fitbit API zeigt Zeitpunkt des letzten Sync
 ---
 Heute gab es [eine interessante Ankündigung][2] für die [Fitbit API][1]:
 

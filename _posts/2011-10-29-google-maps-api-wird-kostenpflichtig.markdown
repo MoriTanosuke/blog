@@ -1,6 +1,8 @@
 ---
+title: 'Google Maps API wird kostenpflichtig'
+date: 2011-10-29 00:00:00 
+tags: 
 layout: post
-title: Google Maps API wird kostenpflichtig
 ---
 Ich will nur schnell was loswerden: Nachdem [Google Maps][0] mittlerweile in vielen Anwendungen genutzt wird, hat Google jetzt beschlossen, Geld damit zu verdienen. Hier ist der entsprechende Teil der FAQ:
 

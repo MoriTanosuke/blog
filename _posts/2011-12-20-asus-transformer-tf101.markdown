@@ -1,6 +1,8 @@
 ---
+title: 'ASUS Transformer TF101'
+date: 2011-12-20 00:00:00 
+tags: 
 layout: post
-title: ASUS Transformer TF101
 ---
 Seit letzter Woche bin ich stolzer Besitzer eines *Tablet PC*. Nennt man das überhaupt noch so? Wie auch auch immer, ich tippe diesen Text also auf einem [ASUS Transformer TF101][1], mit einem Android 3.2.1. Ich verwende auch noch das Betriebssystem von ASUS, obwohl das Gerät bereits geknackt und ein *Custom ROM* bereits auf der kleinen Speicherkarte bereit liegt. Aber bevor ich das Teil neu installiere, gebe ich der Firmware eine Chance. Bis jetzt habe ich es aber nie lange auf den Android-Varianten der Hersteller ausgehalten... leider gibt es noch keine offizielle Version von [cyanogenmod][2], deshalb habe ich mir das [Revolver MOD][3] runtergeladen. Wenn ich das System umflashe, sage ich nochmal bescheid.
 
@@ -25,5 +27,3 @@ Natürlich verfällt ASUS auch der Unsitte, eigene Anwendungen zwangszuinstallie
 [8]: http://freetz.org
 [9]: https://market.android.com/details?id=com.touchtype.swiftkey.tablet.trial
 [10]: http://blog.kopis.de/2011/07/05/erster-eindruck-samsung-galaxy-s2-i9100/
-
-

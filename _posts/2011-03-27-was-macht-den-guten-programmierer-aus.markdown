@@ -1,8 +1,8 @@
---- 
-wordpress_id: 566
+---
+title: 'Was macht den guten Programmierer aus?'
+date: 2011-03-27 00:00:00 
+tags: 
 layout: post
-title: "Was macht den guten Programmierer aus?"
-wordpress_url: http://blog.kopis.de/?p=566
 ---
 Ich lese ja öfter mal auf [Programmers StackExchange][0] und dort findet man einige Perlen:
 
@@ -53,6 +53,6 @@ Und ja, [StackExchange][9] lesen ist für mich Weiterbildung. ;-)
 [4]: http://programmers.stackexchange.com/questions/31104/whats-your-most-controversial-programming-opinion/31188#31188
 [5]: http://www.google.de/search?q=site%3Ablog.kopis.de&q=clojure
 [6]: http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912?kopisde-21
-[7]: {% post_url 2010-03-05-learning-golang-1-oder-wie-sortiere-ich-eine-map %}
+[7]: /learning-golang-1-oder-wie-sortiere-ich-eine-map/
 [8]: http://www.welshnationalsheepdogtrials.org.uk/
 [9]: http://StackExchange.com

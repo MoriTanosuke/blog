@@ -1,10 +1,9 @@
---- 
-layout: post
-title: "Anwendungen auf Android-Telefonen spionieren die Anwender aus"
-wordpress_url: http://blog.kopis.de/?p=71
-wordpress_id: 71
 ---
-
+title: 'Anwendungen auf Android-Telefonen spionieren die Anwender aus'
+date: 2010-07-30 00:00:00 
+tags: 
+layout: post
+---
 Mittlerweile ist es sogar schon <a href="http://www.heise.de/newsticker/meldung/Apps-telefonieren-nach-Hause-Update-1047796.html">bei heise aufgeschlagen: Android Apps haben arglose Nutzer ausgespäht.</a> Und mir ist ein etwas zu sorgloser Umgang mit Berechtigungen auch schon aufgefallen. Ich wollte mir z.B.  einen FLAC-Player installieren, und musste erstaunt feststellen, dass der Player meinen Telefonstatus und die Logs auslesen will. Wieso das?
 
 Wahrscheinlich, weil damit Geräteinformationen ausgelesen werden. Evtl für Hacks und Workarounds für spezielle Geräte, evtl um die Geräte noch detaillierter zu identifizieren - oder evtl um die IMEI auszulesen und an chinesische Server zu übertragen... weiÃÂ man halt erstmal nicht. Und als Normalnutzer klickt man sich über den Installationsbildschirm sowieso schnell weg, der einen mit detaillierten Berechtigungsinformationen überschüttet.

@@ -1,7 +1,8 @@
 ---
+title: 'Aufgaben in der BASH parallelisieren'
+date: 2011-12-15 00:00:00 
+tags: 
 layout: post
-title: Aufgaben in der BASH parallelisieren
-excerpt: 
 ---
 Heute wollte ich in der [Bash][0] (genauer: in der Bash meiner [Cygwin][1]-Installation) mehrere groÃÂe Logfiles durchsuchen. Mit [grep][2] habe ich nach einer bestimmten Zeichenfolge ausschau gehalten und die Ausgabe sollte pro Datei in einer eigenen Ausgabedatei landen.
 
@@ -29,4 +30,3 @@ Wenn ihr damit noch nicht zufrieden seid, könnt ihr auch diese Variante mit [xa
 [1]: http://cygwin.com/
 [2]: http://linux.die.net/man/1/grep
 [3]: http://linux.die.net/man/1/xargs
-

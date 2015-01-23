@@ -1,5 +1,7 @@
 ---
-title: "Bessere Lesbarkeit mit TinyTiny RSS 1.7.4"
+title: 'Bessere Lesbarkeit mit TinyTiny RSS 1.7.4'
+date: 2013-03-16 00:00:00 
+tags: 
 layout: post
 ---
 Ich teste gerade [tt-rss][0] als RSS Reader, da diese Software für
@@ -29,4 +31,3 @@ justify;` weglassen.
 
 [0]: http://tt-rss.org/
 [1]: http://feedafever.com/
-

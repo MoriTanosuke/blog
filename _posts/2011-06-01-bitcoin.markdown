@@ -1,14 +1,14 @@
---- 
-wordpress_id: 702
-layout: post
-title: Bitcoin
-wordpress_url: http://blog.kopis.de/?p=702
 ---
-Meine [Bitcoin][0]-Adresse ist <strong>15QiUXXBjqkATFj5HZn5ASUqbnrS2rD1Lg</strong> - falls ihr ein paar Münzen übrig habt. ;-)
+title: 'Bitcoin'
+date: 2011-06-01 00:00:00 
+tags: 
+layout: post
+---
+<del>Meine [Bitcoin][0]-Adresse ist <strong>15QiUXXBjqkATFj5HZn5ASUqbnrS2rD1Lg</strong> - falls ihr ein paar Münzen übrig habt. ;-)</del>
 
 Seit ein paar Tagen hab ich viel über [Bitcoin][0] gelesen, eine virtuelle Währung, die per Peer-to-peer-Netzwerk übertragen wird. Damit gibt es keine zentrale Instanz, die über die Währung verfügen kann. [Die Werte können auch nicht "eingefroren", nicht zurückverfolgt][1] und (wahrscheinlich) [nur schwer gefälscht werden][2].
 
-Wenn ihr einsteigen wollt, lest euchÃÂ [http://go-bitcoin.com/][3] durch.
+Wenn ihr einsteigen wollt, lest euch [http://go-bitcoin.com/][3] durch.
 
 Das ganze [basiert auf Kryptografie][4] und die gesamte Zahlungshistorie soll in einer Bitcoin-Transaktion nachzulesen sein. Allerdings gibt es auch ein paar Sicherheitsbedenken, ob findige Hacker nicht früher oder später die Kryptografie knacken und anschliessend selbst Geld "<em>drucken</em>" können... ich weiß noch nicht, wie ich dazu stehe, aber interessant ist das ganze schon.
 

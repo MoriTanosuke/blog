@@ -1,8 +1,9 @@
 ---
+title: 'Steam OS basierend auf Linux angekündigt'
+date: 2013-09-24 00:00:00 
+tags: 
 layout: post
-title: "Steam OS basierend auf Linux angekündigt"
 ---
-
 Es ist also soweit: [Steam][1] hat das [Steam OS][0] angekündigt - ein
 eigenes Betriebssystem, das auf Linux basieren wird. Es ist für
 Hersteller und Benutzer kostenlos und wird wohl bald als Download
@@ -34,4 +35,3 @@ hoffentlich noch viele Spiele dazu.
 [5]: http://www.ftlgame.com/
 [6]: http://supergiantgames.com/index.php/media/
 [7]: http://www.thinkwithportals.com/
-

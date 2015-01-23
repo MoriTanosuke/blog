@@ -1,10 +1,9 @@
---- 
-wordpress_id: 53
-layout: post
-title: "Gebühren bei Tauschticket"
-wordpress_url: http://blog.kopis.de/?p=53
 ---
-
+title: 'Gebühren bei Tauschticket'
+date: 2010-09-25 00:00:00 
+tags: 
+layout: post
+---
 Nach mehreren Jahren haben sich die Betreiber von <a href="http://www.tauschticket.de/">tauschticket.de</a> jetzt überlegt, dass eine Gebühr eingeführt werden muss, um die riiiiieeeeesen Nutzermengen zu bewältigen. Ich will an dieser Stelle gleich mal bezweifeln, dass die Nutzerzahlen die Anschaffung von Serverfarmen oder unbezahlbare Traffickosten nach sich ziehen &hellip; wie auch immer, ab sofort soll ein Tauschvorgang 49ct kosten.
 
 Das ist ein radikaler Wechsel vom ursprünglichen Community-Gedanken (Wer ein Buch weggibt, bekommt ein Ticket und kann damit ein neues Buch erhalten) und markiert für mich das Ende der social networking-Bestrebungen von <em>tauschticket</em>. Die Kommerzialisierung der Seite wurde schon früher durch die Einführung von Multi-Ticket-Angeboten gestartet, aber jetzt ist der Punkt erreicht, an dem ich aussteige.

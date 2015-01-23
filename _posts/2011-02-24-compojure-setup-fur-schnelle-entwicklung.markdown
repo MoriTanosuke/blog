@@ -1,8 +1,8 @@
---- 
-wordpress_id: 468
+---
+title: 'Compojure Setup für schnelle Entwicklung'
+date: 2011-02-24 00:00:00 
+tags: 
 layout: post
-title: "Compojure Setup für schnelle Entwicklung"
-wordpress_url: http://blog.kopis.de/?p=468
 ---
 Ich hab in den letzten Tagen weiter mit <a href="http://compojure.org/">Compojure</a> herumgebastelt und will jetzt meinen aktuellen Stand der Entwicklungsumgebung aufschreiben. Vielleicht hilft es euch ja beim Einstieg. Ich bin jedenfalls etwas enttäuscht, das man keine guten Tutorials und Hilfen findet, wenn man frisch in <a href="http://clojure.org/">Clojure</a> und gerade <a href="http://compojure.org/">Compojure</a> einsteigt.
 

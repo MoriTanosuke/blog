@@ -1,8 +1,9 @@
 ---
+title: 'Nach dem Hack - Account wieder freigeschaltet'
+date: 2012-01-21 00:00:00 
+tags: 
 layout: post
-title: Nach dem Hack - Account wieder freigeschaltet
 ---
-
 Das ging [schneller als erwartet][0]: Mein Xbox-Account ist wieder freigeschaltet und für die geklauten *MS Points* (ich würde gern auf die Wikipedia linken, aber [da haben die Löschtrolle mal wieder zugeschlagen][1]...) habe ich eine Gutschrift bekommen, die demnächst in meinem Account auftauchen wird.
 
 Vielen Dank, Xbox-Team!

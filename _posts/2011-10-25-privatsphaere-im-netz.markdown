@@ -1,6 +1,8 @@
 ---
+title: 'Privatsphäre im Netz ist schwierig'
+date: 2011-10-25 00:00:00 
+tags: 
 layout: post
-title: "Privatsphäre im Netz ist schwierig"
 ---
 Ich weiß, ihr wollt nichts über Netzwerktechnik hören. Aber wenn man im Internet unterwegs ist, dann ist es manchmal ganz gut, wenn man weiß, wie die Bytes über die Leitung kommen. Und wer dabei alles mitlesen kann.
 
@@ -19,7 +21,7 @@ document.getElementById('testbild').appendChild(img);
 
 Der Code dazu sieht wie folgt aus:
 
-<script src="https://gist.github.com/1312839.js"> </script>
+<script src="https://gist.github.com/MoriTanosuke/1312839.js"></script>
 
 Dieses Bild ist jetzt per Javascript eingebunden. Ich war so frei, und hab es *nicht* 1x1 Pixel groß gemacht, so dass ihr es sehen könnt. Wäre ich an euren Bewegungsdaten im Internet interessiert, würde ich es vielleicht unsichtbar einbinden, so dass ihr es gar nicht mitbekommen würdet.
 
@@ -28,4 +30,3 @@ Es ist also nicht nur Facebook, das eure Privatsphäre *bedroht*. Manche Sachen 
 [0]: http://www.henning-tillmann.de/
 [1]: http://www.henning-tillmann.de/2011/10/der-facebook-like-button-oder-das-datenschutzproblem-seit-20-jahren-privacyimg/
 [2]: http://tilli.me/
-

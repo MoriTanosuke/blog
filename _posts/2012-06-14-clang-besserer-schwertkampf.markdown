@@ -1,8 +1,9 @@
 ---
+title: 'CLANG - Besserer Schwertkampf für Computerspiele'
+date: 2012-06-14 00:00:00 
+tags: 
 layout: post
-title: "CLANG - Besserer Schwertkampf für Computerspiele"
 ---
-
 Vor ein paar Tagen habe ich auf [Kickstarter][0] das [Projekt CLANG][1] entdeckt. Prominenter Fürsprecher ist [Neal Stephenson][2], der anscheinend begeisterter Schwerkämpfer ist. Ihr solltet euch *jetzt sofort* das erste Video angucken:
 
 <iframe width="480" height="360" src="http://www.kickstarter.com/projects/260688528/clang/widget/video.html" frameborder="0"> </iframe>
@@ -39,4 +40,3 @@ Ich hab das Projekt jedenfalls mit ein paar Dollar unterstützt, denn neue Einga
 [5]: http://minecraft.net/
 [6]: http://www.xbox.com/de-DE/Kinect
 [7]: http://www.golem.de/news/kinect-star-wars-testvideo-das-ist-nicht-das-kinect-spiel-das-ihr-sucht-1204-91021.html
-

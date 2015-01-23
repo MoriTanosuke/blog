@@ -1,7 +1,8 @@
 ---
+title: 'Kettlebell'
+date: 2011-12-01 00:00:00 
+tags: 
 layout: post
-title: Kettlebell
-excerpt: "Mein neuer Kettlebell ist angekommen und ich habe ein paar Videos rausgesucht, die bei den ersten Übungen helfen sollen."
 ---
 Gestern ist ein neues Trainingsgerät bei mir angekommen: Der [Pro Kettlebell Stack][0], bestellt bei 
 [Bad Company][1]. Ich hab schon öfter dort bestellt und bin sehr zufrieden mit der Lieferzeit und 

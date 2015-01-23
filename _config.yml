@@ -5,7 +5,7 @@ paginate: 5
 markdown: rdiscount
 safe: true
 lsi: false
-pygments: true
+highlighter: 'pygments'
 url: http://blog.kopis.de
 
 # site settings

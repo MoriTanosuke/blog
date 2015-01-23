@@ -1,7 +1,8 @@
 ---
+title: 'Geschenkvorschläge für Comics'
+date: 2011-12-10 00:00:00 
+tags: 
 layout: post
-title: Geschenkvorschläge für Comics
-excerpt: Ich habe in den letzten Monaten wieder viele Comics gekauft und will euch hier eine kleine Liste mit meinen Lieblingsbüchern geben.  Vielleicht kennt ihr ja jemanden, der auch gerne Comics liest und sucht noch ein Geschenk. Einige der Comics sind Englisch, also achtet beim Schenken auf die Englischkenntnisse des Comicfans...
 ---
 Ich habe in den letzten Monaten wieder viele Comics gekauft und will
 euch hier eine kleine Liste mit meinen Lieblingsbüchern geben.
@@ -119,4 +120,3 @@ findet ihr sie.
 [8]: http://de.wikipedia.org/wiki/Tim_und_Struppi
 [9]: http://marvel.com/
 [10]: http://www.dccomics.com/dccomics/
-

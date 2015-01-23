@@ -1,8 +1,9 @@
 ---
+title: 'Minimum working example for fitbit4j'
+date: 2012-05-30 00:00:00 
+tags: 
 layout: post
-title: Minimum working example for fitbit4j
 ---
-
 **Update**: I build a complete project with Maven now that you can check
 out at [my github repository][7]. Feel free to
 fork the repository and build on it.
@@ -48,4 +49,3 @@ with Rails. :-)
 [5]: http://rubyonrails.org/
 [6]: http://fitbitanalyzr.heroku.com/
 [7]: https://github.com/MoriTanosuke/fitbit-cli-example
-

@@ -1,8 +1,8 @@
---- 
-wordpress_id: 604
+---
+title: 'Fitbit synchronisiert nicht'
+date: 2011-04-13 00:00:00 
+tags: 
 layout: post
-title: Fitbit synchronisiert nicht
-wordpress_url: http://blog.kopis.de/?p=604
 ---
 Heute hatte ich das erste Mal ein kleines Problem mit meinem [Fitbit][0]:
 

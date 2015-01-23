@@ -1,6 +1,8 @@
 ---
+title: 'Wechsel zu git-svn'
+date: 2012-05-11 00:00:00 
+tags: 
 layout: post
-title: Wechsel zu git-svn
 ---
 Es ist wieder so weit: [Subversion][0] (genauer: [IBM RAD][1] und [Subclipse][2] treiben mich in den Wahnsinn. Ich kann kaum noch commiten, bekomme Fehlermeldungen wie *malformed XML* und nichts geht.
 

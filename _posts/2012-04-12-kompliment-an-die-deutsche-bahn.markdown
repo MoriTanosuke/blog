@@ -1,6 +1,8 @@
 ---
+title: 'Kompliment an die deutsche Bahn'
+date: 2012-04-12 00:00:00 
+tags: 
 layout: post
-title: Kompliment an die deutsche Bahn
 ---
 Am Wochenende bin ich mal wieder Zug gefahren, hatte aber ganz
 vergessen, meine neue Bahncard einzustecken. Ich bin also einfach mit

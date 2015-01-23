@@ -1,6 +1,8 @@
 ---
+title: 'JUsenet - Newsreader für Android'
+date: 2011-11-26 00:00:00 
+tags: 
 layout: post
-title: "JUsenet - Newsreader für Android"
 ---
 Diese Woche habe ich angefangen, eine echte Anwendung für mein Android-Telefon zu bauen: [JUsenet][0], ein Newsreader für das Usenet. Die Senioren unter euch werden sich erinnern...
 

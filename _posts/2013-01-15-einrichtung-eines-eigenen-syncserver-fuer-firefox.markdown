@@ -1,8 +1,8 @@
 ---
+title: 'Einrichtung eines eigenen Sync-Server für Firefox'
+date: 2013-01-15 00:00:00 
+tags: firefox,internet
 layout: post
-title: "Einrichtung eines eigenen Sync-Server für Firefox"
-category: internet
-tags: firefox
 ---
 Im Zuge meiner [Rückeroberung des Internet][0] habe ich mir heute einen eigenen Server zur Synchronisation
 von [Firefox][7]-Inhalten eingerichtet. Damit kann ich meine Einstellungen und Lesezeichen über verschiedene

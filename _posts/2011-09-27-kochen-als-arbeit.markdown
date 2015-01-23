@@ -1,6 +1,8 @@
 ---
+title: 'Kochen als Arbeit'
+date: 2011-09-27 00:00:00 
+tags: 
 layout: post
-title: Kochen als Arbeit
 ---
 In der NY Times gibt es gerade den schönen Artikel [Is junk food really cheaper?][1], in dem der Autor *MARK BITTMAN* ein paar Gedanken zu Junk Food, Geld und Zeit aufschreibt.
 
@@ -28,4 +30,3 @@ Aber trotzdem: Es gibt quasi in Mittagspausen-Entfernung einen *Burger King*, ab
 [1]: http://www.nytimes.com/2011/09/25/opinion/sunday/is-junk-food-really-cheaper.html
 [2]: https://github.com/MoriTanosuke/FitbitAnalyzr
 [3]: http://www.amazon.de/George-Martins-Thrones-4-Book-ebook/dp/B004JN1D2I/kopisde-21
-

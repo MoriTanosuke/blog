@@ -1,6 +1,8 @@
 ---
+title: 'Gekauft - Honda Hornet (PC41)'
+date: 2011-10-07 00:00:00 
+tags: 
 layout: post
-title: Gekauft - Honda Hornet (PC41)
 ---
 Tja, das war kurz entschlossen. Eigentlich war ich wegen einer Probefahrt auf einer Kawasaki Z750 beim Händler, aber als dort dann auch einige Hornets rumstanden, hab ich gleich nach einer zweiten Probefahrt gefragt.
 

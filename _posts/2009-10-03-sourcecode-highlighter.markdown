@@ -1,10 +1,9 @@
---- 
-wordpress_id: 151
-layout: post
-title: Sourcecode Highlighter
-wordpress_url: http://blog.kopis.de/?p=151
 ---
-
+title: 'Sourcecode Highlighter'
+date: 2009-10-03 00:00:00 
+tags: 
+layout: post
+---
 Ich teste gerade ein Plugin f&uuml;r Quelltexte:
 
 <pre class="brush: java">

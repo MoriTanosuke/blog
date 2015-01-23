@@ -1,10 +1,9 @@
---- 
-wordpress_id: 96
-layout: post
-title: Ein paar Gedanken zum Iphone 4
-wordpress_url: http://blog.kopis.de/?p=96
 ---
-
+title: 'Ein paar Gedanken zum Iphone 4'
+date: 2010-06-10 00:00:00 
+tags: 
+layout: post
+---
 Am Montag hat <a href="http://de.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> auf der <a href="http://events.apple.com.edgesuite.net/1006ad9g4hjk/event/index.html">Keynote der WWDC 2010</a> <a href="http://www.apple.com/de/iphone/">das neue Iphone 4</a> vorgestellt. Schneller, schöner, neuer. Ich hatte vor ein paar Monaten schon ein Sparbuch für neue Gadgets eingerichtet und monatlich drauf eingezahlt. Das reicht jetzt zwar noch nicht für die (geschätzten) 800&euro; für ein sim- und netlock-freies Iphone 4, aber ich bin nicht mehr weit weg.
 
 Stellt sich für mich die Frage: Brauch ich es überhaupt?
@@ -21,4 +20,3 @@ Wieso sollte ich mir also ein neues Iphone kaufen? Bis jetzt hab ich da noch kei
 * 25% dünner
 
 Was ist euch wichtig?
-

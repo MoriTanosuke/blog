@@ -1,6 +1,8 @@
 ---
+title: 'Was war los auf dem 29c3?'
+date: 2013-01-02 00:00:00 
+tags: 
 layout: post
-title: Was war los auf dem 29c3?
 ---
 Ich war ja letzte Woche auf dem [29c3][0] und hab die Tage da sehr genossen. Die Vorträge
 waren super, die Organisation einwandfrei und das [CCH][1] mit seinem 70er Charme ein 

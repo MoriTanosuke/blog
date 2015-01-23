@@ -1,8 +1,8 @@
 ---
+title: 'Neues Projekt: Arduino'
+date: 2013-01-14 00:00:00 
+tags: arduino,hardware
 layout: post
-title: "Neues Projekt: Arduino"
-category: hardware
-tags: arduino
 ---
 Ich hab ein wenig gestöbert, was man im Moment alles mit den
 [Arduinos][0] machen kann. Nach einer Weile hab ich mehrere Projekte
@@ -47,4 +47,3 @@ Aktivitäten werden als ein Ohrclip... ;-)
 [5]: http://shop.fritzing.org/products/fritzing-starter-kit-with-arduino-uno
 [6]: https://www.sparkfun.com/products/9530
 [7]: https://www.sparkfun.com/products/8661
-

@@ -1,8 +1,9 @@
 ---
+title: 'Mehr freie Apps auf Mobiltelefonen!'
+date: 2013-04-22 00:00:00 
+tags: 
 layout: post
-title: "Mehr freie Apps auf Mobiltelefonen!"
 ---
-
 **TL;DR** Ich nutze jetzt wieder [Instapaper][2] mit [Instafetch][3], statt [Pocket][1]. Der Grund dafür
 sind die ausufernden Berechtigungen der [Android App von Pocket][0].
 

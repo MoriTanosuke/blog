@@ -1,6 +1,8 @@
 ---
+title: 'Remove all my tweets with Ruby'
+date: 2012-03-18 00:00:00 
+tags: 
 layout: post
-title: Remove all my tweets with Ruby
 ---
 Today I decided (in a recent quest to avoid Google for as long as possible) to re-activate [my Twitter account][0]. But I wanted to get rid of all previous tweets first, so I decided to put my recently acquired [ruby][1] skills to play.
 
@@ -20,4 +22,3 @@ For the rubyers amongst you, I used [peach][5] to destroy the statuses in parall
 [3]: http://twitter.rubyforge.org/
 [4]: https://dev.twitter.com/apps/
 [5]: http://peach.rubyforge.org/
-

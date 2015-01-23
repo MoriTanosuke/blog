@@ -1,6 +1,8 @@
 ---
+title: 'Ladeger&auml;t mit Solarzelle'
+date: 2011-09-25 00:00:00 
+tags: 
 layout: post
-title: Ladeger&auml;t mit Solarzelle
 ---
 Vor ein paar Tagen habe ich mir [meine erste Solarzelle Aurora 4 USB][1] zugelegt. Und zwar in Form
 eines portablen Ladeger&auml;ts mit USB-Anschluss. Hier ist das gute St&uuml;ck in Aktion:

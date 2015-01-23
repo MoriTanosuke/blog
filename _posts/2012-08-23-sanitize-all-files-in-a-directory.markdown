@@ -1,8 +1,9 @@
 ---
+title: 'Sanitize all files in a directory'
+date: 2012-08-23 00:00:00 
+tags: 
 layout: post
-title: Sanitize all files in a directory
 ---
-
 Today I wanted to finally clean up several backup copies of my music.
 Over the years I copied the files from device to device, moving through
 multiple generations of computers. I put the music into a [Jungledisk
@@ -46,4 +47,3 @@ me if something went wrong. :-D
 [3]: http://drobo.com/
 [4]: http://tldp.org/LDP/abs/html/
 [5]: https://gist.github.com/3438761
-

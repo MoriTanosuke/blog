@@ -1,9 +1,9 @@
 ---
+title: 'Cyanogenmod9 auf dem ASUS Transformer TF101'
+date: 2012-06-22 00:00:00 
+tags: android,jailbreak,cyanogenmod
 layout: post
-title: Cyanogenmod9 auf dem ASUS Transformer TF101
-tags: android jailbreak cyanogenmod
 ---
-
 Nachdem ich fast seit dem ersten Tag ein [Custom ROM][1] auf [meinem ASUS Transformer TF101][2] 
 installiert habe, bin ich gestern *endlich* auf [Cyanogenmod 9][0] gewechselt. Seit kurzer Zeit gibt es 
 nämlich einen [offiziellen (*nightly*) Build direkt von den Servern von CM9][3].

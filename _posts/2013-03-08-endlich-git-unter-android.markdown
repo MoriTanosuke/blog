@@ -1,5 +1,7 @@
 ---
-title: "Endlich - Git unter Android mit Terminal IDE"
+title: 'Endlich - Git unter Android mit Terminal IDE'
+date: 2013-03-08 00:00:00 
+tags: 
 layout: post
 ---
 Endlich ist es soweit: Ich kann [git][0] unter Android nutzen. Und zwar mit [Terminal IDE][1].

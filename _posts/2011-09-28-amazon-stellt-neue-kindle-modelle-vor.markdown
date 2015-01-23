@@ -1,6 +1,8 @@
 ---
+title: 'Amazon stellt neue Kindle-Modelle vor'
+date: 2011-09-28 00:00:00 
+tags: 
 layout: post
-title: Amazon stellt neue Kindle-Modelle vor
 ---
 Heute ist es soweit: [Amazon stellt neue Modelle des Ebook-Reader Kindle vor][1].
 

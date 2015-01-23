@@ -1,5 +1,7 @@
 ---
-title: "Mein erstes Buch-Review: Instant Camel"
+title: 'Mein erstes Buch-Review: Instant Camel'
+date: 2013-10-05 00:00:00 
+tags: 
 layout: post
 ---
 Vor ein paar Wochen hat mich [Packt Publishing][0] angeschrieben und gefragt, ob ich bereit wäre, für ein neues Buch einige Kapitel zu reviewen. Ich war einigermassen überrascht, aber nachdem sich herausstellte, dass es in dem Buch über [Apache Camel][1] gehen sollte und [ein Blogpost von mir][2] mich als Reviewer in die engere Auwahl gebracht hat, habe ich zugesagt. Zumal ich mich auch im Büro gerade intensiv mit dem Thema *Enterprise Integration* beschäftige und dabei oft *Apache Camel* einsetze.
@@ -12,5 +14,5 @@ Kurze Zeit später bekam ich auch schon eine Mail, in der *Packt Publishing* mir
 
 [0]: http://www.packtpub.com/
 [1]: https://camel.apache.org/
-[2]: {% post_url 2011-06-23-unmarshal-a-csv-file-with-apache-camel %}
+[2]: /unmarshal-a-csv-file-with-apache-camel/
 [4]: http://www.packtpub.com/apache-camel-message-routing/book

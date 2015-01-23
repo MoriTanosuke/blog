@@ -1,8 +1,9 @@
 ---
+title: 'Quantified Self Update - Blutdruckmessger&auml;t'
+date: 2011-09-26 00:00:00 
+tags: 
 layout: post
-title: Quantified Self Update - Blutdruckmessger&auml;t
 ---
-
 Heute habe ich mir das Blutdruckmessger&auml;t von Medisana geholt.
 
 <a href="http://www.flickr.com/photos/cringe/6181324666/" title="Blutdruckmessger&auml;t by cringe, on Flickr"><img src="http://farm7.static.flickr.com/6151/6181324666_e0b76eed8d.jpg" width="500" height="375" alt="Blutdruckmessger&auml;t"></a>

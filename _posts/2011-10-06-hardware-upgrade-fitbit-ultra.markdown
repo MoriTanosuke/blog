@@ -1,6 +1,8 @@
 ---
+title: 'Hardware-Upgrade - Fitbit Ultra'
+date: 2011-10-06 00:00:00 
+tags: 
 layout: post
-title: Hardware-Upgrade - Fitbit Ultra
 ---
 Diese Woche gab es [ein Announcement][2] von [Fitbit][1], das für mich etwas überraschend kam:
 

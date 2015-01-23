@@ -1,6 +1,8 @@
 ---
+title: 'In Software Entwickler investieren'
+date: 2012-04-04 00:00:00 
+tags: 
 layout: post
-title: In Software Entwickler investieren
 ---
 Ich lese gerade [einen interessanten Artikel][0] über <del>das Ende der
 Welt</del>Investitionen in Software Entwickler. Der Autor [Venkatesh Rao][1]

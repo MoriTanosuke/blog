@@ -1,8 +1,9 @@
 ---
+title: 'Desktop Notifications für meinen Webchat "Chocket"'
+date: 2012-11-08 00:00:00 
+tags: 
 layout: post
-title: Desktop Notifications für meinen Webchat "Chocket"
 ---
-
 Ich wollte schon die ganze Zeit [Desktop Notifications][0] in [meinen
 selbstprogrammierten Webchat *chocket*][3] einbauen, bin aber nie über eine
 rudimentäre Anzeige der ungelesenen Nachrichten im *title*
@@ -39,4 +40,3 @@ Notifications* angezeigt. :-)
 [2]: https://github.com/MoriTanosuke/chocket/commit/667aaf681d90dcb7c7fd98ce3e14cf1b91e12cf0
 [3]: https://github.com/MoriTanosuke/chocket
 [4]: http://chrome.google.com/
-

@@ -1,6 +1,8 @@
 ---
+title: 'Es wird Zeit - Kalorienz&auml;hlen und Training'
+date: 2012-02-12 00:00:00 
+tags: 
 layout: post
-title: Es wird Zeit - Kalorienz&auml;hlen und Training
 ---
 Letzte Woche war mein Limit erreicht: jetzt ist Schluss! Ich hab schon 
 wieder das Training nicht durchgehalten und stattdessen miserabel gegessen. 
@@ -39,4 +41,3 @@ ohne Tshirt vor den Spiegel stellen.
 
 [0]: http://docs.google.com
 [1]: http://www.mapmyrun.com/profile/7640374/
-

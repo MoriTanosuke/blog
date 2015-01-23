@@ -1,8 +1,8 @@
---- 
-wordpress_id: 670
+---
+title: 'PHP und die Fitbit API'
+date: 2011-05-17 00:00:00 
+tags: 
 layout: post
-title: PHP und die Fitbit API
-wordpress_url: http://blog.kopis.de/?p=670
 ---
 In den letzten Tagen habe ich meine Homepage unter <a href="http://www.kopis.de">www.kopis.de</a> etwas verändert. 
 Ja gut, ich habe überhaupt erstmal was draufgeschrieben. Im Moment wird dort also eine Art Social Hub angezeigt, 

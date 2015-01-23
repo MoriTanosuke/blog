@@ -1,8 +1,8 @@
---- 
-wordpress_id: 343
+---
+title: 'Clojure Tutorial, Teil 3: MongoDB'
+date: 2011-01-13 00:00:00 
+tags: 
 layout: post
-title: "Clojure Tutorial, Teil 3: MongoDB"
-wordpress_url: http://blog.kopis.de/?p=343
 ---
 *Dies ist der dritte Artikel in einer kleinen Serie, die meine ersten Schritte in der neuen funktionalen Programmiersprache <a href="http://clojure.org/">Clojure</a> dokumentieren soll. Die Artikel werden in unregelmäÃÂigen Abständen hier publiziert.*
 

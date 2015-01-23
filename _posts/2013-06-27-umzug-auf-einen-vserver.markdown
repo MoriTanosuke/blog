@@ -1,8 +1,9 @@
 ---
+title: 'Umzug auf einen VServer'
+date: 2013-06-27 00:00:00 
+tags: 
 layout: post
-title: "Umzug auf einen VServer"
 ---
-
 Vor ein paar Jahren hatte ich bereits einen VServer, damals bei [server4you][0]. Jetzt ist es wieder so 
 weit: meine Domains laufen auf einem VServer, diesmal aber bei [Hetzner][1]. Den Anbieter habe ich durch
 einen Vergleich mit anderen ([1blu][2], [1und1][3], [server4you][4]) und durch Erfahrungsberichte aus 
@@ -44,4 +45,4 @@ Kontrolle und kann sogar Dinge verschlüsseln, die mir wichtig sind. Mal sehen, 
 [5]: http://myln.de/
 [6]: http://de.wikipedia.org/wiki/Secure_Copy
 [7]: http://www.kopis.de/
-[8]: {% post_url 2013-01-12-das-internet-zurueckerobern-projekte-zum-einstieg %}
+[8]: /das-internet-zurueckerobern-projekte-zum-einstieg/

@@ -1,8 +1,9 @@
 ---
+title: 'Installation von StatusNet 1.1.0 bei domaingo'
+date: 2013-01-12 00:00:00 
+tags: 
 layout: post
-title: "Installation von StatusNet 1.1.0 bei domaingo"
 ---
-
 Heute habe ich versucht, [StatusNet][0] auf meiner eigenen Domain zu installieren. Damit will ich mich weiter unabhängig von den groÃÂen Diensten wie [Facebook][1], [Twitter][2] und [Google+][3] machen. [StatusNet][0] ist eine Mikroblogging-Software, mit der man Statusupdates veröffentlichen kann - aber die Software ist [Open Source][4] und steht unter einer [GNU Affero General Public License][5]. Damit treffen alle Kriterien zu, die ich für eine [Befreiung des Internet][6] anlege.
 
 Zur Installation von [StatusNet][0] braucht man einen eigenen Webspace mit PHP und MySQL. Das ist bei [meinem Webhoster domaingo][7] vorhanden. Ich hab also [StatusNet][0] entpackt und anschliessend den Installer aufgerufen. [Die Installation selbst ist länglich beschrieben][8]. Aber es gab ein kleines Problem: Der Installer meldete immer

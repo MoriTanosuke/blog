@@ -1,6 +1,8 @@
 ---
+title: 'Quantified Self mit Friday auf Android'
+date: 2012-05-05 00:00:00 
+tags: 
 layout: post
-title: Quantified Self mit Friday auf Android
 ---
 Seit längerem verfolge ich schon ein Projekt, dass 'quantified self' auf
 Smartphones bringen will: [friday][1]. Leider hat das Projekt sein

@@ -1,0 +1,20 @@
+---
+title: 'Crossfit WOD für 2014-08-02'
+date: 2014-08-02 00:00:00 
+tags: crossfit,wod
+layout: post
+---
+Mein #crossfit #wod für heute:
+
+10 Runden
+
+* 400m Laufen in 1:45min
+* 1:45min Pause
+
+Anschliessend noch ein paar Double Unders üben und Squat Mobility.
+
+Für die Zeitmessung bzw. die Zeitvorgaben verwende ich übrigens [Impetus][0], eine sehr schöne App für Android. Man kann eigentlich jede beliebige Kombination und Abfolge von Work/Rest-Zeitintervallen eingeben. Es gibt einige Presets, z.B. für [Tabata][1]. Aber man kann sehr einfach eigene Presets anlegen. Für mein Training heute habe ich mir einfach ein neues *basic preset* erstellt, dass 10 Runden umfasst und aus 1 Working Set mit 1:45min und 1 Rest mit 1:45 besteht. Dazu kann man noch *Preparation* und *Cool Down* angeben. Ich kann die App uneingeschränkt empfehlen.
+
+[0]: https://play.google.com/store/apps/details?id=fi.ohra.impetus
+[1]: http://www.fitnessmagnet.com/Training/TabataWorkout.aspx
+

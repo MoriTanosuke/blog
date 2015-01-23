@@ -1,6 +1,8 @@
 ---
+title: 'The Last Oil Shock von David Strahan'
+date: 2011-08-31 00:00:00 
+tags: 
 layout: post
-title: The Last Oil Shock von David Strahan
 ---
 In den letzten Tagen habe ich das Buch [The Last Oil Shock][1] von [David Strahan][2] gelesen. Ein sehr interessantes Buch, das mit einer Unmenge Fussnoten einen nachverfolgbaren ÃÂberblick zum Thema [Peak Oil][3] gibt. *Peak Oil* ist eine alte These, [entstanden in den 1950er Jahren][16].
 

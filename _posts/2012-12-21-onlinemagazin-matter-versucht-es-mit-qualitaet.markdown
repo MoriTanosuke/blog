@@ -1,8 +1,9 @@
 ---
-title: "Onlinemagazin MATTER versucht es mit Qualität"
+title: 'Onlinemagazin MATTER versucht es mit Qualität'
+date: 2012-12-21 00:00:00 
+tags: 
 layout: post
 ---
-
 Vor ein paar Tagen bin ich im Netz über [Matter][0] gestolpert, ein
 Onlinemagazin, das mit langen Artikeln für 0,99&euro; die
 *Kostenloskultur* aufzubrechen versucht.
@@ -26,4 +27,3 @@ Mir ist das einen Euro wert. Euch auch?
 [0]: https://www.readmatter.com/
 [1]: https://flattr.com/
 [2]: https://www.readmatter.com/a/electric-shock/
-

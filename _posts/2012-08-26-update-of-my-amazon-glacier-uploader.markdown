@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Update of my Amazon Glacier uploader"
+title: 'Update of my Amazon Glacier uploader'
+date: 2012-08-26 00:00:00 
 tags: frontpage
+layout: post
 ---
-
 [A couple of days ago I started to build a simple command-line upload client for the new Amazon Glacier archival service][0]. 
 You can get the software [from my github project "*glacieruploader*"][1].
 
@@ -24,10 +24,9 @@ go with a list of command-line tools for *Amazon Glacier*:
 
 If you're working on your own client or if you successfully used a client that's not in this list, please add a comment.
 
-[0]: {% post_url 2012-08-23-simple-uploader-for-amazon-glacier-archiving %}
+[0]: /simple-uploader-for-amazon-glacier-archiving/
 [1]: https://github.com/MoriTanosuke/glacieruploader
 [2]: http://www.glacierfreezer.com/
 [3]: https://github.com/uskudnik/amazon-glacier-cmd-interface
 [4]: https://github.com/brodul/glacier-cli
 [5]: https://github.com/appsattic/node-awssum
-

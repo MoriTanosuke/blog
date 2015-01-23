@@ -1,9 +1,9 @@
 ---
+title: 'Zitate aus Buch "Starting Strength"'
+date: 2012-07-17 00:00:00 
+tags: training,buch
 layout: post
-title: Zitate aus Buch "Starting Strength"
-tags: training buch
 ---
-
 Ich bin mittlerweile schon etwas weiter im Buch [Starting Strength][0] und wollte noch ein paar der schönsten Zitate aus dem Buch hier weitergeben. Wer sich für Krafttraining interessiert, der [sollte sich das Buch auf jeden Fall holen!][1]
 
 Hier die Zitate, in keiner besonderen Reihenfolge:

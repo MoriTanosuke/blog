@@ -1,8 +1,9 @@
 ---
-title: "Import von markierten/geteilten Artikeln von Google Reader in tt-rss"
+title: 'Import von markierten/geteilten Artikeln von Google Reader in tt-rss'
+date: 2013-04-07 00:00:00 
+tags: 
 layout: post
 ---
-
 Gestern habe ich mich mal drum gekümmert, wie man seine *starred items* und *shared items* von [Google Reader][0]
 in [tt-rss][1] importieren kann. Mittlerweile gibt es dazu [ein gutes Plugin][2], aber der Import selbst hat mich
 doch noch ein paar Minuten gekostet.

@@ -1,8 +1,9 @@
 ---
-title: Es geht los - Bier brauen
+title: 'Es geht los - Bier brauen'
+date: 2012-10-27 00:00:00 
+tags: 
 layout: post
 ---
-
 Nach dem ersten Versuch mit [einem fertigen Brauset][0] wird es jetzt
 ernst: Ich hab gerade die letzten Zubehörteile bestellt, um einen
 kompletten Brauvorgang durchzuführen. Inklusive Rohstoffe für ein
@@ -45,4 +46,3 @@ geniessbares Bier bestehen. ;-)
 
 [0]: http://www.amazon.de/%C2%BBDEIN-BIER-selbstgebraut%C2%AB-Bierbrauset-%C2%BBStart%C2%AB/dp/B0030U3E0U/kopisde-21
 [1]: http://wiki.kopis.de/doku.php/brauen:start
-

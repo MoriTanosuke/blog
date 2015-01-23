@@ -1,7 +1,8 @@
 ---
+title: 'The 4-Hour Chef von Tim Ferriss'
+date: 2011-11-30 00:00:00 
+tags: 
 layout: post
-title: The 4-Hour Chef von Tim Ferriss
-excerpt: Das neue Buch von Tim Ferriss ist erschienen - The 4-Hour Chef.
 ---
 Es ist soweit: Das neue Buch von [Tim Ferriss][0] mit dem Namen [The 4-Hour Chef][1]
 ist jetzt [bei Amazon verfügbar][1] ([auch für Kindle][2]).

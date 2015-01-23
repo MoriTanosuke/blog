@@ -1,9 +1,9 @@
 ---
+title: 'Links setzen ist guter Stil'
+date: 2012-07-22 00:00:00 
+tags: internet,gaming
 layout: post
-title: Links setzen ist guter Stil
-tags: gaming internet
 ---
-
 In den letzten Wochen ist mir ein Trend im Netz aufgefallen, der mir überhaupt nicht gefällt. Neustes Beispiel ist [ein Artikel bei *arstechnica* über einen Patent-Troll, der *notch* verklagt][1]. Der Trend: *keine Links auf die Originalquelle setzen*.
 
 Entweder ich bin zu doof, diese Links zu finden oder immer weniger Seiten machen sich die Mühe und suchen die passenden Links heraus. In dem Artikel oben findet sich zwar der Link auf das [von *notch* selbst hochgeladene PDF des *patent infringement filings*][3], aber [ein Link auf den Original-Tweet von *notch*][4] wäre doch nicht zu viel verlangt, oder? Oder direkt einbetten:

@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Das Internet zurückerobern - Projekte zum Einstieg"
+title: 'Das Internet zurückerobern - Projekte zum Einstieg'
+date: 2013-01-12 00:00:00 
 tags: internet
+layout: post
 ---
-
 Vor ein paar Tagen hat [Johnny Häusler bei Spreeblick][0] den Aufruf gemacht, das Internet von den *walled gardens* zurückzuerobern. Dafür müsste die freie und dezentrale Technologie aber auch den Laien zugänglich gemacht werden, damit diese nicht mehr zu Diensten wie Facebook oder Twitter abwandern, um ihre Inhalte zu erstellen und zu teilen.
 
 Als ersten Schritt würde ich immer noch einen eigenen Blog sehen. Wer damit loslegen will, sollte sich mal bei [jekyllbootstrap][7] umsehen. Und nicht gleich verzweifeln und zu [Blogger][6] laufen. Lieber aus den Stolpersteinen lernen und Feedback geben. ;-)
@@ -26,4 +26,3 @@ Wenn ihr also darüber nachdenkt, wie das Internet aussehen soll und vor allem, 
 [5]: http://identi.ca/
 [6]: http://www.blogger.com/
 [7]: http://jekyllbootstrap.com/
-

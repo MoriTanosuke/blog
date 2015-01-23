@@ -1,6 +1,8 @@
 ---
+title: 'Das erste Brot'
+date: 2012-01-24 00:00:00 
+tags: 
 layout: post
-title: Das erste Brot
 ---
 Heute habe ich das erste Mal (ok, das zweite Mal, aber das erste Mal wollt ihr ganz bestimmt nicht wissen...) 
 ein eigenes Brot gebacken. Ich habe dazu meinen eigenen Sauerteig angesetzt und mit einem einfachen 

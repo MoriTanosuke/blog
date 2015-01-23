@@ -1,10 +1,9 @@
---- 
-wordpress_id: 23
-layout: post
-title: "Installation der USB-Treiber für die serielle Konsole des SheevaPlug unter Windows 7"
-wordpress_url: http://blog.kopis.de/?p=23
 ---
-
+title: 'Installation der USB-Treiber für die serielle Konsole des SheevaPlug unter Windows 7'
+date: 2010-11-22 00:00:00 
+tags: 
+layout: post
+---
 Heute nachmittag wollte ich meinem <a href="http://de.wikipedia.org/wiki/SheevaPlug">SheevaPlug</a> noch einmal auf den Zahn fühlen. Seit ein paar Tagen kann ich mich nicht mehr per SSH einloggen, obwohl er ansonsten wie erwartet funktioniert. Ich wollte mich also über die serielle Konsole per USB-Port einloggen - aber leider werden die Treiber nicht korrekt unter Windows 7 installiert.
 
 Man muss nach dem Download die Dateien entpacken und anschliessend die ftdibus.inf und ftdiport.inf editieren und mehrere Zeilen einfügen. <a href="http://www.georg-stich.de/index.php?option=com_content&amp;view=article&amp;id=54:ftdi-change&amp;catid=34:soft&amp;Itemid=61">Bei Georg Stich hab ich schliesslich einen Artikel gefunden, in dem der Vorgang erklärt ist</a>. Ich poste hier nochmal die Änderungen, damit sie nicht verloren gehen:

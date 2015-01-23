@@ -1,6 +1,8 @@
 ---
+title: 'Aldi Lifetab ist ausverkauft'
+date: 2011-12-08 00:00:00 
+tags: 
 layout: post
-title: Aldi Lifetab ist ausverkauft
 ---
 Um es kurz zu machen: Ich habe es auch nicht. Ich bin zwar schnell zum
 lokalen Aldi rübergegangen, um das *Aldi Lifetab* anzugucken.

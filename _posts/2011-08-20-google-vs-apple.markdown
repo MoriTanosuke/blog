@@ -1,6 +1,8 @@
 ---
+title: 'Google vs. Apple'
+date: 2011-08-20 00:00:00 
+tags: 
 layout: post
-title: Google vs. Apple
 ---
 Ich weiÃÂ nicht, ob es euch aufgefallen ist: [Goole hat Motorola Mobility][1] gekauft. Das kann man jetzt gut finden oder schlecht, Tatsache ist aber, dass Google langsam aber sicher Apple den ersten Platz im Mobilfunkgeschäft streitig machen wird.
 

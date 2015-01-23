@@ -1,8 +1,9 @@
 ---
+title: 'Mein neues MMO - Tera Online'
+date: 2012-05-28 00:00:00 
+tags: 
 layout: post
-title: Mein neues MMO - Tera Online
 ---
-
 Seit ein paar Tagen spiele ich jetzt schon [Tera online][0] und bin auch wieder aktives Mitglied der [Gilde Gothic][1]. Heute habe ich dann auch meine erste Instanz gespielt und bin mit einer Zufallsgruppe ganz gut durchgekommen. Alle Gruppenmitglieder waren aufmerksam, haben zusammengearbeitet und ihre Rollen gut ausgespielt. Der Tank hat die Angriffe auf sich gezogen, der Heiler ist immer aussen rum, die Zauberer und Bogenschützen haben ihre Angriffe auf die Bossgegner konzentriert.
 
 Ansonsten gefällt mir Tera immer besser. Mit dem Einbau einer [Radeon 6870][2] konnte ich die Grafikqualität in allen Bereichen auf *sehr gut* einstellen und die Welt sieht jetzt noch besser aus. Auf meinem Laptop komme ich da leider nicht mehr mit, also werd ich mit einer etwas weniger schönen Welt auskommen müssen... hier sind ein paar Screenshots:

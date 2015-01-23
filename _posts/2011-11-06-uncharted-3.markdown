@@ -1,3 +1,9 @@
+---
+title: 'Uncharted 3'
+date: 2011-11-06 00:00:00 
+tags: 
+layout: post
+---
 ﻿---
 layout: post
 title: Uncharted 3

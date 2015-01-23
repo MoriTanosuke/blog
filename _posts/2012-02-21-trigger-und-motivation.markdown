@@ -1,6 +1,8 @@
 ---
+title: 'Trigger und Motivation'
+date: 2012-02-21 00:00:00 
+tags: 
 layout: post
-title: Trigger und Motivation
 ---
 Diese Woche will ich etwas neues ausprobieren, um mein Training wieder auf Kurs zu bringen. Nachdem [das mit dem Kalorienzählen][1] schon ganz gut klappt, will ich meine Trainingsfrequenz steigern und deshalb hab ich etwas über meinen Tagesablauf nachgedacht. Im Prinzip sieht der so aus:
 

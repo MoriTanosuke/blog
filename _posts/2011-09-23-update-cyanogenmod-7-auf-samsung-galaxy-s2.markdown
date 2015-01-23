@@ -1,6 +1,8 @@
 ---
+title: 'Update - Cyanogenmod 7 auf Samsung Galaxy S2 (i9100)'
+date: 2011-09-23 00:00:00 
+tags: 
 layout: post
-title: Update - Cyanogenmod 7 auf Samsung Galaxy S2 (i9100)
 ---
 Ich habe ja [bereits seit einigen Wochen Cyanogenmod 7 auf meinem Samsung Galaxy S2][1] und bin damit sehr zufrieden. Obwohl immer noch keine offizielle Version erschienen ist, sind die *nightly builds* stabil, schnell und akku-freundlich. Das Update mittels [ROM Manager][2] ist kinderleicht und ich hatte auch damit noch keine Probleme; zwei Haken setzen, 5 Minuten warten, neue Version ist installiert.
 

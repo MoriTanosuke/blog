@@ -1,6 +1,8 @@
 ---
+title: 'Training im Fitnessstudio'
+date: 2011-12-22 00:00:00 
+tags: 
 layout: post
-title: Training im Fitnessstudio
 ---
 Heute war ich mal wieder im Fitnessstudio (das zweite Mal diese Woche)
 und musste feststellen, dass es doch einen Unterschied zwischen
@@ -26,4 +28,3 @@ ansehe.
 Wie auch immer, für heute hab ich mein Pensum geschafft. Jetzt muss ich
 nur dafür sorgen, dass meine Ernähung mir heute nicht wieder einen
 Strich durch die Rechnung macht.
-

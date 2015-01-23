@@ -1,6 +1,8 @@
 ---
+title: 'Converting file content to base64 with Apache Camel 2.10.2'
+date: 2013-10-15 00:00:00 
+tags: 
 layout: post
-title: "Converting file content to base64 with Apache Camel 2.10.2"
 ---
 Recently I wanted to convert input files of various formats into an XML message with certain meta information and the content of the input file as as [base64-encoded][0] element. Because I'm working on enterprise integration at the moment and we're using [Apache Camel][1] a lot, I first tried to find an available solution from *Camel*.
 
@@ -28,7 +30,7 @@ My route (using the Spring DSL) now looks like this:
          http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
          http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
     
-      <bean id="base64Dataformat" class="eu.hermes.heit.esb.testing.mapping.Base64DataFormat" />
+      <bean id="base64Dataformat" class="my.package.Base64DataFormat" />
   
       <camel:camelContext xmlns="http://camel.apache.org/schema/spring">
   
@@ -57,3 +59,4 @@ Now I can convert file content into base64 encoded string and pass them to other
 [3]: https://camel.apache.org/maven/current/camel-core/apidocs/org/apache/camel/spi/DataFormat.html
 [4]: http://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html
 [5]: https://camel.apache.org/velocity.html
+

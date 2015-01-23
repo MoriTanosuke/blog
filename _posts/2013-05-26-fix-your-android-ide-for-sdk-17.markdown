@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Fix your Android IDE for SDK 17 and the Android Maven Plugin < 3.5.4"
+title: 'Fix your Android IDE for SDK 17 and the Android Maven Plugin < 3.5.4'
+date: 2013-05-26 00:00:00 
 tags: android
+layout: post
 ---
-
 Recently I started [working on an Android App][1] and after some initial problems with 
 the [new Android Studio based on IntelliJ][2] I am back on a regular maven build process.
 But when setting up my project with the current version of the *"old"* [Android IDE based

@@ -1,6 +1,8 @@
 ---
+title: 'Install NodeJS with NVM'
+date: 2012-01-30 00:00:00 
+tags: 
 layout: post
-title: Install NodeJS with NVM
 ---
 Today I started my first steps into the world of server-side javascript with [nodejs][0]. First thing was installing [NVM][1], the *node version manager*. You can do that with this simple steps:
 
@@ -28,4 +30,3 @@ Now you can point your browser to *http://127.0.0.1:1337/* and you'll see the re
 
 [0]: http://nodejs.org/
 [1]: https://github.com/creationix/nvm#readme
-

@@ -1,8 +1,8 @@
 ---
+title: 'Arduino und ein 16x4 LCD'
+date: 2013-01-19 00:00:00 
+tags: arduino,hardware
 layout: post
-title: "Arduino und ein 16x4 LCD"
-category: hardware
-tags: arduino
 ---
 Heute habe ich im Keller meine Kartons durchgewühlt und ein altes [16x4
 LCD von Displaytech][0] ausgegraben. Ich war mir nicht sicher, ob es
@@ -38,4 +38,3 @@ Hier ist das Ergebnis:
 [3]: https://de.wikipedia.org/wiki/Steckplatine
 [4]: https://de.wikipedia.org/wiki/Hallo-Welt-Programm
 [5]: http://arduino.cc/en/Tutorial/HomePage
-

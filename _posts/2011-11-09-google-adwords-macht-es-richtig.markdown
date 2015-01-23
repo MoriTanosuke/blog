@@ -1,6 +1,8 @@
 ---
+title: 'Google Adwords macht es richtig'
+date: 2011-11-09 00:00:00 
+tags: 
 layout: post
-title: Google Adwords macht es richtig
 ---
 Im Moment habe ich als Test eine kleine Kampagne bei [Google Adwords][0] laufen. Und gerade habe ich ein paar Gebote für Keywords angepasst und mich dabei vertippt: Ich habe bei der Eingabe von *0,30* das Komma vergessen und *30* eingegeben. Google antwortete darauf mit einem Hinweis:
 

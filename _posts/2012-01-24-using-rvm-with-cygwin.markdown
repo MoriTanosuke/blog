@@ -1,8 +1,9 @@
 ---
+title: 'Using rvm with cygwin'
+date: 2012-01-24 00:00:00 
+tags: 
 layout: post
-title: Using rvm with cygwin
 ---
-
 If you want to install [rvm][0] with [cygwin][1] do the following:
 
 * install *cygwin*

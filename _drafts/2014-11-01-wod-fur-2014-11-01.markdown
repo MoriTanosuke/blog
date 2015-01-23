@@ -1,0 +1,53 @@
+---
+title: 'WOD für 2014-11-01'
+date: 2014-11-01 00:00:00 
+tags: wod
+layout: post
+---
+Mein #wod für heute:
+
+Ich hielt es für eine gute Idee, heute vor dem Training 3km zu laufen. :unamused: Das habe ich nach 500m auf dem Rudergerät ein klein wenig bereut. Aber ich hab trotzdem versucht, meine angepeilte Zeit von 1:45min pro 500m zu halten.
+
+<center><a href="https://www.flickr.com/photos/cringe/15682364975" title="IMG_20141101_163620 by Carsten Ringe, on Flickr"><img src="https://farm8.staticflickr.com/7533/15682364975_a2a1568844_c.jpg" width="593" height="800" alt="IMG_20141101_163620"></a></center>
+
+**Warmup**
+
+* 1000m Rudern
+* 10-to-1
+  * Air Squat
+  * Push Up
+  * Sit up
+
+*10-to-1* heißt, man macht in der ersten Runde 10 Wiederholungen der Übungen, in der zweiten Runde 9 Wiederholungen, in der dritten Runde 8 Wiederholungen... usw usf.
+
+Das ganze habe ich in 9:02min hinter mich gebracht. Bei [Crossformation][0] dient dieses Workout als [Einstufungstest für die Trainingslevel][1] - ich hab ganz gut abgeschnitten. Da im Moment noch keine Klassen für Fortgeschrittene angeboten werden, hat das aber wohl erstmal keinen Einfluss auf meinen Training dort.
+
+**Bring Sally up**
+
+Eine *lustige* (sprich: nicht lustige) kleine Übung, bei der man zu dem Titel *Bring Sally up* von Moby Kniebeugen macht, sieht dann so aus:
+
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/pCy_BSLqN8g" frameborder="0" allowfullscreen><a href="https://www.youtube.com/watch?v=pCy_BSLqN8g">Bei Youtube angucken</a></iframe>
+
+<a href="https://www.youtube.com/watch?v=pCy_BSLqN8g">Bei Youtube angucken</a>
+
+Ich habe mit 50kg angefangen, allerdings musste ich nach der Hälfte des Lieds auf Air Squats umsteigen. Das [Training von gestern][2] steckte mir noch in den Beinen.
+
+**Strength**
+
+* 3x5 Push Press, 60kg
+* 1x5 Deadlift, 100kg
+
+**Metcon**
+
+21-15-9
+
+* Wall Balls, 10kg
+* Ball Slams, 10kg
+
+Das ganze habe ich in 4:30min absolviert. Die Wall Balls liefen erstaunlicherweise noch ganz gut, obwohl ich da schon reichlich Kniebeugen hinter mir hatte. Danach war ich aber doch ganz froh, dass das Training rum war. :smile:
+
+Anschliessend musste ich ja noch 3km zurück laufen. Ich hab da aber viele, viele Pausen gemacht...
+
+[0]: http://crossformation.de/
+[1]: http://crossformation.de/trainingslevel/
+[2]: //blog.kopis.de/crossfit-wod-fur-2014-10-31/

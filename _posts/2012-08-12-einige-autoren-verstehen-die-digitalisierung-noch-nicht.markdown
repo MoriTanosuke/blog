@@ -1,8 +1,9 @@
 ---
+title: 'Einige Autoren verstehen die Digitalisierung noch nicht'
+date: 2012-08-12 00:00:00 
+tags: 
 layout: post
-title: Einige Autoren verstehen die Digitalisierung noch nicht
 ---
-
 In den letzten Tagen konnte man in den USA wieder beobachten, dass manche Leute die Veränderungen, die durch Digitalisierung entstehen können, immer noch nicht verstehen. Und wahrscheinlich nicht verstehen wollen.
 
 Diesmal geht es um das Verleihen von Ebooks über [Amazon][6] bzw [Barnes&Noble][3]. [Amazon erlaubt das Verleihen von Büchern][5] [ebenso wie Barnes&Noble][4]. Einige Autoren haben anscheinend bemerkt, dass die Seite [lendink.com][7] es ihren Nutzern ermöglicht hat, andere Benutzer zu finden, die Bücher verleihen wollen und selbst gern welche ausleihen möchten. Die Seite hat also den Kontakt zwischen Benutzer A und Benutzer B hergestellt und anschliessend auf die offiziellen Kanäle und Möglichkeiten der Ebook-Vertreiber Amazon bzw B&N verwiesen.

@@ -1,0 +1,38 @@
+---
+title: 'Crossfit WOD für 2014-04-23'
+date: 2014-04-23 00:00:00 
+tags: crossfit,wod
+layout: post
+---
+
+Mein #crossfit #wod für heute:
+
+* 1h Yoga
+
+Anschliessend
+
+**"Cry me a River 2"** ([Teil 1 hier][1]) , 13 min AMRAP:
+
+* 100 single unders
+* 50 sit-ups
+* 25 cal row
+* 80 single unders
+* 40 sit-ups
+* 20 cal row
+* 60 single unders
+* 30 sit-ups
+* 15 cal row
+* 40 single unders
+* 20 sit-ups
+* 10 cal row
+* 20 single unders
+* 10 sit-ups
+* Row for cal the remaining time.
+
+Meine Punkte: 343. Setzt sich zusammen aus allen Wiederholungen (ausser den Single Unders, die zählen nur 0,5 Punkte), d.h. Erste Runde = (100/2)+50+25 = 125.
+
+([Quelle WOD][0])
+
+[0]: http://www.crossfithh.de/1/post/2014/04/workout-wednesday14.html
+[1]: http://blog.kopis.de/crossfit-wod-fur-2014-04-16/
+

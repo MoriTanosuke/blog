@@ -1,6 +1,8 @@
 ---
+title: 'Wunschkonfiguration für einen Desktop-PC'
+date: 2011-11-20 00:00:00 
+tags: 
 layout: post
-title: "Wunschkonfiguration für einen Desktop-PC"
 ---
 Heute hab ich mir bei [Alternate][0] eine PC-Konfiguration
 zusammengeklickt, weil ich irgendwie Lust hab, mir mal wieder was

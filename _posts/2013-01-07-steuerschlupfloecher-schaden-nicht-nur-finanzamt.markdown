@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Steuerschlupflöcher schaden nicht nur dem Finanzamt"
+title: 'Steuerschlupflöcher schaden nicht nur dem Finanzamt'
+date: 2013-01-07 00:00:00 
 tags: umwelt
+layout: post
 ---
-
 Wenn man sich [diese Geschichte über eine Ölbohrplattform von Shell][0] durchliest, wird einem 
 ganz anders. Shell hat die Ölbohrplattform anscheinend für eine Routineüberprüfung verlegen 
 wollen und sie während eines Unwetters auf Grund gesetzt. Jetzt vermutet also [The Independent][1],

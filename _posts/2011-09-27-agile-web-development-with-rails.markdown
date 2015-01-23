@@ -1,6 +1,8 @@
 ---
+title: 'Neues Buch - Agile Web Development with Rails'
+date: 2011-09-27 00:00:00 
+tags: 
 layout: post
-title: Neues Buch - Agile Web Development with Rails
 ---
 Heute habe ich mir wieder ein neues Buch gekauft: [Agile Web Development with Rails][1]. Damit will ich meine Neugier auf [Ruby on Rails][2] stillen. Ich kenne [Grails][3] ja schon ganz gut, aber weil man andauernd was von *RoR* hört bzw. liest, will ich mir das auch mal angucken.
 
@@ -16,4 +18,3 @@ Ich habe auch schon [ein Projekt im Kopf][6], das ich damit umsetzen möchte. Ab
 [5]: http://www.oracle.com/technetwork/java/index.html
 [6]: https://github.com/MoriTanosuke/FitbitAnalyzr
 [7]: https://github.com/MoriTanosuke/AgileWebDevelopmentWithRails_Depot
-

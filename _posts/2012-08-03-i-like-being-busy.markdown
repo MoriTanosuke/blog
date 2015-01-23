@@ -1,9 +1,9 @@
 ---
+title: 'I like being busy?'
+date: 2012-08-03 00:00:00 
+tags: arbeit
 layout: post
-title: I like being busy?
-category: arbeit
 ---
-
 > I like being busy.
 
 Diesen Satz habe ich kürzlich gehört. Und sofort setze ein leichtes Schwindelgefühl ein. *I like being busy.* Wieso sagt man so etwas? Weil man das Gefühl mag, dass andere einen brauchen? Oder das Gefühl von *getting work done*? Oder weil man keine Langeweile verspüren möchte?
@@ -19,4 +19,3 @@ In meiner Vorstellung sind Fliessbandarbeiter z.b. *busy*, nämlich damit besch�
 Aber irgendwie hab ich im Moment wieder die Unterschiede in der Arbeits- und Herangehensweise bemerkt. Und wenn dann noch jemand aus einem anderen Kulturkreis dazwischen ist, macht sich sowas noch stärker bemerkbar. Und sei's nur durch meine durch Filme und technische Dokumentation geprägte Sprache. :-)
 
 [0]: http://github.com/MoriTanosuke/chocket
-

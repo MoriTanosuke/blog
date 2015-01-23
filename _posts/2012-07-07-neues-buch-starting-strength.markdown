@@ -1,8 +1,9 @@
 ---
+title: 'Neues Buch "Starting Strength" von Mark Rippetoe'
+date: 2012-07-07 00:00:00 
+tags: 
 layout: post
-title: Neues Buch "Starting Strength" von Mark Rippetoe
 ---
-
 Gestern habe ich mir ein neues Buch gekauft: [*Starting Strength* von 
 *Mark Rippetoe*][0]. Das Buch ist sowas wie ein Geheimtipp, obwohl es 
 in den Foren über Krafttraining oder Body Building gar nicht mehr so
@@ -61,4 +62,3 @@ Sätzen zusammengefasst:
 > do anyway, a thing without which there will always be problems.
 
 [0]: http://www.amazon.de/gp/product/B006XJR5ZA/kopisde-21
-

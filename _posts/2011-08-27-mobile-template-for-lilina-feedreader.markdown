@@ -1,6 +1,8 @@
 ---
+title: 'Mobile template for Lilina RSS feedreader'
+date: 2011-08-27 00:00:00 
+tags: 
 layout: post
-title: Mobile template for Lilina RSS feedreader
 ---
 **Update:** In the meantime [I forked Lilina on github][6]. You can get the files for my mobile template from there.
 

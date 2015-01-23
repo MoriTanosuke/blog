@@ -1,5 +1,7 @@
 ---
-title: "Nützliche Extensions für Google Chrome"
+title: 'Nützliche Extensions für Google Chrome'
+date: 2013-01-01 00:00:00 
+tags: 
 layout: post
 ---
 Zur Feier des neuen Jahres will ich hier eine Liste mit nützlichen Extensions für [Google Chrome][0] 

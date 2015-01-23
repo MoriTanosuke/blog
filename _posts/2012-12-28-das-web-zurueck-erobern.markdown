@@ -1,6 +1,8 @@
 ---
+title: 'Das Web zurück erobern'
+date: 2012-12-28 00:00:00 
+tags: 
 layout: post
-title: "Das Web zurück erobern"
 ---
 Im Moment scheinen die Leute rund um die Welt aufzuwachen und bemerken,
 dass das Internet, wie wir es kennen, bald nicht mehr existiert. [Jetzt
@@ -47,4 +49,3 @@ URLs nicht kaputt zu machen.
 [2]: /2011/06/19/umzug-zu-github/
 [3]: https://github.com/
 [4]: http://tumblr.com/
-

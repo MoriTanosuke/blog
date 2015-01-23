@@ -1,5 +1,7 @@
 ---
-title: Was sind Feature Toggles?
+title: 'Was sind Feature Toggles?'
+date: 2012-01-07 00:00:00 
+tags: 
 layout: post
 ---
 Ich hab mich entschlossen, einen [Feature Toggle][0] in eine Anwendung
@@ -35,4 +37,3 @@ weil man die Schalter wahrscheinlich durch IF-Abfragen implementiert hat
 und jeder Schalter die Anzahl der Programmpfade erhöht.
 
 [0]: http://martinfowler.com/bliki/FeatureToggle.html
-
