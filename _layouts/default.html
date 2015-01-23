@@ -1,73 +1,135 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<title>{% if page.title %} {{ page.title }} - {% endif %}KOPIS.DE</title>
-		<link rel="alternate" type="application/rss+xml" href="/atom.xml" title="Blog von Carsten Ringe" /> 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<link rel="author" href="/humans.txt">
-		<meta name="description" content="Blog vn Carsten Ringe">
-		<link rel="stylesheet" href="/css/style.css">
-		<!--[if IE 7]>
-			<html class="ie7"> 
-			<link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
-		<![endif]-->
-		<!--[if IE 8]><html class="ie8"> <![endif]-->		
-	    <!--[if lt IE 9]>
-	      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	    <![endif]-->
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
-		<link rel="shortcut icon" href="ico/favicon.png">	    
-	</head>
-	<body>
-	<!-- Header
-	    ================================================== -->
-	<header>
-		<ul>
-			<li><a href="/archive">archiv</a></li>
-			<li><a href="/contact">kontakt</a></li>
-			<li><a href="/atom.xml">feed</a></li>
-			<li>{% include google-cse.html %}</li>
-		</ul>
-	</header>
+    <title>{% if page.title %} {{ page.title }} - {% endif %}KOPIS.DE</title>
+    <meta name="description" content="Mein Blog über Softwareentwicklung, Crossfit und andere Dinge." />
 
-	{{ content }}
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<footer>
-		<div class="container">
-			Theme von <a href="http://richbray.me/frap/">Frappuccino</a> | Tracking mit <a href="http://piwik.com/">Piwik</a> | Erstellt von <em>Carsten Ringe</em>
-		</div>
-	</footer>
+    <link rel="shortcut icon" href="/favicon.ico">
 
-	<!-- Footer
-	    ================================================== -->
+    <link rel="stylesheet" href="/css/screen.css" />
+    <link rel="stylesheet" href="/css/custom.css" />
+    <!--link rel="stylesheet" href="/css/style.css" /-->
+<!--[if IE 7]>
+<html class="ie7">
+<link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
+<![endif]-->
+<!--[if IE 8]><html class="ie8"> <![endif]-->	
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
-	<!-- Javascripts 
-	    ================================================= -->
-	<script src="/js/jquery.min.js"></script>
-	<script src="/js/custom.js"></script>
-	<script src="/js/emotes.js"></script>
-	<script src="/js/shCore.js"></script>
-	<script src="/js/shAutoloader.js"></script>
-	<script src="/js/shBrushJScript.js"></script>
+    <link rel="canonical" href="http://blog.kopis.de/" />
+    <link rel="alternate" type="application/rss+xml" title="KOPIS.DE" href="/atom.xml" />
+</head>
+<body class="home-template">
+
+    
+<header class="main-header " style="background-image: url(/img/content/9775377492_2a7cd5293f_o-2.jpg)">
+    <nav class="main-nav overlay clearfix">
+        
+<form action='http://www.google.de/search' id='searchForm'>
+  <input name='q' type='hidden' value='site:blog.kopis.de' />
+<div data-role="fieldcontain" class="ui-hide-label">
+  <input id="q" name='q' size='20' type='text' placeholder="In Artikeln suchen" />
+</div>
+</form>
+        <a class="subscribe-button icon-feed" href="/atom.xml">Subscribe</a>
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title"><a href="{{ site.url }}">KOPIS.DE</a></h1>
+            <h2 class="page-description">Mein Blog über Softwareentwicklung, Crossfit und andere Dinge.</h2>
+        </div>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+</header>
+
+<main id="content" class="content" role="main">
+
+{{ content }}
+
+</main>
+
 <script type="text/javascript">
 var disqus_shortname = '{{ site.disqus-shortname }}';
 (function () {
-  var s = document.createElement('script'); s.async = true;
-  s.type = 'text/javascript';
-  s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 }());
 </script>
-	{% include flattr.html %}
-	{% include gplusone.html %}
-	{% include syntaxhighlighter.html %}
-	{% include analytics.html %}
 
-	</body>
+    <footer class="site-footer clearfix">
+         <section class="copyright"><a href="http://blog.kopis.de">KOPIS.DE</a> &copy; 2015</section>
+    </footer>
+
+    <script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/emojify.min.js"></script>
+
+<script type="text/javascript">
+//flattr
+$(document).ready(function() {
+    var s = document.createElement('script');
+    var t = document.getElementsByTagName('script')[0];
+
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//api.flattr.com/js/0.6/load.js?mode=auto&button=compact&language=de_DE&uid=cringe';
+
+    t.parentNode.insertBefore(s, t);
+});
+
+//emojify
+emojify.setConfig({
+
+    img_dir          : '/img/emotes',
+    ignored_tags     : {                // Ignore the following tags
+        'SCRIPT'  : 1,
+        'TEXTAREA': 1,
+        'A'       : 1,
+        'PRE'     : 1,
+        'CODE'    : 1
+    }
+});
+emojify.run();
+
+//piwik
+var _paq = _paq || [];
+_paq.push(["trackPageView"]);
+_paq.push(["enableLinkTracking"]);
+
+(function() {
+  var u=(("https:" == document.location.protocol) ? "https" : "http") + "://kopis.de/piwik/";
+  _paq.push(["setTrackerUrl", u+"piwik.php"]);
+  _paq.push(["setSiteId", "10"]);
+  var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+  g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+})();
+
+// google+
+window.___gcfg = {lang: 'de'};
+(function(){
+  var po = document.createElement("script");
+  po.type = "text/javascript"; po.async = true;po.src = "//apis.google.com/js/plusone.js";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(po, s);
+})();
+
+// show flattr button again
+$(document).ready(function() {
+  $('.FlattrButton').css('display', 'inline');
+});
+
+</script>
+
+</body>
 </html>
+
