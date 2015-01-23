@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Blog von Carsten Ringe</title>
+ <link href="{{ site.url }}/atom.xml" rel="self" />
+ <link href="{{ site.url }}" rel="related" />
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}/</id>
+ <author>
+   <name>{{ site.owner-name }}</name>
+   <email>{{ site.owner-email }}</email>
+   <uri>{{ site.owner-uri }}</uri>
+ </author>
+
+ {% for post in site.posts limit:20 %}
+ <entry>
+   <title>{{ post.title | strip_html | xml_escape }}</title>
+   <link href="{{ site.url }}{{ post.url }}" />
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ post.url }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>
