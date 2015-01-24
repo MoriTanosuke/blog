@@ -1,7 +1,7 @@
 ---
 title: 'Ein neuer Fitness-Tracker muss (noch nicht) her. *UPDATE*'
 date: 2014-08-02 00:00:00 
-tags: fitness,gadgets
+tags: fitness gadgets
 layout: post
 ---
 **Update 2** *Und schon ist das Jawbone wieder ausgefallen. Ich konnte es nochmal resetten, aber danach ging der Sync auch nicht. Der Support hat mittlerweile geantwortet und schickt mir ein Ersatzgerät zu. Wenn jemand Interesse daran hat, einfach einen Kommentar da lassen - ich würde das nicht benutzte Ersatzgerät für einen angemessenen Preis weiterschicken. Ich hab erstmal genug von Jawbone.*

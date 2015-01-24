@@ -1,7 +1,7 @@
 ---
 title: 'Erste Schritte mit dem Arduino'
 date: 2013-01-16 00:00:00 
-tags: arduino,hardware
+tags: arduino hardware
 layout: post
 ---
 Unglaublich: Heute ist der [Arduino Starter Kit][0] schon angekommen!

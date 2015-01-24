@@ -1,7 +1,7 @@
 ---
 title: 'Docker FTW!'
 date: 2014-11-16 00:00:00 
-tags: grafana,docker,statsd
+tags: grafana docker statsd
 layout: post
 ---
 The past few days I was playing around with [Docker][8] to set up a small testbed with [ActiveMQ][0], [StatsD][1] and [Grafana][2]. I want to test how to collect metrics from [Apache Camel][7] routes and display them via a webfrontend in nice graphcs. That's exactly what *Grafana* is doing best.

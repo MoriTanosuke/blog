@@ -1,7 +1,7 @@
 ---
 title: 'Arduino und ein 16x4 LCD'
 date: 2013-01-19 00:00:00 
-tags: arduino,hardware
+tags: arduino hardware
 layout: post
 ---
 Heute habe ich im Keller meine Kartons durchgewühlt und ein altes [16x4

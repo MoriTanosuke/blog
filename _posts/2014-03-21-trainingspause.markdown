@@ -1,7 +1,7 @@
 ---
 title: 'Trainingspause'
 date: 2014-03-21 00:00:00 
-tags: training,crossfit
+tags: training crossfit
 layout: post
 ---
 Falls sich jemand gewundert hat, wieso hier keine Crossfit WODs für die letzte Woche aufgetaucht sind: Ich hatte mich schon vor dem Urlaub entschlossen, eine Trainingspause einzulegen.

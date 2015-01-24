@@ -1,7 +1,7 @@
 ---
 title: 'Firefox unter Linux mit HiDPI Display nutzen'
 date: 2015-01-09 00:00:00 
-tags: tips,howto
+tags: tips howto
 layout: post
 ---
 Wenn ihr euch auch über die kaputte UI von Firefox unter Linux bei der Nutzung eines Display mit hohen DPI-Werten ärgert, hilft euch evtl. die folgenden Einstellung.

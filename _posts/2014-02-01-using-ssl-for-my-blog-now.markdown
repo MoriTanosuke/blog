@@ -1,7 +1,7 @@
 ---
 title: 'Using SSL for my blog now'
 date: 2014-02-01 00:00:00 
-tags: security,privacy
+tags: security privacy
 layout: post
 ---
 Today I decided to fix the annoying situation that my blog here wasn't running on SSL. To be honest, I was too lazy to fix my [apache configuration][0] after setting up [Ghost][1] initially. Anyway, right now you should be browsing this website via [https][2], which encrypts all communication going from your browser to the server.

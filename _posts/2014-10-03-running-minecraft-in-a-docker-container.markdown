@@ -1,7 +1,7 @@
 ---
 title: 'Running Minecraft in a Docker container'
 date: 2014-10-03 00:00:00 
-tags: minecraft,software
+tags: minecraft software
 layout: post
 ---
 If you ever want to run a minecraft server, but you don't want to add all the Java and minecraft files directly to your servers filesystem, you can use the following [Dockerfile][0]:

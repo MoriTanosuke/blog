@@ -1,7 +1,7 @@
 ---
 title: 'Neues Squat Rack'
 date: 2015-01-16 00:00:00 
-tags: crossfit,homegym
+tags: crossfit homegym
 layout: post
 ---
 Heute kam wieder ein kleines Paket von [Bad Company][0] an. Ich habe mir ein neues Squat Rack bestellt, damit ich auch zuhause die schweren Kniebeugen machen kann.

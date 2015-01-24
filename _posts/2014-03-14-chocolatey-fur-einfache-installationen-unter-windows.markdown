@@ -1,7 +1,7 @@
 ---
 title: 'Chocolatey für einfache Installationen unter Windows'
 date: 2014-03-14 00:00:00 
-tags: windows,tools
+tags: windows tools
 layout: post
 ---
 Vor ein paar Wochen bin ich über [Chocolatey][0] gestolpert, in einem [Blogpost von Scott Hanselman mit dem Titel _"Is the Windows user ready for apt-get?"_][1]. Als Debian User bin ich den Komfort von [apt-get][2] natürlich gewohnt und wenn es eine ähnliche Software auch für Windows gibt, will ich das natürlich ausprobieren.

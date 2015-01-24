@@ -1,7 +1,7 @@
 ---
 title: 'Clashing Spring placeholders with Camel "simple" language'
 date: 2014-02-04 00:00:00 
-tags: camel,spring,apache
+tags: camel spring apache
 layout: post
 ---
 Today I tried to build a dynamic endpoint URL for one of my [camel][0] routes. I am using the [Spring properties bridge][2] to load configuration parameters and I try to build the endpoint URL using my configuration and request headers.

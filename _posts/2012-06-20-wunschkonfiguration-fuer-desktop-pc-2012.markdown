@@ -1,7 +1,7 @@
 ---
 title: 'Wunschkonfiguration für einen Desktop-PC, Update 2012'
 date: 2012-06-20 00:00:00 
-tags: hardware,computer
+tags: hardware computer
 layout: post
 ---
 Ich hab mich heute morgen mal wieder hingesetzt und bei [Alternate][0] und dann bei [Mindfactory][4] einen Desktop-PC zusammengeklickt. [Die letzte Wunschkonfiguration ist schon länger her][12] und ein Update durchaus angebracht. In den letzten Tagen habe ich nämlich öfter mal auf [die aktuellen Ultrabooks][1] geguckt und frage mich wieder, ob ich überhaupt noch einen Laptop brauche. Ich bin nicht mehr so viel unterwegs, und wenn dann mit dem Motorrad. Und da ist mir der [17" Dell Studio][2] einfach etwas zu groß.

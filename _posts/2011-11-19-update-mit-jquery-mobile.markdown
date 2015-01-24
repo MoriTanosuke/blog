@@ -16,6 +16,6 @@ Wie immer: Falls euch Fehler auffallen oder die ganze seite bei euch nicht funkt
 
 [0]: http://jquerymobile.com/
 [1]: http://html5boilerplate.com/
-[2]: /feed
+[2]: /atom.xml
 [3]: http://docs.disqus.com/developers/universal/#comment-count
 [4]: /contact

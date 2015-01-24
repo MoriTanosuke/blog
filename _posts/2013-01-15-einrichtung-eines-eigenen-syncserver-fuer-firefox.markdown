@@ -1,7 +1,7 @@
 ---
 title: 'Einrichtung eines eigenen Sync-Server für Firefox'
 date: 2013-01-15 00:00:00 
-tags: firefox,internet
+tags: firefox internet
 layout: post
 ---
 Im Zuge meiner [Rückeroberung des Internet][0] habe ich mir heute einen eigenen Server zur Synchronisation

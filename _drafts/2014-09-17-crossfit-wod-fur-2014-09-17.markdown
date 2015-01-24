@@ -1,7 +1,7 @@
 ---
 title: 'Crossfit WOD für 2014-09-17'
 date: 2014-09-17 00:00:00 
-tags: crossfit,wod
+tags: crossfit wod
 layout: post
 ---
 Heute war ich Gast bei [Spree Crossfit][0] in Berlin. Sehr schöne Box, etwas versteckt über den Hinterhof eines ehemaligen Fabrikgeländes.

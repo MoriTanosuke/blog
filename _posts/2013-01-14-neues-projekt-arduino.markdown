@@ -1,7 +1,7 @@
 ---
 title: 'Neues Projekt: Arduino'
 date: 2013-01-14 00:00:00 
-tags: arduino,hardware
+tags: arduino hardware
 layout: post
 ---
 Ich hab ein wenig gestöbert, was man im Moment alles mit den

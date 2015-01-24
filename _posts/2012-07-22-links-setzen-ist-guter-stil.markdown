@@ -1,7 +1,7 @@
 ---
 title: 'Links setzen ist guter Stil'
 date: 2012-07-22 00:00:00 
-tags: internet,gaming
+tags: internet gaming
 layout: post
 ---
 In den letzten Wochen ist mir ein Trend im Netz aufgefallen, der mir überhaupt nicht gefällt. Neustes Beispiel ist [ein Artikel bei *arstechnica* über einen Patent-Troll, der *notch* verklagt][1]. Der Trend: *keine Links auf die Originalquelle setzen*.

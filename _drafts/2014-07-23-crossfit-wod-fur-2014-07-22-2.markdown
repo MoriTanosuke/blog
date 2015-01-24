@@ -1,7 +1,7 @@
 ---
 title: 'Crossfit WOD für 2014-07-23'
 date: 2014-07-23 00:00:00 
-tags: crossfit,wod,freeletics,aphrodite
+tags: crossfit wod freeletics aphrodite
 layout: post
 ---
 Mein #crossfit #wod für heute:

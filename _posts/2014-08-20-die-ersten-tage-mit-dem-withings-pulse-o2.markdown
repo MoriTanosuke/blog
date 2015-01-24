@@ -1,7 +1,7 @@
 ---
 title: 'Die ersten Tage mit dem Withings Pulse O2'
 date: 2014-08-20 00:00:00 
-tags: fitness,gadgets
+tags: fitness gadgets
 layout: post
 ---
 Seit dem 15.08. bin ich Besitzer des [Withing Pulse O2][0]. Ich trage den Sensor am linken Handgelenk (ich bin Rechtshänder), so wie auch das [Jawbone Up][1] vorher. Leider war ich genau zur Ankunft des *Pulse* krank, deshalb hatte der Sensor noch nicht viel zu tun. :unamused: Mittlerweile fühle ich mich aber wieder besser und die ersten Schritte werden in den Auswertungen sichtbar.

@@ -1,7 +1,7 @@
 ---
 title: 'OnePlus One ohne Wipe rooten'
 date: 2014-08-05 00:00:00 
-tags: android,gadgets,root
+tags: android gadgets root
 layout: post
 ---
 Besitzer des [OnePlus One][1] können ihr Telefon ohne Wipe (also ohne Zurücksetzen auf Werkseinstellung und Verlust der Daten) rooten. Dazu musst Du einfach die folgende Anleitung befolgen. :smile:

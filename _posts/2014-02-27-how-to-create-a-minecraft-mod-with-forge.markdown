@@ -1,7 +1,7 @@
 ---
 title: 'How to create a Minecraft Mod with Forge'
 date: 2014-02-27 00:00:00 
-tags: minecraft,modding
+tags: minecraft modding
 layout: post
 ---
 Most of this is taken from a [somewhat incomplete tutorial at Minecraftforge][3].

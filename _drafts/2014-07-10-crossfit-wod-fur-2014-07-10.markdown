@@ -1,7 +1,7 @@
 ---
 title: 'Crossfit WOD für 2014-07-10'
 date: 2014-07-10 00:00:00 
-tags: crossfit,wod,benchmark,cindy
+tags: crossfit wod benchmark cindy
 layout: post
 ---
 Mein #crossfit #wod für heute:

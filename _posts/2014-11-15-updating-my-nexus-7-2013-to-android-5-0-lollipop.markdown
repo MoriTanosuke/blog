@@ -1,7 +1,7 @@
 ---
 title: 'Updating my Nexus 7 (2013) to Android 5.0 Lollipop'
 date: 2014-11-15 00:00:00 
-tags: android,gadgets,root
+tags: android gadgets root
 layout: post
 ---
 Today I decided it's time to jump on the [Android Lollipop][0] wagon. I like flashing brand new stuff to my devices and I rooted and flashed custom firmware to almost all my gadgets. Why not try Android 5.0?

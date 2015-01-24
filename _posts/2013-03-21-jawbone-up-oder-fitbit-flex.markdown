@@ -1,7 +1,7 @@
 ---
 title: 'Jawbone UP oder Fitbit Flex?'
 date: 2013-03-21 00:00:00 
-tags: fitness,fitbit,jawbone,gadgets
+tags: fitness fitbit jawbone gadgets
 layout: post
 ---
 Seit dieser Woche gibt es das [Jawbone UP][0] auch in Deutschland, ausserdem ist endlich die [Android App für das Jawbone][1] fertig. Damit rückt es auf meiner Wunschliste wieder weiter nach oben. Eigentlich warte ich ja auf das [Fitbit Flex][2], aber wer weiß, wann das wirklich rauskommt. Ausserdem traue ich dem Jawbone eine bessere Verarbeitung zu, da mittlerweile die zweite Iteration auf dem Markt ist. So viel Erfahrung muss Fitbit erstmal mit einem Armband machen.

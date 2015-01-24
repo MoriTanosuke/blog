@@ -1,7 +1,7 @@
 ---
 title: 'How to speed up Maven and Eclipse?'
 date: 2014-10-24 00:00:00 
-tags: eclipse,maven
+tags: eclipse maven
 layout: post
 ---
 At work I am constantly bugged by modal dialogs in my [Eclipse][0] whenever the [m2e plugin][1] starts any kind of long-running [Maven][2] action, like downloading artifacts from our company repository. It startet to get really annoying a couple of weeks ago when almost every single one of our own artifacts downloaded only with a few *kB/s*. So I started to investigate some of the usual suspects:

@@ -1,7 +1,7 @@
 ---
 title: 'Fitness-Tracker oder Smartphone?'
 date: 2014-08-04 00:00:00 
-tags: fitness,gadgets,smartphone
+tags: fitness gadgets smartphone
 layout: post
 ---
 Vor [ein paar Tagen][0] habe ich geschrieben, dass mein [Jawbone Up][10] den Geist aufgegeben hat. Das zweite Gerät. Innerhalb von rund 9 Monaten.

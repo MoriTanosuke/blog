@@ -1,7 +1,7 @@
 ---
 title: 'Building a Google AppEngine webapp with Python'
 date: 2015-01-19 00:00:00 
-tags: google-app-engine,development
+tags: google-app-engine development
 layout: post
 ---
 Today I wanted to add [ReCAPTCHA][3] to one of my web applications built with [NodeJS][4]. A quick look on my [heroku][5] dashboard showed that the application wasn't even running anymore, and a quick search through the logs showed that I was running into a quota of the connected [Redis to go][6] instance. Before doing any real work I'd have to upgrade the underlying stack, and searching for recaptcha clients for NodeJS did not bring up anything useful for me.
@@ -25,7 +25,7 @@ Previously I used something like this:
 
 This did not return any result, although I could verify via the appengine dashboard that there really was an Entity in the *Datastore* with the given ID.
 
-Anyways, you can now store syntax highlighted code at [http://syntaxhighlight.de/][8]
+Anyways, you can now store syntax highlighted code at http://perfect-embassy-830.appspot.com/
 
 [0]: https://cloud.google.com/appengine/docs/python/
 [1]: https://github.com/MoriTanosuke/highlighty/
@@ -35,4 +35,4 @@ Anyways, you can now store syntax highlighted code at [http://syntaxhighlight.de
 [5]: https://www.heroku.com/
 [6]: http://redistogo.com/
 [7]: https://cloud.google.com/appengine/docs/python/gettingstartedpython27/templates
-[8]: http://syntaxhighlight.de/
+

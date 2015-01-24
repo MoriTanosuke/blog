@@ -1,7 +1,7 @@
 ---
 title: 'Bodyweight Workout Challenge'
 date: 2013-05-06 00:00:00 
-tags: fitness,strength,training,workout
+tags: fitness strength training workout
 layout: post
 ---
 Heute nachmittag werde ich eine neue Challenge annehmen und folgendes Training absolvieren:

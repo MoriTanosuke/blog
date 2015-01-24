@@ -1,7 +1,7 @@
 ---
 title: 'Neues Notebook: Dell XPS 15'
 date: 2015-01-04 00:00:00 
-tags: gadgets,laptop
+tags: gadgets laptop
 layout: post
 ---
 Ich habe seit ein paar Tagen wieder ein Notebook: ein [Dell XPS 15][0]. Nach mehreren Wochen Suche und einer frühen Festlegung auf ein [ASUS Zenbook UX303LN][1], habe ich mich dann doch noch umentschlossen. Anscheinend ist ASUS nicht in der Lage, ein Erscheinungsdatum für das Zenbook zu geben und ich hatte auch keine Lust mehr, noch länger zu warten. Das Dell XPS ist aber eine gute Alternative. Zwar ist das Gerät etwas teurer, kommt dafür aber mit einem größeren Prozessor, mehr Arbeitsspeicher und einem Versanddatum. Das Display ist etwas größer, aber mehr Display war noch nie schecht. Das Gewicht bleibt mit rund 2kg auch erträglich.

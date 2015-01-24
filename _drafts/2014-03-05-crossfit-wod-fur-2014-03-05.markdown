@@ -1,7 +1,7 @@
 ---
 title: 'Crossfit WOD für 2014-03-05'
 date: 2014-03-05 00:00:00 
-tags: crossfit,wod
+tags: crossfit wod
 layout: post
 ---
 Mein #crossfit #wod für heute:

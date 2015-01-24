@@ -1,7 +1,7 @@
 ---
 title: 'Building a simple blog with NodeJS and Express'
 date: 2012-01-30 00:00:00 
-tags: frontpage,nodejs
+tags: frontpage nodejs
 layout: post
 ---
 After [installing NodeJS][0] and [creating a basic web application with

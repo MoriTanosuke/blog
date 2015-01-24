@@ -1,7 +1,7 @@
 ---
 title: 'Kurze Pause zur Regeneration'
 date: 2014-02-02 00:00:00 
-tags: fitness,crossfit
+tags: fitness crossfit
 layout: post
 ---
 Seit Mittwoch hab ich jetzt keinen Sport mehr gemacht. Ich betrachte das als notwendige Pause zur Regeneration, denn seit ein paar Tagen zieht es deutlich spürbar in meiner rechten Seite, manchmal auch am Rücken - obwohl sich das eher nach einer Auswirkung der Vermeidung bestimmter Bewegungen anfühlt...
