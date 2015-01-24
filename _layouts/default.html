@@ -33,13 +33,7 @@
     
 <header class="main-header " style="background-image: url(/img/content/9775377492_2a7cd5293f_o-2.jpg)">
     <nav class="main-nav overlay clearfix">
-        
-<form action='http://www.google.de/search' id='searchForm'>
-  <input name='q' type='hidden' value='site:blog.kopis.de' />
-<div data-role="fieldcontain" class="ui-hide-label">
-  <input id="q" name='q' size='20' type='text' placeholder="In Artikeln suchen" />
-</div>
-</form>
+        {% include ddg-cse.html %}
         <a class="subscribe-button icon-feed" href="/feed">Subscribe</a>
     </nav>
     <div class="vertical">
