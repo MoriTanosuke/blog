@@ -9,6 +9,22 @@
 }
 
 /* CUSTOM */
+nav.sub-nav {
+  margin: auto;
+  max-width: 781px;
+  width: 80%;
+  font-size: small;
+}
+
+.sub-nav ul {
+  margin: 0;
+  padding: 0.8em;
+  text-align: center;
+}
+.sub-nav ul li {
+  list-style: none;
+  display: inline;
+}
 
 .main-header {
   height: 350px;
@@ -125,3 +141,4 @@ hr.thin {
   margin: 0;
   margin-top: 1em;
 }
+
