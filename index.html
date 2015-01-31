@@ -19,7 +19,7 @@ title: Mainpage
 			<div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
 			<span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
 			<span class="gplusone"><g:plusone href="{{ site.url }}{{ post.url }}" size="small"></span>
-			<span class="flattr"><a class="FlattrButton" style="display:hidden;" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" lang="de">{{ post.content | strip_html | truncatewords: 30 }}</a></span>
+			<span class="flattr"><a class="FlattrButton" style="display: none;" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" lang="de">{{ post.content | strip_html | truncatewords: 30 }}</a></span>
 			</div>
     		  </li>
     		{% endfor %}
