@@ -12,11 +12,13 @@ title: Mainpage
     		{% for post in paginator.posts %}
     		  <li>
     		        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			{% if post.category != "wod" %}
        		        <div>{{ post.content | strip_html | strip_newlines | truncatewords: 30 }} <a href="{{ post.url }}">weiter</a></div>
 			<hr class="thin" />
+			{% endif %}
 			<div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
-			<span><a href="{{ entry.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
-			<span class="gplusone"><g:plusone href="{{ site.url }}{{ entry.url }}" size="small"></span></div>
+			<span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
+			<span class="gplusone"><g:plusone href="{{ site.url }}{{ post.url }}" size="small"></span></div>
 
     		  </li>
     		{% endfor %}
