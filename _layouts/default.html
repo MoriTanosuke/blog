@@ -76,19 +76,10 @@ var disqus_shortname = '{{ site.disqus-shortname }}';
     <script src="/js/jquery.min.js"></script>
     <script type="text/javascript" src="/js/emojify.min.js"></script>
 
+{% include flattr.html %}
+{% include gplusone.html %}
+
 <script type="text/javascript">
-//flattr
-$(document).ready(function() {
-    var s = document.createElement('script');
-    var t = document.getElementsByTagName('script')[0];
-
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = '//api.flattr.com/js/0.6/load.js?mode=auto&button=compact&language=de_DE&uid=cringe';
-
-    t.parentNode.insertBefore(s, t);
-});
-
 //emojify
 emojify.setConfig({
 
@@ -114,15 +105,6 @@ _paq.push(["enableLinkTracking"]);
   _paq.push(["setSiteId", "10"]);
   var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
   g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-})();
-
-// google+
-window.___gcfg = {lang: 'de'};
-(function(){
-  var po = document.createElement("script");
-  po.type = "text/javascript"; po.async = true;po.src = "//apis.google.com/js/plusone.js";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(po, s);
 })();
 
 // show flattr button again
