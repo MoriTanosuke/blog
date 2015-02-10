@@ -1,0 +1,19 @@
+---
+title: 'Ziele für 2015'
+layout: post
+---
+Für das Jahr 2015 setze ich mir folgende Ziele im Crossfit:
+
+* Deadlift 1RM 150kg
+* 50 Double Unders
+* Muscle Up
+* Freier Handstand bzw. Handstand Walk
+
+[Im letzten Jahr habe ich mir auch Ziele gesetzt][0]:
+
+* Deadlift 1RM 150kg - nicht erreicht, weiterhin bei 137,5kg
+* 50 Double Unders - nicht erreicht, ich bin aber mehrmals auf 25 ununterbrochene DUs gekommen
+* Freier Handstand - nicht erreicht, ich bin mittlerweile so weit, dass ich ohne Hilfe in den Handstand komme und manchmal 1 oder 2 Sekunden stehen bleibe
+
+
+[0]: {{ site.url }}/ziele-fur-2014/
