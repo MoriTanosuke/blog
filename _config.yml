@@ -14,4 +14,4 @@ owner-name: Carsten Ringe
 owner-email: carsten@kopis.de
 owner-uri: http://www.kopis.de/
 
-exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'style.scss', "Rakefile", "CNAME" ]
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'style.scss', "Rakefile", "CNAME", "Dockerfile" ]
