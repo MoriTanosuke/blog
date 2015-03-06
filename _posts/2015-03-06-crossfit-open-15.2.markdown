@@ -7,7 +7,7 @@ Das [Crossfit Open WOD 15.2][0] ist angekündigt.
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DlsJ-70Pvwo" frameborder="0" allowfullscreen></iframe></center>
 
-**15.2**
+**15.2** - Alle 3min
 
 00:00 - 03:00, 2 Runden
 
