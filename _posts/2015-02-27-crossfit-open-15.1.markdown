@@ -7,7 +7,7 @@ Das [Crossfit Open WOD 15.1][0] ist angekündigt.
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0-YfYcsduHA" frameborder="0" allowfullscreen></iframe></center>
 
-15.1 - 9min AMRAP
+**15.1** - 9min AMRAP
 
 * 15 toes-to-bars
 * 10 deadlifts (115 / 34kg)
