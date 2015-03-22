@@ -1,5 +1,5 @@
 ---
-title: 'Crossfit Open WOD 15.3'
+title: 'Crossfit Open WOD 15.4'
 layout: post
 ---
 
