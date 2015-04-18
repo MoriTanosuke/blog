@@ -32,6 +32,14 @@ Dazu gehören 3D-Modelle, die man per JSON beschreiben kann. Hier ist das Modell
 }
 </pre>
 
+Wichtig sind vor allem die *shapes*, dort wird das 3D-Modell beschrieben. Die letzte Zeile erstellt z.B. die Tischplatte über die gesamte Länge und Breite des Blocks und einer Dicke von zwei:
+
+<pre>
+  { x1, z1, y1, x2, z2, y2, texture = "planks_oak" }
+</pre>
+
+Die Koordinaten sind minecraft-üblich in x,z,y angegeben. Das hat bei mir im ersten Druckversuch einen seitlich liegenden Tisch ergeben.
+
 Die Modelle gibt es auch in [einem Git-Repository][4]. Viel Spass! :-)
 
 [0]: http://minecraft.net/
