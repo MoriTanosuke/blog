@@ -40,6 +40,35 @@ Wichtig sind vor allem die *shapes*, dort wird das 3D-Modell beschrieben. Die le
 
 Die Koordinaten sind minecraft-üblich in x,z,y angegeben. Das hat bei mir im ersten Druckversuch einen seitlich liegenden Tisch ergeben.
 
+Das Modell für die Rampe sieht wie folgt aus:
+
+<pre>
+{
+  label = "Ramp #1",
+  tooltip = "Simple ramp, half a block.",
+  emitRedstone = false,
+  buttonMode = false,
+  shapes = {
+    { 0, 0, 0, 16, 1, 16, texture = "planks_oak" },
+    { 1, 1, 0, 16, 2, 16, texture = "planks_oak" },
+    { 2, 2, 0, 16, 3, 16, texture = "planks_oak" },
+    { 3, 3, 0, 16, 4, 16, texture = "planks_oak" },
+    { 4, 4, 0, 16, 5, 16, texture = "planks_oak" },
+    { 5, 5, 0, 16, 6, 16, texture = "planks_oak" },
+    { 6, 6, 0, 16, 7, 16, texture = "planks_oak" },
+    { 7, 7, 0, 16, 8, 16, texture = "planks_oak" },
+    { 8, 8, 0, 16, 9, 16, texture = "planks_oak" },
+    { 9, 9, 0, 16, 10, 16, texture = "planks_oak" },
+    { 10, 10, 0, 16, 11, 16, texture = "planks_oak" },
+    { 11, 11, 0, 16, 12, 16, texture = "planks_oak" },
+    { 12, 12, 0, 16, 13, 16, texture = "planks_oak" },
+    { 13, 13, 0, 16, 14, 16, texture = "planks_oak" },
+    { 14, 14, 0, 16, 15, 16, texture = "planks_oak" },
+    { 15, 15, 0, 16, 16, 16, texture = "planks_oak" }
+  }
+}
+</pre>
+
 Die Modelle gibt es auch in [einem Git-Repository][4]. Viel Spass! :-)
 
 [0]: http://minecraft.net/
