@@ -101,8 +101,7 @@ public class GenericBlock extends Block {
 
 	private String name;
 
-	public GenericBlock(Material material, String name, float hardness,
-			float resistance) {
+	public GenericBlock(Material material, String name, float hardness, float resistance) {
 		super(material);
 		this.name = name;
 		setHardness(hardness);
@@ -182,11 +181,9 @@ public class BlockHelper {
 	public static void registerBlock(GenericBlock b) {
 		GameRegistry.registerBlock(b, b.getName());
 		Item block = GameRegistry.findItem(KopistaMod.MODID, b.getName());
-		ModelResourceLocation modelLocation = new ModelResourceLocation(
-				b.getTexture(), "inventory");
+		ModelResourceLocation modelLocation = new ModelResourceLocation(b.getTexture(), "inventory");
 		final int DEFAULT_ITEM_SUBTYPE = 0;
-		Minecraft.getMinecraft().getRenderItem().getItemModelMesher()
-				.register(block, DEFAULT_ITEM_SUBTYPE, modelLocation);
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(block, DEFAULT_ITEM_SUBTYPE, modelLocation);
 	}
 }
 </pre>
@@ -196,7 +193,7 @@ OK, that's for the java code. There is one last piece missing before you can act
 
 <h2>Blockstate</h2>
 Save this file as *src/main/resources/MODID/blockstates/asphaltOre.json*.
-<pre class="brush: javascript">
+<pre class="brush: js">
 {
     "variants": {
         "normal": { "model": "kopista:asphaltOre" }
@@ -206,7 +203,7 @@ Save this file as *src/main/resources/MODID/blockstates/asphaltOre.json*.
 
 <h2>Block Model</h2>
 Save this file as *src/main/resources/MODID/models/block/asphaltOre.json*. This file defines how the block looks when placed in your hand.
-<pre class="brush: javascript">
+<pre class="brush: js">
 {
     "parent": "block/cube_all",
     "textures": {
@@ -217,7 +214,7 @@ Save this file as *src/main/resources/MODID/models/block/asphaltOre.json*. This 
 
 <h2>Item Model</h2>
 Save this file as *src/main/resources/MODID/models/item/asphaltOre.json*. This file defines how the block looks in your hand.
-<pre class="brush: javascript">
+<pre class="brush: js">
 {
     "parent": "kopista:block/asphaltOre",
     "display": {
@@ -266,8 +263,7 @@ public class KopistaWorldGeneration implements IWorldGenerator {
 			int numberOfBlocks = random.nextInt(MAX_GENERATED_BLOCKS);
 
 			// create a mineable for this ore
-			WorldGenMinable mineable = new WorldGenMinable(
-					KopistaMod.ASPHALTORE.getDefaultState(), numberOfBlocks);
+			WorldGenMinable mineable = new WorldGenMinable(KopistaMod.ASPHALTORE.getDefaultState(), numberOfBlocks);
 
 			// set a random y for this block
 			int y = MIN_HEIGHT_IN_WORLD + random.nextInt(MAX_HEIGHT_IN_WORLD);
@@ -275,8 +271,7 @@ public class KopistaWorldGeneration implements IWorldGenerator {
 			BlockPos blockPosition = new BlockPos(realX, y, realZ);
 			if (mineable.generate(world, random, blockPosition)) {
 				FMLLog.fine("Generated %d blocks of AsphaltOre at %d,%d,%d",
-					numberOfBlocks, blockPosition.getX(),
-					blockPosition.getY(), blockPosition.getZ());
+					numberOfBlocks, blockPosition.getX(), blockPosition.getY(), blockPosition.getZ());
 			}
 		}
 	}
