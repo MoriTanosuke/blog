@@ -17,6 +17,7 @@ First of all, you have to set up your development workspace for a new mod. [I've
 
 
 <h2>KopistaMod.java</h2>
+This is the base class of your mod. It's the place where you wire recipes, world generators, blocks and everything else together.
 <pre class="brush: java">
 package de.kopis.kopista;
 
