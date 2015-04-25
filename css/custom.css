@@ -103,6 +103,10 @@ form#searchForm div input {
    color:    white;
 }
 
+.syntaxhighlighter {
+  width: 150%;
+}
+
 img.emoji {
   display: inline !important;
   height: 1.2em;
