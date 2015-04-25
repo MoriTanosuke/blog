@@ -11,10 +11,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="shortcut icon" href="/favicon.ico">
-
     <link rel="stylesheet" href="/css/screen.css" />
     <link rel="stylesheet" href="/css/custom.css" />
     <!--link rel="stylesheet" href="/css/style.css" /-->
+    <link href="css/shCore.css" rel="stylesheet" type="text/css" />
+    <link href="css/shThemeDefault.css" rel="stylesheet" type="text/css" />
 <!--[if IE 7]>
 <html class="ie7">
 <link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
@@ -79,6 +80,12 @@ var disqus_shortname = '{{ site.disqus-shortname }}';
 {% include flattr.html %}
 {% include gplusone.html %}
 
+<script type="text/javascript" src="js/shCore.js"></script>
+<script type="text/javascript" src="js/shBrushJScript.js"></script>
+<script type="text/javascript" src="css/shBrushJava.js"></script>
+<script type="text/javascript" src="css/shBrushXml.js"></script>
+<script type="text/javascript" src="css/shBrushBash.js"></script>
+
 <script type="text/javascript">
 //emojify
 emojify.setConfig({
@@ -111,7 +118,9 @@ _paq.push(["enableLinkTracking"]);
 $(document).ready(function() {
   $('.FlattrButton').css('display', 'inline');
 });
-
+</script>
+<script type="text/javascript">
+SyntaxHighlighter.all();
 </script>
 
 </body>
