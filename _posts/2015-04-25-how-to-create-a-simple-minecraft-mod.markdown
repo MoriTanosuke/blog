@@ -233,7 +233,7 @@ If you followed along the code (or forked my project on github ;-)) you are now 
 
 <h2>KopistaWorldGeneration</h2>
 
-<pre class="brush: java"<
+<pre class="brush: java">
 package de.kopis.kopista.world;
 
 import java.util.Random;
