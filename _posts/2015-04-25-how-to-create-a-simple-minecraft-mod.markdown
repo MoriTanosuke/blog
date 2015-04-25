@@ -82,8 +82,6 @@ public class AsphaltOre extends GenericBlock {
     public AsphaltOre() {
         super(Material.rock, "asphaltOre", 1.5F, 10F);
     }
-
-
 }
 </pre>
 
@@ -161,7 +159,6 @@ public class GenericBlock extends Block {
 		public int value() {
 			return level;
 		}
-
 	}
 }
 </pre>
@@ -280,9 +277,9 @@ public class KopistaWorldGeneration implements IWorldGenerator {
 				FMLLog.fine("Generated %d blocks of AsphaltOre at %d,%d,%d",
 					numberOfBlocks, blockPosition.getX(),
 					blockPosition.getY(), blockPosition.getZ());
-			}		}
+			}
+		}
 	}
-
 }
 </pre>
 
