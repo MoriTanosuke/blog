@@ -47,11 +47,11 @@ import org.junit.Test;
  
 public class SortApplesTest {
  
-  private List<Apple> unsorted;
+  private List&lt;Apple&gt; unsorted;
  
   @Before
   public void createApples() {
-    unsorted = new ArrayList<>();
+    unsorted = new ArrayList&lt;&gt;();
     for (int i = 1; i < 10; i++) {
       unsorted.add(new Apple("red", 1.23));
     }
@@ -60,18 +60,18 @@ public class SortApplesTest {
  
   @Test
   public void canSortApplesByColor() {
-    List<Apple> green = filterApples(unsorted, new AppleColorPredicate("green"));
+    List&lt;Apple&gt; green = filterApples(unsorted, new AppleColorPredicate("green"));
     assertEquals(1, green.size());
   }
  
   @Test
   public void canSortApplesByWeight() {
-    List<Apple> green = filterApples(unsorted, new AppleMinimumWeightPredicate(2.0));
+    List&lt;Apple&gt; green = filterApples(unsorted, new AppleMinimumWeightPredicate(2.0));
     assertEquals(1, green.size());
   }
  
-  private List<Apple> filterApples(List<Apple> unsorted, ApplePredicate colorPredicate) {
-    List<Apple> sorted = new ArrayList<>();
+  private List&lt;Apple&gt; filterApples(List&lt;Apple&gt; unsorted, ApplePredicate colorPredicate) {
+    List&lt;Apple&gt; sorted = new ArrayList<>();
     for (Apple apple : unsorted) {
       if (colorPredicate.test(apple)) {
         sorted.add(apple);
@@ -109,7 +109,6 @@ class AppleColorPredicate implements ApplePredicate {
 }
  
 class AppleMinimumWeightPredicate implements ApplePredicate {
- 
   private final double weight;
  
   public double getWeight() {
@@ -133,7 +132,7 @@ Now, how do we start to refactor this code *Java 8-Style*? First, let's remove s
 <pre class="brush: java">
   @Test
   public void canSortApplesByColor() {
-    List<Apple> green = filterApples(unsorted, new ApplePredicate() {
+    List&lt;Apple&gt; green = filterApples(unsorted, new ApplePredicate() {
       @Override
       public boolean test(Apple apple) {
         return apple.getColor().equals("green");
@@ -144,7 +143,7 @@ Now, how do we start to refactor this code *Java 8-Style*? First, let's remove s
  
   @Test
   public void canSortApplesByWeight() {
-    List<Apple> green = filterApples(unsorted, new ApplePredicate() {
+    List&lt;Apple&gt; green = filterApples(unsorted, new ApplePredicate() {
       @Override
       public boolean test(Apple apple) {
         return apple.getWeight() > 2.0;
@@ -159,13 +158,13 @@ That's a little better, we avoid creating 2 new files (or at least, 2 new classe
 <pre class="brush: java">
   @Test
   public void canSortApplesByColor() {
-    List<Apple> green = filterApples(unsorted, (Apple apple) -> apple.getColor().equals("green"));
+    List&lt;Apple&gt; green = filterApples(unsorted, (Apple apple) -> apple.getColor().equals("green"));
     assertEquals(1, green.size());
   }
  
   @Test
   public void canSortApplesByWeight() {
-    List<Apple> green = filterApples(unsorted, (Apple apple) -> apple.getWeight() > 2.0);
+    List&lt;Apple&gt; green = filterApples(unsorted, (Apple apple) -> apple.getWeight() > 2.0);
     assertEquals(1, green.size());
   }
 </pre>
@@ -175,7 +174,7 @@ Now that's short code, and we're still doing it in Java! :-) If you have experie
 There is another refactoring we can do to make the code more reusable and extensible. We can remove the type from the `ApplePredicate` so we can reuse it to sort oranges or cars or the famous `Employee` later in our project. Let's do that:
 
 <pre class="brush: java">
-interface Predicate<T> {
+interface Predicate&lt;T&gt; {
   boolean test(T t);
 }
 </pre>
@@ -183,8 +182,8 @@ interface Predicate<T> {
 Now we have to refactor the `filterApples` method:
 
 <pre class="brush: java">
-  private <T> List<T> filter(List<T> unsorted, Predicate<T> predicate) {
-    List<T> sorted = new ArrayList<>();
+  private &lt;T&gt; List&lt;T&gt; filter(List&lt;T&gt; unsorted, Predicate&lt;T&gt; predicate) {
+    List&lt;T&gt; sorted = new ArrayList<>();
     for (T element : unsorted) {
       if (predicate.test(element)) {
         sorted.add(element);
