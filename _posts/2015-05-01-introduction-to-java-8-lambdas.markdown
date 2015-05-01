@@ -193,7 +193,7 @@ Now we have to refactor the `filterApples` method:
     return sorted;
   }
 }
-<pre>
+</pre>
 
 You can see the whole code in [this gist][5]. I followed the [java tutorial on Lambdas][6] closely and I suggest you go read that documentation now. It's worth it. :-) There are a lot of other changes that will make your code more concise and easier to read ([search for *Java 8 Streams*][7], for example).
 
