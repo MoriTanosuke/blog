@@ -13,13 +13,13 @@ title: Mainpage
     		  <li>
     		        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 			{% if post.category != "wod" %}
-       		        <div>{{ post.content | strip_html | strip_newlines | truncatewords: 30 }} <a href="{{ post.url }}">weiter</a></div>
+       		        <div>{{ post.content | strip_html | strip_newlines | truncatewords: 100 }} <a href="{{ post.url }}">weiter</a></div>
 			<hr class="thin" />
 			{% endif %}
 			<div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
 			<span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
 			<span class="gplusone"><g:plusone href="{{ site.url }}{{ post.url }}" size="small"></span>
-			<span class="flattr"><a class="FlattrButton" style="display: none;" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" lang="de">{{ post.content | strip_html | truncatewords: 30 }}</a></span>
+			<span class="flattr"><a class="FlattrButton" style="display: none;" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" lang="de">{{ post.content | strip_html | truncatewords: 100 }}</a></span>
 			</div>
     		  </li>
     		{% endfor %}
