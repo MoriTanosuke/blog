@@ -5,7 +5,7 @@ title: "3D-Drucker in Minecraft mit OpenComputers"
 
 Auf meinem Server habe ich seit einiger Zeit [Minecraft][0] 1.8 laufen, natürlich mit [Forge][1]. Seit kurzem auch wieder mit einigen Mods. Darunter [OpenComputers][2] (und das [Plant Mega Pack][3], aber das ist für einen anderen Artikel).
 
-Und heute habe ich mal angefangen, einen 3D-Drucker zu betreiben. :-)
+Und heute habe ich mal angefangen, einen 3D-Drucker zu betreiben. :smile:
 
 <center>
 <a href="https://www.flickr.com/photos/cringe/16567983804" title="OpenComputer Zimmer by Carsten Ringe, on Flickr"><img src="https://farm8.staticflickr.com/7669/16567983804_72ffd5f2ab.jpg" width="500" height="286" alt="OpenComputer Zimmer"></a>
@@ -69,7 +69,7 @@ Das Modell für die Rampe sieht wie folgt aus:
 }
 </pre>
 
-Die Modelle gibt es auch in [einem Git-Repository][4]. Viel Spass! :-)
+Die Modelle gibt es auch in [einem Git-Repository][4]. Viel Spass! :smile:
 
 [0]: http://minecraft.net/
 [1]: http://files.minecraftforge.net/

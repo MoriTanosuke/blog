@@ -18,7 +18,7 @@ Und das ganze geht so:
 1. In das Verzeichnis `Eigene Dokumente\Almost Human` wechseln, z.B. `cd C:\Users\Carsten\Documents\Almost Human` - am besten, ihr macht einen *Windows Explorer* auf und klickt euch in den Ordner, anschliessend könnt ihr den Pfad aus der Addressleiste am oberen Rand des Explorers kopieren!
 1. Den Ordner `Legend of Grimrock` in den Dropbox Ordner verschieben (Ausschneiden mit `CTRL+X`, Einfügen mit `CTRL+V`)
 1. Den Befehl `mklink /d "Legend of Grimrock" PFAD\IN\EURE\DROPBOX\Legend of Grimrock` - ihr müsst natürlich die Angabe `PFAD\IN\EURE\DROPBOX` mit dem Pfad ersetzen, in den ihr im vorherigen Schritt den ausgeschnittenen Ordner wieder eingefügt habt!
-1. Spielen, speichern, auf einem anderen Rechner weiterspielen :-)
+1. Spielen, speichern, auf einem anderen Rechner weiterspielen :smile:
 
 Damit hat man auch gleich eine nette kleine Sicherungskopie erstellt, falls mal einer der synchronisierten Rechner kaputt geht.
 

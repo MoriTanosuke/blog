@@ -169,7 +169,7 @@ That's a little better, we avoid creating 2 new files (or at least, 2 new classe
   }
 </pre>
 
-Now that's short code, and we're still doing it in Java! :-) If you have experience with other languages, the syntax might look familiar. If you do most of your work in Java, this might hurt your eyes at first, but that goes away when you notice how much less boilerplate code you have to write.
+Now that's short code, and we're still doing it in Java! :smile: If you have experience with other languages, the syntax might look familiar. If you do most of your work in Java, this might hurt your eyes at first, but that goes away when you notice how much less boilerplate code you have to write.
 
 There is another refactoring we can do to make the code more reusable and extensible. We can remove the type from the `ApplePredicate` so we can reuse it to sort oranges or cars or the famous `Employee` later in our project. Let's do that:
 
@@ -194,7 +194,7 @@ Now we have to refactor the `filterApples` method:
 }
 </pre>
 
-You can see the whole code in [this gist][5]. I followed the [java tutorial on Lambdas][6] closely and I suggest you go read that documentation now. It's worth it. :-) There are a lot of other changes that will make your code more concise and easier to read ([search for *Java 8 Streams*][7], for example).
+You can see the whole code in [this gist][5]. I followed the [java tutorial on Lambdas][6] closely and I suggest you go read that documentation now. It's worth it. :smile: There are a lot of other changes that will make your code more concise and easier to read ([search for *Java 8 Streams*][7], for example).
 
 I hope I get around writing some more blog posts about the changes. And I hope we all can move our production code forward into Java 8-land soon. If I ever have to see Java 1.4.2 on a server again, I will pull the plug. :boom:
 

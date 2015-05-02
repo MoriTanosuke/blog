@@ -13,7 +13,7 @@ This will let me touch most of the parts in Minecraft and I can see if updating 
 
 So, how do you add a new block to [Minecraft 1.8][0] with [Minecraft Forge][1]?
 
-First of all, you have to set up your development workspace for a new mod. [I've already written about that][2]. After that, you can start modifying files in your workspace. If you want to have a look at the whole project, you can [head over to the Github project for my mod][3]. :-)
+First of all, you have to set up your development workspace for a new mod. [I've already written about that][2]. After that, you can start modifying files in your workspace. If you want to have a look at the whole project, you can [head over to the Github project for my mod][3]. :smile:
 
 
 <h2>KopistaMod.java</h2>
@@ -227,7 +227,7 @@ Save this file as *src/main/resources/MODID/models/item/asphaltOre.json*. This f
 }
 </pre>
 
-I won't show the texture here, but you can use whatever PNG you want for it. Save the texture file as */src/main/resources/MODID/textures/blocks/asphaltOre.png*. You could even reuse existing textures from within minecraft if you want to. When editing the JSON files, make sure you put your MODID as a prefix to all references, like my MODID *"kopista"* in the examples above. It took me a while to figure out what was wrong when my blocks would show up with the *missing texture* look. :-(
+I won't show the texture here, but you can use whatever PNG you want for it. Save the texture file as */src/main/resources/MODID/textures/blocks/asphaltOre.png*. You could even reuse existing textures from within minecraft if you want to. When editing the JSON files, make sure you put your MODID as a prefix to all references, like my MODID *"kopista"* in the examples above. It took me a while to figure out what was wrong when my blocks would show up with the *missing texture* look. :disappointed:
 
 If you followed along the code (or forked my project on github ;-)) you are now ready to use the blocks in your Minecraft mod. But to actually find the new block in *Survival* mode, we have to add a new piece to the world generation. You can do that by adding a new Java class to your mod:
 
@@ -295,7 +295,7 @@ This world generator is adding a maximum of 10 veins of the new block per chunk,
 
 That's it. Load the mod into your Minecraft client, create a new world or go into previously unknown terrain in your existing world and you will get the new block.
 
-I guess while doing more work on my own mod, I will post more articles on Minecraft mod development with Forge. Keep coming back for updates. :-)
+I guess while doing more work on my own mod, I will post more articles on Minecraft mod development with Forge. Keep coming back for updates. :smile:
 
 
 [0]: http://minecraft.net/
