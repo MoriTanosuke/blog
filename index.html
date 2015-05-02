@@ -13,7 +13,7 @@ title: Mainpage
     		  <li>
     		        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 			{% if post.category != "wod" %}
-       		        <div>{{ post.content | strip_html | strip_newlines | truncatewords: 100 }} <a href="{{ post.url }}">weiter</a></div>
+       		        <div>{{ post.content | strip_html | truncatewords: 100 }} <a href="{{ post.url }}">weiter</a></div>
 			<hr class="thin" />
 			{% endif %}
 			<div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
