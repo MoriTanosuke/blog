@@ -2,6 +2,7 @@
 permalink: /:title/
 disqus-shortname: kopisde
 paginate: 5
+
 # github default settings
 markdown: rdiscount
 safe: true
@@ -9,9 +10,13 @@ lsi: false
 highlighter: 'pygments'
 url: http://blog.kopis.de
 
+gems:
+  - jemoji
+
 # site settings
 owner-name: Carsten Ringe
 owner-email: carsten@kopis.de
 owner-uri: http://www.kopis.de/
 
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'style.scss', "Rakefile", "CNAME", "Dockerfile" ]
+

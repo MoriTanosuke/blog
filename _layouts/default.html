@@ -75,7 +75,6 @@ var disqus_shortname = '{{ site.disqus-shortname }}';
     </footer>
 
     <script src="/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/js/emojify.min.js"></script>
 
 {% include flattr.html %}
 {% include gplusone.html %}
@@ -86,8 +85,10 @@ var disqus_shortname = '{{ site.disqus-shortname }}';
 <script type="text/javascript" src="/js/shBrushXml.js"></script>
 <script type="text/javascript" src="/js/shBrushBash.js"></script>
 
+<!--
+// disabled, because Github Pages has Emoji built in
+<script type="text/javascript" src="/js/emojify.min.js"></script>
 <script type="text/javascript">
-//emojify
 emojify.setConfig({
 
     img_dir          : '/img/emotes',
@@ -100,7 +101,10 @@ emojify.setConfig({
     }
 });
 emojify.run();
+</script>
+-->
 
+<script type="text/javascript">
 //piwik
 var _paq = _paq || [];
 _paq.push(["trackPageView"]);
