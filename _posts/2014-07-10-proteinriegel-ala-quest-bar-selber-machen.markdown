@@ -24,8 +24,9 @@ Die Nährwerte hab ich für meine Riegel nicht parat, da ich mit dem Mischungsve
 
 Ich kann mir jetzt meine *Quest Bars* selbst machen. :smile: Und für alle, denen das zu viel Aufwand ist, einfach hier klicken: <a href="http://www.amazon.de/gp/offer-listing/B00KPHJRO8/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00KPHJRO8&linkCode=am2&tag=ghost040-21&linkId=LG6V6HTZGLB7WRAT">Quest Nutrition, Quest Bar Mix Box, Protein Bar, 12 Riegel (12 x 60g)</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=ghost040-21&l=as2&o=3&a=B00KPHJRO8" width="1" height="1" border="0" alt="" style="display:none; border:none !important; margin:0px !important;" /> und bei Amazon kaufen. [In meinem Amazon Shop gibt es noch mehr Produkte.][2]
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=ghost040-21&marketplace=amazon&region=DE&placement=B00KPHJRO8&asins=B00KPHJRO8&show_border=true&link_opens_in_new_window=true&linkId=RLWY66OJWAAXTWIE">
-</iframe>
+<script type="text/javascript"><!--
+amazon_ad_tag = "ghost040-21"; amazon_ad_width = "728"; amazon_ad_height = "90";//--></script>
+<script type="text/javascript" src="http://ir-de.amazon-adsystem.com/s/ads.js"></script>
 
 [0]: http://fddb.info
 [1]: http://www.questproteinbar.com
