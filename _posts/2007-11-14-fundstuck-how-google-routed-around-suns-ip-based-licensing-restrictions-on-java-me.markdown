@@ -1,7 +1,6 @@
 ---
-title: 'Fundstück: how Google routed around Sun's IP-based licensing restrictions on Java ME'
+title: "Fundstück: how Google routed around Sun's IP-based licensing restrictions on Java ME"
 date: 2007-11-14 00:00:00 
-tags: 
 layout: post
 ---
 <p>Gestern abend habe ich auch noch das <a href="http://code.google.com/android/intro/hello-android.html">Hello Android</a> aus dem <a href="http://code.google.com/android/">Google Android SDK</a> gemacht und mir dabei ein paar Gedanken&amp;uuml;ber <a href="http://java.sun.com/javame/index.jsp">JME</a>, <a href="http://java.sun.com/">Java</a>, <a href="http://www.google.de/">Google</a> und Lizenzen gemacht. Leider geht Google ja wieder einen eigenen Weg, statt etablierten Standards zu folgen. Man kann also nur hoffen, dass die Jungs wissen, was sie tun und dass sich daraus etwas gutes entwickelt. Bis jetzt bin ich erstmal heimlich pro-google, werde aber kritisch bleiben und demn&auml;chst noch mehr Artikel zu Google&amp;amp; Android hier verlinken. Hier erstmal eine nette Sichtweise auf die Lizenzproblematik von JME und Android:</p>

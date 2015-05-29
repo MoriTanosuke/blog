@@ -10,32 +10,21 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/css/screen.css" />
-    <link rel="stylesheet" href="/css/custom.css" />
-    <!--link rel="stylesheet" href="/css/style.css" /-->
+    <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="/css/shCore.css" rel="stylesheet" type="text/css" />
-    <link href="/css/shThemeDefault.css" rel="stylesheet" type="text/css" />
-<!--[if IE 7]>
-<html class="ie7">
-<link rel="stylesheet" type="text/css" href="/css/font-awesome-ie7.min.css">
-<![endif]-->
-<!--[if IE 8]><html class="ie8"> <![endif]-->	
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link href="/css/shThemeEclipse.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/css/style.css" />
 
     <link rel="canonical" href="{{ site.url }}" />
     <link rel="alternate" type="application/rss+xml" title="KOPIS.DE" href="/feed" />
 </head>
 <body class="home-template">
 
-    
-<header class="main-header " style="background-image: url(/img/content/9775377492_2a7cd5293f_o-2.jpg)">
+<div class="container">
+<header class="main-header">
     <nav class="main-nav overlay clearfix">
         {% include ddg-cse.html %}
-        <a class="subscribe-button icon-feed" href="/feed">Subscribe</a>
+        {% include feed.html %}
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -43,11 +32,11 @@
             <h2 class="page-description">Mein Blog über Softwareentwicklung, Crossfit und andere Dinge.</h2>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 <main id="content" class="content" role="main">
 
+<!--
 <nav class="sub-nav overlay clearfix">
 <ul>
 <li><a href="/">Home</a></li>
@@ -55,11 +44,26 @@
 <li><a href="/contact">Kontakt</a></li>
 </ul>
 </nav>
+-->
 
 {{ content }}
 
 </main>
 
+    <footer class="site-footer clearfix">
+         <a href="http://blog.kopis.de">KOPIS.DE</a> &copy; 2015<br />
+         {% include feed.html %}
+    </footer>
+</div>
+{% include flattr.html %}
+{% include gplusone.html %}
+
+<script type="text/javascript" src="/js/shCore.js"></script>
+<script type="text/javascript" src="/js/shBrushJScript.js"></script>
+<script type="text/javascript" src="/js/shBrushJava.js"></script>
+<script type="text/javascript" src="/js/shBrushXml.js"></script>
+<script type="text/javascript" src="/js/shBrushBash.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript">
 var disqus_shortname = '{{ site.disqus-shortname }}';
 (function () {
@@ -70,59 +74,8 @@ var disqus_shortname = '{{ site.disqus-shortname }}';
 }());
 </script>
 
-    <footer class="site-footer clearfix">
-         <section class="copyright"><a href="http://blog.kopis.de">KOPIS.DE</a> &copy; 2015</section>
-    </footer>
+{% include piwik.html %}
 
-    <script src="/js/jquery.min.js"></script>
-
-{% include flattr.html %}
-{% include gplusone.html %}
-
-<script type="text/javascript" src="/js/shCore.js"></script>
-<script type="text/javascript" src="/js/shBrushJScript.js"></script>
-<script type="text/javascript" src="/js/shBrushJava.js"></script>
-<script type="text/javascript" src="/js/shBrushXml.js"></script>
-<script type="text/javascript" src="/js/shBrushBash.js"></script>
-
-<!--
-// disabled, because Github Pages has Emoji built in
-<script type="text/javascript" src="/js/emojify.min.js"></script>
-<script type="text/javascript">
-emojify.setConfig({
-
-    img_dir          : '/img/emotes',
-    ignored_tags     : {                // Ignore the following tags
-        'SCRIPT'  : 1,
-        'TEXTAREA': 1,
-        'A'       : 1,
-        'PRE'     : 1,
-        'CODE'    : 1
-    }
-});
-emojify.run();
-</script>
--->
-
-<script type="text/javascript">
-//piwik
-var _paq = _paq || [];
-_paq.push(["trackPageView"]);
-_paq.push(["enableLinkTracking"]);
-
-(function() {
-  var u="https://www.kopis.de/piwik/";
-  _paq.push(["setTrackerUrl", u+"piwik.php"]);
-  _paq.push(["setSiteId", "10"]);
-  var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
-  g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
-})();
-
-// show flattr button again
-$(document).ready(function() {
-  $('.FlattrButton').css('display', 'inline');
-});
-</script>
 <script type="text/javascript">
 SyntaxHighlighter.all();
 </script>

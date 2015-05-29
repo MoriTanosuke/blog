@@ -1,37 +1,24 @@
 ---
 layout: default
 ---
-
-<div class="top-strip"></div>
-<main class="content">
-    <section class="container">
-    	<div class="row-fluid">
-    		<article class="home-icon">
-				<a href="/">
-					<i class="icon-home"></i> 
-				</a>
-			</article>
 			<article class="post">
-				<h5>{{ page.date | date: "%d %B %Y" }}</h5>
 				<h2 class="content">{{page.title}}</h2>
+				<div class="postmeta">{{ page.date | date: "%d %B %Y" }}</div>
+				<hr />
 				<section>
 					{{ content }}
-					<div class="postmeta">
-					<span class="gplusone"><g:plusone href="{{ site.url }}{{ page.url }}" size="small"></span>
-					<span class="flattr"><a class="FlattrButton" style="display: none;" href="{{ site.url }}{{ page.url }}" title="{{ page.title }}" lang="de">{{ post.content | strip_html | truncatewords: 30 }}</a></span>
-					</div>
-					<hr>
 				</section>
-				<section style="font-weight:bold; margin-bottom: 2em;">
-					{% if page.previous %} 
-							<a rel="prev" class="a-hover"href="{{ page.previous.url }}"><i class="icon-double-angle-left"></i> {{ page.previous.title }}</a>
-						{% endif %}
-						{% if page.next %} 
-							<a rel="next" style="float:right" class="a-hover"href="{{ page.next.url }}">{{ page.next.title }} <i class=" icon-double-angle-right"></i></a>
+				<hr />
+				<section class="nav-article">
+					<ul>
+						<li class="center"><a rel="home" class="a-hover" href="/">Startseite</a></li>
+					{% if page.previous %}
+						<li><a rel="prev" class="left a-hover" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span> <i class="icon-double-angle-left"></i> {{ page.previous.title }}</a></li>
 					{% endif %}
+					{% if page.next %} 
+						<li><a rel="next" class="right a-hover"href="{{ page.next.url }}">{{ page.next.title }} <i class=" icon-double-angle-right"></i> <span class="glyphicon glyphicon-chevron-right"></span></a></li>
+					{% endif %}
+					</ul>
 				</section>
 			</article>
 			{% include disqus.html %}
-		</div>
-	</section>
-</main>

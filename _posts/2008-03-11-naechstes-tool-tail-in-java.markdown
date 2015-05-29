@@ -1,7 +1,6 @@
 ---
-title: 'NÃÂ¤chstes Tool: Tail in Java'
-date: 2008-03-11 00:00:00 
-tags: 
+title: "Nächstes Tool: Tail in Java"
+date: 2008-03-11 00:00:00
 layout: post
 ---
 Tja, schon wieder ein neues kleines Tool: Ich hab gerade tail in Java nachgebaut. F&Atilde;&frac14;r alle, die unter Windows sowas&amp;Atilde;&curren;hnliches suchen. ;-) Den Quelltext gibt es im vollst&Atilde;&curren;ndigen Artikel oder unter <a href="http://wikihost.org/wikis/kopis/programm/gebo.prg?name=prog:tail.java">http://wikihost.org/wikis/kopis/programm/gebo.prg?name=prog:tail.java</a>
