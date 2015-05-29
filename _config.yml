@@ -1,14 +1,14 @@
 #permalink: /:year/:month/:day/:title/
 permalink: /:title/
 disqus-shortname: kopisde
-paginate: 5
+paginate: 15
 
 # github default settings
 markdown: rdiscount
 safe: true
 lsi: false
 highlighter: 'pygments'
-url: http://blog.kopis.de
+url: http://localhost:4000
 
 gems:
   - jemoji
@@ -19,4 +19,3 @@ owner-email: carsten@kopis.de
 owner-uri: http://www.kopis.de/
 
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'style.scss', "Rakefile", "CNAME", "Dockerfile" ]
-
