@@ -8,7 +8,7 @@ markdown: rdiscount
 safe: true
 lsi: false
 highlighter: 'pygments'
-url: http://localhost:4000
+url: http://blog.kopis.de
 
 gems:
   - jemoji
