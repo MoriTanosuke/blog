@@ -1,24 +1,24 @@
 ---
 layout: default
 ---
-			<article class="post">
-				<h2 class="content">{{page.title}}</h2>
-				<div class="postmeta">{{ page.date | date: "%d %B %Y" }}</div>
-				<hr />
-				<section>
-					{{ content }}
-				</section>
-				<hr />
-				<section class="nav-article">
-					<ul>
-						<li class="center"><a rel="home" class="a-hover" href="/">Startseite</a></li>
-					{% if page.previous %}
-						<li><a rel="prev" class="left a-hover" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span> <i class="icon-double-angle-left"></i> {{ page.previous.title }}</a></li>
-					{% endif %}
-					{% if page.next %} 
-						<li><a rel="next" class="right a-hover"href="{{ page.next.url }}">{{ page.next.title }} <i class=" icon-double-angle-right"></i> <span class="glyphicon glyphicon-chevron-right"></span></a></li>
-					{% endif %}
-					</ul>
-				</section>
-			</article>
-			{% include disqus.html %}
+<article class="post">
+  <h2 class="content">{{page.title}}</h2>
+  <div class="postmeta">{{ page.date | date: "%d %B %Y" }}</div>
+    <hr />
+    <section>
+    {{ content }}
+    </section>
+    <hr />
+    <section class="nav-article">
+    <ul>
+      <li class="center"><a rel="home" class="a-hover" href="/">Startseite</a></li>
+{% if page.previous %}
+      <li><a rel="prev" class="left a-hover" href="{{ page.previous.url }}"><span class="glyphicon glyphicon-chevron-left"></span> <i class="icon-double-angle-left"></i> {{ page.previous.title }}</a></li>
+{% endif %}
+{% if page.next %} 
+      <li><a rel="next" class="right a-hover"href="{{ page.next.url }}">{{ page.next.title }} <i class=" icon-double-angle-right"></i> <span class="glyphicon glyphicon-chevron-right"></span></a></li>
+{% endif %}
+    </ul>
+  </section>
+</article>
+{% include disqus.html %}
