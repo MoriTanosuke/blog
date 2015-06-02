@@ -1,5 +1,5 @@
 ---
-title: 'Etwas kalt draußen'
+title: 'Etwas kalt draußen'
 date: 2010-12-24 00:00:00 
 tags: 
 layout: post

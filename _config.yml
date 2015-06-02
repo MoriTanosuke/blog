@@ -1,13 +1,17 @@
 #permalink: /:year/:month/:day/:title/
 permalink: /:title/
 disqus-shortname: kopisde
-paginate: 5
+paginate: 15
+
 # github default settings
 markdown: rdiscount
 safe: true
 lsi: false
 highlighter: 'pygments'
 url: http://blog.kopis.de
+
+gems:
+  - jemoji
 
 # site settings
 owner-name: Carsten Ringe

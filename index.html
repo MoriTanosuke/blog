@@ -1,38 +1,26 @@
 ---
 layout: default
-title: Mainpage
+title: Home
 ---
-<!-- Content
-    ================================================== -->
-  <div class="top-strip"></div>
-  <div class="content">
-    <main class="container">
-    	<div class="row-fluid">
-    		<ul class="entries">
-    		{% for post in paginator.posts %}
-    		  <li>
-    		        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-			{% if post.category != "wod" %}
-       		        <div>{{ post.content | strip_html | strip_newlines | truncatewords: 30 }} <a href="{{ post.url }}">weiter</a></div>
-			<hr class="thin" />
-			{% endif %}
-			<div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
-			<span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
-			<span class="gplusone"><g:plusone href="{{ site.url }}{{ post.url }}" size="small"></span>
-			<span class="flattr"><a class="FlattrButton" style="display: none;" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" lang="de">{{ post.content | strip_html | truncatewords: 30 }}</a></span>
-			</div>
-    		  </li>
-    		{% endfor %}
-    		</ul>
-    	</div>
+       <div class="entries">
+         {% for post in paginator.posts %}
+         <div class="entry">
+           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+           <div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
+	     <span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
+           </div>
+         </div>
+         {% endfor %}
+      </div>
       <hr>
+
       <div id="post-pagination">
         {% if paginator.previous_page %}
         <p class="prev">
           {% if paginator.previous_page == 1 %}
-          <a href="/">Previous</a>
+          <a href="/"><span class="glyphicon glyphicon-chevron-left"></span> Previous</a>
           {% else %}
-          <a href="/page{{paginator.previous_page}}"> Previous</a>
+          <a href="/page{{paginator.previous_page}}"><span class="glyphicon glyphicon-chevron-left"></span>  Previous</a>
           {% endif %}
         </p>
         {% else %}
@@ -65,7 +53,7 @@ title: Mainpage
 
         {% if paginator.next_page %}
         <p class="next">
-          <a href="/page{{paginator.next_page}}">Next</a>
+          <a href="/page{{paginator.next_page}}">Next <span class="glyphicon glyphicon-chevron-right"></span></a>
         </a>
         {% else %}
 <!--         <p class="next disabled">
@@ -73,7 +61,4 @@ title: Mainpage
         </p> -->
         {% endif %}
       </div>
-
-    </main>
-  </div>
 

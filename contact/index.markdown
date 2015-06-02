@@ -4,7 +4,7 @@ title: Kontakt
 contact: true
 ---
 
-Emails bitte verschlüsselt an <img src="/contact/carsten-at-kopis-de.png" alt="meine Email" />.
+Emails bitte verschlüsselt an <img src="/contact/carsten-at-kopis-de.png" alt="meine Email" />. Meinen Schlüssel bekommt ihr [hier][2].
 
 **Postadresse**
 
