@@ -42,7 +42,7 @@ Anschliessend wird die Installation wie folgt gestartet:
 docker run --name wallabag -p 8080:80 -t wallabag
 </pre>
 
-Jetzt nur noch im Browser die URL [http://localhost:8080/] aufrufen und schon kann man die ersten Artikel fürs spätere Lesen abspeichern. :smile: Wer die Android App nutzen will, der muss zuerst in der Konfiguration die *Feeds* einschalten und anschliessend die angezeigte *User ID* und das *Token* in der Android App eingeben. Anschliessend klappt auch die Synchronisierung.
+Jetzt nur noch im Browser die URL [http://localhost:8080/][4] aufrufen und schon kann man die ersten Artikel fürs spätere Lesen abspeichern. :smile: Wer die Android App nutzen will, der muss zuerst in der Konfiguration die *Feeds* einschalten und anschliessend die angezeigte *User ID* und das *Token* in der Android App eingeben. Anschliessend klappt auch die Synchronisierung.
 
 Für mein eigenes Setup hatte ich noch das kleine Problem, das der Container mit Wallabag hinter einem Reverse Proxy steht und daher die öffentliche URL nicht mit der URL der Installation übereinstimmt. Leider hat Wallabag noch keine Einstellung für die *base url*, daher habe ich kurzerher meine rudimentären PHP-Kenntnisse ausgepackt und [einen *pull request* gestellt][3]. Damit kann über die *config.inc.default.php* eine Konfiguration-Option mit der öffentlichen Adresse gesetzt werden und die Links in den Themes funktionieren wieder:
 
@@ -54,4 +54,5 @@ Für mein eigenes Setup hatte ich noch das kleine Problem, das der Container mit
 [1]: https://github.com/wallabag/wallabag/
 [2]: https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche
 [3]: https://github.com/wallabag/wallabag/pull/1214
+[4]: http://localhost:8080/
 
