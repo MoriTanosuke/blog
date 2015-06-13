@@ -1,64 +1,24 @@
 ---
 layout: default
-title: Home
 ---
-       <div class="entries">
-         {% for post in paginator.posts %}
-         <div class="entry">
-           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-           <div class="postmeta">Gepostet am <span class="postdate">{{ post.date | date: "%d %B %Y" }}</span>
-	     <span><a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ entry.url }}">0 Antworten</a></span>
-           </div>
-         </div>
-         {% endfor %}
-      </div>
-      <hr>
 
-      <div id="post-pagination">
-        {% if paginator.previous_page %}
-        <p class="prev">
-          {% if paginator.previous_page == 1 %}
-          <a href="/"><span class="glyphicon glyphicon-chevron-left"></span> Previous</a>
+<div class="home">
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <div class="post">
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
+        <p class="post-summary">
+          {% if post.summary %}
+            {{ post.summary }}
           {% else %}
-          <a href="/page{{paginator.previous_page}}"><span class="glyphicon glyphicon-chevron-left"></span>  Previous</a>
+            {{ post.excerpt }}
           {% endif %}
         </p>
-        {% else %}
-<!--         <p class="prev disabled">
-          <span>Previous</span>
-        </p> -->
-        {% endif %}
-
-{% comment %}
-        <ul class="pages">
-          <li class="page">
-            {% if paginator.page == 1 %}
-<!--             <span class="current-page">1</span> -->
-            {% else %}
-            <a href="/">1</a>
-            {% endif %}
-          </li>
-
-          {% for count in (2..paginator.total_pages) %}
-          <li class="page">
-            {% if count == paginator.page %}
-            <span class="current-page">{{count}}</span>
-            {% else %}
-            <a href="/page{{count}}">{{count}}</a>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-{% endcomment %}
-
-        {% if paginator.next_page %}
-        <p class="next">
-          <a href="/page{{paginator.next_page}}">Next <span class="glyphicon glyphicon-chevron-right"></span></a>
-        </a>
-        {% else %}
-<!--         <p class="next disabled">
-          <span>Next</span>
-        </p> -->
-        {% endif %}
       </div>
+    {% endfor %}
+  </div>
 
+  {% include pagination.html %}
+</div>
