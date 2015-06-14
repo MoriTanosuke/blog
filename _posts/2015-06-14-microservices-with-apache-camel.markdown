@@ -121,7 +121,7 @@ You have to build the project with Maven first to create the JAR files in the `t
 
 After that you can open [http://localhost:8081/time][12] or [http://localhost:8080/date][13] to see the output of the services. Now you have 2 microservices built with Apache Camel running on your computer in Docker containers, ready to be deployed to your infrastructure.
 
-In a production environment, the Docker images would be pushed to a central registry. Or the `Dockerfile` would download a *RELEASE* version from your central Maven repository. But with my example project you got a simple project that has everything you need to start with Apache Camel and Docker. Haven fun!
+In a production environment, the Docker images would be pushed to a central registry. Or the `Dockerfile` would download a *RELEASE* version from your central Maven repository. But with my example project you got a simple project that has everything you need to start with Apache Camel and Docker. Have fun!
 
 [0]: https://camel.apache.org/
 [1]: http://clojure.org/
