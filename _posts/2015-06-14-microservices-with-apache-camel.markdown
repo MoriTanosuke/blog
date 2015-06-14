@@ -113,7 +113,7 @@ java -jar date-service/target/dateservice-*.jar 5679
 
 Now, to deploy this application with Docker I created a `Dockerfile` for each of the services and a `docker-compose.yml` to run both of them and (later) add a frontend that will use the services and displays their output in a simple HTML page. The `docker-compose.yml` only builds and runs the services at the moment.
 
-You have to build the project with Maven first to create the JAR files in the `target` directories. This is a step that I want to automate and simplify with the `Dockerfile in the parent POM directory. After building the project you can use *docker-compose* to start the services. Run the following comand in the top directory:
+You have to build the project with Maven first to create the JAR files in the `target` directories. This is a step that I want to automate and simplify with the `Dockerfile` in the parent POM directory. After building the project you can use *docker-compose* to start the services. Run the following comand in the top directory:
 
 <pre class="brush: bash">
     docker-compose up
