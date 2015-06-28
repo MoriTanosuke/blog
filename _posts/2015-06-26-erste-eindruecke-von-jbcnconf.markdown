@@ -2,6 +2,9 @@
 layout: post
 title: 'Eindrücke von der jbcnconf 2015'
 ---
+Die Konferenz ist vorbei und ich bin sicher wieder zuhause angekommen.
+Ich versuche mal die Erinnerungen festzuhalten und hier aufzuschreiben.
+Ein paar Fotos sind auch dabei.
 
 Tag 0
 -----
