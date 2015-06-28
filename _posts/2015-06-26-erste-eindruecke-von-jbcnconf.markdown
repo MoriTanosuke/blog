@@ -9,10 +9,10 @@ Ein paar Fotos sind auch dabei.
 Tag 0
 -----
 
-Da ich einen Direktfug haben wollte, bin ich bereits einen Tag vor der
+Da ich einen Direktflug haben wollte, bin ich bereits einen Tag vor der
 Konferenz in Barcelona angekommen. Den ersten Abend hab ich damit
 verbracht, meine Sachen im Hotel abzuwerfen und anschliessend mit der
-Metro zum Hafen zu fahren. Natürlich wollte ich mirden Strand und das
+Metro zum Hafen zu fahren. Natürlich wollte ich mir den Strand und das
 Meer angucken. Die Fahrt dorthin hat länger gedauert als ich dachte, vor
 allem der Fussweg nach der Metro war deutlich länger als erwartet.
 Anscheinend habe ich die Entfernungen auf der Karte unterschätzt,
@@ -35,9 +35,9 @@ Deutschen/Hamburger/Wintermenschen) die Hitze in Barcelona erträglich
 gemacht hat. Sobald ich aber die Gebäude verlassen musste, habe ich
 darauf geachtet, im Schatten zu bleiben.
 
-Der erste Tag der [#jbcn15][0] ist vorbei und ich bin vollauf zufrieden.
-Die Talks waren sehr interessant, die Themen wie erwartet genau in
-meinen Interessengebieten und die Gespräche zwischen den Talks
+Der erste Tag der [#jbcn15][0] war damit vorbei und ich bin vollauf
+zufrieden.  Die Talks waren sehr interessant, die Themen wie erwartet
+genau in meinen Interessengebieten und die Gespräche zwischen den Talks
 unterhaltsam und informativ.
 
 Was sich bei mir verstärkt, oder eher: was ich vorher geahnt habe, wird
@@ -87,11 +87,11 @@ festgestellt, dass sich bei mir ein wenig Skepsis breit macht. Ob die
 Container wirklich das richtige sind? Ganz offensichtlich ist das
 Tooling noch nicht wirklich produktionsreif, gerade die
 Management-Lösungen wie [Fabric8][2] oder [Mesos][7] bzw [Marathon][8]
-scheinen mir noch nicht wirklich der schnellen Iteration von [Docker][7] bzw.
-[Rocket][6] aufgeholt zu haben. Das Load-Balancing, Clustering und die
-Unterstützung ist vielleicht noch nicht dort angekommen, wo die Kollegen
-aus den *Operations* damit zufrieden sind und nachts beruhigt
-durchschlafen würden.
+scheinen mir noch nicht wirklich mit der schnellen Iteration von
+[Docker][7] bzw.  [Rocket][6] aufgeholt zu haben. Das Load-Balancing,
+Clustering und die Unterstützung ist vielleicht noch nicht dort
+angekommen, wo die Kollegen aus den *Operations* damit zufrieden sind
+und nachts beruhigt durchschlafen würden.
 
 Ausserdem stellt sich die Frage, ob die Firmen wirlich groß genug sind,
 um auto-scaling, dynamic deployments usw wirklich zu nutzen. Gerade wenn
@@ -99,7 +99,7 @@ man eine feste Nutzerbasis hat, braucht man vielleicht gar keine voll
 skalierbare Cloudlösung... naja, darüber muss ich mir noch ein paar Tage
 Gedanken machen, bevor ich etwas dazu aufschreibe.
 
-Wie auch immer, die Konferenz wurde von [Gavin King][8] mit einem Talk
+Die Konferenz wurde von [Gavin King][8] mit einem Talk
 über die Begriffe aus den modernen Programmiersprachen abgeschlossen,
 der einige Unklarheiten bereinigen und Begriffe erläutern wollte.
 Interessantes Thema, allerdings habe ich gemerkt, dass ich mich eher mit
@@ -117,7 +117,6 @@ gewonnen, und zwar [Camel in Action][10] - das kann ich also gleich auf
 meinen Schreibtisch im Büro legen und jeden Tag reingucken. [Claus
 Ibsen][3] hat es sich nicht nehmen lasen, die Bücher zu signieren
 
-TODO Bild von Camel In Action einfügen
 <a href="https://www.flickr.com/photos/cringe/19049176490" title="IMG_20150628_174511 by Carsten Ringe, on Flickr"><img src="https://c1.staticflickr.com/1/540/19049176490_77030b6f1a_z.jpg" width="480" height="640" alt="IMG_20150628_174511"></a> <a href="https://www.flickr.com/photos/cringe/18614320624" title="IMG_20150628_174521 by Carsten Ringe, on Flickr"><img src="https://c1.staticflickr.com/1/497/18614320624_6439ec179c_z.jpg" width="480" height="640" alt="IMG_20150628_174521"></a>
 
 Tag 3
