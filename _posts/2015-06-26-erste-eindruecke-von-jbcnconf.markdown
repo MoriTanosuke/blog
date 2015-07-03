@@ -31,7 +31,7 @@ Als geübter Frühaufsteher war ich natürlich erster beim Frühstück im
 Hotel und bin mit ausreichend Puffer losmarschiert zur *UPC*. Die
 Konferenz fand in den Räumlichkeiten der Universität statt. Die Hörsäle
 waren klimatisiert, was die (für einen
-Deutschen/Hamburger/Wintermenschen) die Hitze in Barcelona erträglich
+Deutschen/Hamburger/Wintermenschen) Hitze in Barcelona erträglich
 gemacht hat. Sobald ich aber die Gebäude verlassen musste, habe ich
 darauf geachtet, im Schatten zu bleiben.
 
@@ -81,7 +81,7 @@ Trainingspause im Moment gar nicht verkehrt.
 
 <a href="https://www.flickr.com/photos/cringe/18575330883" title="IMG_20150627_080016 by Carsten Ringe, on Flickr"><img src="https://c1.staticflickr.com/1/416/18575330883_fe511fb708_z.jpg" width="480" height="640" alt="IMG_20150627_080016"></a> <a href="https://www.flickr.com/photos/cringe/19199561201" title="IMG_20150627_075733 by Carsten Ringe, on Flickr"><img src="https://c1.staticflickr.com/1/531/19199561201_7b394db190_z.jpg" width="640" height="480" alt="IMG_20150627_075733"></a>
 
-Wie auch immer, der zweite Talk war wieder voll mit interessanten Talk.
+Wie auch immer, der zweite Tag war wieder voll mit interessanten Talk.
 In den Pausen habe ich mit einigen anderen Teilnehmern gesprochen und
 festgestellt, dass sich bei mir ein wenig Skepsis breit macht. Ob die
 Container wirklich das richtige sind? Ganz offensichtlich ist das
