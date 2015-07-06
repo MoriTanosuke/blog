@@ -12,4 +12,8 @@ Aus den letzten Experimenten habe ich ein paar Punkte mitgenommen, die ich auch 
 
 Mit 2500kcal bin ich an Trainingstagen deutlich im Budget, an Pausetagen muss ich das erstmal wieder einpegeln. Wahrscheinlich eher weniger, evtl 2300kcal. Aber das werde ich in den nächsten Wochen feststellen. Ein Gewichtsziel habe ich diesmal eigentlich nicht. Im Moment liege ich bei ca. 84kg, ich peile erstmal 80kg an und gucke mal, wie ich mich dabei fühle. Und wie sich meine Kraftwerte verändern.
 
+*Update* Ich werde meinen Gewichtsverlauf von Zeit zu Zeit aktualisieren und meine aktuellen Bestleistungen dazuschreiben.
+
+<iframe src="https://docs.google.com/spreadsheets/d/1CIg8-capdfEamQKs-vd3XQLXNGtxC_BOlnkDQ_K0mDo/pubhtml?gid=9&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 [0]: http://www.sportnahrung-engel.de/product_info.php/info/p638_Oh-Yeah-Protein-Bar---85g.html
