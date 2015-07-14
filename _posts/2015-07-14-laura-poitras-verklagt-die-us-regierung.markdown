@@ -14,6 +14,8 @@ title: 'Laura Poitras verklagt die U.S. Regierung'
 > *“I’m filing this lawsuit because the government uses the U.S. border 
 > to bypass the rule of law,”* Poitras said in a statement.
 
+Weiterlesen bei [Firstlook][0].
+
 Ich vermute mal, da wird nichts bei rauskommen. Was die Regierungen im Moment veranstalten, lässt einfach keine Lücke im Sicherheits- und Unterdrückungstheater zu. Ich würde mich wirklich wundern, wenn sie jetzt Gründe liefern - denn welche Gründe sollten das auch sein, wenn man einer Regisseurin von Dokumentarfilmen die höchste Bedrohungsstufe zuweist...?
 
 [0]: https://firstlook.org/theintercept/2015/07/13/laura-poitras-sues-u-s-government-find-repeatedly-stopped-border/
