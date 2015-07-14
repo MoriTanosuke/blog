@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Creating a Git repository on Amazon CodeCommit'
+date: '2015-07-14 13:49:00'
 ---
 A few days ago I read about [Amazon CodeCommit][0], a git repository hosting service running in Amazons cloud. Of course I had to try it, so I decided to import my [GlacierUploader][1] to a new repository - fitting project for a CodeCommit repository. :smile:
 
