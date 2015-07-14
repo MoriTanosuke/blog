@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Laura Poitras verklagt die U.S. Regierung'
+date: '2015-07-14 09:49:00'
 ---
 
 [Laura Poitras][3], die Regisseurin des Films [Citizen Four][1] über [Edward Snowden][2], wurde in den letzten 6 Jahren mehr als 50 Mal an Flughäfen durchsucht und verhört. Jetzt verklagt sie die U.S. Regierung, weil diese zu einem [Freedom of Information Act-Antrag][4] keine Informationen über die Gründe geben will.
