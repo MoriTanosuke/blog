@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Deichbrand 2015'
+---
+Bin die nächsten Tag auf dem [Deichbrand][0]. :smile:
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cringe/19747680792/in/datetaken/" title="Deichbrand 2015"><img src="https://farm1.staticflickr.com/454/19747680792_895097561b.jpg" width="375" height="500" alt="Deichbrand 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cringe/19562913570/in/datetaken/" title="Surely this is paleo."><img src="https://farm1.staticflickr.com/273/19562913570_4b7bff360c.jpg" width="500" height="500" alt="Surely this is paleo."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+[0]: http://www.deichbrand.de/
