@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Changing volume for the current audio device using pactl'
-tags: archlinux, linux
+tags: archlinux linux
 ---
 I'm still in the process of [setting i3wm up][2] for use on my desktop and laptop computers. Today I noticed that my configuration still used a hardcoded value when changing the volume for my audio device. But I'm using a [Xonar][0] soundcard on my desktop, a logitech headset for my gaming needs and regular speakers on both the desktop and the laptop. I had to figure out how to get the current audio device and change the volume for that, instead of "just the first" audio device.
 
