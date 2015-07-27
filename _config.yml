@@ -1,6 +1,6 @@
 # Site settings
 title:       KOPIS.DE
-email:       carsten@kopis.de
+#email:       carsten@kopis.de
 author:      Carsten Ringe
 description: "Mein Blog über Software Entwicklung, Crossfit und andere Dinge"
 url:     "http://blog.kopis.de"
@@ -32,7 +32,7 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true
-share_text: 'Share this post!'
+share_text: 'Diesen Artikel teilen'
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
