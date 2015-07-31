@@ -2,7 +2,7 @@
 layout: post
 title: 'Minecraft 1.9 bringt neues Ende'
 ---
-Die Befürchtungen nach der Übernahme von Mojang durch Microsoft waren wohl unbegründet. Das neue Update auf Minecraft 1.9 bringt ziemlich große Änderungen zum *End*. [SparkOfPhoenix][0] hat wieder ein gutes Update-Video gemacht:
+Die BefÃ¼rchtungen nach der Ãœbernahme von Mojang durch Microsoft waren wohl unbegrÃ¼ndet. Das neue Update auf Minecraft 1.9 bringt ziemlich groÃŸe Ã„nderungen zum *End*. [SparkOfPhoenix][0] hat wieder ein gutes Update-Video gemacht:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7DKQUtTPBfQ" frameborder="0" allowfullscreen></iframe>
 
