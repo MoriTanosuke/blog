@@ -3,7 +3,7 @@ title: 'I am on Tox now'
 layout: post
 ---
 
-I'm using still Skype for video chat every now and then. But not because I like it or I think it's secure, but because everyone else is using it and it is easy. But there is a new software available which promises ease of use and more privacy: [Tox][1].
+I'm still using Skype for video chat every now and then. But not because I like it or I think it's secure, but because everyone else is using it and it is easy to use. But there is a new software available which promises ease of use and more privacy: [Tox][1].
 
 If you want to give this new messenger a try, you can get [binaries for all platforms][2]. I also installed [Tox][1] on my Android via [F-Droid][3] - the client is named *Antox* and you have to add the f-droid repository *https://antox.me/fdroid/repo* (get the latest URL from the [binaries page][2] on the official wiki).
 
