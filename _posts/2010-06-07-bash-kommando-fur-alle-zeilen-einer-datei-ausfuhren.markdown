@@ -1,7 +1,6 @@
 ---
-title: 'Bash: Kommando fÃ¼r alle Zeilen einer Datei ausfÃ¼hren'
+title: 'Bash: Kommando für alle Zeilen einer Datei ausführen'
 date: 2010-06-07 00:00:00 
-tags: 
 layout: post
 ---
 Dieser Einzeiler liest eine Datei und führt ein Kommando für jede Zeile aus:
