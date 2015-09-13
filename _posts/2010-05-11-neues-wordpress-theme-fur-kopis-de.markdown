@@ -1,5 +1,5 @@
 ---
-title: 'Neues Wordpress-Theme fÃ¼r KOPIS.DE'
+title: 'Neues Wordpress-Theme für KOPIS.DE'
 date: 2010-05-11 00:00:00 
 tags: 
 layout: post
