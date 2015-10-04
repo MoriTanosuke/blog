@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Installing Let's Chat and Hubot for fun'
+title: "Installing Let's Chat and Hubot for fun"
 ---
 
 Today I decided to give [Let's Chat][0] a go (after an installation debacle with [Zulip][1]) and it was a breeze. Then I decided that I want a [Hubot][2] to take my commands, if nobody else is listening to me. That was a bit more complicated, but right now I'm runing my own instance of [Let's Chat][0] with a [Hubot][2] taking commands from my via chat. The bot is not doing something, but I have plans to give it a bit more autonomy. Anyway, here's what I did:
