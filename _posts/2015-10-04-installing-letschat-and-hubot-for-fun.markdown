@@ -62,7 +62,7 @@ ADD	src /opt/bot
 CMD	["bin/hubot", "-a", "lets-chat"]
 ````
 
-The *HUBOT_LCB_TOKEN* was taken from the hubot account in my [Let's Chat][0] instance and the *HUBOT_LCB_ROOMS* ID was taken from the URL after joining the room on my instance. After that I can run the container and my hubot instance connects to the chat room.
+The `HUBOT_LCB_TOKEN` was taken from the hubot account in my [Let's Chat][0] instance and the `HUBOT_LCB_ROOMS` ID was taken from the URL after joining the room on my instance. After that I can run the container and my hubot instance connects to the chat room.
 
 [0]: https://github.com/sdelements/lets-chat
 [1]: https://www.zulip.org/
