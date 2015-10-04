@@ -21,7 +21,7 @@ Generate a Hubot instance
 
 I didn't want to pollute my system with all those NodeJS stuff, so I decided to use a pre-built container with [Yeoman][4] to generate my [Hubot][2].
 
-    docker run --rm -it -v $(pwd):/backup pulse00/yeoman bash
+    docker run --rm -it -v $(pwd)/src:/backup pulse00/yeoman bash
 
 Now I was in the yeoman container and could install and run the `generator-hubot`:
 
