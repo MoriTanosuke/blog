@@ -1,5 +1,5 @@
 ---
-title: 'DemnÃ¤chst in meinem Rucksack: Amazon Kindle'
+title: 'Demn#chst in meinem Rucksack: Amazon Kindle'
 date: 2010-02-05 00:00:00 
 tags: 
 layout: post
