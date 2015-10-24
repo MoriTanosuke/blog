@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Apache Wicket on Google AppEngine'
+published: false
 ---
 A couple of days ago I decided to build a small application that I can use to track time spent on a certain task. Because I like [Google AppEngine][0] and I want to get into [Apache Wicket][1], I decided to switch from the [javascript application from the AppEngine tutorial][2] to a simple Wicket application.
 
