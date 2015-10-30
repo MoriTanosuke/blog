@@ -25,3 +25,6 @@ rm -rf ~/.m2/repository
 ````
 
 So for the next couple of weeks I'll be using the new mirror. :smile:
+
+[0]: http://takari.io/2015/10/28/google-maven-central.html
+
