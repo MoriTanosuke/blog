@@ -111,13 +111,40 @@ public class WicketApplication extends WebApplication {
 
         // configure nice URLs
         mountPage("/home", HomePage.class);
-        mountPage("/list", AnotherListPage.class);
-        mountPage("/edit/${key}", AnotherEditPage.class);
+        //mountPage("/list", AnotherListPage.class);
+        //mountPage("/edit/${key}", AnotherEditPage.class);
     }
 }
 ````
 
-I also use `mountPage(...)` to add some pages with nicer URLs. It's not needed, but the generated URLs are not how I roll. :smile: Now we're ready to deploy the application to Google AppEngine:
+I also use `mountPage(...)` to add some pages with nicer URLs. It's not needed, but the generated URLs are not how I roll. :smile: I don't want to show Wicket code here, so the `HomePage` class is just a little placeholder:
+
+````
+package my.google.appengine.pages;
+
+import org.apache.wicket.request.mapper.parameter.PageParameters;
+import org.apache.wicket.markup.html.basic.Label;
+import org.apache.wicket.markup.html.WebPage;
+
+public class HomePage extends WebPage {	
+    public HomePage() {
+	add(new Label("helloMessage", "Hello WicketWorld!"));
+    }
+}
+````
+
+Now I need a matching HTML page, so I create the file `HomePage.html` in the same directory than the java class:
+
+````
+<html xmlns:wicket="http://wicket.apache.org">
+<head></head>
+<body>
+<div wicket:id="helloMessage">[Label message goes here]</div>
+</body>
+</html>
+````
+
+Now we're ready to deploy the application to Google AppEngine:
 
 ````
 mvn appengine:deploy
