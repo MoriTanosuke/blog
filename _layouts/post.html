@@ -19,7 +19,7 @@ layout: default
 <article class="post-content">
   {{ content }}
   
-  <div id="original-url"><small>Original URL: {{ page.url }}</small></div>
+  <div id="original-url"><small>Original URL: <a href="{{ site.baseurl }}{{ page.url }}">{{ site.baseurl }}{{ page.url }}</a></small></div>
 </article>
 
 {% if site.show_sharing_icons %}
