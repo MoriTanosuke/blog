@@ -5,6 +5,8 @@ layout: post
 ---
 Seit ein paar Tagen habe ich jetzt eine [Sony SWR50 Smartwatch][0]. Bis jetzt habe ich noch nicht viel damit machen können, da mich eine Erkältung niedergestreckt hat. Ich habe ein paar Ziffernblätter ausprobiert, die Uhrzeit abgelesen, einige Notifications weggestrichen und aus Jux einige Emojis gezeichnet und an meine Freundin geschickt. :laughing:
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/22722931044/in/datetaken/" title="Sony SWR50 Smartwatch"><img src="https://farm1.staticflickr.com/708/22722931044_8f50f03464_z.jpg" width="474" height="640" alt="Sony SWR50 Smartwatch"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Die Uhr hat ein 1,6 Zoll Display (ca. 4cm). Das ist schon ein ziemlicher Klotz, vor allem an schmalen Hangelenken wie meinen. Trotz der Gewichtheberei hat sich ja an einem Handgelenkumfang nicht viel getan... Damn, genetics! Die Uhr ist IP68-zertifiziert, d.h. gegen Spritzwasser geschützt. Hier sind die technischen Daten:
 
 * 1,6 Zoll Display
