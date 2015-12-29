@@ -5,21 +5,21 @@ layout: post
 It's time again to list my chrome extensions - for later reference and to give you a starting point if you want to up your own chrome installation. Let's go!
 
 * Privacy
-** [AdBlock][0] - Werbung verhindern
-** [Ghostery][1] - Tracking verhindern
-** [Privacy Badger][2] - Tracking verhindern
-** [ScriptSafe][3] - Javascript nur auf vertrauenswürdigen Seiten einschalten
-** [HTTPS Everywhere][4] - Wenn eine Seite HTTPS anbietet, wird HTTPS genutzt. Kann auch zum Blockieren von nicht-verschlüsselten Verbindungen benutzt werden
-** [Vanilla Cookie Manager][5] - Unerwünschte Cookies löschen
+  * [AdBlock][0] - Werbung verhindern
+  * [Ghostery][1] - Tracking verhindern
+  * [Privacy Badger][2] - Tracking verhindern
+  * [ScriptSafe][3] - Javascript nur auf vertrauenswÃ¼rdigen Seiten einschalten
+  * [HTTPS Everywhere][4] - Wenn eine Seite HTTPS anbietet, wird HTTPS genutzt. Kann auch zum Blockieren von nicht-verschlÃ¼sselten Verbindungen benutzt werden
+  * [Vanilla Cookie Manager][5] - UnerwÃ¼nschte Cookies lÃ¶schen
 * Tools
-** [Tampermonkey][6] - Benutzerscripte für Internetseiten, wenn z.B. bei Twitter eine Funktion fehlt oder man statt der hellen eine dunkle Oberfläche haben möchte
-** [Audio EQ][7] - Equalizer für HTML5
-** [HTML5ify][8] - HTML5 Audio und Video auf Webseiten wie Youtube und Amazon erzwingen
-** [DuckDuckGo for Chrome][9] - Meine Standardsuchmaschine!
+  * [Tampermonkey][6] - Benutzerscripte fÃ¼r Internetseiten, wenn z.B. bei Twitter eine Funktion fehlt oder man statt der hellen eine dunkle OberflÃ¤che haben mÃ¶chte
+  * [Audio EQ][7] - Equalizer fÃ¼r HTML5
+  * [HTML5ify][8] - HTML5 Audio und Video auf Webseiten wie Youtube und Amazon erzwingen
+  * [DuckDuckGo for Chrome][9] - Meine Standardsuchmaschine!
 * Apps
-** [Instapaper][10] - Später lesen, brauch ich jeden Tag
-** [Music Plus for Google Play Music][11] - Last.fm Support für Google Music
-** [Unicode][12] - Alle Emojis und andere Unicode Zeichen
+  * [Instapaper][10] - SpÃ¤ter lesen, brauch ich jeden Tag
+  * [Music Plus for Google Play Music][11] - Last.fm Support fÃ¼r Google Music
+  * [Unicode][12] - Alle Emojis und andere Unicode Zeichen
 
 [0]: https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
 [1]: https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij
