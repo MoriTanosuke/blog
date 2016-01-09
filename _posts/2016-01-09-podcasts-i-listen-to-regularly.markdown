@@ -16,7 +16,7 @@ If you're searching for some interesting podcasts or just want to know what I'm 
 * [Julie Foucher][7]
 
 [0]: https://en.wikipedia.org/wiki/Podcast
-[1]: https://blog.kopis.de/dl/podcasts.opml 
+[1]: http://blog.kopis.de/dl/podcasts.opml 
 [2]: http://www.wrint.de/category/realitaetsabgleich/
 [3]: http://freakshow.fm/
 [4]: https://changelog.com/podcast/
