@@ -64,4 +64,3 @@ I tried to use [docker networks][7], but *logstash* acted up and I think it does
 [6]: https://docker.com/
 [7]: https://docs.docker.com/engine/userguide/networking/dockernetworks/
 [8]: https://docs.docker.com/compose/compose-file/#links
-
