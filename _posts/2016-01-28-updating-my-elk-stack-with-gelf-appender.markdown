@@ -52,7 +52,7 @@ log4j.appender.gelf.MaximumMessageSize=8192
 log4j.appender.gelf.AdditionalFields=environment=local
 </pre>
 
-The *gelf* appender is much more configureable and the search abilities in logstash are now a bit more useful to me.
+The *gelf* appender is much more configurable and the search abilities in logstash are now a bit more useful to me.
 
 [0]: {% post_url 2016-01-26-building-an-elk-stack-with-docker-compose %}
 [1]: https://www.elastic.co/guide/en/logstash/current/plugins-inputs-gelf.html
