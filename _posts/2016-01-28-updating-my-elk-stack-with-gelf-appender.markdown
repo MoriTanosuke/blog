@@ -54,13 +54,12 @@ log4j.appender.gelf.AdditionalFields=environment=local
 
 The *gelf* appender is much more configurable and the search abilities in logstash are now a bit more useful to me. But I have to add another dependency to my application now:
 
-<pre>
-<dependency>
-    <groupId>biz.paluch.logging</groupId>
-    <artifactId>logstash-gelf</artifactId>
-    <version>1.8.0</version>
-</dependency>
-</pre>
+
+    <dependency>
+        <groupId>biz.paluch.logging</groupId>
+        <artifactId>logstash-gelf</artifactId>
+        <version>1.8.0</version>
+    </dependency>
 
 You can find the documentation at [https://github.com/mp911de/logstash-gelf][2].
 
