@@ -24,6 +24,8 @@ The registry is persisting its data into the directory *data*, so nothing is los
 
 Save the file as *docker-compose.yml* and start it via `docker-compose up` in the same directory. After that you can open http://localhost:8080 and you see a basic frontend (taken from [kwk/docker-registry-frontend][2]).
 
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/24285058114/in/dateposted/" title="Docker Registry with Frontend"><img src="https://farm2.staticflickr.com/1651/24285058114_cb2f4c6b07_b.jpg" width="646" height="526" alt="Docker Registry with Frontend"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
 Now when you push an image to your registry with the following command it becomes visible on the frontend:
 
     docker pull alpine && docker tag alpine localhost:5000/alpine
