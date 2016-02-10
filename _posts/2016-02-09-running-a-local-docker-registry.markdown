@@ -10,6 +10,8 @@ When you're using [Docker][0] extensively, you sometimes need to run your own re
       image: registry:2
       volumes:
       - data:/var/lib/registry
+      ports:
+      - 5000:5000
     frontend:
       image: konradkleine/docker-registry-frontend:v2
       links:
