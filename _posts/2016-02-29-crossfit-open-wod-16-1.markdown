@@ -6,7 +6,7 @@ Das [Crossfit Open WOD 16.1][0] ist angekündigt.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HtKb8Juxw9w" frameborder="0" allowfullscreen></iframe>
 
-16.1 - 20min AMRAP
+**16.1** - 20min AMRAP
 
 * 25-ft. overhead walking lunge (43kg / 29kg)
 * 8 burpees
