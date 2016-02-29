@@ -34,5 +34,5 @@ Das [Crossfit Open WOD 15.4][0] ist angekündigt.
 
 Das Workout werde ich auf jeden Fall *Rx'd* machen, sowohl Handstand Push Ups als auch Cleans mit 84kg sind drin. Ich bin gespannt, wie weit ich kommen werde. :)
 
-[0]: http://games.crossfit.com/workouts/the-open#tabs-4
+[0]: http://games.crossfit.com/workouts/the-open/2015#tabs-4
 
