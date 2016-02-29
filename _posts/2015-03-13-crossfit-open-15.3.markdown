@@ -21,5 +21,5 @@ Das [Crossfit Open WOD 15.3][0] ist angekündigt.
 
 Bis jetzt habe ich noch keinen einzigen Muscle Up gemacht. :)
 
-[0]: http://games.crossfit.com/workouts/the-open#tabs-3
+[0]: http://games.crossfit.com/workouts/the-open/2015#tabs-3
 [1]: http://www.crossfithh.de/
