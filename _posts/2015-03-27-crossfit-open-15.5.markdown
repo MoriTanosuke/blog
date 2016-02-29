@@ -18,5 +18,5 @@ Das [Crossfit Open WOD 15.5][0] ist angekündigt.
 
 Keine ausgefallenen Übungen, die ich vorher üben muss. Aber das Workout wird weh tun, schnelle Übungen, keine Pausen. :-O
 
-[0]: http://games.crossfit.com/workouts/the-open#tabs-5
+[0]: http://games.crossfit.com/workouts/the-open/2015#tabs-5
 
