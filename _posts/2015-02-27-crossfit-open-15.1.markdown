@@ -19,4 +19,4 @@ Das [Crossfit Open WOD 15.1][0] ist angekündigt.
 
 Insgesamt also 15min für das gesamte Workout.
 
-[0]: http://games.crossfit.com/workouts/the-open
+[0]: http://games.crossfit.com/workouts/the-open/2015#tabs-1
