@@ -2,6 +2,8 @@
 title: "Crossfit Open WOD 16.1"
 layout: post
 ---
+**Update** Mein Score ist 133, d.h. 5 Runden + 15ft Overhead Lunges. 😊
+
 Das [Crossfit Open WOD 16.1][0] ist angekündigt.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HtKb8Juxw9w" frameborder="0" allowfullscreen></iframe>
