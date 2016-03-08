@@ -48,11 +48,10 @@ share_hackernews: false
 gems:
   - jemoji
   - jekyll-feed
-#markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  - jekyll-paginate
+markdown:     kramdown
 permalink:    pretty
-paginate:     3
+paginate:     10
 sass:
   compressed: true
 
