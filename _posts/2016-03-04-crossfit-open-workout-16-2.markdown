@@ -3,6 +3,8 @@ layout: post
 title: "Crossfit Open Workout 16.2"
 ---
 
+**Update** Mein Score ist 84. Ich wollte wirklich die zweite Runde erreichen, aber ich bin einfach zu langsam. Erstaunlicherweise scheinen nicht die T2B das Problem zu sein, sondern tatsächlich die Squat Cleans. 😭 15 Cleans werden auch mit 61kg schon anstrengend, obwohl ich normalerweise auch 85kg noch power cleanen kann. Aber die Menge und die Zeitlimitierung verändern die Situation komplett.
+
 Das [Crossfit Open WOD 16.2][0] ist angekündigt.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_oJtaRP80Oo" frameborder="0" allowfullscreen></iframe>
