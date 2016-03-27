@@ -2,7 +2,7 @@
 layout: post
 title: "Crossfit Open Workout 16.5"
 ---
-*Update* Meine Zeit ist 23:12. 😮 Es war ganz schrecklich...
+**Update** Meine Zeit ist 23:12. 😮 Es war ganz schrecklich...
 
 Das [Crossfit Open WOD 16.5][0] ist angekündigt.
 
