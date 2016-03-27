@@ -2,6 +2,8 @@
 layout: post
 title: "Crossfit Open Workout 16.4"
 ---
+*Update* Mein Score ist 168. Ich bin sehr zufrieden!
+
 Das [Crossfit Open WOD 16.4][0] ist angekündigt.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w9LHMzGR1hg" frameborder="0" allowfullscreen></iframe>
