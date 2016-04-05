@@ -1,7 +1,0 @@
----
-title: 'Voll.'
-date: 2009-01-14 00:00:00 
-tags: 
-layout: post
----
-<p>Jetzt hab ich so viel Fisch und Salat gegessen, dass ich mich kaum noch r&uuml;hren kann. Aber da sowieso nix im TV kommt und ich auch keine Lust mehr auf Java hab, fahr ich einfach sp&auml;ter f&uuml;r's Cardio ins Studio. Dann sind wenigstens die Deppen weg...</p>

@@ -1,6 +1,3 @@
-_site
-.sass-cache
+output
 *~
-Gemfile.lock
-.project
-_plugins
+*.swp

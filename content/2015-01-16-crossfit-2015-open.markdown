@@ -1,0 +1,17 @@
+---
+title: 'Crossfit 2015 Open'
+date: "2015-01-16"
+tags: crossfit open
+layout: post
+---
+Es ist soweit: Die [Registrierung für die 2015 Open][0] ist gestartet. [Ich bin bereits registriert.][1] Wer von euch macht noch mit?
+
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/MVW8Pz-rgmw" frameborder="0" allowfullscreen></iframe>
+
+*Edit* Ach so, ich tracke meine Workouts jetzt auch bei [Beyond The Whiteboard][2].
+
+
+[0]: http://games.crossfit.com/announcements/2015-open-registration-live
+[1]: http://games.crossfit.com/athlete/349338
+[2]: https://beyondthewhiteboard.com/members/147555/
+

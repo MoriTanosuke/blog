@@ -1,0 +1,21 @@
+hugo:
+  image: jojomi/hugo:latest
+  volumes:
+    - ./:/src
+    - ./output/:/output
+  environment:
+    - HUGO_REFRESH_TIME=3600
+    - HUGO_THEME=pixyll
+    - HUGO_BASEURL=mydomain.com
+#  restart: always
+
+web:
+  image: jojomi/nginx-static
+  volumes:
+    - ./output:/var/www
+#  environment:
+#    - VIRTUAL_HOST=mydomain.com
+  ports:
+    - 4000:80
+#  restart: always
+

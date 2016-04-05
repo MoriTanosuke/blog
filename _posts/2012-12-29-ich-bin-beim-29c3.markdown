@@ -1,9 +1,0 @@
----
-title: 'Ich bin beim 29c3'
-date: 2012-12-29 00:00:00 
-tags: 
-layout: post
----
-Bevor ich das vergesse: ich <del>bin</del>war übrigens beim [29c3][0].
-
-[0]: https://events.ccc.de/congress/2012/

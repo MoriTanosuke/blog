@@ -1,9 +1,0 @@
----
-title: 'Tom'
-date: 2010-06-03 00:00:00 
-tags: 
-layout: post
----
-<div><a href="http://www.flickr.com/photos/cringe/2676142031/" title="Die rote Katze by cringe, on Flickr"><img src="http://farm4.staticflickr.com/3213/2676142031_53551ae49f_m.jpg" width="180" height="240" alt="Die rote Katze"></a></div>
-
-<p>Nach einigen Wochen Krankheit ist heute leider Tom, unsere Katze, gestorben. Er hat vor einigen Wochen aufgehört zu fressen und der Tierarzt konnte leider nichts feststellen. Das wird jetzt bestimmt komisch, wenn ich mal wieder zuhause bin...</p>
