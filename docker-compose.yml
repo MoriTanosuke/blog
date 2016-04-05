@@ -16,6 +16,6 @@ web:
 #  environment:
 #    - VIRTUAL_HOST=mydomain.com
   ports:
-    - 4000:80
+    - 80:80
 #  restart: always
 
