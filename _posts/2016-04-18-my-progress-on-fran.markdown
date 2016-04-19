@@ -27,3 +27,4 @@ Anyway, I really feel good with a Fran time of roughly 8 minutes. It's not very 
 
 [0]: https://www.crossfit.com/workout/2004/11/21
 [1]: https://beyondthewhiteboard.com/members/147555
+[2]: https://www.youtube.com/watch?v=aea5BGj9a8Y
