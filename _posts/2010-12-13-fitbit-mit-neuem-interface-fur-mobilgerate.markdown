@@ -1,18 +1,27 @@
 ---
-title: 'Fitbit mit neuem Interface fÃ¼r MobilgerÃ¤te'
-date: 2010-12-13 00:00:00 
-tags: 
+title: 'Fitbit mit neuem Interface für Mobilgeräte'
+date: 2010-12-13 00:00:00
+tags:
 layout: post
 ---
-<p>Gestern hab ich mal wieder die Adresse <a href="http://m.fitbit.com">http://m.fitbit.com</a> mit meinem Android-Browser aufgerufen und -siehe da- das neue Interface für Mobilger&auml;te f&uuml;r <a href="http://fitbit.com">Fitbit.com</a> gefunden. :-) Hier sind ein paar Screenshots:</p>
+Gestern hab ich mal wieder die Adresse [http://m.fitbit.com][0] mit meinem Android-Browser aufgerufen und -siehe da- das neue Interface für Mobilger&auml;te f&uuml;r [Fitbit.com][2] gefunden. :-) Hier sind ein paar Screenshots:
 
-<p><a title="Fitbit Mobile Interface - Homepage by cringe, on Flickr" href="http://www.flickr.com/photos/cringe/5257118784/"><img src="http://farm6.static.flickr.com/5085/5257118784_cc9198a8eb_s.jpg" alt="Fitbit Mobile Interface - Homepage" width="75" height="75" /></a><a title="Fitbit Mobile Interface - Homepage by cringe, on Flickr" href="http://www.flickr.com/photos/cringe/5257118790/"><img src="http://farm6.static.flickr.com/5082/5257118790_64a22c7317_s.jpg" alt="Fitbit Mobile Interface - Homepage" width="75" height="75" /></a><a title="Fitbit Mobile Interface - Food by cringe, on Flickr" href="http://www.flickr.com/photos/cringe/5257118800/"><img src="http://farm6.static.flickr.com/5007/5257118800_ccf0956461_s.jpg" alt="Fitbit Mobile Interface - Food" width="75" height="75" /></a><a title="Fitbit Mobile Interface - Food report by cringe, on Flickr" href="http://www.flickr.com/photos/cringe/5257118802/"><img src="http://farm6.static.flickr.com/5081/5257118802_ea1a0fa5be_s.jpg" alt="Fitbit Mobile Interface - Food report" width="75" height="75" /></a><a title="Fitbit Mobile Interface - Activity Log by cringe, on Flickr" href="http://www.flickr.com/photos/cringe/5257118944/"><img src="http://farm6.static.flickr.com/5247/5257118944_18d47c700b_s.jpg" alt="Fitbit Mobile Interface - Activity Log" width="75" height="75" /></a><a title="Fitbit Mobile Interface - Weight Log by cringe, on Flickr" href="http://www.flickr.com/photos/cringe/5257118946/"><img src="http://farm6.static.flickr.com/5127/5257118946_4bf1a37f2f_s.jpg" alt="Fitbit Mobile Interface - Weight Log" width="75" height="75" /></a></p>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/5257118784" title="Fitbit Mobile Interface - Homepage"><img src="https://c1.staticflickr.com/6/5085/5257118784_cc9198a8eb.jpg" width="480" height="500" alt="Fitbit Mobile Interface - Homepage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/5257118790" title="Fitbit Mobile Interface - Homepage"><img src="https://c7.staticflickr.com/6/5082/5257118790_64a22c7317.jpg" width="481" height="500" alt="Fitbit Mobile Interface - Homepage"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/5257118800" title="Fitbit Mobile Interface - Food"><img src="https://c1.staticflickr.com/6/5007/5257118800_ccf0956461.jpg" width="372" height="500" alt="Fitbit Mobile Interface - Food"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/5257118802/" title="Fitbit Mobile Interface - Food report"><img src="https://c3.staticflickr.com/6/5081/5257118802_ea1a0fa5be.jpg" width="391" height="500" alt="Fitbit Mobile Interface - Food report"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/5257118944/" title="Fitbit Mobile Interface - Activity Log"><img src="https://c1.staticflickr.com/6/5247/5257118944_18d47c700b.jpg" width="377" height="500" alt="Fitbit Mobile Interface - Activity Log"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/5257118946/" title="Fitbit Mobile Interface - Weight Log"><img src="https://c3.staticflickr.com/6/5127/5257118946_4bf1a37f2f.jpg" width="500" height="244" alt="Fitbit Mobile Interface - Weight Log"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<p>Jetzt kann ich unterwegs endlich mein Fitbit nutzen! Das wurde auch Zeit, ich musste n&auml;mlich schon oft auf <a href="http://fddb.mobi">die mobile Version der FDDB</a> ausweichen, wenn ich meine Nahrung von unterwegs loggen wollte.  Es gibt aber auch noch ein paar Nachteile:
-<ul>
-	<li>noch keine echte Lebensmittelsuche, sondern nur die Auswahl aus bereits eingetragenen Lebensmitteln</li>
-	<li>Community ist nicht erreichbar, weil die Foren nicht angezeigt werden</li>
-	<li>keine Synchronisation mit dem Fitbit (dafür gibt es die Basisstation)</li>
-</ul></p>
+Jetzt kann ich unterwegs endlich mein Fitbit nutzen! Das wurde auch Zeit, ich musste n&auml;mlich schon oft auf [die mobile Version der FDDB][3] ausweichen, wenn ich meine Nahrung von unterwegs loggen wollte.  Es gibt aber auch noch ein paar Nachteile:
 
-<p><a href="http://www.amazon.com/Fitbit-Wireless-Personal-Trainer-fitbit/dp/B0031P3HY2/kopisde-21">Wer sich jetzt endlich ein Fitbit kaufen will, der sollte das bei Amazon US tun</a>. Mit Versand und Zoll d&uuml;rfte der Preis bei ca. 100Ã¢ÂÂ¬ liegen.</p>
+* noch keine echte Lebensmittelsuche, sondern nur die Auswahl aus bereits eingetragenen Lebensmitteln
+* Community ist nicht erreichbar, weil die Foren nicht angezeigt werden
+* keine Synchronisation mit dem Fitbit (dafür gibt es die Basisstation)
+
+[Wer sich jetzt endlich ein Fitbit kaufen will, der sollte das bei Amazon US tun][1]. Mit Versand und Zoll d&uuml;rfte der Preis bei ca. 100€¬ liegen.
+
+[0]: http://m.fitbit.com
+[1]: http://www.amazon.com/Fitbit-Wireless-Personal-Trainer-fitbit/dp/B0031P3HY2/kopisde-21
+[2]: http://fitbit.com
+[3]: http://fddb.mobi
