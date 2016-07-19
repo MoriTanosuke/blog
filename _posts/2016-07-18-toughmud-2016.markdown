@@ -2,7 +2,7 @@
 layout: post
 title: "Tough Mudder 2016"
 ---
-Bevor ich es ganz vergesse: Ich bin am Samstag mit einer kleinen Gruppe den [Tough Mudder 2016][0] gelaufen.
+Bevor ich es ganz vergesse: Ich bin am Samstag mit einer kleinen Gruppe den [Tough Mudder 2016][0] gelaufen. 19,5km mit ca. 20 Hindernissen - die meisten davon kann man unter der Kategorie *"Schlammgrube"* zusammenfassen. Ein paar waren aber auch ganz interessant und spassig. Für mich selbst war das vorletzte Hindernis, der [Everest 2.0][1] eine Überraschung - ich habe es nämlich geschafft, beim ersten Versuch die mehrere Meter hohe Halfpipe hochzulaufen und eine helfende Hand eines bereits angekommenen Tough Mudders zu greifen. Anschliessend hab ich auch noch geholfen, ein paar andere hochzuziehen. ☻
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/28311360032/in/photostream/" title="Tough Mudder 2016"><img src="https://c1.staticflickr.com/9/8845/28311360032_9ede813a47.jpg" width="500" height="375" alt="Tough Mudder 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/27799080724/in/photostream/" title="Tough Mudder 2016"><img src="https://c5.staticflickr.com/9/8542/27799080724_dd3fab52a7.jpg" width="500" height="375" alt="Tough Mudder 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -10,3 +10,4 @@ Bevor ich es ganz vergesse: Ich bin am Samstag mit einer kleinen Gruppe den [Tou
 Alle sind ins Ziel gekommen - ohne ernsthafte Verletzungen. Ob ich nochmal laufe, mache ich davon abhängig, ob ich nochmal eine Gruppe finde. Für mich hake ich das mal unter *"Hab ich gemacht"* ab.
 
 [0]: https://toughmudder.de/events/norddeutschland-2016
+[1]: https://toughmudder.de/content/everest-20
