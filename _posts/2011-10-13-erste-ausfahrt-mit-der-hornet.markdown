@@ -1,7 +1,6 @@
 ---
 title: 'Erste Ausfahrt mit der Hornet'
 date: 2011-10-13 00:00:00 
-tags: 
 layout: post
 ---
 Gestern nachmittag hab ich mich auf den Weg zu meinem Händler gemacht,
