@@ -17,18 +17,14 @@ First you have to create an image from this *Dockerfile*:
 docker build -t moritanosuke/qdirstat .
 </pre>
 
-To use the image *moritanosuke/qdirstat*, you have to clone the sourcecode of *qdirstat* to your PC and mount the *src* directory into the container as a volume.
+Now you can start a container from this image to clone and build *qdirstat*:
 
 <pre>
-# first clone the project
-git clone https://github.com/shundhammer/qdirstat
-# go into the cloned directory and add the Dockerfile
-cd qdirstat
 # run the container
-docker run --rm -it -v $(pwd):/usr/src moritanosuke/qdirstat /bin/sh
+docker run --rm -it -v $(pwd):/usr/target moritanosuke/qdirstat
 </pre>
 
-Now you should have the executable in the *src* directory. The owner will be *root*, but you should be able to run it on your local machine now - assuming that you have all dependencies to run Qt applications already installed. The container was removed right after it completed the build, so the only thing left to do is removing the image:
+Now you should have the executable in the current directory. The owner will be *root*, but you should be able to run it on your local machine now - assuming that you have all dependencies to run Qt applications already installed. The container was removed right after it completed the build, so the only thing left to do is removing the image:
 
 <pre>
 docker rmi moritanosuke/qdirstat
