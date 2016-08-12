@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Steam Multi-User Login on the same PC"
+---
+I'm using almost all my PCs with multiple users. That's usually not a problem, because applications are made for this - even on Windows. There is one prominent example that is not able to handle multi-user logins, although those are used since the early days of computing [almost 50 years ago][0].
+
+<script src="https://gist.github.com/MoriTanosuke/d5e47bd759bf868cecadeea5ae5edb44.js"></script>
+
+You can [get the script from here][1]. It's taken from [this StackExchange Gaming answer][2]. There is also a slightly easier solution [posted on the same question][3].
+
+[0]: https://en.wikipedia.org/wiki/Unix#History
+[1]: https://gist.github.com/MoriTanosuke/d5e47bd759bf868cecadeea5ae5edb44
+[2]: http://gaming.stackexchange.com/a/98566/10191
+[3]: http://gaming.stackexchange.com/a/40762/10191
