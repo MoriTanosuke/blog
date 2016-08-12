@@ -16,8 +16,15 @@ Der Hauptentwickler [Sean Murray][3] hat in einem [IAmA auf Reddit][4] auch beka
 
 Ich bin jedenfalls sehr gespannt auf das Spiel und warte ungeduldig auf das PC Release am Freitag. ☻
 
+*Update*: PC Release ist am 12.08.2016, 1900h CEST - [Es gibt mittlerweile eine Support-Webseite mit mehr Informationen.][5] Ausserdem gibt es [eine Seite mit Informationen über Bugs.][6]
+
+Wer einen guten mentalen Filter hat, sollte auf jeden Fall im [subreddit *r/NoMansSkyTheGame*][7] vorbei gucken und dort nach Informationen - und Wallpapers - suchen.
+
 [0]: https://www.twitch.tv/directory/game/No%20Man's%20Sky
 [1]: https://twitter.com/NoMansSky/status/761694858562207744
 [2]: https://twitter.com/NoMansSky/status/762305140720304128
 [3]: http://www.hellogames.org/about-us/
 [4]: https://www.reddit.com/r/IAmA/comments/4wsra2/i_quit_my_job_at_ea_where_i_worked_on_burnout/
+[5]: http://www.no-mans-sky.com/support/
+[6]: http://www.no-mans-sky.com/2016/08/issues/
+[7]: https://www.reddit.com/r/NoMansSkyTheGame/
