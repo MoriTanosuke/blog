@@ -34,4 +34,4 @@ If you have any questions or run into problems, feel free to [contact me][5].
 [2]: http://gaming.stackexchange.com/a/98566/10191
 [3]: http://gaming.stackexchange.com/a/40762/10191
 [4]: http://store.steampowered.com/
-[5]: {% post_url contact %}
+[5]: /contact/
