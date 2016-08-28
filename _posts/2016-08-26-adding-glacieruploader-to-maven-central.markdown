@@ -18,6 +18,8 @@ At the moment I'm reading the [official documentation of Sonatype][2] and settin
 
 Preparing for the deployment into *central* means cleaning up my POM, adding a couple of new plugins with the recommended configuration from the documentation above and then when everything is set up, creating a release and uploading it to Sonatype. When everything is done, I'll write a new post or update this one. Hopefully by the time you read the next update, you can [find my first project under *groupId* *de.kopis...*][10] ☻
 
+*Update* The artifacts are now available via maven central: [https://search.maven.org/#search%7Cga%7C1%7Cg%3A%22de.kopis.glacier%22][4].
+
 [0]: https://github.com/MoriTanosuke/glacieruploader/issues/51
 [1]: https://github.com/MoriTanosuke/glacieruploader
 [2]: http://central.sonatype.org/pages/producers.html
