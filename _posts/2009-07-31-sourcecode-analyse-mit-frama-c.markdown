@@ -10,7 +10,11 @@ Bis ich schliesslich über Frama-C stolperte. Damit kann der Quelltext analysier
 
 <img src="http://posterous.com/getfile/files.posterous.com/import-rzzc/IfGxljotalmBlGBuaHeiAAviqBvHCftsGmBrEncGlCDrxuotusrJfoDelHFa/media_http4bpblogspot_JBpEj.png.scaled500.png" width="200" height="193"/>
 
-Auf dieses kleine Programm habe ich dann Frama-C mit dem folgenden Aufruf losgelassen: <blockquote><i>frama-c -val hello.c</i></blockquote>Damit wird Frama-C angewiesen, das <em>Value Analysis Plugin</em> auf die Datei <em>hello.c</em> anzuwenden. Heraus kommt die folgende Ausgabe:
+Auf dieses kleine Programm habe ich dann Frama-C mit dem folgenden Aufruf losgelassen:
+
+    frama-c -val hello.c
+
+Damit wird Frama-C angewiesen, das <em>Value Analysis Plugin</em> auf die Datei <em>hello.c</em> anzuwenden. Heraus kommt die folgende Ausgabe:
 
 <img src="http://1.bp.blogspot.com/_HK2Lso6JYlw/SnKebz5lvZI/AAAAAAAAAXk/m-lzFzMHKQY/s200/framac-hello2.PNG"/>
 
