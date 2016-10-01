@@ -17,9 +17,11 @@ Because I don't like rebooting my server just because I have a stray container r
 
 To use my image, just run the following command on your command line:
 
-    docker run -p 8080:80 moritanosuke/wallabag-docker
+    docker run --rm -p 8080:80 -v ./data:/var/www/wallabag/data moritanosuke/wallabag-docker
 
-After the container is up, you can access your *Wallabag* at http://localhost:8080. Personally I like to run my containers via [docker-compose][13]. Here's an example for your *docker-compose.yml*:
+After the container is up, you can access your *Wallabag* at http://localhost:8080. All data will be stored in the directory *data*, so you should be able to stop/start the container and all your stored articles should still be there. Please note that I use the option `--rm`, so the container will be removed as soon as it is stopped.
+
+Personally I like to run my containers via [docker-compose][13]. Here's an example for your *docker-compose.yml*:
 
 ````
 version: '2'
