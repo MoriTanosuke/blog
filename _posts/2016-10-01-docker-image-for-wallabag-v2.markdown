@@ -2,7 +2,7 @@
 title: "Docker image for Wallabag v2"
 layout: post
 ---
-Sometimes I want to save articles I want to read but don't have the time to read right now for later. There are a couple of free online services that you can use, like [Instapaper][1] or [Pocket][2]. The services all work the same:
+Sometimes I want to save articles that I want to read for later, because I don't have the time to read right now. There are a couple of free online services that you can use, like [Instapaper][1] or [Pocket][2]. The services all work the same:
 
   * you give them a link to a webpage you want to read later
   * they scrape the page and store the text
