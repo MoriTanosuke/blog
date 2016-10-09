@@ -9,11 +9,11 @@ Luckily there is a simple plugin called [xfce4-genmon-plugin][2] which can be us
 ````
 #!/bin/bash
 declare -i running
-running=$(ps x|grep btsync.conf|grep -v grep|cut -f2 -d" ")
-if [ "$running" != "" ]; then
-	echo "<img>/usr/share/icons/Vibrancy-Colors-Dark/status/24/stock_dialog-info.png</img><tool>Sync is running with PID $running</tool>"
+running=$(pidof rslsync)
+if [ $running -ne 0 ]; then
+	echo "<img>/usr/share/icons/Vivacious-Colors-Dark/status/24/stock_dialog-info.png</img><tool>Sync is running with PID $running</tool>"
 else
-	echo "<img>/usr/share/icons/Vibrancy-Colors-Dark/status/24/stock_dialog-error.png</img><tool>Sync is not running</tool>"
+	echo "<img>/usr/share/icons/Vivacious-Colors-Dark/status/24/stock_dialog-error.png</img><tool>Sync is not running</tool>"
 fi
 ````
 
