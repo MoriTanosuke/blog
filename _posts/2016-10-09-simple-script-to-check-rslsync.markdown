@@ -17,7 +17,7 @@ else
 fi
 ````
 
-The script get's all running processes and check if one of them is using *btsync.conf* as a parameter. I always run my sync process with `--config btsync.conf` so this is sufficient for me. If you run your process otherwise, you probably want to check for the word *rslsync* itself. I also use 2 icons from my current icon set, [Vibrancy Colors Dark][3]. In case I forget what this icon is about, I also add a simple tooltip which includes the process ID.
+The script checks if the PID of a process called *rslsync* is something other than zero. I also use 2 icons from my current icon set, [Vibrancy Colors Dark][3]. In case I forget what this icon is about, I also add a simple tooltip which includes the process ID.
 
 Now I can just check the taskbar when I start my computer and be sure that everything is syncing as it should. 👍
 
