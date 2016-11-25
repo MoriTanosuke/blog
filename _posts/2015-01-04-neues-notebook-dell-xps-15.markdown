@@ -17,7 +17,7 @@ Noch ein paar Worte zu Windows 8: WTF? Die UI der Metro-Anwendungen gefällt mir
 Alles in allem ganz übel und ich war schon kurz davor, einfach wieder Windows 7 zu installieren. Aber wie das mit dem *HiDPI*-Display zurecht kommt, will ich mir gar nicht erst vorstellen...
 
 [0]: http://www.dell.com/de/p/xps-15-9530/pd
-[1]: www.amazon.de/dp/B00LTT2D2E/kopisde-21
+[1]: http://www.amazon.de/dp/B00LTT2D2E/kopisde-21
 [2]: http://xubuntu.org/
 [3]: http://www.amazon.de/gp/product/B00HFD9C5O/kopisde-21
 [4]: https://de.wikipedia.org/wiki/Secure_Boot
