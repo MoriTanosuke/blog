@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Preis für JCP"
 ---
