@@ -1,10 +1,10 @@
----
+ï»¿---
 layout: post
-title: "Preis für JCP"
+title: "Preis fÃ¼r JCP"
 ---
 Folgende Information habe ich den Seiten unter http://de.sun.com/ entnommen:
 
-Der Preis der Prüfung CX-310-035 zum Sun-zertifizierten Java Programmierer für die *Java 2 Plattform 1.4* beträgt zur Zeit 162,40EUR. Nach [der offiziellen Seite von Prometric][0] kostet das Examen 140EUR, allerdings ohne Prüfungsgebühren und andere Kosten.
+Der Preis der PrÃ¼fung CX-310-035 zum Sun-zertifizierten Java Programmierer fÃ¼r die *Java 2 Plattform 1.4* betrÃ¤gt zur Zeit 162,40EUR. Nach [der offiziellen Seite von Prometric][0] kostet das Examen 140EUR, allerdings ohne PrÃ¼fungsgebÃ¼hren und andere Kosten.
 
 Einige Testinstitute im Norden Deutschlands sind die folgenden:
 
@@ -29,6 +29,6 @@ HAMBURG - BAHRENFELD 22761
 CAMPUS EDUCATION CENTER
 ALBERT-EINSTEIN-RING 13
 
-Diese Angaben sind natürlich ohne irgendwelche Rechtsansprüche zu verstehen. Wer ein Testcenter sucht, der sollte sich auf [2test.com][0] registrieren und die Liste selbst durchsehen.
+Diese Angaben sind natÃ¼rlich ohne irgendwelche RechtsansprÃ¼che zu verstehen. Wer ein Testcenter sucht, der sollte sich auf [2test.com][0] registrieren und die Liste selbst durchsehen.
 
 [0]: http://www.2test.com/

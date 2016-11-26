@@ -1,19 +1,19 @@
----
+ï»¿---
 layout: post
 title: "Java: Bitweises Schieben"
 ---
-Durch das Buch Complete Java 2 Certification Study Guide (siehe hier) aufgerüttelt, habe ich beschlossen, eine kleine Artikelserie über die Eigenheiten der Programmiersprache zu schreiben. Dies ist also der erste Artikel, der die manchmal eigenwillige Handhabung von Schiebe-Operationen verdeutlichen soll.
+Durch das Buch Complete Java 2 Certification Study Guide (siehe hier) aufgerÃ¼ttelt, habe ich beschlossen, eine kleine Artikelserie Ã¼ber die Eigenheiten der Programmiersprache zu schreiben. Dies ist also der erste Artikel, der die manchmal eigenwillige Handhabung von Schiebe-Operationen verdeutlichen soll.
 
-Die Shift-Operatoren >>, << sowie >>> sollten in der Programmiersprache Java nicht unbeachtet und vor allem unbedarft eingesetzt werden. Die Operatoren `>>` und `<<` sind aus der Sprache C/C++ direkt übernommen worden, der dritte Operator *unsigned right shift* `>>>` ist neu dazugekommen.
+Die Shift-Operatoren >>, << sowie >>> sollten in der Programmiersprache Java nicht unbeachtet und vor allem unbedarft eingesetzt werden. Die Operatoren `>>` und `<<` sind aus der Sprache C/C++ direkt Ã¼bernommen worden, der dritte Operator *unsigned right shift* `>>>` ist neu dazugekommen.
 
-Bitweises Schieben ist vor allem in Echtzeit-Anwendungen und Steuerungssystemen weit verbreitet, meist bei Operationen auf I/O-Ports. Es kann auch verwendet werden, um schnelle Multiplikationen oder Divisionen mit dem Faktor 2 durchzuführen. In Java kann das bitweise Schieben durch die plattformunabhängige Representation der Zahlenwerte mit ruhigem Gewissen durchgeführt werden - wenn man sich der möglichen Fehlerquellen bewußt ist.
+Bitweises Schieben ist vor allem in Echtzeit-Anwendungen und Steuerungssystemen weit verbreitet, meist bei Operationen auf I/O-Ports. Es kann auch verwendet werden, um schnelle Multiplikationen oder Divisionen mit dem Faktor 2 durchzufÃ¼hren. In Java kann das bitweise Schieben durch die plattformunabhÃ¤ngige Representation der Zahlenwerte mit ruhigem Gewissen durchgefÃ¼hrt werden - wenn man sich der mÃ¶glichen Fehlerquellen bewuÃŸt ist.
 
 Grundlagen des Schiebens
 ------------------------
 
-Schieben ist eine sehr einfache Operation. Es wird das Bitmuster (die binäre Darstellung) einer Zahl genommen und nach rechts oder links verschoben. Der *unsigned shift-Operator* `>>>` führt aber oft zu Verwirrung.
+Schieben ist eine sehr einfache Operation. Es wird das Bitmuster (die binÃ¤re Darstellung) einer Zahl genommen und nach rechts oder links verschoben. Der *unsigned shift-Operator* `>>>` fÃ¼hrt aber oft zu Verwirrung.
 
-Die Operatoren können nur auf Argumente aus integralen Typen angewendet werden, genau genommen sollten sie nur auf Argument der Typen `int` oder `long` angewendet werden. Diese Einschränkung geht auf die arithmetische Umwandlung von Operanden in Ausdrücken zurück (s.u.).
+Die Operatoren kÃ¶nnen nur auf Argumente aus integralen Typen angewendet werden, genau genommen sollten sie nur auf Argument der Typen `int` oder `long` angewendet werden. Diese EinschrÃ¤nkung geht auf die arithmetische Umwandlung von Operanden in AusdrÃ¼cken zurÃ¼ck (s.u.).
 
 Als erster Hinweis soll folgendes Beispiel dienen:
 
@@ -28,24 +28,24 @@ Was passiert mit den Bits, die nach rechts raus geschoben wurden? Welchen Wert n
 
 Die erste Frage ist schnell beantwortet: Sie werden verworfen.
 
-Die zweite Frage bringt eine Unterscheidung der Zahlen nach Vorzeichen mit sich. Bei positiven Zahlen oder dem Schieben ohne Vorzeichen mit >>> wandern 0s (Nullen) in die Darstellung, bei negativen Zahl 1s (durch die 2-Komplement-Darstellung der binären Zahlen ist das oberste Bit bei negativen Zahl eine 1). D.h. es wird der Wert des obersten Bits (des most significant bit (MSB)) in die Darstellung geschoben.
-Einfache Multiplikationen mit dem Faktor 2 können also durch ein einfaches Links-Schieben der Zahl erreicht werden. Allerding nur bis die ersten Bits dieser Zahl am linken Ende der Darstellung verworfen werden. Genau genommen sogar nur bis 1 Bit vor diese Position, da ansonsten das Vorzeichen überschrieben wird.
+Die zweite Frage bringt eine Unterscheidung der Zahlen nach Vorzeichen mit sich. Bei positiven Zahlen oder dem Schieben ohne Vorzeichen mit >>> wandern 0s (Nullen) in die Darstellung, bei negativen Zahl 1s (durch die 2-Komplement-Darstellung der binÃ¤ren Zahlen ist das oberste Bit bei negativen Zahl eine 1). D.h. es wird der Wert des obersten Bits (des most significant bit (MSB)) in die Darstellung geschoben.
+Einfache Multiplikationen mit dem Faktor 2 kÃ¶nnen also durch ein einfaches Links-Schieben der Zahl erreicht werden. Allerding nur bis die ersten Bits dieser Zahl am linken Ende der Darstellung verworfen werden. Genau genommen sogar nur bis 1 Bit vor diese Position, da ansonsten das Vorzeichen Ã¼berschrieben wird.
 
 Wenn man also durch das Links-Schieben eine Zahl verdoppeln kann, sollte man annehmen, dass ein Rechts-Schieben die Zahl halbiert. Wenn eine 0 als MSB steht, ist diese Annahme auch richtig. Wird allerdings eine negative Zahl mit einer 1 als MSB nach links geschoben, stimmt diese Annahme nicht mehr. Wird eine negative Zahl nach rechts geschoben, so werden (nach ihrem MSB) weitere 1s in die Darstellung geschoben. So ist das arithmetische Rechts-Schieben definiert.
 
-Kürzung des rechten Operanden
+KÃ¼rzung des rechten Operanden
 -----------------------------
 
-Das rechte Argument der Shift-Operatoren wird als Anzahl von Bits verstanden, um die der Wert verschoben werden soll. Um das Schieben ordentlich auszuführen, sollte dieser Wert kleiner sein als die Länge des zu schiebenden Wertes, d.h. beim Typ `int` sollte der rechte Wert kleiner als 32, bei `long` kleiner als 64 sein.
+Das rechte Argument der Shift-Operatoren wird als Anzahl von Bits verstanden, um die der Wert verschoben werden soll. Um das Schieben ordentlich auszufÃ¼hren, sollte dieser Wert kleiner sein als die LÃ¤nge des zu schiebenden Wertes, d.h. beim Typ `int` sollte der rechte Wert kleiner als 32, bei `long` kleiner als 64 sein.
 
-Größere Werte werden aber nicht abgelehnt, sie werden gekürzt. Der neue Wert wird durch eine Modulo-Operation durch die Länge des Bitmusters berechnet. Wird also ein `int` um 33 Bits verschoben (das Ergebnis wäre 0), berechnet sich die tatsächlich Anzahl von Stellen nach 33 % 32. Es wird also tatsächlich nur um 1 Bit verschoben und nicht um 33 Bits.
+GrÃ¶ÃŸere Werte werden aber nicht abgelehnt, sie werden gekÃ¼rzt. Der neue Wert wird durch eine Modulo-Operation durch die LÃ¤nge des Bitmusters berechnet. Wird also ein `int` um 33 Bits verschoben (das Ergebnis wÃ¤re 0), berechnet sich die tatsÃ¤chlich Anzahl von Stellen nach 33 % 32. Es wird also tatsÃ¤chlich nur um 1 Bit verschoben und nicht um 33 Bits.
 
 Arithmetische Umwandlung von Operanden
 --------------------------------------
 
-Bevor überhaupt geschoben wird, werden die Operanden umgewandelt, so dass sie zumindest vom Typ `int` sind. Dadurch ergeben sich Konsequenzen für den unsigned right shift-Operator für Werte kleiner als `int`.
+Bevor Ã¼berhaupt geschoben wird, werden die Operanden umgewandelt, so dass sie zumindest vom Typ `int` sind. Dadurch ergeben sich Konsequenzen fÃ¼r den unsigned right shift-Operator fÃ¼r Werte kleiner als `int`.
 
-Das folgende Beispiel zeigt die Berechnung für die Operation
+Das folgende Beispiel zeigt die Berechnung fÃ¼r die Operation
 
     -64 >>> 4
     11000000 (Original)

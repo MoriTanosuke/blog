@@ -1,7 +1,7 @@
----
+ï»¿---
 layout: post
 title: "Test der Google API"
 ---
-Schon seit längerem bietet Google eine API für seine Google Web Services an. Ich habe auch früher schon einmal ein kleines Programm geschrieben, dass die APIs nutzt, um Suchen durchzuführen. Heute morgen war ich auf der Suche nach einem Tool, das den PageRank berechnet. Leider war die Suche einigermassen erfolglos, da nur die Google Toolbar den PageRank berechnen kann oder darf. Ich habe die Bestimmungen noch nicht genau durchgelesen.
+Schon seit lÃ¤ngerem bietet Google eine API fÃ¼r seine Google Web Services an. Ich habe auch frÃ¼her schon einmal ein kleines Programm geschrieben, dass die APIs nutzt, um Suchen durchzufÃ¼hren. Heute morgen war ich auf der Suche nach einem Tool, das den PageRank berechnet. Leider war die Suche einigermassen erfolglos, da nur die Google Toolbar den PageRank berechnen kann oder darf. Ich habe die Bestimmungen noch nicht genau durchgelesen.
 
-Da ich für meinen Java NNTP Newsreader JNews auch eine Google-Suche nach Message IDs einbauen will, teste ich nun die Google APIs. Dazu hab ich erstmal wieder ein kleines Programm erstellt, dass eine Suche durchführt, ggfs. eine Rechtschreibkorrektur vorschlägt und die Ergebnisse in einer einfachen `JTextArea` präsentiert. Ich werde in den nächsten Tagen noch eine Tabellenansicht der Ergebnisse hinzufügen und vielleicht eine PageRank-Kalkulation.
+Da ich fÃ¼r meinen Java NNTP Newsreader JNews auch eine Google-Suche nach Message IDs einbauen will, teste ich nun die Google APIs. Dazu hab ich erstmal wieder ein kleines Programm erstellt, dass eine Suche durchfÃ¼hrt, ggfs. eine Rechtschreibkorrektur vorschlÃ¤gt und die Ergebnisse in einer einfachen `JTextArea` prÃ¤sentiert. Ich werde in den nÃ¤chsten Tagen noch eine Tabellenansicht der Ergebnisse hinzufÃ¼gen und vielleicht eine PageRank-Kalkulation.

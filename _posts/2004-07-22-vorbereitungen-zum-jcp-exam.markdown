@@ -1,11 +1,11 @@
----
+ï»¿---
 layout: post
 title: "Vorbereitungen zum JCP Exam"
 ---
-Heute ist das erste Buch für meine Vorbereitungen zum Java Certified Programmer angekommen:
+Heute ist das erste Buch fÃ¼r meine Vorbereitungen zum Java Certified Programmer angekommen:
 Complete JAVA2 Certification Study Guide
 
-Das Buch kann [bei Amazon bestellt][0] werden. Beiliegend eine CD, auf der eine Test-Umgebung zur Vorbereitung auf die Examen, 4 Bonus-Prüfungen und das gesamte Buch als PDF liegen.
+Das Buch kann [bei Amazon bestellt][0] werden. Beiliegend eine CD, auf der eine Test-Umgebung zur Vorbereitung auf die Examen, 4 Bonus-PrÃ¼fungen und das gesamte Buch als PDF liegen.
 
 *Update:* Hier kommen noch ein paar gute Links zur Vorbereitung:
 
