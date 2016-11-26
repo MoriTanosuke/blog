@@ -1,5 +1,5 @@
----
-title: 'DIX Plyobox'
+﻿---
+title: 'DIY Plyobox'
 date: 2014-03-22 00:00:00 
 tags: crossfit
 layout: post
