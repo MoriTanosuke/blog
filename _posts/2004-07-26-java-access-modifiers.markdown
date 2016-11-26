@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Java: Access Modifiers"
 ---
