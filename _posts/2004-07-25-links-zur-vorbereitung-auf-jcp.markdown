@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Links zur Vorbereitung auf JCP"
 ---
