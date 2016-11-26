@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: WordPress Mosquito (bug tracker)
 ---
