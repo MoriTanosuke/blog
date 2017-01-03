@@ -2,7 +2,9 @@
 layout: post
 title: "Renaissance Periodization"
 ---
-Ich habe ja schon vor einiger Zeit beschlossen, mein Gewicht etwas zu reduzieren. Das hat eine Zeit gut geklappt, aber die Marzipan- und Lebkuchenberge über Weihnachten haben nicht gerade geholfen. 🙃 Jetzt ist also der Zeitpunkt gekommen, den ursprünglichen Plan wieder aufzunehmen:
+Ich habe ja schon vor einiger Zeit beschlossen, mein Gewicht etwas zu reduzieren. Das hat eine Zeit gut geklappt, aber die Marzipan- und Lebkuchenberge über Weihnachten haben nicht gerade geholfen. 🙃 Jetzt ist also der Zeitpunkt gekommen, den ursprünglichen Plan wieder aufzunehmen.
+
+Zur Erinnerung (hauptsächlich meiner eigenen):
 
 > Ich werde mein Gewicht in den kommenden 6 bis 8 Monaten
 > von aktuell 86kg auf 78kg reduzieren.
