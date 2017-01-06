@@ -3,7 +3,7 @@ layout: post
 title: "Auf der Punktejagd"
 ---
 
-Vor ein paar Tagen habe ich anlässlich des [Winter Bash 2016][0] beschlossen, ein paar Fragen auf [stackoverflow][1] zu beantworten. Hauptsächlich in der Javascript-Kategorie, da ich dort noch etwas mehr lernen möchte - und weil StackOverflow einen sehr schönen Live-Editor eingebaut hat.
+Vor ein paar Tagen habe ich anlässlich des [Winter Bash 2016][0] beschlossen, ein paar Fragen auf [stackoverflow][1] zu beantworten. Hauptsächlich in der Javascript-Kategorie, da ich dort noch etwas mehr lernen möchte - und weil StackOverflow einen sehr schönen [Live-Editor][2] eingebaut hat.
 
 Wie auch immer, ich war erfolgreich. 😄
 
