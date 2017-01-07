@@ -9,6 +9,9 @@ Wie auch immer, ich war erfolgreich. 😄
 
 ![Top 3% reputation auf StackOverflow diese Woche]({{ site.url }}/images/so_reps_per_week_201701.png)
 
+*Update* Ich hab beim [Winter Bash][0] jetzt 14 Hats abgestaubt.
+
+![14 Hats beim Winter Bash 2016]({{ site.url }}/images/winterbash2016.png)
 
 [0]: https://winterbash2016.stackexchange.com/
 [1]: https://stackoverflow.com/
