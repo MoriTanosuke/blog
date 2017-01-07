@@ -7,7 +7,7 @@ Vor ein paar Tagen habe ich anlässlich des [Winter Bash 2016][0] beschlossen, e
 
 Wie auch immer, ich war erfolgreich. 😄
 
-![Top 3% reputation auf StackOverflow diese Woche](/images/so_reps_per_week_201701.png)
+![Top 3% reputation auf StackOverflow diese Woche]({{ site.url }}/images/so_reps_per_week_201701.png)
 
 
 [0]: https://winterbash2016.stackexchange.com/
