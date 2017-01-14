@@ -4,4 +4,4 @@ layout: post
 ---
 Es wird langsam ernst 😬:
 
-![Anmeldung zu den Crossfit Open 2017]({{ site.url }}/images/images/crossfit-open-2017.jpg)
+![Anmeldung zu den Crossfit Open 2017]({{ site.url }}/images/crossfit-open-2017.jpg)
