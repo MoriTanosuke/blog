@@ -4,7 +4,9 @@ layout: post
 ---
 In den letzten Tagen versuche ich, meine Fertigkeiten in der Video- und Fotobearbeitung etwas zu verbessern. Ausserdem versuche ich, die Möglichkeiten der [Canon EOS 1100D][0] kennenzulernen, damit die nächsten Urlaubsfotos besser werden. Die technischen Möglichkeiten sind dabei einfach zu verbessern oder überhaupt herzustellen. Was noch fehlt, ist der praktische Umgang mit Videokameras (oder Action Cam oder Handy) und dem Fotoapparat. Und die Übung beim Videoschnitt bzw. bei der Bildbearbeitung am Rechner.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ws0nffzFIwI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ws0nffzFIwI" frameborder="0" allowfullscreen>
+<a href="https://www.youtube.com/embed/Ws0nffzFIwI">Video bei Youtube angucken</a>
+</iframe>
 
 Das ist ein kleines Übungsvideo, dass ich während des Trainings aufgenommen und anschliessend bearbeitet habe. Im Moment versuche ich erstmal, mit der Software [Adobe Premiere Pro][1] klar zu kommen und vom Originalzustand auf einigermassen ansehbare Videos zu kommen. Das Video im Originalzustand war ca. 15min lang, die Endfassung knapp 4min.
 
