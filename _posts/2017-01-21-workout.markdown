@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Workout 21.01.2017"
+---
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z3ZreEuWrbA" frameborder="0" allowfullscreen>
+<a href="https://www.youtube.com/watch?v=z3ZreEuWrbA">Auf Youtube angucken</a></iframe>
