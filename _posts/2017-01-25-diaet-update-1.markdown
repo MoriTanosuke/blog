@@ -10,4 +10,4 @@ Der Wochendurchschnitt sieht auch vielversprechend aus:
 
 ![Graph des Wochendurchschnitt mit Trend]({{ site.url }}/images/diet2.PNG)
 
-MIttlerweile bin ich Broccoli und Blumenkohl allerdings etwas leid. Mal sehen, wie ich das in Zukunft abwechseln kann. Naheliegend wären noch grüne Bohnen, Kohlrabi, Paprika usw. Aber ich werde erstmal weitermachen wie bisher, bis mir das Zeug wirklich zum Hals raushängt. 😉
+Den Broccoli und Blumenkohl bin ich allerdings etwas leid. Mal sehen, wie ich das in Zukunft abwechseln kann. Naheliegend wären noch grüne Bohnen, Kohlrabi, Paprika usw. Aber ich werde erstmal weitermachen wie bisher, bis mir das Zeug wirklich zum Hals raushängt. 😉
