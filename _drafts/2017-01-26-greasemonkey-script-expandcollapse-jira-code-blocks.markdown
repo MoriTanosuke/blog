@@ -8,8 +8,43 @@ But what I was missing is expanding/collapsing code blocks in comments and descr
 
 <pre>
 <code>
-function() {
-}
+// ==UserScript==
+// @name           JIRA Collapsible Code
+// @namespace      jira_collapsible_code
+// @version        0.1
+// @description    Makes PRE panels in JIRA collapsible
+// @author         Carsten Ringe
+// @match          https://yourjirahost/*
+// ==/UserScript==
+ 
+(function() {
+    'use strict';
+ 
+    // add style for collapse button
+    $(".code.panel").each(function() {
+        var random = new Date().getTime();
+        var $panel = $(this);
+        var $clicker = $('<div style="width: 98%; border: 1px solid gray; padding: 2px; background: lightgray; border-radius: 3px;">Expand</div>', {
+            class: 'code-collapse',
+            id: 'code-collapse-' + random,
+            text: function() {
+                return ($panel.is(':visible') ? 'Collapse' : 'Expand') + ' code';
+            }
+        });
+        $panel.hide();
+        $clicker.click(function () {
+            var $header = $(this);
+            var $content = $panel;
+            //getting the next element
+            $content.slideToggle(500, function() {
+                $header.text(function() {
+                    return ($content.is(':visible') ? 'Collapse' : 'Expand') + ' code';
+                });
+            });
+        });
+        $panel.prev().append($clicker);
+    });
+})();
 </code>
 </pre>
 
