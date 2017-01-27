@@ -24,7 +24,7 @@ But what I was missing is expanding/collapsing code blocks in comments and descr
     $(".code.panel").each(function() {
         var random = new Date().getTime();
         var $panel = $(this);
-        var $clicker = $('<div style="width: 98%; border: 1px solid gray; padding: 2px; background: lightgray; border-radius: 3px;">Expand</div>', {
+        var $clicker = $('&lt;div style="width: 98%; border: 1px solid gray; padding: 2px; background: lightgray; border-radius: 3px;"&gt;Expand&lt;/div&gt;', {
             class: 'code-collapse',
             id: 'code-collapse-' + random,
             text: function() {
