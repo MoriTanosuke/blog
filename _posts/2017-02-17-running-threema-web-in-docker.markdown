@@ -16,10 +16,10 @@ Here are the steps to get running:
 
 Here are some screenshots running the Docker container on one of my Windows machines:
 
-![Screenshot von Threema Web]({{ site.url }}/images/threema1.png)
-![Screenshot von Threema Web]({{ site.url }}/images/threema2.png)
-![Screenshot von Threema Web]({{ site.url }}/images/threema3.png)
-![Screenshot von Threema Web]({{ site.url }}/images/threema4.png)
+![Screenshot von Threema Web]({{ site.url }}/images/threema1.PNG)
+![Screenshot von Threema Web]({{ site.url }}/images/threema2.PNG)
+![Screenshot von Threema Web]({{ site.url }}/images/threema3.PNG)
+![Screenshot von Threema Web]({{ site.url }}/images/threema4.PNG)
 
 
 [0]: https://threema.ch/
