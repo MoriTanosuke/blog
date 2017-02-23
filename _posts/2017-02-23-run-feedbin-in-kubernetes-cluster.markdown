@@ -2,7 +2,7 @@
 title: "Run Feedbin in your local Kubernetes cluster"
 layout: post
 ---
-After listening to [the Changelog Podcast, episode XXX][2] today I wanted to run [Feedbin][0] in a local [kubernetes][1] cluster. I'll skip the installation of *kubernetes* for now, but you can [read about setting kubernetes up with *minikube*][3] elsewhere. For this short article, I'll just describe the commands that are needed to get a first version of *Feedbin* up and running in your local cluster.
+After listening to [the Changelog Podcast, episode 240][2] today I wanted to run [Feedbin][0] in a local [kubernetes][1] cluster. I'll skip the installation of *kubernetes* for now, but you can [read about setting kubernetes up with *minikube*][3] elsewhere. For this short article, I'll just describe the commands that are needed to get a first version of *Feedbin* up and running in your local cluster.
 
 First of all, create a [Postgres][4] database:
 
@@ -46,7 +46,7 @@ As always, if you have questions or corrections, please leave a comment or send 
 
 [0]: https://feedbin.com/
 [1]: https://kubernetes.io/
-[2]: https://changelog.com/podcast
+[2]: https://changelog.com/podcast/240
 [3]: https://kubernetes.io/docs/getting-started-guides/minikube/
 [4]: https://www.postgresql.org/
 [5]: https://kubernetes.io/docs/user-guide/services/
