@@ -4,7 +4,7 @@ title: "Crossfit Open Workout 17.1"
 ---
 *Update* Ich habe das Workout Rx in 19:30 geschafft. 😀
 
-Das Crossfit Open WOD 17.1 ist angekündigt:
+Das [Crossfit Open WOD 17.1][0] ist angekündigt:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ufUKkrH03rE" frameborder="0" allowfullscreen></iframe>
 
@@ -24,3 +24,5 @@ Das Crossfit Open WOD 17.1 ist angekündigt:
 Time Cap für das Workout sind 20min.
 
 Klingt erstmal nicht so schlimm, aber die Kombination ist natürlich ein Killer für den Rücken.
+
+[0]: https://games.crossfit.com/workouts/open/2017/17.1?division=1&workout_type=rx
