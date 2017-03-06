@@ -2,6 +2,8 @@
 layout: post
 title: "Crossfit Open Workout 17.2"
 ---
+*Update* Mein Score ist 107, d.h. ich habe die erste Runde *Bar Muscle Ups* abgeschlossen und habe anschliessend noch die Hälfte der Walking Lunges aus der nächsten Runde fertig bekommen. Meine Voraussage (siehe unten) ist also eingetreten. 😀
+
 Das [Crossfit Open WOD 17.2][0] ist angekündigt:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tMarGTHymeA" frameborder="0" allowfullscreen></iframe>
