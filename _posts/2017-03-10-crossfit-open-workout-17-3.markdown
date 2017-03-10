@@ -10,35 +10,35 @@ Das [Crossfit Open WOD 17.3][0] ist angekündigt:
 In 8min:
 
 * 3 Runden
-** 6 Chest to Bar pull ups
-** 6 Squat Snatches, 43kg
+  * 6 Chest to Bar pull ups
+  * 6 Squat Snatches, 43kg
 * 3 Runden
-** 7 Chest to Bar pull ups
-** 5 Squat Snatches, 61kg
+  * 7 Chest to Bar pull ups
+  * 5 Squat Snatches, 61kg
 
 Wenn die 6 Runden vor 8min beendet wurden, in zusätzlichen 4min:
 
 * 3 Runden
-** 8 Chest to Bar pull ups
-** 4 Squat Snatches, 83kg
+  * 8 Chest to Bar pull ups
+  * 4 Squat Snatches, 83kg
 
 Wenn die zusätzlichen 3 Runden vor 12min beendet wurden, in zusätzlichen 4min:
 
 * 3 Runden
-** 9 Chest to Bar pull ups
-** 3 Squat Snatches, 102kg
+  * 9 Chest to Bar pull ups
+  * 3 Squat Snatches, 102kg
 
 Wenn die zusätzlichen 3 Runden vor 16min beendet wurden, in zusätzlichen 4min:
 
 * 3 Runden
-** 10 Chest to Bar pull ups
-** 2 Squat Snatches, 111kg
+  * 10 Chest to Bar pull ups
+  * 2 Squat Snatches, 111kg
 
 Wenn die zusätzlichen 3 Runden vor 20min beendet wurden, in zusätzlichen 4min:
 
 * 3 Runden
-** 11 Chest to Bar pull ups
-** 1 Squat Snatch, 120kg
+  * 11 Chest to Bar pull ups
+  * 1 Squat Snatch, 120kg
 
 Nochmal als Zusammenfassung: Für ersten 2x 3 Runden hat man 8min Zeit. Schafft man es innerhalb der 8min, bekommt man 4 zusätzliche Minuten für die nächsten 3 Runden. D.h. wenn man die ersten 6 Runden in 2min durch hat, hat man für die nächsten 3 Runden noch 10min.
 
