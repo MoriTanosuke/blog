@@ -40,7 +40,7 @@ Wenn die zusätzlichen 3 Runden vor 20min beendet wurden, in zusätzlichen 4min:
   * 11 Chest to Bar pull ups
   * 1 Squat Snatch, 120kg
 
-Nochmal als Zusammenfassung: Für ersten 2x 3 Runden hat man 8min Zeit. Schafft man es innerhalb der 8min, bekommt man 4 zusätzliche Minuten für die nächsten 3 Runden. D.h. wenn man die ersten 6 Runden in 2min durch hat, hat man für die nächsten 3 Runden noch 10min.
+Nochmal als Zusammenfassung: Für ersten 2x 3 Runden hat man 8min Zeit. Schafft man es innerhalb der 8min, bekommt man 4 zusätzliche Minuten für die nächsten 3 Runden. D.h. wenn man die ersten 6 Runden in 2min durch hat, hat man für die nächsten 3 Runden noch 10min. Wenn man alle Verlängerungen bekommt, dauert das Workout maximal 24min.
 
 In jeder 4min-Verlängerung muss man mehr Chest to Bar pull ups und weniger Squat Snatches machen, wobei die Snatches immer schwerer werden.
 
