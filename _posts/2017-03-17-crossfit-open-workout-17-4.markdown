@@ -11,7 +11,7 @@ Das [Crossfit Open WOD 17.4][0] ist angekündigt:
 
 AMRAP 13min:
 
-* 55 Deadlift 102,5kg
+* 55 Deadlift 102kg
 * 55 Wall Balls 9kg
 * 55 Calories Row
 * 55 HSPU
