@@ -4,7 +4,10 @@ title: "Crossfit Open WOD 17.5"
 ---
 
 *Update* Meine Zeit ist 15:07. Das war auch meine angepeilte Zeit, allerdings hatte ich 
-kurz vorher doch einige Bedenken, dass ich das Tempo durchhalten kann. 😵
+kurz vorher doch einige Bedenken, dass ich das Tempo durchhalten kann. 😵 Mein Plan mit
+den *unbroken thrusters* hat sich in Runde 5 aufgelöst, ich habe dann immer 5 und 4 
+Thrusters gemacht. Damit bin ich ganz gut durchgekommen, die Double Unders konnte ich 
+tatsächlich ein bißchen zum Erholen nutzen. Ich bin jedenfalls mit diesem WOD zufrieden.
 
 Das [Crossfit Open WOD 17.5][0] ist angekündigt:
 
