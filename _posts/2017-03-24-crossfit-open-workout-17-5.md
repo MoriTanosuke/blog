@@ -3,6 +3,9 @@ layout: post
 title: "Crossfit Open WOD 17.5"
 ---
 
+*Update* Meine Zeit ist 15:07. Das war auch meine angepeilte Zeit, allerdings hatte ich 
+kurz vorher doch einige Bedenken, dass ich das Tempo durchhalten kann. 😵
+
 Das [Crossfit Open WOD 17.5][0] ist angekündigt:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XjABpCst-Us" frameborder="0" allowfullscreen></iframe>
