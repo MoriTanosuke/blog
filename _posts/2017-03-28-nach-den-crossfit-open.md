@@ -2,7 +2,7 @@
 layout: post
 title: Nach den Crossfit Open
 ---
-Die [Crossfit Open 2017][0] sind vorbei, ich habe diesmal alle Workout mitmachen und alle 
+Die [Crossfit Open 2017][0] sind vorbei, ich habe diesmal alle Workouts mitmachen und alle 
 Scores in das [offizielle Leaderboard][1] eintragen können. (Ok, einen Tag nach dem letzten 
 Workout hat mich eine Erkältung erwischt, aber wenigstens erst einen Tag hinterher und 
 nicht vorher.)
@@ -11,7 +11,7 @@ Mein Ziel für dieses Jahr war es, alle Workouts *Rx'd* zu machen, d.h. mit vorg
 Gewichten und vorgeschriebenen Übungen. Ausserdem wollte ich natürlich bei einem Repeat 
 besser abschneiden als letztes Jahr.
 
-Beide Ziele habe ich erreicht. Ich habe alle Workouts *Rx'd+ gemacht, auch [17.2 mit den 
+Beide Ziele habe ich erreicht. Ich habe alle Workouts *Rx'd* gemacht, auch [17.2 mit den 
 Bar Muscle Ups][3]. [17.4 war 16.4][2] und ich habe 8 *Handstand Push Ups* mehr geschafft.
 Klingt erstmal nicht viel, aber ich sag mal so: Während des Ruderns hab ich kurz überlegt, 
 ob ich nicht einfach aufhören sollte.
