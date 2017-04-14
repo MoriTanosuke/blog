@@ -45,6 +45,8 @@ eine Schulung mit entsprechender Prüfung bei einer anerkannten Stelle absolvier
 
 **Kennzeichnung**
 
+Ich habe mir eine [Plakette beim BVCP][2] bestellt.
+
 > Alle unbemannten Luftfahrtgeräte ab 0,25 kg müssen nach § 19 Abs. 3 LuftVZO ab 
 > dem 1. Oktober 2017 gekennzeichnet werden. Der Steuerer hat an sichtbarer Stelle 
 > seinen Namen und seine Anschrift in dauerhafter und feuerfester Beschriftung an 
@@ -67,3 +69,4 @@ kann - kein Grund, den Quadkopter an den Nagel zu hängen.
 
 [0]: http://www.strassenbau.niedersachsen.de/startseite/aufgaben/luftverkehr/unbemannte_luftfahrtsysteme_uas/unbemannte-luftfahrtsysteme-114884.html
 [1]: https://www.gesetze-im-internet.de/luftvg/
+[2]: https://bvcp.de/produkt/kennzeichnungsplaketten/
