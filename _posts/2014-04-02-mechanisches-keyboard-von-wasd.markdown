@@ -12,7 +12,7 @@ WASD bietet den netten Service, dass man sich sowohl Beschriftung als auch Farbe
 
 <center><a href="https://www.flickr.com/photos/cringe/13574041293" title="Layout for my WASDKeyboard by Carsten Ringe, on Flickr"><img src="https://farm8.staticflickr.com/7129/13574041293_9e37d62108.jpg" width="500" height="195" alt="Layout for my WASDKeyboard"></a></center>
 
-Leider habe ich vergessen, eine Auswahl der anderen Switches und Dämpfungsringe mitzubestellen. Ich wollte eigentlich den Sound und den Anschlag der Switches einmal durchprobieren, falls ich noch etwas passenderes für mich finde. Das mechanische Keyboard hat ja auch den Vorteil, dass ich die Switches oder die Dämpfer später noch wechseln könnte. Bei WASD kann man alle Einzelteile nachbestellen, so dass ich z.B. das Farblayout wechseln könnte, wenn ich mich an meinem minimalen Layout sattgesehen habe. :smile:
+Leider habe ich vergessen, eine Auswahl der anderen Switches und Dämpfungsringe mitzubestellen. Ich wollte eigentlich den Sound und den Anschlag der Switches einmal durchprobieren, falls ich noch etwas passenderes für mich finde. Das mechanische Keyboard hat ja auch den Vorteil, dass ich die Switches oder die Dämpfer später noch wechseln könnte. Bei WASD kann man alle Einzelteile nachbestellen, so dass ich z.B. das Farblayout wechseln könnte, wenn ich mich an meinem minimalen Layout sattgesehen habe. 🙂
 
 Ich wollte unbedingt eine Tastatur ohne Ziffernblock, da ich die Extratasten so gut wie nie benutze und der Weg zur Maus damit nur weiter vergrößert wird als ohnehin schon.
 
