@@ -20,3 +20,4 @@ Wer noch nie eine mechanische Tastatur ausprobiert hat, der sollte das unbedingt
 [1]: https://www.amazon.de/gp/product/B01LZR7H7R/kopisde-21
 [2]: https://www.amazon.de/Logitech-Gaming-Tastatur-schnurgebunden-deutsches-Tastaturlayout/dp/B00CJ5FNI8/kopisde-21
 [3]: https://www.youtube.com/watch?v=Z7qAGD09nKM
+
