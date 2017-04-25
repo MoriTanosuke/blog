@@ -6,9 +6,9 @@ Ich benutze im Büro seit mittlerweile 3 Jahren eine [mechanische Tastatur von W
 
 Das ändert sich jetzt: vor ein paar Tagen habe ich mir eine [Pok3r Vortex RGB][1] bestellt. Die Tastatur ist eine Nummer kleiner als die WASD, hat also keine Funktionstasten und keinen Cursorblock. Das ist ein kleiner Nachteil und für die Arbeit würde ich mir die Tastatur wahrscheinlich nicht bestellen. Ob ich damit privat gut zurecht komme, wird sich zeigen. Die einstellbare Beleuchtung ist eine nette Spielerei, ich hoffe, die dunkelste Stufe ist nicht störend und die Farben können fein genug verändert werden, damit ich eine brauchbare Einstellung finde.
 
-Hier ist noch ein kleines Video, in dem ich die eingebauten Einstellungen durchprobiere.
+Hier ist noch <a href="https://www.youtube.com/watch?v=Z7qAGD09nKM">ein kleines Video</a>, in dem ich die eingebauten Einstellungen durchprobiere.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z7qAGD09nKM" frameborder="0" allowfullscreen><a href="https://www.youtube.com/watch?v=Z7qAGD09nKM">Bei Youtube ansehen</a></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Z7qAGD09nKM" frameborder="0" allowfullscreen></iframe>
 
 Wer noch nie eine mechanische Tastatur ausprobiert hat, der sollte das unbedingt tun. Aber legt schonmal ein bisschen Geld zurück, denn anschliessend wird auf jeden Fall ein Tausch der existierenden Geräte fällig. Und von Laptop-Tastaturen will ich gar nicht erst anfangen...
 
