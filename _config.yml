@@ -2,9 +2,11 @@
 title:       KOPIS.DE
 email:       carsten@kopis.de
 author:      Carsten Ringe
-description: "Mein Blog über Software Entwicklung, Crossfit und andere Dinge"
-url:     "https://www.kopis.de/blog"
+description: "Mein Blog üer Software Entwicklung, Crossfit und andere Dinge"
+# for relative links via post_url
 baseurl:         "/blog"
+# for feed urls
+url:     "https://www.kopis.de/"
 
 # Google analytics
 #google_analytics:
