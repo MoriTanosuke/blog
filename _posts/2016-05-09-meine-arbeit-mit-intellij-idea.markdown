@@ -18,6 +18,6 @@ Einige Features nutze ich häufig:
 
 Alles in allem war der Umstieg gut, ich muss mich deutlich weniger aufregen. Zumindest nicht mehr so häufig über die IDE.
 
-[0]: {% post_url 2016-03-01-wechsel-von-eclipse-zu-intellij-idea %}
+[0]: {{ site.baseurl }}{% post_url 2016-03-01-wechsel-von-eclipse-zu-intellij-idea %}
 [1]: https://www.jetbrains.com/idea/features/editions_comparison_matrix.html
 [2]: http://meldmerge.org/

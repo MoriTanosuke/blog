@@ -300,6 +300,6 @@ I guess while doing more work on my own mod, I will post more articles on Minecr
 
 [0]: http://minecraft.net/
 [1]: http://files.minecraftforge.net/
-[2]: {% post_url 2014-02-27-how-to-create-a-minecraft-mod-with-forge %}
+[2]: {{ site.baseurl }}{% post_url 2014-02-27-how-to-create-a-minecraft-mod-with-forge %}
 [3]: https://github.com/MoriTanosuke/kopista
 

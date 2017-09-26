@@ -13,6 +13,6 @@ So langsam hält *Functional Training* auch in den eher dünn besiedelten Gegend
 
 [0]: http://www.crossfithh.de/
 [1]: http://northgym.de/
-[2]: {% post_url 2015-03-13-crossfit-open-15.3 %}
+[2]: {{ site.baseurl }}{% post_url 2015-03-13-crossfit-open-15.3 %}
 [3]: http://crossformation.de/
 

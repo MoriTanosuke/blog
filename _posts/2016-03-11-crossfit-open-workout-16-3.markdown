@@ -19,5 +19,5 @@ Da sind sie also: [Bar Muscle Ups][1]. 😮 Ich habe noch nie einen Bar Muscle U
 
 [0]: http://games.crossfit.com/workouts/the-open/2016#tabs-3
 [1]: https://www.youtube.com/watch?v=astSQRh1-i0
-[2]: {% post_url 2015-03-13-crossfit-open-15.3 %}
+[2]: {{ site.baseurl }}{% post_url 2015-03-13-crossfit-open-15.3 %}
 
