@@ -7,7 +7,7 @@
     <meta name="author" content="{{ site.author }}">
     <meta name="flattr:id" content="4xxx9w">
     {% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.host }}">
 
     {% feed_meta %}
 
@@ -24,11 +24,11 @@
 
     <!-- Open Graph -->
     <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
-    <meta property="og:locale" content="en_US">
+    <meta property="og:locale" content="de_DE">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.host }}{{ site.baseurl }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
 
     <!-- Icons -->

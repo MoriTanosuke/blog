@@ -14,7 +14,7 @@ Wenn ich dazu noch bedenke, dass ich in der Zeit der WODs auch noch umgezogen bi
 
 Mein Fazit:
 
-![Will do again]({{ site.url }}/images/will-do-again.jpg)
+![Will do again]({{ site.baseurl }}/images/will-do-again.jpg)
 
 [0]: {{ site.baseurl }}{% post_url 2016-02-29-crossfit-open-wod-16-1 %}
 [1]: {{ site.baseurl }}{% post_url 2016-03-04-crossfit-open-workout-16-2 %}

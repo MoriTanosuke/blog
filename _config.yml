@@ -5,8 +5,9 @@ author:      Carsten Ringe
 description: "Mein Blog üer Software Entwicklung, Crossfit und andere Dinge"
 # for relative links via post_url
 baseurl:         "/blog"
+host: "https://www.kopis.de"
 # for feed urls
-url:     "https://www.kopis.de/"
+url:     "https://www.kopis.de"
 
 # Google analytics
 #google_analytics:
@@ -56,4 +57,5 @@ permalink:    pretty
 paginate:     10
 sass:
   compressed: true
+
 

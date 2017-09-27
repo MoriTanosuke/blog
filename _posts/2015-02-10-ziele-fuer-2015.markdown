@@ -17,4 +17,4 @@ Für das Jahr 2015 setze ich mir folgende Ziele im Crossfit:
 * Freier Handstand - nicht erreicht, ich bin mittlerweile so weit, dass ich ohne Hilfe in den Handstand komme und manchmal 1 oder 2 Sekunden stehen bleibe
 
 
-[0]: {{ site.url }}/ziele-fur-2014/
+[0]: {{ site.baseurl }}{% post_url 2014-08-02-ziele-fur-2014 %}
