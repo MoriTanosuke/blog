@@ -11,9 +11,9 @@ Nachdem der erste Anlauf durch fehlendes Werkzeug (ich hab 10er Torx-Schraubendr
 Ende fand, hab ich mich gestern dann nochmal dran gesetzt. Der Einbau war wie erwartet schmerzlos, bis auf die leichten 
 Kopfschmerzen einer aufziehenden Erkältung, und das Ergebnis startete auch wie gewohnt:
 
-![Aufgeschraubte Fritzbox]({{ site.baseurl }}/images/fritbox-mod-1.jpg)
+![Aufgeschraubte Fritzbox]({{ site.baseurl }}/images/fritzbox-mod-1.jpg)
 
-![Fritzbox mit neuen Antennen]({{ site.baseurl }}/images/fritbox-mod-2.jpg)
+![Fritzbox mit neuen Antennen]({{ site.baseurl }}/images/fritzbox-mod-2.jpg)
 
 Ich habe dann auch gleich das 2.4GHz und das 5GHz WLAN unterschiedliche benannt und verbinde meine Geräte jetzt mit dem 5GHz Netz.
 Meine Nachbarn scheinen eher auf den 2.4GHz Standard zu setzen, jedenfalls habe ich in dem Netz auch weniger Störungen von 
