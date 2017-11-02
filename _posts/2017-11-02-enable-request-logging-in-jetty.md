@@ -10,7 +10,7 @@ request headers is on a different level.
 
 After digging around in the documentation and the sourcecode for a while, this is what I came up with:
 
-````
+```` java
 // Create a server, but do not start it. This would prevent adding
 // handlers later
 Server server = JettyHttpContainerFactory.createServer(baseUri, null, null, false);
