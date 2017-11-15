@@ -30,8 +30,13 @@ dort verbauten Chipsätze gut mit Mac OS zusammenspielen. Ich habe aber ein etwa
 
 Mittlerweile bin ich also so weit, das sich ein funktionierendes *Mac OS High Sierra* auf meinem Desktop habe. Ich muss zwar
 noch vom USB Stick booten und dann erst das Mac OS auf der internen SSD starten, aber das bekomme ich auch noch in den Griff.
+
 Meine Nvidia GTX 970 macht auch schon ein Bild, aber die offiziellen Treiber laufen noch nicht. Audio habe ich noch nicht 
 probiert, aber da ich eine externe USB Soundkarte von Xonar habe, sollte das auch kein Problem sein.
+
+*Edit* Die Grafikkarte läuft auch.
+
+![Screenshot von Mac OS High Sierra]({{ site.baseurl }}/images/macos.png)
 
 Einziger Bug: beim Start öffnet sich eins meiner Bluray Laufwerke. 😎 Aber damit kann ich erstmal leben.
 
