@@ -1,7 +1,7 @@
 ---
 title: 'Unit Tests in Clojure (und Leiningen)'
 date: 2011-03-01 00:00:00 
-tags: 
+tags: clojure
 layout: post
 ---
 <p>Damit es hier nicht zu weichspülerartig mit Videos weiter geht, kommt noch was für die Clojure-Leute. :-) Ich will langsam mit den Unit Tests für Clojure anfangen und hab dazu 3 sehr einfache Funktionen definiert. Dazu eine Datei mit einigen einfachen Unit Tests. Das ganze kann man mit <a href="https://github.com/technomancy/leiningen">Leiningen</a> sehr einfach ausführen:</p>
