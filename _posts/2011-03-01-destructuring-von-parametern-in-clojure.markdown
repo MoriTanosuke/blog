@@ -1,7 +1,7 @@
 ---
 title: 'Destructuring von Parametern in Clojure'
 date: 2011-03-01 00:00:00 
-tags: 
+tags: clojure
 layout: post
 ---
 <p>In Clojure gibt es ein nettes Sprachmittel, um Parameter -oder generell: Elemente aus Listen- herauszuholen. Am häufigsten wird das sicher bei Funktionsparametern eingesetzt. Hier ist ein einfaches Beispiel:</p>
