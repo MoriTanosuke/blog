@@ -1,7 +1,7 @@
 ---
 title: 'Clojure Tutorial, Teil 2: Namespaces'
 date: 2010-12-03 00:00:00 
-tags: 
+tags: clojure
 layout: post
 ---
 <em>Dies ist der zweite Artikel in einer kleinen Serie, die meine ersten Schritte in der neuen funktionalen Programmiersprache <a href="http://clojure.org/">Clojure</a> dokumentieren soll. Die Artikel werden in unregelmäßigen Abständen hier publiziert.</em>
