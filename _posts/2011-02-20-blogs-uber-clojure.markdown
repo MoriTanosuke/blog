@@ -1,7 +1,7 @@
 ---
 title: 'Blogs über Clojure'
 date: 2011-02-20 00:00:00 
-tags: 
+tags: clojure
 layout: post
 ---
 Weil ich in den letzten Tagen selbst auf der Suche nach interessanten Blogs zu Clojure gewesen, aber nichts gefunden habe, will ich hier mal eine Liste von interessanten Stellen im Netz aufbauen.
