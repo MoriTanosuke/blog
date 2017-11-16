@@ -1,7 +1,7 @@
 ---
 title: 'Clojure Tutorial, Teil 1'
 date: 2010-11-30 00:00:00 
-tags: 
+tags: clojure
 layout: post
 ---
 <em>Dies ist der erste Artikel in einer kleinen Serie, die meine ersten Schritte in der neuen funktionalen Programmiersprache <a href="http://clojure.org/">Clojure</a> dokumentieren soll. Die Artikel werden in unregelmäßigen Abständen hier publiziert.</em>
