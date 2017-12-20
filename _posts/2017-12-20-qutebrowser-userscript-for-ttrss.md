@@ -2,7 +2,7 @@
 title: "Qutebrowser userscript for TT-RSS"
 layout: post
 ---
-After [the recent mishap of Firefox][0] I siwtched to [qutebrowser][1] on Linux and Windows. As a [i3wm][2] user, I feel right at home - but I do miss the snychronisation between machines and my mobile. But I guess I have to live with that inconvenience for the moment.
+After [the recent mishap of Firefox][0] I switched to [qutebrowser][1] on Linux and Windows. As an [i3wm][2] user, I feel right at home - but I do miss the synchronisation between machines and my mobile. But I guess I have to live with that inconvenience for the moment.
 
 One thing I can not live without is a quick bookmark to share articles via my [ttrss][3] installation. If you are interested, you can find [my shared articles as a RSS feed here][4]. I update the feed almost every day when I find something interesting.
 
