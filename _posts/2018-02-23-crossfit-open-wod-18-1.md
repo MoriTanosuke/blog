@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open WOD 18.1"
+tags: crossfit
 ---
 
 Das [Crossfit Open WOD 18.1][0] ist angekündigt:
