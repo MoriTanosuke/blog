@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Crossfit Open WOD 18.1"
 ---
 
 Das [Crossfit Open WOD 18.1][0] ist angekündigt:
