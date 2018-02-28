@@ -1,12 +1,13 @@
 ---
 title: 'Learning Golang #3, oder Wie hänge ich ein Element an eine Map?'
 date: 2010-03-08 00:00:00 
-tags: 
+tags: golang
 layout: post
 ---
-<p><span class="dropCap">E</span>s mag offensichtlich sein, aber ich will es hier doch noch festhalten: Um ein Element an eine <code>map</code> anzuh&auml;ngen, gen&uuml;gt eine Zuweisung.</p>
+Es mag offensichtlich sein, aber ich will es hier doch noch festhalten: Um ein Element an eine `map` anzuhängen, genügt eine Zuweisung.
 
-<pre>package main
+````golang
+package main
 
 import (
    "fmt"
@@ -16,15 +17,17 @@ func main() {
     var m = map[string]string{"1":"eins"}
     m["2"] ="zwei"
     fmt.Println(m)
-}</pre>
+}
+````
 
-<p>Diese kleine Programm gibt folgende Ausgabe:</p>
+Diese kleine Programm gibt folgende Ausgabe:
 
-<pre>map[1:eins 2:zwei]</pre>
+    map[1:eins 2:zwei]
 
-<p>Daraufhin habe ich diese kleine Testanwendung geschrieben, die eine <code>map[string]string</code> nimmt, ein Argument hinzuf&uuml;gt und anschliessend einen String ausgibt, in dem alle Inhalte der <code>map</code> sortiert enthalten sind.</p>
+Daraufhin habe ich diese kleine Testanwendung geschrieben, die eine `map[string]string` nimmt, ein Argument hinzufügt und anschliessend einen String ausgibt, in dem alle Inhalte der `map` sortiert enthalten sind.
 
-<pre>package main
+````golang
+package main
 
 import (
    "fmt"
@@ -49,6 +52,6 @@ func main() {
     m["2"] ="zwei"
     query := gq(m)
     fmt.Printf("result: ?%sn", query)
-}</pre>
-
-<p>Und ja, brauche ich so f&uuml;r meine erste kleine Anwendung von <a href="http://golang.org">golang</a>. :-)</p>
+}
+````
+Und ja, brauche ich so für meine erste kleine Anwendung von *golang*. 😀
