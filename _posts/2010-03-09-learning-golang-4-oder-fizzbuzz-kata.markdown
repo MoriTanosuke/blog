@@ -1,14 +1,15 @@
 ---
 title: 'Learning Golang #4, oder FizzBuzz Kata'
 date: 2010-03-09 00:00:00 
-tags: 
+tags: golang
 layout: post
 ---
-<p><span class="dropCap">H</span>eute habe ich mir eine <a href="http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue">Kata</a> vorgenommen, und zwar FizzBuzz. Ich schreibe mein Golang immer noch extrem kurz und unleserlich. Solche Dinge wie <code>r[v] = list[v]</code> l&ouml;sen ein schlechtes Gewissen bei mir aus, aber trotzdem bekommt ihr hier den Sourcecode ohne irgendwelche Versch&ouml;nerungen. Wie bei einer Kata üblich kommt erst der Test, dann der Code:</p>
+Heute habe ich mir eine [Kata][0] vorgenommen, und zwar FizzBuzz. Ich schreibe mein Golang immer noch extrem kurz und unleserlich. Solche Dinge wie `r[v] = list[v]` lösen ein schlechtes Gewissen bei mir aus, aber trotzdem bekommt ihr hier den Sourcecode ohne irgendwelche Verschönerungen. Wie bei einer Kata üblich kommt erst der Test, dann der Code:
 
-<p><strong>fizzbuzz_test.go</strong></p>
+# fizzbuzz_test.go
 
-<pre>package fizzbuzz
+````golang
+package fizzbuzz
 
 import (
    "testing"
@@ -23,13 +24,16 @@ func TestAnswer(t *testing.T) {
         }
     }
 }
+
 func error(t *testing.T, message string, expected interface{}, actual interface{}) {
     t.Errorf("%s: '%s' != '%s'", message, expected, actual)
-}</pre>
+}
+````
 
-<p><strong>fizzbuzz.go</strong></p>
+# fizzbuzz.go
 
-<pre>package fizzbuzz
+````golang
+package fizzbuzz
 
 func Answer(list []int) []interface{} {
     r := make([]interface{}, len(list))
@@ -46,4 +50,7 @@ func Answer(list []int) []interface{} {
         }
     }
     return r
-}</pre>
+}
+````
+
+[0]: http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue
