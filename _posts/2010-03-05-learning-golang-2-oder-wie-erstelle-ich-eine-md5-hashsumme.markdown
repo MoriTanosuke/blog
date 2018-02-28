@@ -1,14 +1,15 @@
 ---
 title: 'Learning Golang #2, oder Wie erstelle ich eine MD5-Hashsumme?'
 date: 2010-03-05 00:00:00 
-tags: 
+tags: golang
 layout: post
 ---
-<p><span class="dropCap">W</span>eiter geht's. Diesmal mit der Erstellung einer <a href="http://de.wikipedia.org/wiki/Message-Digest_Algorithm_5">MD5-Hashsumme</a>. Diese Funktion brauchte ich f&uuml;r die Validierung einer API-Anfrage. Dort sollte neben der Argumentliste auch eine Hashsumme der Argumente plus einem geheimen Schl&uuml;ssel&amp;uuml;bermittelt werden. Nach ein paar erfolglosen Versuchen, aus der <a href="http://golang.org/pkg/crypto/md5/">Package Documentation</a> schlau zu werden, <a href="http://stackoverflow.com/questions/2377881/how-to-get-a-md5-hash-from-a-string-in-golang">half mir (wieder einmal) Stackoverflow weiter</a>.</p>
+Weiter geht's. Diesmal mit der Erstellung einer [MD5-Hashsumme][0]. Diese Funktion brauchte ich für die Validierung einer API-Anfrage. Dort sollte neben der Argumentliste auch eine Hashsumme der Argumente plus einem geheimen Schlüssel übermittelt werden. Nach ein paar erfolglosen Versuchen, aus der [Package Documentation][1] schlau zu werden, [half mir (wieder einmal) Stackoverflow weiter][2].
 
-<p>Das ist übrigens auch der schwierigste Teil von Golang bis jetzt: Herausfinden, welche Funktion man aus einem Package gerade ben&ouml;tigt und vor allem wie man sie aufruft.</p>
+Das ist übrigens auch der schwierigste Teil von Golang bis jetzt: Herausfinden, welche Funktion man aus einem Package gerade benötigt und vor allem wie man sie aufruft.
 
-<pre>package main
+````golang
+package main
 
 import (
    "fmt"
@@ -21,4 +22,9 @@ func main() {
     var h hash.Hash = md5.New()
     h.Write([]byte(original))
     fmt.Printf("%s: %xn", original, h.Sum())
-}</pre>
+}
+````
+
+[0]: http://de.wikipedia.org/wiki/Message-Digest_Algorithm_5
+[1]: https://golang.org/pkg/crypto/md5/
+[2]: https://stackoverflow.com/questions/2377881/how-to-get-a-md5-hash-from-a-string-in-golang
