@@ -16,7 +16,7 @@ Männer benutzen eine 22.5kg Kurzhantel, Frauen benutzen 15kg.
 
 **Update**
 
-Hier ist mein Workout:
+Ich habe 285 Reps geschafft, d.h. Runde 9 fast fertig. Hier ist mein Workout:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S6P5vk7T8gs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
