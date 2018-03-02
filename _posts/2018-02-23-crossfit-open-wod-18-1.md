@@ -10,7 +10,7 @@ Das [Crossfit Open WOD 18.1][0] ist angekündigt:
 
 ([Bei Youtube ansehen][4])
 
-# 18.1 AMRAP 20min
+**18.1 AMRAP 20min**
 
 * 8 toes-to-bars
 * 10 dumbbell hang clean and jerks
