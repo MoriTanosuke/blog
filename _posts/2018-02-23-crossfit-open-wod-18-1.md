@@ -6,7 +6,11 @@ tags: crossfit
 
 Das [Crossfit Open WOD 18.1][0] ist angekündigt:
 
-18.1 AMRAP 20min
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MVq-IS__mLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+([Bei Youtube ansehen][4])
+
+# 18.1 AMRAP 20min
 
 * 8 toes-to-bars
 * 10 dumbbell hang clean and jerks
@@ -29,3 +33,4 @@ Ich werde diesmal alle Workouts filmen. Diesmal hat mir die Technik einen kleine
 [1]: https://games-assets.crossfit.com/18_1_workout11_asldkfjhaks13475JDUTEdjfha.pdf
 [2]: https://www.youtube.com/watch?v=S6P5vk7T8gs
 [3]: https://www.amazon.de/Canon-Digitalkamera-klappbarem-LCD-Display-Touchscreen/dp/B01BYERRUG/kopisde-21
+[4]: https://www.youtube.com/watch?v=MVq-IS__mLc
