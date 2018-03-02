@@ -10,14 +10,14 @@ Das [Crossfit Open WOD 18.2][0] ist angekündigt:
 
 ([bei Youtube ansehen][2])
 
-18.2 For time in 12min
+# 18.2 For time in 12min
 
 1-2-3-4-5-6-7-8-9-10 reps
 
 * Dumbbell squats (22.5kg, 15kg)
 * Bar-facing burpees
 
-18.2a
+# 18.2a
 
 * 1RM Clean
 
