@@ -4,7 +4,11 @@ title: "Crossfit Open WOD 18.1"
 tags: crossfit
 ---
 
-Das [Crossfit Open WOD 18.1][0] ist angekündigt:
+Das [Crossfit Open WOD 18.2][0] ist angekündigt:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZIbI0ekrrZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+([bei Youtube ansehen][2])
 
 18.2 For time in 12min
 
@@ -23,3 +27,4 @@ Wie immer gibt es die [Workout Description als PDF][1].
 
 [0]: https://games.crossfit.com/workouts/open/2018/2
 [1]: https://games-assets.crossfit.com/18_2_15_aosi89035aiwSDOFIHhawe.pdf
+[2]: https://www.youtube.com/watch?v=ZIbI0ekrrZU
