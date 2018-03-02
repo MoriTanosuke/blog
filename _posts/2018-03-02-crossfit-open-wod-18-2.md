@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crossfit Open WOD 18.1"
+title: "Crossfit Open WOD 18.2"
 tags: crossfit
 ---
 
