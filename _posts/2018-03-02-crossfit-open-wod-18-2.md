@@ -13,7 +13,9 @@ Das [Crossfit Open WOD 18.1][0] ist angekündigt:
 * Dumbbell squats (22.5kg, 15kg)
 * Bar-facing burpees
 
-Männer benutzen 22.5kg Kurzhanteln, Frauen benutzen 15kg.
+18.2a
+
+* 1RM Clean
 
 *Anschliessend* kommt ein 1RM Clean. Alles innerhalb der 12 Minuten, d.h. wenn man mit den Burpees nach 8min fertig ist, hat man noch 4min für einen Maximalversuch Clean. Jede Art von Clean ist erlaubt.
 
