@@ -25,6 +25,15 @@ Das [Crossfit Open WOD 18.2][0] ist angekündigt:
 
 Wie immer gibt es die [Workout Description als PDF][1].
 
+**Update**
+
+Meine Zeit: 9:05min Clean: 100kg
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BSZZazAwIVI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+([bei Youtube ansehen][3])
+
 [0]: https://games.crossfit.com/workouts/open/2018/2
 [1]: https://games-assets.crossfit.com/18_2_15_aosi89035aiwSDOFIHhawe.pdf
 [2]: https://www.youtube.com/watch?v=ZIbI0ekrrZU
+[3]: https://www.youtube.com/watch?v=BSZZazAwIVI
