@@ -9,7 +9,7 @@ Das [Crossfit Open WOD 18.3][0] ist angekündigt:
 
 ([bei youtube ansehen][1])
 
-18.3 2 rounds for time in 14min:
+**18.3** 2 rounds for time in 14min:
 
 * 100 double-unders
 * 20 overhead squats
