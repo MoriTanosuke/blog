@@ -5,8 +5,8 @@
 	<channel>
 		<title>{{ site.name | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
+		<link>{{ site.url }}{{ site.baseurl }}</link>
+		<atom:link href="{{ site.url }}{{ page.path | prepend: site.baseurl }}" rel="self" type="application/rss+xml" />
 		<lastBuildDate>{% for post in site.posts limit:1 %}{{ post.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
 		{% for post in site.posts limit:10 %}
 			<item>
@@ -16,8 +16,8 @@
 				{% endif %}
                 <description>{{ post.content | xml_escape }}</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<link>{{ site.url }}{{ post.url | prepend: site.baseurl }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url | prepend: site.baseurl }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
