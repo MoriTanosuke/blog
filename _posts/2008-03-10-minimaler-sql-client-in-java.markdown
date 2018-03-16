@@ -1,14 +1,11 @@
 ---
 title: 'Minimaler SQL-Client in Java'
 date: 2008-03-10 00:00:00 
-tags: 
 layout: post
 ---
-Ich hab gerade einen kleinen SQL-Client geschrieben, mit dem man einfach SQL-Statements gegen eine Datenbank absetzen kann. Falls jemand auf der Suche ist, bedient euch. :-) Aktuellere Versionen gibt es vielleicht später unter <a href="http://wikihost.org/wikis/kopis/wiki/prog:simplesqlclient.java">http://wikihost.org/wikis/kopis/wiki/prog:simplesqlclient.java</a>. Dort ist auch der Quelltext besser formatiert, also schaut's einfach mal an.
+Ich hab gerade einen kleinen SQL-Client geschrieben, mit dem man einfach SQL-Statements gegen eine Datenbank absetzen kann. Falls jemand auf der Suche ist, bedient euch. Wer Verbesserungen hat, der kann sich gern in den Kommentaren zu Wort melden. 😀
 
-Wer Verbesserungen hat, der kann sich gern in den Kommentaren zu Wort melden. :-)
-
-<pre>
+````java
 package com.basf.migration.region;
 
 import java.sql.Connection;
@@ -71,4 +68,5 @@ public static void main(String[] args) {
         new SimpleSqlClient(args[0], args[1], args[2], args[3], args[4]);
 
     }
-}</pre>
+}
+````
