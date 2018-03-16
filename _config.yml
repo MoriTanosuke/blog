@@ -49,13 +49,9 @@ share_hackernews: false
 
 # Build settings
 plugins:
-#  - jemoji
-  - jekyll-feed
   - jekyll-paginate
 markdown:     kramdown
 permalink:    pretty
 paginate:     10
 sass:
   compressed: true
-
-
