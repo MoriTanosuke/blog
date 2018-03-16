@@ -14,7 +14,7 @@
 				{% if post.author.name %}
 					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
 				{% endif %}
-                <description>{{ post.content }}</description>
+                <description>{{ post.content | markdownify | xml_escape }}</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<link>{{ site.url }}{{ post.url | prepend: site.baseurl }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url | prepend: site.baseurl }}</guid>
