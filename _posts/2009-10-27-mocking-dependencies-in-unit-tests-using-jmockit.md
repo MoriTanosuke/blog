@@ -6,7 +6,7 @@ layout: post
 
 **Garage & GarageTest**
 
-This test case demonstrate the use of [JMockIt][1] and its *Expectations* to resolve dependencies in unit tests. *Expectations* are a way to easily mock the behavior of an object in unit tests, without creating interfaces, classes and other overhead. Take a look at the full unit test first, and I'll explain what's done there later. You can find the interface ´Garage´ and the classes ´CheapGarage´ and ´EngineFactory´ at the end of this blogpost.
+This test case demonstrate the use of [JMockIt][1] and its *Expectations* to resolve dependencies in unit tests. *Expectations* are a way to easily mock the behavior of an object in unit tests, without creating interfaces, classes and other overhead. Take a look at the full unit test first, and I'll explain what's done there later. You can find the interface `Garage` and the classes `CheapGarage` and `EngineFactory` at the end of this blogpost.
 
 Now, back to the method `testRepairWithExpectationEngineFactory()`. The `EngineFactory` is a dependency buried down in the `CheapGarage` class that is responsible for replacing the `Engine` in a `Car`. There is a mocked instance of `EngineFactory` in this unit test that will return a new `DieselEngine` every time the method `instantiate()` is called with any kind of argument. This way I can control exactly how the hidden call to a factory behaves.  JMockIt has a bunch of other useful features and I recommend it for all unit tests. If you care about your tests and try to avoid testing dependencies instead of your logic, then you should start using JMockIt today. 😀
 
