@@ -1,9 +1,8 @@
 ---
 title: 'Nicht-druckbare Zeichen aus einem String entfernen'
-date: 2008-10-29 00:00:00 
 layout: post
 ---
-<p>Ja, ich weiß. Ich poste zu viel *Musik*. Aber das muss sein!  Jetzt kommt aber noch etwas anderes, nämlich das Entfernen von nicht-druckbaren Zeichen aus einem String - in [Java][0]:
+Ja, ich weiß. Ich poste zu viel *Musik*. Aber das muss sein!  Jetzt kommt aber noch etwas anderes, nämlich das Entfernen von nicht-druckbaren Zeichen aus einem String - in [Java][0]:
 
 ````java
 String s = new String(new char[] {0x05, 0x03, 'H', 'E', 'L', 0x10, 'L', 'O'});
