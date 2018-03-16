@@ -1,12 +1,10 @@
 ---
 title: 'Sourcecode Highlighter'
-date: 2009-10-03 00:00:00 
-tags: 
 layout: post
 ---
-Ich teste gerade ein Plugin f&uuml;r Quelltexte:
+Ich teste gerade ein Plugin für Quelltexte:
 
-<pre class="brush: java">
+````java
 /**
  * This is a comment.
  */
@@ -17,4 +15,4 @@ public class Test extends JFrame {
         System.out.println("Hello, World!");
     }
 }
-</pre>
+````
