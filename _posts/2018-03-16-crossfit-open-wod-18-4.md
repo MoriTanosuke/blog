@@ -11,17 +11,17 @@ Das [Crossfit Open WOD 18.4][2] ist angekündigt:
 
 **18.4** for time in 9min ([workout description & scorecard][1])
 
-* 21 deadlifts
+* 21 deadlifts, 102kg
 * 21 handstand push-ups
-* 15 deadlifts
+* 15 deadlifts, 102kg
 * 15 handstand push-ups
-* 9 deadlifts
+* 9 deadlifts, 102kg
 * 9 handstand push-ups
-* 21 deadlifts
+* 21 deadlifts, 143kg
 * 50-ft. handstand walk
-* 15 deadlifts
+* 15 deadlifts, 143kg
 * 50-ft. handstand walk
-* 9 deadlifts
+* 9 deadlifts, 143kg
 * 50-ft. handstand walk
 
 Gewicht für Männer sind 102kg und 143kg, für Frauen 70kg und 93kg.
