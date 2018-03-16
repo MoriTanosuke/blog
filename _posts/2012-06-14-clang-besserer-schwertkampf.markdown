@@ -26,11 +26,11 @@ Ich zitiere jetzt einfach mal die drei wichtigsten Punkte aus der Projektbeschre
 > System Embodiments). If your thing is Japanese kenjutsu or Viking
 > sword-and-board, then in principle CLANG should support it.
 
-Als Spieler kennt man ja die üblichen Schwertkämpfe in den Computerspielen. Ob das jetzt [Skyrim][3], [Tera][4] oder [Minecraft][5] ist - Schwertkampf besteht meistens aus dem Drücken eines einzelnen Knopfs auf der Maus/dem Controller. Trotz [Xbox Kinect][6] hat sich am Kampf noch nicht viel getan, man drückt jetzt keinen Knopf mehr sondern zuckt seine Hand von oben nach unten durch die Luft... Oder schaut euch mal [Star Wars Kinect][7] an. :-O
+Als Spieler kennt man ja die üblichen Schwertkämpfe in den Computerspielen. Ob das jetzt [Skyrim][3], [Tera][4] oder [Minecraft][5] ist - Schwertkampf besteht meistens aus dem Drücken eines einzelnen Knopfs auf der Maus/dem Controller. Trotz [Xbox Kinect][6] hat sich am Kampf noch nicht viel getan, man drückt jetzt keinen Knopf mehr sondern zuckt seine Hand von oben nach unten durch die Luft... Oder schaut euch mal [Star Wars Kinect][7] an. 😲
 
 CLANG will jetzt eine exaktere Steuerung bauen, mit der realistisch ein Schwert in Computerspielen bewegt werden kann. Dazu wird das Spiel als erstes eine Duell-Arena aufbauen, um die Technologie zu testen. Aber Neal Stephenson und das Projektteam haben auch genug Material für eine komplette Welt zusammen.
 
-Ich hab das Projekt jedenfalls mit ein paar Dollar unterstützt, denn neue Eingabemethoden sind immer eine gute Idee und die aktuellen Spiele gerade für *Xbox Kinect* sind nicht gerade herausragende Beispiele für Innovation... :-( Wenn ihr auch etwas mehr Varianten für die Steuerung in Computerspielen haben wollt, [dann unterstützt das Projekt][1]!
+Ich hab das Projekt jedenfalls mit ein paar Dollar unterstützt, denn neue Eingabemethoden sind immer eine gute Idee und die aktuellen Spiele gerade für *Xbox Kinect* sind nicht gerade herausragende Beispiele für Innovation... 😞 Wenn ihr auch etwas mehr Varianten für die Steuerung in Computerspielen haben wollt, [dann unterstützt das Projekt][1]!
 
 [0]: https://www.kickstarter.com/
 [1]: http://www.kickstarter.com/projects/260688528/clang
