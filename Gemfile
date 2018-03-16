@@ -1,4 +1,4 @@
 source 'https://rubygems.org' do
   gem 'jekyll-feed'
-  gem 'jekyll-paginate'
+  #gem 'jekyll-paginate'
 end
