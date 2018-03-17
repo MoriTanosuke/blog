@@ -30,6 +30,8 @@ Durch meine Schulterverletzung konnte ich im letzten Jahr den *Handstand Walk* n
 wirklich üben, aber ich glaube, bei den Gewichten werde ich bei den zweiten 21 
 Deadlifts sowieso stecken bleiben... 👴
 
+**Update** Mein Score ist 88, d.h. mir haben noch 2 HSPU für die erste Runde 21-15-9 gefehlt. Meine früheren Diane Zeiten waren 12:53 am 22.04.2016 und 16:16 am 31.08.2015, also Werte ich das heute mal als Verbesserung. Die 143kg hätte ich schon gern noch angefasst, aber bei den HSPU ging es einfach nicht schneller.
+
 [0]: https://www.youtube.com/watch?v=nghMpHOLFxg
 [1]: https://games-assets.crossfit.com/Workout18_4_12-shdnuehqASQbdsuE32w.pdf
 [2]: https://games.crossfit.com/workouts/open/2018/4
