@@ -8,11 +8,15 @@ Today I tried to exclude posts tagged `wod` from my frontpage. The blogging soft
 
 Unfortunately the new helper is not documented, so after reading some of the discussions on the pull requests and the issues I just tried to code the necessary part in my `index.hbs` file:
 
+````
+{% raw %}
     {{! Don't output posts tagged 'wod' on frontpage }}
     {{#has tag="wod"}}
     {{else}}
       <OUTPUT POST AS USUAL>
     {{/has}}
+{% endraw %}
+````
 
 Now all posts tagged `wod` were excluded from the listing on my frontpage. :triumph: But when I clicked through the pagination, I noticed that instead of having 5 posts on all pages I got varying number of posts - the helper excluded the posts, but the pagination is not aware of this change in the list of posts to display. :neutral_face:
 
