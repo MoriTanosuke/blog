@@ -20,7 +20,7 @@ Unfortunately the new helper is not documented, so after reading some of the dis
 
 Now all posts tagged `wod` were excluded from the listing on my frontpage. :triumph: But when I clicked through the pagination, I noticed that instead of having 5 posts on all pages I got varying number of posts - the helper excluded the posts, but the pagination is not aware of this change in the list of posts to display. :neutral_face:
 
-Maybe I didn't get the `{{#has}}` helper right, or maybe there is a better method to exclude posts before they hit the frontpage at all.
+Maybe I didn't get the `{% raw %}{{#has}}{% endraw %}` helper right, or maybe there is a better method to exclude posts before they hit the frontpage at all.
 
 **Do you exclude posts from your frontpage using Ghost? If so, I'd be more than happy if you leave a comment.**
 
