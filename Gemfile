@@ -5,4 +5,5 @@ source 'https://rubygems.org' do
   gem 'public_suffix', '3.0.1'
   gem 'jekyll-sass-converter', '1.5.1'
   gem 'jekyll-paginate'
+  gem 'kramdown'
 end
