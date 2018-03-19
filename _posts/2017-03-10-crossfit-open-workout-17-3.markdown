@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open WOD 17.3"
+tags: crossfit, crossfitopen
 ---
 
 *Update* Mein Score ist 59, d.h. ich habe in den 8min 5x 61kg und 4x 61kg gesnatched. Ich bin zufrieden.
