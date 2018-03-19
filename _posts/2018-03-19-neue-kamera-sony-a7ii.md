@@ -2,7 +2,6 @@
 title: "Neue Kamera: Sony A7 II"
 layout: post
 tags: pictures
-date: "2018-03-19 17:01:00"
 ---
 Am Samstag war es so weit, ich habe mich für eine neue Kamera entschieden. Es ist die [Sony A7 II][0] (ILCE-7M2) geworden:
 
