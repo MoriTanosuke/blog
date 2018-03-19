@@ -1,4 +1,5 @@
 source 'https://rubygems.org' do
+  gem 'jekyll'
   gem 'github-pages', group: :jekyll_plugins
   #gem 'rb-fsevent', '0.10.2'
   #gem 'i18n', '0.9.1'
