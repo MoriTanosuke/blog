@@ -1,6 +1,7 @@
 ---
 title: "Crossfit Open WOD 18.4"
 layout: post
+tags: crossfit, crossfitopen
 ---
 
 Das [Crossfit Open WOD 18.4][2] ist angekündigt:
