@@ -1,6 +1,7 @@
 ---
 title: 'Crossfit Open WOD 15.3'
 layout: post
+tags: crossfit, crossfitopen
 ---
 
 *Update* Mein Score ist 6! Ich war am Samstag noch bei der Gymnasikstunde bei [Crossfit HH][1] und hab Muscle Ups geübt. Ich hab auch gleich meine ersten 3 Muscle Ups geschafft, und beim WOD hab ich gleich 6 Stück in den 14min geschafft. :) Besonders gut gefallen hat mir, dass ich den 6. MU noch geschafft habe, als die Uhr schon bei 13:40 stand. Zwischendurch haben ein paar Muscle Ups nicht geklappt, aber ich bin trotzdem *sehr* zufrieden. Hier ist noch ein Video:
