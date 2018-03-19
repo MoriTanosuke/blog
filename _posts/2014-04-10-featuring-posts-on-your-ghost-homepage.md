@@ -1,15 +1,13 @@
 ---
-title: 'Featuring posts on your Ghost homepage'
-date: 2014-04-10 00:00:00 
-tags: ghost-tag
+title: "Featuring posts on your Ghost homepage"
 layout: post
 ---
 After waking up really early today :tired_face: I wanted give my Ghost blog homepage an overhaul. Because [I don't have a simple solution to exclude posts][0] based on a specific tag, I wanted to give *non-WOD* posts more room at the top of the page.
 
 Fortunately with [Ghost 0.4][1] you can *feature* a post and your theme can check for those featured post. My theme [kopis-ghost-theme][2] now includes code like this:
 
-<script src="https://gist.github.com/MoriTanosuke/10364253.js"></script>
-<noscript>
+````
+{% raw %}
     {{! Display featured posts at the top }}
     {{#foreach posts}}
     {{#if featured}}
@@ -47,7 +45,8 @@ Fortunately with [Ghost 0.4][1] you can *feature* a post and your theme can chec
     </article>
     {{/unless}}
     {{/foreach}}
-</noscript>
+{% endraw %}
+````
 
 With `{#if featured}...{/if}` you can check if the post is a featured post inside your `foreach posts` loop. You can then modify the CSS class, for example.
 
