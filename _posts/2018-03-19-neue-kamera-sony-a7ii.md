@@ -1,6 +1,8 @@
 ---
 title: "Neue Kamera: Sony A7 II"
 layout: post
+tags: pictures
+date: "2018-03-19 17:01:00"
 ---
 Am Samstag war es so weit, ich habe mich für eine neue Kamera entschieden. Es ist die [Sony A7 II][0] (ILCE-7M2) geworden:
 
@@ -12,6 +14,9 @@ herauskam, ist der Preis für die *Mark II* auch nochmal ein wenig gefallen. Ich
 etwas besseren 24-70mm Objektiv von Zeiss entschieden, da der Preis bei [Foto Wiesenhavern][3] wirklich gut war. Vor 
 dem Objektiv ist noch ein Schutzfilter und auf das Display der Kamera habe ich gleich eine Folie geklebt, um dem üblichen
 *Abblättern* gar nicht erst eine Chance zu geben.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/40901927571/in/dateposted/" title="Winter morning"><img src="https://farm1.staticflickr.com/793/40901927571_0f9741d22b.jpg" width="500" height="333" alt="Winter morning"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/40860110522/in/dateposted/" title="Winter morning"><img src="https://farm1.staticflickr.com/802/40860110522_2a539da13f.jpg" width="500" height="333" alt="Winter morning"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Die nächsten Wochen werde ich also erstmal mit den wirklich umfangreichen Funktionen herumspielen müssen, um die Kamera 
 kennenzulernen. Am Sonntag habe ich bereits einige wenige Fotos schiessen können, aber für z.B. Video bot sich noch keine
