@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open Workout 17.1"
+tags: crossfit, crossfitopen
 ---
 *Update* Ich habe das Workout Rx in 19:30 geschafft. 😀
 
