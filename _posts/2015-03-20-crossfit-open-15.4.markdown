@@ -1,6 +1,7 @@
 ---
 title: 'Crossfit Open WOD 15.4'
 layout: post
+tags: crossfit, crossfitopen
 ---
 
 *Update* Mein Score: 33! :-) Und hier noch ein paar Bilder - mit dem Pull bin ich übrigens ganz zufrieden, obwohl auf dem Foto etwas viel Platz zwischen Stange und Körper ist.
