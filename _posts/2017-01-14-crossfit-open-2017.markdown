@@ -1,6 +1,7 @@
 ---
 title: "Crossfit Open 2017"
 layout: post
+tags: crossfit, crossfitopen
 ---
 Es wird langsam ernst 😬:
 
