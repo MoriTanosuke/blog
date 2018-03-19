@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open WOD 17.5"
+tags: crossfit, crossfitopen
 ---
 
 *Update* Meine Zeit ist 15:07. Das war auch meine angepeilte Zeit, allerdings hatte ich 
