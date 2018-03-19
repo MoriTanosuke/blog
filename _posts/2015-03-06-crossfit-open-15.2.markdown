@@ -1,9 +1,10 @@
 ---
 title: 'Crossfit Open WOD 15.2'
 layout: post
+tags: crossfit, crossfitopen
 ---
 
-*Update* Mein Score: 37. :-( Weit weniger als ich mir vorgenommen hatte. Ich werde also in den nächsten Monaten an der Geschwindigkeit meiner Pull Ups arbeiten. Positiv ist, dass Overhead Squats jetzt nicht mehr meine *"schwache"* Übung sind. :-)
+*Update* Mein Score: 37. 😞 Weit weniger als ich mir vorgenommen hatte. Ich werde also in den nächsten Monaten an der Geschwindigkeit meiner Pull Ups arbeiten. Positiv ist, dass Overhead Squats jetzt nicht mehr meine *"schwache"* Übung sind. 😀
 
 Das [Crossfit Open WOD 15.2][0] ist angekündigt.
 
