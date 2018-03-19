@@ -2,7 +2,7 @@
 title: "Featuring posts on your Ghost homepage"
 layout: post
 ---
-After waking up really early today :tired_face: I wanted give my Ghost blog homepage an overhaul. Because [I don't have a simple solution to exclude posts][0] based on a specific tag, I wanted to give *non-WOD* posts more room at the top of the page.
+After waking up really early today 😴 I wanted give my Ghost blog homepage an overhaul. Because [I don't have a simple solution to exclude posts][0] based on a specific tag, I wanted to give *non-WOD* posts more room at the top of the page.
 
 Fortunately with [Ghost 0.4][1] you can *feature* a post and your theme can check for those featured post. My theme [kopis-ghost-theme][2] now includes code like this:
 
@@ -48,7 +48,7 @@ Fortunately with [Ghost 0.4][1] you can *feature* a post and your theme can chec
 {% endraw %}
 ````
 
-With `{#if featured}...{/if}` you can check if the post is a featured post inside your `foreach posts` loop. You can then modify the CSS class, for example.
+With `{% raw %}{#if featured}...{/if}{% endraw %}` you can check if the post is a featured post inside your `foreach posts` loop. You can then modify the CSS class, for example.
 
 Unfortunately I have to loop over the posts twice: first to write out all featured posts, then to write out all regular posts. Done that way, the featured post will appear at the top of the page. There is no easy way - *yet* - to reorder the posts on a given page before going into the `foreach posts` loop. :unamused: If you're good with CSS you can maybe reorder the posts on the client-side, but I'd much prefer to keep those things on my server before rendering the page.
 
