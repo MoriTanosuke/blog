@@ -33,7 +33,7 @@ The following part removes dulpicated tags and invalid tags like blank tag.
 	{% endif %}
 {% endfor %}
 
-<section id="archive">
+<section id="tags">
 {% comment %}
 =======================
 The purpose of this snippet is to list all the tags you have in your site.
@@ -62,7 +62,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 		 <small>{{ post.date | date_to_string }}</small>
 		 </a>
 		 {% for tag in post.tags %}
-			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+			 <a class="tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
 		 {% endfor %}
 		 </h5>
 		 </li>
