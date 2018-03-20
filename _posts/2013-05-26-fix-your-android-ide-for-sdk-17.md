@@ -1,6 +1,5 @@
 ---
 title: 'Fix your Android IDE for SDK 17 and the Android Maven Plugin < 3.5.4'
-date: 2013-05-26 00:00:00 
 tags: android
 layout: post
 ---
@@ -21,21 +20,21 @@ to build the project:
 After a quick search I found [this really fine answer on StackOverflow][0] and [a bug report][5]
 explaining how to fix this issue on my linux environment:
 
-{% highlight bash %}
+````bash
     cd $ANDROID_HOME/platform-tools
     ln -s ../build-tools/android-4.2.2/aapt aapt
     ln -s ../build-tools/android-4.2.2/lib lib
     ln -s ../build-tools/android-4.2.2/aidl aidl
-{% endhighlight %}
+````
 
 Because I am working on different machines, I had to fix this on at least one windows box too:
 
-{% highlight bash %}
+````bash
     cd $ANDROID_HOME\platform-tools
     mklink aapt.exe ..\build-tools\android-4.2.2\aapt.exe
     mklink /D lib ..\build-tools\android-4.2.2\lib
     mklink aidl.exe ..\build-tools\android-4.2.2\aidl.exe
-{% endhighlight %}
+````
 
 The [original answer is available on StackOverflow][0] and I also added 
 my windows version of the commands as a comment to that answer.

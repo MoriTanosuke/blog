@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open Workout 16.4"
-tags: crossfit, crossfitopen
+tags: crossfit crossfitopen
 ---
 **Update** Mein Score ist 168. Ich bin sehr zufrieden!
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open Workout 16.5"
-tags: crossfit, crossfitopen
+tags: crossfit crossfitopen
 ---
 **Update** Meine Zeit ist 23:12. 😮 Es war ganz schrecklich...
 

@@ -1,7 +1,7 @@
 ---
 title: "Renaissance Periodization, Teil 2"
 layout: post
-tags: rpstrength,diaet
+tags: rpstrength diaet
 ---
 [Vor ein paar Monaten][1] hatte ich ja geschrieben, dass ich mit der [Renaissance Periodization Diet][0] ein paar Kilo abspecken 
 wollte. Das hat wirklich gut geklappt, aber dann habe ich durch einen Jobwechsel meine Prioritäten ein wenig umsortiert und lieber

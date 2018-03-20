@@ -1,6 +1,6 @@
 ---
 title: 'Crossfit Open 2014'
-tags: crossfit, crossfitopen
+tags: crossfit crossfitopen
 layout: post
 ---
 Die [Crossfit Open 2014][0] haben angefangen. Ich bin nicht registriert, aber ich habe vor, alle Workouts zu machen...

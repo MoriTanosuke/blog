@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open Workout 16.3"
-tags: crossfit, crossfitopen
+tags: crossfit crossfitopen
 ---
 **Update** Mein Score ist 48! 🎉😃 Ich war früh in der Box, um noch ein wenig zu üben. Leider hat kein einziger Muscle Up geklappt. Irgendwie bin ich immer in einem Klimmzug gelandet... ich hab dann aber das Workout **Rx** angefangen und siehe da - der erste Muscle Up hat sofort geklappt - und danach hab ich noch 3 Runden voll gemacht und bin in der 4. Runde noch bis zum 9. Power Snatch gekommen. Damit bin ich *voll* zufrieden und kann wieder eine Übung unter *"kann ich"* abhaken. Meine Hand hat zwar etwas gelitten, aber das war es wert! 😆
 

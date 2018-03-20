@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crossfit Open Workout 17.2"
-tags: crossfit, crossfitopen
+tags: crossfit crossfitopen
 ---
 *Update* Mein Score ist 107, d.h. ich habe die erste Runde *Bar Muscle Ups* abgeschlossen und habe anschliessend noch die Hälfte der Walking Lunges aus der nächsten Runde fertig bekommen. Meine Voraussage (siehe unten) ist also eingetreten. 😀
 
