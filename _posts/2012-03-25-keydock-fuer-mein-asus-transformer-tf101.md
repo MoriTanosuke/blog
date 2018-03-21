@@ -1,11 +1,10 @@
 ---
 title: 'Keydock für mein ASUS Transformer TF101'
 date: 2012-03-25 00:00:00 
-tags: 
+tags: android
 layout: post
 ---
-Heute morgen habe ich nach ein paar ernüchternden Suchen bei [ebay][0] eine Bestellung bei [alternate][1] aufgegeben: ein [Tastaturdock][1] für mein ASUS Transformer TF101. Ich hatte das Tablet ursprünglich ohne Tastatur bestellt, weil ich ja für echte Arbeit meinen großen [Dell Studio 1747][3] habe. Aber eine Bildschirmtastatur reicht wirklich nicht lange. Und auch nur mit Tablet bewaffnet will ich am [Fitbit Analyzr][4] basteln oder meinen Blog 
-editieren.
+Heute morgen habe ich nach ein paar ernüchternden Suchen bei [ebay][0] eine Bestellung bei [alternate][1] aufgegeben: ein [Tastaturdock][1] für mein ASUS Transformer TF101. Ich hatte das Tablet ursprünglich ohne Tastatur bestellt, weil ich ja für echte Arbeit meinen großen [Dell Studio 1747][3] habe. Aber eine Bildschirmtastatur reicht wirklich nicht lange. Und auch nur mit Tablet bewaffnet, will ich am [Fitbit Analyzr][4] basteln oder meinen Blog editieren.
 
 Ich hab also den viel, viel, viel zu hohen Preis bezahlt. Und falls ihr euch das TF101 oder den [Nachfolger][5] kaufen wollt, bestellt einfach die Tastatur mit. Macht sonst echt keinen Sinn...
 
