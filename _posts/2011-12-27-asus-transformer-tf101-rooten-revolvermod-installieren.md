@@ -1,7 +1,6 @@
 ---
 title: 'ASUS Transformer TF101 rooten und RevolverMOD installieren'
-date: 2011-12-27 00:00:00 
-tags: 
+tags: android
 layout: post
 ---
 Seit einigen Tagen bin ich stolzer Besitzer eines [ASUS Transformer
@@ -14,8 +13,6 @@ gelandet, das mit [Prime][3] und [Revolution][4] zu den Standard ROMs für das
 ASUS Transformer zählt. Wenn ihr weiterlest, erfahrt ihr, wie ihr das
 ASUS Transformer TF101 rooten, [ClockworkMod Recovery][5] installieren
 und anschliessend [RevolverMOD 3.9.9][2] installieren könnt.
-
-{% include adsense.html %}
 
 **Rooten**
 
