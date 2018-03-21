@@ -9,7 +9,7 @@ installiert habe, bin ich gestern *endlich* auf [Cyanogenmod 9][0] gewechselt. S
 nämlich einen [offiziellen (*nightly*) Build direkt von den Servern von CM9][3].
 
 Ihr solltet aber wissen, dass ein *nightly build* keine stabile Version darstellt. Das ist eine Version direkt
-aus dem Sourcecode-Repository von Cyanogenmod, es können also Äderungen und Fehler auftreten.
+aus dem Sourcecode-Repository von Cyanogenmod, es können also Änderungen und Fehler auftreten.
 Ich habe aber in den [letzten][4] [Wochen][5] gute Erfahrungen mit den *nightly builds* auf [meinem 
 Samsung Galaxy S2 I9100][6] gemacht - sowohl mit Cyanogenmod7 (Android 3.x) als auch mit 
 Cyanogenmod9 (Android 4.x).
@@ -37,7 +37,7 @@ Ansonsten verläuft der Update-Vorgang wie immer:
 * Mit Power-Taste bestätigen
 * Gerät neustarten
 
-Jetzt habt ihr Cyanogenmod9 auf dem ASUS Transformer TF101 installiert. :-)
+Jetzt habt ihr Cyanogenmod9 auf dem ASUS Transformer TF101 installiert. 😀
 
 
 [0]: http://www.cyanogenmod.com/
