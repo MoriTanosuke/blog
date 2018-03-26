@@ -25,6 +25,11 @@ Die Community konnte diesmal zwischen 3 WODs auswählen, 1 WOD hatte keine Thrus
 
 **Update** Mein Score ist 73.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ay4Cp5TSXuk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+([bei youtube ansehen][2])
+
 
 [0]: https://games.crossfit.com/workouts/open/2018/5
 [1]: https://www.youtube.com/watch?v=X0EOU5PQNoQ
+[2]: https://www.youtube.com/watch?v=ay4Cp5TSXuk
