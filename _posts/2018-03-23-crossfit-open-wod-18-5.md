@@ -29,7 +29,10 @@ Die Community konnte diesmal zwischen 3 WODs auswählen, 1 WOD hatte keine Thrus
 
 ([bei youtube ansehen][2])
 
+Wer sich die ungeschnittenen 7min ansehen will, [kann das auch tun][3]. Aber vorsicht, schön ist das nicht... 😰
+
 
 [0]: https://games.crossfit.com/workouts/open/2018/5
 [1]: https://www.youtube.com/watch?v=X0EOU5PQNoQ
 [2]: https://www.youtube.com/watch?v=ay4Cp5TSXuk
+[3]: https://www.youtube.com/watch?v=Zveew05qW4A
