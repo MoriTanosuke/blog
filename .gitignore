@@ -7,3 +7,4 @@ _plugins
 .idea
 *.iml
 .vscode
+vendor/bundle

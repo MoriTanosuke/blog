@@ -3,9 +3,7 @@ title:       KOPIS.DE
 email:       carsten@kopis.de
 author:      Carsten Ringe
 description: "Mein Blog über Software Entwicklung, Crossfit und andere Dinge"
-# for relative links via post_url
-baseurl:         "/blog"
-host: "https://www.kopis.de"
+baseurl:     '/blog'
 # for feed urls
 url:     "https://www.kopis.de"
 
@@ -49,9 +47,9 @@ share_hackernews: false
 
 # Build settings
 plugins:
+  - jekyll-feed
   - jekyll-paginate
-#markdown:     kramdown
 permalink:    pretty
-paginate:     10
+paginate: 10
 sass:
   compressed: true
