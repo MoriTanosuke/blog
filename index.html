@@ -19,16 +19,21 @@ layout: default
 	{% if tagStr != '' %}
 	      <p class="post-meta">in {{ post.tags  | array_to_sentence_string }}</p>
 	{% endif %}
-	<p class="post-meta"><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">zu den Kommentaren</a></p>
+
+{% if site.disqus_shortname %}
+        <p class="post-meta"><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">zu den Kommentaren</a></p>
+{% endif %}
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
         <p class="post-summary">
           {{ post.content }}
         </p>
-      </div>
+    </div>
     {% endfor %}
   </div>
 
   {% include pagination.html %}
 </div>
 
-<script id="dsq-count-scr" src="//kopisde.disqus.com/count.js" async></script>
+{% if site.disqus_shortname %}
+<script id="dsq-count-scr" src="//{{ site.disqus_shortname }}.disqus.com/count.js" async></script>
+{% endif %}
