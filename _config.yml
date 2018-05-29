@@ -17,7 +17,7 @@ show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: kopisde
+#disqus_shortname:
 
 # Social icons
 show_social_icons: true
@@ -25,11 +25,11 @@ github_username: MoriTanosuke
 stackoverflow_id: 834
 twitter_username: carsten_r
 google_plus_id: +CarstenRinge
-linkedin_username:
-angellist_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
+#linkedin_username:
+#angellist_username:
+#bitcoin_url:
+#paypal_url:
+#flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true

@@ -22,7 +22,6 @@ I do use this plugin to get full articles from [arstechnica][4] in my feed. Unfo
         "section[@class='article-guts']"
     ],
     "cleanup": [
-        "figure",
         "aside",
         "div[@class='article-expander']",
         "nav"
