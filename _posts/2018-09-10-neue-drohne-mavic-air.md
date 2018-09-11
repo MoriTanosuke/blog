@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Neue Drohne: DJI Mavic Air"
 tags: drohne
 ---
