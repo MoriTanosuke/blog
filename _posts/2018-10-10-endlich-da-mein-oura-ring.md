@@ -14,3 +14,5 @@ Ich habe bis jetzt noch keine Ringe oder anderen Schmuck getragen. Vor ein paar 
 In der App gibt es bis jetzt noch nicht viel zu sehen, die richtigen Einblicke werde ich morgen früh bekommen. Über Nacht zeichnet der Ring meine Körpertemperatur und die Herzfrequenz auf. Morgens soll man dann gleich über die Herzfrequenzvariabilität eine *Readiness* für den Tag bekommen, d.h. wie ausgeruht man ist und wie anstrengend z.B. das Training sein kann. Ausserdem bekommt man natürlich die *"üblichen"* Daten zum Schlaf und die Aktivitätsübersicht über den ganzen Tag.
 
 Wenn die ersten Daten da sind, werde ich diesen Post noch einmal ergänzen.
+
+[0]: https://ouraring.com/
