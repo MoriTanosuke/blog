@@ -11,5 +11,4 @@ Der *S2716DG* hat eine Auflösung von QHD 2560x1440 bei 144Hz, nur mit Full HD b
 
 Wenn der Bildschirm da ist und ich die Monitor-Halterung montiert habe, werd ich nochmal Fotos davon machen.
 
-
 [0]: https://www.dell.com/de-de/shop/dell-27-gaming-monitor-s2716dg/apd/210-agui/monitore-und-monitorzubeh%C3%B6r#overview
