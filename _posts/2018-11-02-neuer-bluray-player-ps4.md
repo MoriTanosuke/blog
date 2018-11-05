@@ -17,12 +17,6 @@ Die PS4 Pro kann zwar keine UHD Blurays abspielen, aber ich habe auch noch keine
 
 Wie auch immer, demnächst werde ich also meine PS3 durch eine PS4 ablösen. Als Bluray Player. Aber jeder weiß, dass ich sie erstmal hauptsächlich für [Red Dead Redemption 2][4] nutzen werde. 🤠
 
-*Update* Ich habe die PS4 gestern abgeholt und aufgestellt:
-
-[Karton](https://i.imgur.com/gxdM4Og.jpg)
-[RDR2 Spiel](https://i.imgur.com/ujqbhgq.jpg)
-[Erste Session auf dem TV](https://i.imgur.com/uzPBvVR.jpg)
-
 [0]: https://www.playstation.com/de-de/explore/ps3/
 [1]: https://de.wikipedia.org/wiki/Der_Marsianer_%E2%80%93_Rettet_Mark_Watney
 [2]: https://www.playstation.com/de-de/explore/ps4/ps4-pro/
