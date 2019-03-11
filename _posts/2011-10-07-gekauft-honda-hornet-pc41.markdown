@@ -11,4 +11,4 @@ Und weil das Modell in schwarz auch genau in meine Suchkriterien und mein Budget
 
 Hier ist noch ein kleines Bild, so ähnlich sieht meine dann auch aus:
 
-<a target='_blank' title='ImageShack - Image And Video Hosting' href='http://imageshack.us/photo/my-images/14/img5148r.jpg/'><img src='http://img14.imageshack.us/img14/4962/img5148r.jpg' border='0' width="520"/></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/cringe/6237685885/in/photolist-avcLGn-avfs6d-avfsas-axNLxW" title="Honda Hornet 600"><img src="https://farm7.staticflickr.com/6102/6237685885_47ff68d249_z.jpg" width="640" height="480" alt="Honda Hornet 600"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
