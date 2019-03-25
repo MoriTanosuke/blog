@@ -1,7 +1,7 @@
 ---
 title: 'Steam OS basierend auf Linux angekündigt'
-date: 2013-09-24 00:00:00 
-tags: 
+date: 2013-09-24 00:00:00
+tags: linux gaming
 layout: post
 ---
 Es ist also soweit: [Steam][1] hat das [Steam OS][0] angekündigt - ein

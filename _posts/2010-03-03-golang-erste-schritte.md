@@ -1,6 +1,6 @@
 ---
 title: 'golang: Erste Schritte'
-date: 2010-03-03 00:00:00 
+date: 2010-03-03 00:00:00
 tags: golang
 layout: post
 ---

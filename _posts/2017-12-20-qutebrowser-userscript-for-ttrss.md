@@ -1,6 +1,7 @@
 ---
 title: "Qutebrowser userscript for TT-RSS"
 layout: post
+tags: linux
 ---
 After [the recent mishap of Firefox][0] I switched to [qutebrowser][1] on Linux and Windows. As an [i3wm][2] user, I feel right at home - but I do miss the synchronisation between machines and my mobile. But I guess I have to live with that inconvenience for the moment.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Tools für Deine Sicherheit und Privatsphäre'
-date: 2014-01-02 00:00:00 
-tags: 
+date: 2014-01-02 00:00:00
+tags: sicherheit privatsphäre
 layout: post
 ---
 Heute will ich eine Liste von Tools zusammenstellen, die ihr zur Wahrung eurer Sicherheit und Privatsphäre verwenden könnt. Jeder muss dabei selbst entscheiden, wieviele Unannehmlichkeiten er in Kauf nehmen will, um seine Privatsphäre zu schützen - was sicher ist, ist meistens auch schwieriger zu bedienen. Vor allem muss man sich mit den Tools beschäftigen, um zu verstehen, wofür man sie einsetzen soll. Nicht alles ist gleich *"sicher"*, es muss zu euren Anforderungen passen. Wollt ihr [Forward Secrecy][10]? Oder wollt ihr [Abstreitbarkeit][11]? Wollt ihr einfache Handhabung oder wollt ihr [mehr Aufwand für mehr Sicherheit][12]?

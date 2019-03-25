@@ -1,7 +1,7 @@
 ---
 title: 'Exclude posts from your Ghost frontpage'
-date: 2014-04-05 00:00:00 
-tags: ghost-tag
+date: 2014-04-05 00:00:00
+tags: ghost blogging
 layout: post
 ---
 Today I tried to exclude posts tagged `wod` from my frontpage. The blogging software [Ghost][0] that I am using to run this blog recently [released v0.4.2][1] which supports the [new `#has` helper][2].

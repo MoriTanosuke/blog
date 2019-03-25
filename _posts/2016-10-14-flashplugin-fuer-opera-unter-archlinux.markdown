@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Flashplugin für Opera unter Arch Linux"
+tags: linux
 ---
 
 Auf meinem Desktop läuft seit einigen Monaten [Arch Linux][2] und [seit kurzem als Standardbrowser Opera][3]. Leider muss ich mich seitdem auch wieder mit dem unsäglichen *Flash Plugin* herumschlagen - in Chrome kommt das ja automatisch mit und wird mit Chrome aktualisiert.

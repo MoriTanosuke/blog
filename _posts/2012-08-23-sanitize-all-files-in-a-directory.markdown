@@ -1,7 +1,7 @@
 ---
 title: 'Sanitize all files in a directory'
-date: 2012-08-23 00:00:00 
-tags: 
+date: 2012-08-23 00:00:00
+tags: development
 layout: post
 ---
 Today I wanted to finally clean up several backup copies of my music.

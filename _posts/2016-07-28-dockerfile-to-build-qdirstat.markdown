@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dockerfile to build qdirstat"
+tags: docker linux
 ---
 
 Today I wanted to check how much diskspace I wasted in my home directory. On windows I'd use [WinDirStat][0] and on linux there is the alternative [qdirstat][1]. Unfortunately there is no pre-build binary for my distribution, so I decided to build from source. But I don't want litter my system with [Qt][2] dependencies, so I decided to build it in a docker container. Here's my [Dockerfile][3]:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Installing Steam 32bit under ArchLinux 64bit'
+tags: linux archlinux gaming
 ---
 Yesterday I tried to install [Steam][1] on my ArchLinux 64bit installation. I failed without knowing exactly why. I followed the [wiki docs][0] closely, but I couldn't manage to start Steam. It just wouldn't show the main window.
 

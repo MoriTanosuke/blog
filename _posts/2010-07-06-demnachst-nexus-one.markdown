@@ -1,7 +1,7 @@
 ---
 title: 'Demnächst: Nexus One'
-date: 2010-07-06 00:00:00 
-tags: 
+date: 2010-07-06 00:00:00
+tags: smartphone android
 layout: post
 ---
 Nach einigen beobachteten Auktionen bei <a href="http://www.ebay.de/">ebay</a> hab ich wieder mitgeboten. Diesmal allerdings bei einem deutschen Verk&auml;ufer, weil ich mir den ganzen Aufwand mit dem Zoll und den internationalen Transporten ersparen wollte... wie dem auch sei:

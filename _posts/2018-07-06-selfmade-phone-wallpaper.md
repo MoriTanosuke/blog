@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Selfmade phone wallpaper"
-tags: pictures
+tags: bilder
 ---
 A couple weeks ago I took some photos with my [A7ii][0] and one of them turned out good enough so it's now my phone wallpaper:
 

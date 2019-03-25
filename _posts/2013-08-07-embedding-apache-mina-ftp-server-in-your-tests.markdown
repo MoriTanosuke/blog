@@ -1,7 +1,7 @@
 ---
 title: 'Embedding the Apache Mina ftp server in your tests'
-date: 2013-08-07 00:00:00 
-tags: unit test testing
+date: 2013-08-07 00:00:00
+tags: unittest testing
 layout: post
 ---
 Every once in a while you need some service running while executing your integration tests. Today I needed a running FTP server to test a new route in my [JBoss ESB][0] that has a [NotificationList (basically a *recipient list* pattern][1] with a *NotifyFTP* action as last action in my action pipeline, that pushes the message as a file onto an FTP server.
@@ -30,7 +30,7 @@ public static void setUpFtpServer() throws Exception {
 	server = serverFactory.createServer();
 	server.start();
 }
-  
+
 
 @Before
 public void setUp() throws Exception {
@@ -38,7 +38,7 @@ public void setUp() throws Exception {
 	for (File file : outputDir.listFiles()) {
 		file.delete();
 	}
-	
+
 	// check if ftp is available
 	FTPClient ftpClient = new FTPClient();
 	ftpClient.connect("127.0.0.1");
@@ -48,7 +48,7 @@ public void setUp() throws Exception {
 	} else {
 		throw new RuntimeException(">>> FTP failed");
 	}
-	
+
 	//... other setup tasks
 }
 
@@ -60,16 +60,16 @@ public static UserManager addUser(final String username, final String password, 
 	userManagerFactory.setFile(userFile);
 	userManagerFactory.setPasswordEncryptor(new SaltedPasswordEncryptor());
 	UserManager um = userManagerFactory.createUserManager();
-	
+
 	BaseUser user = new BaseUser();
 	user.setName(username);
 	user.setPassword(password);
 	user.setHomeDirectory(ftproot);
-	
+
 	List<Authority> authorities = new ArrayList<Authority>();
 	authorities.add(new WritePermission());
 	user.setAuthorities(authorities);
-	
+
 	try {
 		um.save(user);
 	} catch (FtpException e) {

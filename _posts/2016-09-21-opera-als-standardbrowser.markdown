@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Opera als mein Standardbrowser"
+tags: sicherheit privatsphäre
 ---
 Vor ein paar Tagen habe ich zu [Opera][0] als Standardbrowser gewechselt, als Teil meines [anhaltenden][1] [Versuchs][2], Google aus meinem täglichen Gebrauch so weit wie möglich zu verbannen.
 

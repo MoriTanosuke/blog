@@ -1,7 +1,7 @@
 ---
 title: 'Schaltet den Advanced Task Killer ab!'
-date: 2011-05-30 00:00:00 
-tags: 
+date: 2011-05-30 00:00:00
+tags: smartphone android
 layout: post
 ---
 Wenn ihr - wie eigentlich jeder - das Programm Advanced Task Killer auf eurem Android Smartphone installiert habt, dann solltet ihr mal drüber nachdenken, wieso ihr euer Telefon so oft an die Steckdose bringen müsst:

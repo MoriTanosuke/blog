@@ -1,7 +1,7 @@
 ---
 title: 'Fitbit, Teil 2 (und ein wenig Intervalltraining)'
-date: 2010-08-09 00:00:00 
-tags: 
+date: 2010-08-09 00:00:00
+tags: fitbit fitness
 layout: post
 ---
 <p><a href="http://blog.kopis.de/2010/06/17/erste-probleme-mit-dem-fitbit/">Nachdem ich mit meinem Fitbit am Anfang ein paar Probleme hatte</a>, ist mittlerweile die getauschte Basisstation bei mir angekommen. Und siehe da: Sowohl unter Linux in der Ausgabe von <a href="http://linuxmanpages.com/man8/lsusb.8.php">lsusb </a>als auch unter Windows bei der Registrierung des <a href="http://www.fitbit.com/">Fitbits</a> wird alles anstandslos erkannt. Die Registrierung ist in 3 Klicks erledigt, anschliessend werden meine Daten an die Seite&uuml;bertragen.</p>

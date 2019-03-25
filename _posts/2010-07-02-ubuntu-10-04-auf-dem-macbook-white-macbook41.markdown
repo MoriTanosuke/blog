@@ -1,7 +1,7 @@
 ---
 title: 'Ubuntu 10.04 auf dem Macbook White (macbook4,1)'
-date: 2010-07-02 00:00:00 
-tags: 
+date: 2010-07-02 00:00:00
+tags: linux
 layout: post
 ---
 <div>

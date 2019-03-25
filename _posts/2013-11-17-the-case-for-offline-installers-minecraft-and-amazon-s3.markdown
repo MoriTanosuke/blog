@@ -1,7 +1,7 @@
 ---
 title: 'The case for offline installers - Minecraft and Amazon S3'
-date: 2013-11-17 00:00:00 
-tags: 
+date: 2013-11-17 00:00:00
+tags: gaming
 layout: post
 ---
 Since yesterday I am not able install (or even play) a game I bought several months ago: [Minecraft][0]. In case you haven't heard of it yet, you've lived under a rock for several years. Go buy the game.

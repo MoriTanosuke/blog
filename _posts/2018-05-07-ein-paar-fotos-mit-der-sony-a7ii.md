@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ein paar Fotos mit der Sony A7II"
-tags: pictures
+tags: bilder
 ---
 Mittlerweile habe ich ein paar Fotos mit der [Sony A7II][0] gemacht:
 

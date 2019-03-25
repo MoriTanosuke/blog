@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Wechsel zu ArchLinux'
+tags: linux archlinux
 ---
 Was macht *man*, wenn man Urlaub und viel freie Zeit hat? Genau, man wechselt auf dem [Dell XPS 15 Laptop][9] von [Ubuntu][0] zu [ArchLinux][1]. :smile: Eigentlich war ich zufrieden mit Ubutu, aber der Geek in mir wollte schon immer ein etwas nerdiges Linux ausprobieren. Ausserdem passt mein aktueller Window Manager [i3wm][6] nicht so ganz zu Ubuntu und mit einiger [Gnome][7]-Software war ich auch unzufrieden. Ich hatte kurz mit dem Gedanken gespielt, zu [Gentoo][2] zu wechseln, aber ganz so viel Frickelei wollte ich mir nicht antun. Und ArchLinux scheint in den letzten Monaten viel Zuwachs bekommen zu haben. Die Dokumentation sah auch sehr schön aus, ausführlich und trotzdem verständlich.
 

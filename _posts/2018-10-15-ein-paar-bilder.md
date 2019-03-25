@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ein paar Bilder"
-tags: pictures
+tags: bilder
 ---
 
 Das gute Wochenende habe ich für ein paar Bilder genutzt. Ich bin sehr zufrieden mit dem Ergebnis. 😎

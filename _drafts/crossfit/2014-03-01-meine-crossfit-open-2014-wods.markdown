@@ -1,7 +1,7 @@
 ---
 title: 'Meine Crossfit Open 2014 WODs'
-date: 2014-03-01 00:00:00 
-tags: crossfitopen
+date: 2014-03-01 00:00:00
+tags: crossfit crossfitopen
 layout: post
 ---
 In diesem Artikel findet ihr meine Crossfit Open WODs für 2014. Ich bin nicht offiziell registriert, das hebe ich mir für das nächste Jahr auf. Aber ich mache trotzdem alle Workouts - hoffentlich habe ich alle notwendigen Geräte zusammen...

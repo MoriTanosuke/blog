@@ -2,6 +2,7 @@
 layout: post
 title: 'Install fabric8 on ArchLinux'
 published: false
+tags: archlinux development
 ---
 
 I recently switched from Ubuntu to ArchLinux, doing a fresh installation on my desktop PC and my laptop. Now I wanted to have [Fabric8][0] on both again. I followed the [official guide for a Vagrant setup][1], but had to tweak it slightly. Here are the steps that I needed to do to have it up and running:

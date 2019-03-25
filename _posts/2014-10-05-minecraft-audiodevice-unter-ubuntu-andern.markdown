@@ -1,7 +1,7 @@
 ---
 title: 'Minecraft Audiodevice unter Ubuntu ändern'
-date: 2014-10-05 00:00:00 
-tags: minecraft
+date: 2014-10-05 00:00:00
+tags: minecraft linux gaming
 layout: post
 ---
 Ich benutze ein [Logitech G430 USB Headset][0] und wenn ich unter Linux das Geräte einstecke, kann ich bis vor kurzem das Audiodevice für [Minecraft][0] nicht mehr ändern. Das ist sehr nervig und muss nicht sein.

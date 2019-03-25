@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Zurück bei Jekyll'
+tags: blogging
 ---
 Nachdem ich in den letzten Wochen die Blogsoftware [Ghost][0] genutzt habe, bin ich heute morgen wieder zurück zu [Jekyll][1] gewechselt. Dazu haben mich vor allem die fehlenden Features von Ghost bewogen, vor allem die folgenden Dinge haben mich gestört:
 

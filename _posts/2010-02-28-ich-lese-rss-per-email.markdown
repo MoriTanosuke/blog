@@ -1,7 +1,8 @@
 ---
 title: 'Ich lese RSS per eMail'
-date: 2010-02-28 00:00:00 
+date: 2010-02-28 00:00:00
 layout: post
+tags: linux
 ---
 <p><span class="dropCap">W</span>ieso? Weil ich immer noch gro&szlig;er Fan von eMail bin. Asynchrone Kommunikation, trotzdem Quasi-Echtzeit und kostenlos. Und weil ich auf meine eMail von überall Zugriff habe, Iphone sei Dank.  Nachdem ich schon den Service <a href="http://www.feedmyinbox.com/">FeedMyInbox</a> ausprobiert habe und mit dem <a href="http://www.amazon.com/Kindle-Wireless-Reading-Display-Generation/dp/B0015T963C/kopisde-21">Amazon Kindle</a> einen sinnvollen Endpunkt f&uuml;r so einen Dienst in meiner Reisetasche habe, wollte ich mal sehen, ob ich das ganze nicht auch auf meinen eigenen Rechnern und damit unter meiner Kontrolle aufsetzen kann. Gesagt, getan: <a href="http://www.allthingsrss.com/rss2email/">rss2email</a> erledigt genau diese Aufgabe.  Unter Debian ist das Programm schnell installiert:</p>
 

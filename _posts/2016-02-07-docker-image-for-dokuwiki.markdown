@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Minimal Docker image for DokuWiki'
+tags: docker linux selfhosting
 ---
 
 Yesterday I upgraded my Docker setup from v1.5 to v.10. I had to do a full *apt-get dist-upgrade* as well to bring my system up to [Debian Jessie][0]. On the way I discovered that my backup script wasn't backing up anything from my personal wiki running with [DokuWiki][1]. Another case of *Schroedingers Backup*: _The backup is only there, if it can be successfully restored._ ☹ Anyway, I had only a few snippets from my daily development work and some links to software I tend to use on the wiki, so not that much of a loss. And because I had to set up my wiki again, I decided to build a minimal container instead of re-using [the offical php images][2].

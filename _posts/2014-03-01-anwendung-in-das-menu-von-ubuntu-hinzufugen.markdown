@@ -1,7 +1,7 @@
 ---
 title: 'Anwendung in das Menü von Ubuntu hinzufügen'
-date: 2014-03-01 00:00:00 
-tags: ubuntu
+date: 2014-03-01 00:00:00
+tags: ubuntu linux
 layout: post
 ---
 Ich habe ein paar Anwendungen, die ich manuell aus einem [Tarball][2] installiere und die daher nicht _automatisch_ im [Menü von Ubuntu][3] auftauchen. Trotzdem will ich diese Anwendungen per _Super_-Taste starten können.

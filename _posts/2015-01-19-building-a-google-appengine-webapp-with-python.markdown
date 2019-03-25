@@ -1,7 +1,7 @@
 ---
 title: 'Building a Google AppEngine webapp with Python'
-date: 2015-01-19 00:00:00 
-tags: google-app-engine development
+date: 2015-01-19 00:00:00
+tags: google appengine development
 layout: post
 ---
 Today I wanted to add [ReCAPTCHA][3] to one of my web applications built with [NodeJS][4]. A quick look on my [heroku][5] dashboard showed that the application wasn't even running anymore, and a quick search through the logs showed that I was running into a quota of the connected [Redis to go][6] instance. Before doing any real work I'd have to upgrade the underlying stack, and searching for recaptcha clients for NodeJS did not bring up anything useful for me.

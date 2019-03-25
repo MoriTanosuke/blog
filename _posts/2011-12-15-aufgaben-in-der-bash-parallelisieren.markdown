@@ -1,7 +1,7 @@
 ---
 title: 'Aufgaben in der BASH parallelisieren'
-date: 2011-12-15 00:00:00 
-tags: 
+date: 2011-12-15 00:00:00
+tags: linux bash
 layout: post
 ---
 Heute wollte ich in der [Bash][0] (genauer: in der Bash meiner [Cygwin][1]-Installation) mehrere groÃÂe Logfiles durchsuchen. Mit [grep][2] habe ich nach einer bestimmten Zeichenfolge ausschau gehalten und die Ausgabe sollte pro Datei in einer eigenen Ausgabedatei landen.

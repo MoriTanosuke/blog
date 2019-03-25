@@ -1,7 +1,7 @@
 ---
 title: 'Building a simple blog with NodeJS and Express'
-date: 2012-01-30 00:00:00 
-tags: frontpage nodejs
+date: 2012-01-30 00:00:00
+tags: nodejs
 layout: post
 ---
 After [installing NodeJS][0] and [creating a basic web application with
@@ -55,7 +55,7 @@ Ok, I cheated a little bit, because the actual file listing is done in a
 <pre class="brush: js">
 ul
   - each file in files
-    li 
+    li
       a(href='#{file}') #{file}
 </pre>
 
@@ -74,7 +74,7 @@ exports.entry = function(req, res){
 };
 </pre>
 
-Now this route builds a filename from the given parameters, reads its 
+Now this route builds a filename from the given parameters, reads its
 content, renders the content as *markdown* and renders the template *'entry'*:
 
 <pre class="brush: js">
@@ -86,10 +86,10 @@ div.nav
       a(href='/') back
 
 div.comments
-  p Feel free to add your comment system here. 
+  p Feel free to add your comment system here.
 </pre>
 
-Again, a very basic template. I simple put all the *markdown* into a 
+Again, a very basic template. I simple put all the *markdown* into a
 *div* with class *entry*, add a link to the homepage and another *div*
 for a later addition of comments, probably using [disqus][7].
 
@@ -112,7 +112,7 @@ route displays an entry when the user clicked a link. The third route is
 an error handler that will display a *very helpful* error message when the
 user enters a non-existant URL.
 
-Remember, if you want to check out my code, [clone me from github][10] and run 
+Remember, if you want to check out my code, [clone me from github][10] and run
 the blog on your own machine:
 
 <pre class="brush: bash">
@@ -141,7 +141,7 @@ The one thing gone awry
 
 When I tried to put a basic stylesheet in place, I noticed that I couldn't
 open the stylesheet at http://localhost:3000/stylesheets/style.css. I thought
-about this for a couple of minutes and verified that the file is actually 
+about this for a couple of minutes and verified that the file is actually
 in the directory */public/stylesheets* in my application.
 
 After searching the internets I found that in my *app.js* the following lines
@@ -157,7 +157,7 @@ app.configure(function(){
 
 If I got the explanation right, this means that my own routes come before
 the static assets. So when I tried to open my stylesheet the error handler
-kicked in because none of my 2 other rules applied. The solution to this is 
+kicked in because none of my 2 other rules applied. The solution to this is
 re-ordering the configuration:
 
 <pre class="brush: js">

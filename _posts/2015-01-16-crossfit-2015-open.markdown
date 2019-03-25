@@ -1,7 +1,7 @@
 ---
 title: 'Crossfit 2015 Open'
-date: 2015-01-16 00:00:00 
-tags: crossfit open
+date: 2015-01-16 00:00:00
+tags: crossfit crossfitopen
 layout: post
 ---
 Es ist soweit: Die [Registrierung für die 2015 Open][0] ist gestartet. [Ich bin bereits registriert.][1] Wer von euch macht noch mit?

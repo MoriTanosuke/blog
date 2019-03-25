@@ -1,7 +1,7 @@
 ---
 title: 'Welches Linux-Notebook mit Intel Core i7?'
-date: 2010-08-19 00:00:00 
-tags: 
+date: 2010-08-19 00:00:00
+tags: linux technik
 layout: post
 ---
 <p><strong>Update:</strong> <a href="http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&amp;item=320578405594">Mein Macbook steht bei ebay</a>.</p>

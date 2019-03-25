@@ -1,7 +1,7 @@
 ---
 title: 'Apple-freie Zone'
-date: 2010-08-28 00:00:00 
-tags: 
+date: 2010-08-28 00:00:00
+tags: linux mac apple
 layout: post
 ---
 Wenn ich mich mal entschieden habe, geht es schnell: Ich lebe wieder in einer <a href="http://www.apple.de">Apple</a>-freien Zone. <a href="http://blog.kopis.de/2010/08/19/welces-linux-notebook-mit-intel-core-i7/">Das Macbook ist verkauft</a>, das Iphone lebt mittlerweile bei meiner Freundin. Zuhause habe ich nur noch die Apple-Maus und -Tastatur, und auch die werden wohl demn&auml;chst bei <a href="http://www.ebay.de">ebay</a> verschwinden.

@@ -1,7 +1,7 @@
 ---
 title: 'USB unter Java'
-date: 2011-08-01 00:00:00 
-tags: 
+date: 2011-08-01 00:00:00
+tags: linux java
 layout: post
 ---
 <p>Am Wochenende habe ich mich kurz zum aktuellen Stand des USB-Zugriffs unter Java umgesehen. Und ich muss sagen: Es sieht gar nicht gut aus.</p>

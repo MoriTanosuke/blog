@@ -1,19 +1,20 @@
 ---
 layout: post
 title: "Aufbau eines Hackintosh"
+tags: mac
 ---
 Ich bin ja [schon lange kein Apple-Nutzer mehr][0], aber in den letzten Tagen hat mich ein kleines Projekt gepackt:
 
 > Kann ich auf meinem aktuellen Desktop mit Hardware von Mitte 2012 ein Mac OS installieren?
 
-Grundsätzlich ist Mac OS für mich interessant: Ein Unix-basiertes System mit anständiger GUI. Normalerweise 
+Grundsätzlich ist Mac OS für mich interessant: Ein Unix-basiertes System mit anständiger GUI. Normalerweise
 läuft auf meinen Rechnern ja ein Linux mit [i3wm][1], in der letzten Zeit wieder vermehrt Windows 10 auf Desktop und Laptop.
 Wer aber mal versucht hat, Linux auf einem HiDPI Display und auf Laptop-Hardware anständig zum Laufen zu bringen,
 der wird meine Schmerzen verstehen.
 
 Daher also der Grundgedanke: Kann ich ein Mac OS bekommen, ohne die Apple-typische Gängelei bei der Hardware? Zugegeben,
 die Apple-Hardware funktioniert gut zusammen, allerdings ist der letzte anständige Desktop Rechner uralt und es ist weit und
-breit keine neue Hardware zu sehen. Ausserdem bin ich zu sehr Gamer, um auf Windows zu verzichten und möchte bei der 
+breit keine neue Hardware zu sehen. Ausserdem bin ich zu sehr Gamer, um auf Windows zu verzichten und möchte bei der
 Auswahl von Grafikkarte, Soundkarte und RAM nicht auf die Zwangszuweisung von Apple angewiesen sein.
 
 Ich habe also angefangen, mich in diverse Foren einzulesen, Anleitungen zur Erstellung eines Installationsmediums zu lesen und
@@ -31,7 +32,7 @@ dort verbauten Chipsätze gut mit Mac OS zusammenspielen. Ich habe aber ein etwa
 Mittlerweile bin ich also so weit, das sich ein funktionierendes *Mac OS High Sierra* auf meinem Desktop habe. Ich muss zwar
 noch vom USB Stick booten und dann erst das Mac OS auf der internen SSD starten, aber das bekomme ich auch noch in den Griff.
 
-Meine Nvidia GTX 970 macht auch schon ein Bild, aber die offiziellen Treiber laufen noch nicht. Audio habe ich noch nicht 
+Meine Nvidia GTX 970 macht auch schon ein Bild, aber die offiziellen Treiber laufen noch nicht. Audio habe ich noch nicht
 probiert, aber da ich eine externe USB Soundkarte von Xonar habe, sollte das auch kein Problem sein.
 
 *Edit* Die Grafikkarte läuft auch.

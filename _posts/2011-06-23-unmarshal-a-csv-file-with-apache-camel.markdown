@@ -1,7 +1,7 @@
 ---
 title: 'Unmarshal a CSV file with Apache Camel'
-date: 2011-06-23 00:00:00 
-tags: frontpage
+date: 2011-06-23 00:00:00
+tags: apache camel
 layout: post
 ---
 <p>Today I tried to work with <a href="http://camel.apache.org/">Apache Camel</a> for the first time. I'm currently reading the book <a href="http://www.manning.com/ibsen/">Camel in Action</a> and want to try the example with data that has a meaning to me. I decided to follow the examples of <em>Chapter 3: Transforming data with Camel</em> and try to read rows from a CSV file and convert them with <a href="http://camel.apache.org/bindy.html">Bindy</a> into annotated POJOs.</p>

@@ -1,7 +1,7 @@
 ---
 title: 'Using Infinitest with m2e in Eclipse'
-date: 2014-02-14 00:00:00 
-tags: testing eclipse
+date: 2014-02-14 00:00:00
+tags: unittest testing eclipse
 layout: post
 ---
 I'm a huge fan of [Infinitest][0] to have a continuous feedback loop from my unit tests while developing. Recently I noticed that when I'm working with [m2e][1] some of my testcases were red when Inifitest executed them, but were green when I [run the Junit tests via Eclipse][2]. After thinking about it, I figured out that all tests that were using configuration or input files from my `src/test/resources` folder were failing.

@@ -1,7 +1,7 @@
 ---
 title: 'Wieso sollte ich von Mac OS X zu Ubuntu wechseln?'
-date: 2010-07-02 00:00:00 
-tags: 
+date: 2010-07-02 00:00:00
+tags: linux mac
 layout: post
 ---
 Gestern hab ich ja bereits geschrieben, dass ich langsam dar&uuml;ber nachdenke, von Mac OS X und Apple-Produkten wieder zu einem echten Linuxer zu werden. Vielleicht sogar ohne Iphone... und daf&uuml;r gibt es mehrere Gr&uuml;nde:
