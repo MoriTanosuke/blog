@@ -1,40 +1,37 @@
 <div class="social-icons">
   <div class="left">
     {% if site.github_username %}
-      <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
+      <a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github"></i></a>
     {% endif %}
     {% if site.stackoverflow_id %}
-      <a class="fa fa-stack-overflow" href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}"></a>
+      <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}"><i class="fab fa-stack-overflow"></i></a>
     {% endif %}
-    <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fas fa-rss"></i></a>
     {% if site.twitter_username %}
-      <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"></a>
+      <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fab fa-twitter"></i></a>
     {% endif %}
     {% if site.mastodon %}
-      <a class="fab fa-mastodon" href="{{ site.mastodon }}"></a>
-    {% endif %}
-    {% if site.google_plus_id %}
-      <a class="fa fa-google-plus" href="https://plus.google.com/{{ site.google_plus_id }}/posts"></a>
+      <a href="{{ site.mastodon }}"><i class="fab fa-mastodon"></i></a>
     {% endif %}
     {% if site.email %}
-      <a class="fa fa-envelope" href="mailto:{{ site.email }}"></a>
+      <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i></a>
     {% endif %}
     {% if site.linkedin_username %}
-      <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"></a>
+      <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="fab fa-linkedin-in"></i></a>
     {% endif %}
     {% if site.angellist_username %}
-      <a class="fa fa-angellist" href="https://angel.co/{{ site.angellist_username }}"></a>
+      <a href="https://angel.co/{{ site.angellist_username }}"><i  class="fab fa-angellist"></i></a>
+    {% endif %}
+    {% if site.youtube_url %}
+      <a href="{{ site.youtube_url }}"><i class="fab fa-youtube"></i></a>
     {% endif %}
   </div>
   <div class="right">
     {% if site.bitcoin_url %}
-      <a class="fa fa-bitcoin" href="{{ site.bitcoin_url }}"></a>
+      <a href="{{ site.bitcoin_url }}"><i class="fab fa-bitcoin"></i></a>
     {% endif %}
     {% if site.paypal_url %}
-      <a class="fa fa-paypal" href="{{ site.paypal_url }}"></a>
-    {% endif %}
-    {% if site.flattr_button %}
-      {{ site.flattr_button }}
+      <a href="{{ site.paypal_url }}"><i class="fab fa-paypal"></i></a>
     {% endif %}
   </div>
 </div>
