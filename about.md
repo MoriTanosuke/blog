@@ -11,4 +11,3 @@ Ich bin Softwareentwickler, Ingenieur und Crossfitter. Im Internet seit '95, in 
 [1]: https://github.com/MoriTanosuke/
 [2]: https://stackoverflow.com/users/834/cringe
 [3]: https://minecraft.net/
-
