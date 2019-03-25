@@ -8,3 +8,4 @@ _plugins
 *.iml
 .vscode
 vendor/bundle
+.jekyll-metadata
