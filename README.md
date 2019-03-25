@@ -4,7 +4,7 @@ How to run this blog locally
 You can use [Docker][0] to run this blog locally. Just execute the following line:
 
     docker run --rm -it --label=jekyll --volume=$(pwd):/srv/jekyll --volume blog_bundle:/usr/local/bundle -p 127.0.0.1:4000:4000 jekyll/jekyll bundle update
-    docker run --rm -it --label=jekyll --volume=$(pwd):/srv/jekyll --volume blog_bundle:/usr/local/bundle -p 127.0.0.1:4000:4000 jekyll/jekyll jekyll serve --watch
+    docker run --rm -it --label=jekyll --volume=$(pwd):/srv/jekyll --volume blog_bundle:/usr/local/bundle -p 127.0.0.1:4000:4000 jekyll/jekyll jekyll serve --watch --incremental
 
 You should see the following output:
 
@@ -13,7 +13,7 @@ $ docker run --rm -it --label=jekyll --volume=$(pwd):/srv/jekyll  --volume blog_
 Configuration file: /srv/jekyll/_config.yml
             Source: /srv/jekyll
        Destination: /srv/jekyll/_site
-      Generating... 
+      Generating...
                     done.
  Auto-regeneration: enabled for '/srv/jekyll'
 Configuration file: /srv/jekyll/_config.yml
