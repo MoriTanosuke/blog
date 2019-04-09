@@ -1,6 +1,6 @@
 site: KOPIS.DE
+#url: https://www.kopis.de/blog
 baseurl: /blog
-url: https://www.kopis.de
 
 collections:
   pages:
@@ -52,5 +52,4 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6
-paginate_path: "/blog/page:num/"
-  
+paginate_path: "/page:num/"

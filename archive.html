@@ -22,7 +22,7 @@ featured_image: /images/44295403205_d82446e2dd_o.png
             {% endif %}
             {% endunless %}
             <li><time>{{ post.date | date:"%d %b" }}</time> <a
-                    href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                    href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endfor %}
 
     </div>
