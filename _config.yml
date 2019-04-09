@@ -5,13 +5,13 @@ url: https://www.kopis.de
 collections:
   pages:
     output: true
-    permalink: /blog/:name
+    permalink: /:name
   posts:
     output: true
-    permalink: /blog/:year/:month/:day/:slug
+    permalink: /:year/:month/:day/:slug
   projects:
     output: true
-    permalink: /blog/project/:slug
+    permalink: /project/:slug
 
 defaults:
   -
