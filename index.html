@@ -20,7 +20,7 @@ featured_image: /images/52935489_2344037732297346_4359112039860273152_n.jpg
 
 			{% if post.featured_image %}
 			<a href="{{ post.url | prepend: site.baseurl }}" class="blog-post__image"
-				style="background-image: url(}{{ post.featured_image  }});"></a>
+				style="background-image: url({{ post.featured_image | prepend: site.baseurl }});"></a>
 			{% endif %}
 
 			<div class="blog-post__content">
