@@ -2,6 +2,7 @@
 layout: post
 title: "Crossfit Open WOD 19.1"
 tags: crossfit crossfitopen
+featured_image: /images/52856763_2344037578964028_4553748107900223488_n.jpg
 ---
 
 Das [Crossfit Open WOD 19.1][0] ist draussen:
