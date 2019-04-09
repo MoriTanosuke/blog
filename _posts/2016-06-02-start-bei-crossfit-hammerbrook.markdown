@@ -10,5 +10,5 @@ tags: crossfit
 Das letzte Jahr habe ich im [North Gym][2] in Norderstedt trainiert. Die Zeit dort war wirklich schön und ich kann das Gym nur jedem empfehlen, der in Norderstedt und Umgebung nach einer Trainingsgelegenheit sucht. Schönen Gruß an Henrik, falls ihr dort vorbei schaut. 😉
 
 [0]: http://crossfithammerbrook.de/
-[1]: {{ site.baseurl }}{% post_url 2016-05-02-umzug-nach-hamburg %}
+[1]: {% post_url 2016-05-02-umzug-nach-hamburg %}
 [2]: http://northgym.de/

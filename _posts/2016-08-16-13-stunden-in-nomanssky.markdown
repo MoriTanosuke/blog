@@ -14,6 +14,6 @@ Das Release war etwas holprig. Die Minimum Requirements sollte man ernst nehmen,
 
 Für mich ist das Spiel jedenfalls sein Geld wert. Wer aber ein neues *Wing Commander* erwartet, der sollte sich erstmal einige [Videos des Gameplay][2] angucken.
 
-[0]: {{ site.baseurl }}{% post_url 2016-08-10-warten-auf-nomanssky %}
+[0]: {% post_url 2016-08-10-warten-auf-nomanssky %}
 [1]: http://steamcommunity.com/app/275850/discussions/7/360672304897578119/
 [2]: https://www.twitch.tv/directory/game/No%20Man's%20Sky

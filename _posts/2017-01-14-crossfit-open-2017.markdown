@@ -5,4 +5,4 @@ tags: crossfit crossfitopen
 ---
 Es wird langsam ernst 😬:
 
-![Anmeldung zu den Crossfit Open 2017]({{ site.baseurl }}/images/crossfit-open-2017.jpg)
+![Anmeldung zu den Crossfit Open 2017](/images/crossfit-open-2017.jpg)

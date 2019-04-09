@@ -12,9 +12,9 @@ layout: post
 
 <p>And here is the resulting JMockit coverage report:</p>
 
-<p><img src="/img/content/media_httpblogkopisde_IpDpB.png.scaled500.png" width="500" height="155"/></p>
+<p><img src="/images/content/media_httpblogkopisde_IpDpB.png.scaled500.png" width="500" height="155"/></p>
 
-<p><img src="/img/content/media_httpblogkopisde_GmhCF.png.scaled500.png" width="402" height="277"/></p>
+<p><img src="/images/content/media_httpblogkopisde_GmhCF.png.scaled500.png" width="402" height="277"/></p>
 
 <p>As you can see, JMockit tells us that every single statement is executed, exactly 1 time, with this test case. And that's exactly what I understand as <em>statement coverage</em> and it is in full compliance to the ISTQB terminology.  Now, to make my point really clear, let me change the class as follows:</p>
 
@@ -22,12 +22,12 @@ layout: post
 
 <p>I added the empty ELSE statement that I omitted first. And I run JMockit again to get a new coverage report:</p>
 
-<p><img src="/img/content/media_httpblogkopisde_DdqDv.png.scaled500.png" width="500" height="155"/></p>
+<p><img src="/images/content/media_httpblogkopisde_DdqDv.png.scaled500.png" width="500" height="155"/></p>
 
-<p><img src="/img/content/media_httpblogkopisde_iajth.png.scaled500.png" width="403" height="355"/></p>
+<p><img src="/images/content/media_httpblogkopisde_iajth.png.scaled500.png" width="403" height="355"/></p>
 
 <p>This is not 100% branch coverage, ISTQB certified or not. ;-) My point on this is, if you want to use a tool to verify your testing requirements, make sure that you know what the tool is measuring.  And make sure you <a href="http://groups.google.com/group/jmockit-users/browse_thread/thread/42fc076e61843907?pli=1">read the discussion thread in the JMockit users group</a>.</p>
 
 <p><strong>*Update*</strong> I created a <a href="http://cobertura.sourceforge.net/">Cobertura</a> coverage report for <em>CoverMeSimple</em> now:</p>
 
-<p><img src="/img/content/media_httpblogkopisde_gFphr.png.scaled500.png" width="500" height="279"/></p>
+<p><img src="/images/content/media_httpblogkopisde_gFphr.png.scaled500.png" width="500" height="279"/></p>

@@ -9,6 +9,6 @@ Das [Crossfit Open WOD 15.1][1] habe ich leider nicht migemacht, da ich krank ge
 Mein Score war damals 37, also nicht mal eine komplette Runde. Diesmal war mein Score 74! D.h. ich habe fast die zweite Runde geschafft, der Score ist verdoppelt. Wenn das mal keine Verbesserung ist. :smile: Ich bin schon gespannt, wie die nächsten Tests werden.
 
 [0]: http://games.crossfit.com/workouts/the-open
-[1]: {{ site.baseurl }}{% post_url 2015-02-27-crossfit-open-15.1 %}
-[2]: {{ site.baseurl }}{% post_url 2015-03-06-crossfit-open-15.2 %}
+[1]: {% post_url 2015-02-27-crossfit-open-15.1 %}
+[2]: {% post_url 2015-03-06-crossfit-open-15.2 %}
 

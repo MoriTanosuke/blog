@@ -63,6 +63,6 @@ The *gelf* appender is much more configurable and the search abilities in logsta
 
 You can find the documentation at [https://github.com/mp911de/logstash-gelf][2].
 
-[0]: {{ site.baseurl }}{% post_url 2016-01-26-building-an-elk-stack-with-docker-compose %}
+[0]: {% post_url 2016-01-26-building-an-elk-stack-with-docker-compose %}
 [1]: https://www.elastic.co/guide/en/logstash/current/plugins-inputs-gelf.html
 [2]: https://github.com/mp911de/logstash-gelf

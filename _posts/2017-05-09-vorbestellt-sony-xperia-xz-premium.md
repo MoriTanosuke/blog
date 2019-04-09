@@ -6,7 +6,7 @@ Seit ein paar Wochen beschäftige ich mich wieder mit Smartphones, da mein aktue
 
 Wie auch immer. Der Titel sagt es ja schon: Ich habe mir das neue [Xperia XZ Premium][1] von Sony vorbestellt. Ausschlaggebend war die Hardware: neue Generation der Snapdragon CPU, sehr gute Kamera, erweiterbar durch SD-Karten.
 
-![Sony Xperia XZ Premium]({{ site.baseurl }}/images/sony-xperia-xz-premium.jpg)
+![Sony Xperia XZ Premium](/images/sony-xperia-xz-premium.jpg)
 
 Vorbesteller bekommen auch noch den Kopfhörer [Sony MDR-100ABN][2] dazu, wenn sie die IMEI des Telefons bis zum 31.07.2017 bei [Sony Wow][3] registrieren. Ich bin nicht an dem Kopfhörer interessiert, aber wenn ich ihn anschliessend bei Ebay für einen guten Preis verkaufe, sinkt der Preis des Telefons auf ein erträgliches Mass. Hoffentlich klappt das alles.
 
@@ -25,7 +25,7 @@ Jetzt muss ich mich aber noch ein paar Wochen gedulden, der offizielle Verkaufss
 
 Das war's auch erstmal. Ich denke, ich werde noch ein paar Posts machen, wenn ich das Handy wirklich in der Hand habe. Ich werde diesmal auch versuchen, das offizielle ROM drauf zu lassen - aber *rooten* muss sein, glaub ich. Ohne [Adaway][4] halte ich nicht lange durch.
 
-[0]: {{ site.baseurl }}{% post_url 2014-09-15-neues-telefon-one-one %}
+[0]: {% post_url 2014-09-15-neues-telefon-one-one %}
 [1]: https://www.sonymobile.com/de/products/phones/xperia-xz-premium/
 [2]: https://www.amazon.de/Sony-High-Resolution-Headset-Funktion-Akkulaufzeit-kohlschwarz/dp/B01EANK8ZO/kopisde-21
 [3]: http://www.sony-wow.de/

@@ -29,11 +29,11 @@ layout: post
 
 <p>Now run your <a href="http://www.junit.org/">JUnit test</a> and you get a directory coverage-report with an index.html file in it. Open it in your favorite browser (or with the <a href="http://eclipse.org/home/categories/index.php?category=enterprise">Eclipse/Java EE</a> internal web browser) and you see a report like this:</p>
 
-<p><img src="/img/content/media_httpwikikopisde_teBrb.png.scaled500.png" width="500" height="185"/></p>
+<p><img src="/images/content/media_httpwikikopisde_teBrb.png.scaled500.png" width="500" height="185"/></p>
 
 <p>When you dig into the FizzBuzz.java you see the details:</p>
 
-<p><img src="/img/content/media_httpwikikopisde_oqBeg.png.scaled500.png" width="500" height="446"/></p>
+<p><img src="/images/content/media_httpwikikopisde_oqBeg.png.scaled500.png" width="500" height="446"/></p>
 
 <p>Do you smell something? What is that red line about? Is there code that is redundant or maybe plain wrong? Is the testcase testing the wrong things or taking false results for true? If you stumble upon something like this, this is the point where you notice that quick coverage reports are worth the setup time.</p>
 

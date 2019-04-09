@@ -4,7 +4,7 @@ date: 2009-05-05 00:00:00
 tags: 
 layout: post
 ---
-<img src="/img/content/media_http1bpblogspot_avIbC.jpg.scaled500.jpg" width="142" height="200"/> <img src="/img/content/media_http3bpblogspot_ojkes.jpg.scaled500.jpg" width="138" height="200"/>
+<img src="/images/content/media_http1bpblogspot_avIbC.jpg.scaled500.jpg" width="142" height="200"/> <img src="/images/content/media_http3bpblogspot_ojkes.jpg.scaled500.jpg" width="138" height="200"/>
 
 <p>Gerade habe ich bei Amazon 80&euro; auf den Kopp gehauen. Zwei neue B&uuml;cher sind auf dem Weg zu mir:</p>
 

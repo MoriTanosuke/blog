@@ -37,11 +37,11 @@ probiert, aber da ich eine externe USB Soundkarte von Xonar habe, sollte das auc
 
 *Edit* Die Grafikkarte läuft auch.
 
-![Screenshot von Mac OS High Sierra]({{ site.baseurl }}/images/macos.png)
+![Screenshot von Mac OS High Sierra](/images/macos.png)
 
 Einziger Bug: beim Start öffnet sich eins meiner Bluray Laufwerke. 😎 Aber damit kann ich erstmal leben.
 
-[0]: {{ site.baseurl }}{% post_url 2010-08-28-apple-freie-zone %}
+[0]: {% post_url 2010-08-28-apple-freie-zone %}
 [1]: https://i3wm.org/
 [2]: https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek
 [3]: https://sourceforge.net/projects/cloverefiboot/

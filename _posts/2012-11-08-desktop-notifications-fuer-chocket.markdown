@@ -30,7 +30,7 @@ abschicken. Im [Commit 667aaf6][2] kann man in Zeile 128 sehen, wie
 anschliessend die Nachricht im Fall einer Erwähnung des eigenen Nicks
 weitergeleitet wird.
 
-<img src="/img/chocket-desktop-notification.png" alt="Screenshot einer Desktop Notification" />
+<img src="/images/chocket-desktop-notification.png" alt="Screenshot einer Desktop Notification" />
 
 Und schon bekommt man (zumindest in [Chrome][4]) die *Desktop
 Notifications* angezeigt. :-)

@@ -14,11 +14,11 @@ Wenn ich dazu noch bedenke, dass ich in der Zeit der WODs auch noch umgezogen bi
 
 Mein Fazit:
 
-![Will do again]({{ site.baseurl }}/images/will-do-again.jpg)
+![Will do again](/images/will-do-again.jpg)
 
-[0]: {{ site.baseurl }}{% post_url 2016-02-29-crossfit-open-wod-16-1 %}
-[1]: {{ site.baseurl }}{% post_url 2016-03-04-crossfit-open-workout-16-2 %}
-[2]: {{ site.baseurl }}{% post_url 2016-03-11-crossfit-open-workout-16-3 %}
-[3]: {{ site.baseurl }}{% post_url 2016-03-18-crossfit-open-workout-16-4 %}
-[4]: {{ site.baseurl }}{% post_url 2016-03-25-crossfit-open-workout-16-5 %}
+[0]: {% post_url 2016-02-29-crossfit-open-wod-16-1 %}
+[1]: {% post_url 2016-03-04-crossfit-open-workout-16-2 %}
+[2]: {% post_url 2016-03-11-crossfit-open-workout-16-3 %}
+[3]: {% post_url 2016-03-18-crossfit-open-workout-16-4 %}
+[4]: {% post_url 2016-03-25-crossfit-open-workout-16-5 %}
 

@@ -19,7 +19,7 @@ Mittlerweile habe ich ein paar Fotos mit der [Sony A7II][0] gemacht:
 
 Die Fotos gibt es natürlich [bei Flickr][1]. Obwohl ich [neulich][2] kurz drüber nachgedacht habe, ob ich den Account zumachen und zu Google Fotos wechseln sollte. Ich könnte das ganze natürlich auch auf meiner eigenen [Nextcloud][3] Instanz hosten... naja, erstmal bleibe ich bei Flickr.
 
-[0]: {{ site.baseurl }}{% post_url 2018-03-19-neue-kamera-sony-a7ii %}
+[0]: {% post_url 2018-03-19-neue-kamera-sony-a7ii %}
 [1]: https://www.flickr.com/photos/cringe
 [2]: https://blog.flickr.net/en/2018/04/20/together-smugmug-flickr-faq/
 [3]: https://github.com/nextcloud/server
