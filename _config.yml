@@ -1,4 +1,5 @@
 site: KOPIS.DE
+baseurl: /blog
 url: https://www.kopis.de
 
 collections:
