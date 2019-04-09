@@ -1,7 +1,7 @@
 basic_settings:
   site_title: KOPIS.DE
   site_tagline: Auf diesen Seiten findest Du die Projekte und Blogposts von Carsten Ringe.
-  favicon_image: {{ site.baseurl }}/images/favicon.png
+  favicon_image: /blog/images/favicon.png
 
 header_settings:
   logo_image: 
