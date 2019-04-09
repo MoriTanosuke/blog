@@ -10,7 +10,7 @@ Um es kurz zu machen: Ab sofort benutze ich wieder einen Fitbit zum Tracken, und
 
 Sowohl das [Jawbone UP][0] als auch der [Withings Pulse O2][1] sind nach wenigen Monaten durchgefallen. Das Jawbone ging mehrmals kaputt, der Withings muss jetzt schon fast morgens *und* abends ans Ladegerät. Ich hoffe, Fitbit baut immer noch Geräte von gleicher Qualität.
 
-[0]: {% post_url 2014-08-02-ein-neuer-fitness-tracker-muss-her | prepend: site.baseurl %}
-[1]: {% post_url 2014-08-20-die-ersten-tage-mit-dem-withings-pulse-o2 | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2014-08-02-ein-neuer-fitness-tracker-muss-her %}
+[1]: {{ site.baseurl }}{% post_url 2014-08-20-die-ersten-tage-mit-dem-withings-pulse-o2 %}
 [2]: https://www.fitbit.com/de/one
 

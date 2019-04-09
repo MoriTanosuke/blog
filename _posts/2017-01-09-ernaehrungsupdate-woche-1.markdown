@@ -11,4 +11,4 @@ In der kommenden Woche werde ich den Plan ein wenig anpassen, so dass ich 3x vor
 Ich hab leider noch keine neuen Vergleichsbilder gemacht, das muss ich in den kommenden Tagen unbedingt noch nachholen. Bilder vor, während und nach der Ernährungsumstellung sind ein sehr gutes Hilfsmittel bei der Beurteilung. Man selbst nimmt die Veränderung durchaus anders (oder gar nicht) wahr. Da sind Bilder genau richtig und man kann eine gute Gegenüberstellung der einzelnen Phasen machen.
 
 [0]: https://renaissanceperiodization.com/
-[1]: {% post_url 2017-01-02-renaissance-periodization-diaet | prepend: site.baseurl %}
+[1]: {{ site.baseurl }}{% post_url 2017-01-02-renaissance-periodization-diaet %}

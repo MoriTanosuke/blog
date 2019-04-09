@@ -15,5 +15,5 @@ Seit [ein paar Wochen][0] benutze ich jetzt das [Sony XZ Premium][1]. Das Smartp
 
 Alles in allem bin ich sehr zufrieden. Der Preis für das Telefon ist für mich noch ein wenig gefallen, da ich die Bonus-Kopfhörer für Vorbesteller gerade bei Ebay verscheuert habe. Leider für etwas weniger als gehofft, aber immer noch ganz ok. Die nächste Hürde muss das Telefon bzw. Sony nehmen, wenn die neue Android Version rauskommt. Ich hoffe mal, das Sony etwas kürzere Update-Zyklen hat und relativ schnell ein Update anbietet. Ein paar Sicherheitsupdates sind schon gekommen und die Updates sind immer ohne Probleme nachts durchgelaufen, so dass ich morgen ein aktuelles OS hatte.
 
-[0]: {% post_url 2017-05-09-vorbestellt-sony-xperia-xz-premium | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2017-05-09-vorbestellt-sony-xperia-xz-premium %}
 [1]: https://www.sonymobile.com/de/products/phones/xperia-xz-premium/

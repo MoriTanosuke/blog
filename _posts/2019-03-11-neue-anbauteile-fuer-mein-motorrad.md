@@ -18,6 +18,6 @@ dazu bestellt:
 
 Jetzt muss ich nur noch die Montage hinbekommen... 🤔
 
-[0]: {% post_url 2011-10-07-gekauft-honda-hornet-pc41 | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2011-10-07-gekauft-honda-hornet-pc41 %}
 [1]: https://www.louis.de/artikel/highsider-lenkerendenspiegel-montana-2-links-oder-rechts-schwarz/10029454
 [2]: https://www.louis.de/artikel/lenkergriffe-racing-fuer-22mm-lenker-paar/10019492

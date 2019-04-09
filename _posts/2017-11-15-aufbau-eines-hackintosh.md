@@ -41,7 +41,7 @@ probiert, aber da ich eine externe USB Soundkarte von Xonar habe, sollte das auc
 
 Einziger Bug: beim Start öffnet sich eins meiner Bluray Laufwerke. 😎 Aber damit kann ich erstmal leben.
 
-[0]: {% post_url 2010-08-28-apple-freie-zone | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2010-08-28-apple-freie-zone %}
 [1]: https://i3wm.org/
 [2]: https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek
 [3]: https://sourceforge.net/projects/cloverefiboot/

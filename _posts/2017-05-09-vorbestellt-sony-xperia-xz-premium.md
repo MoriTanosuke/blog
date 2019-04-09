@@ -25,7 +25,7 @@ Jetzt muss ich mich aber noch ein paar Wochen gedulden, der offizielle Verkaufss
 
 Das war's auch erstmal. Ich denke, ich werde noch ein paar Posts machen, wenn ich das Handy wirklich in der Hand habe. Ich werde diesmal auch versuchen, das offizielle ROM drauf zu lassen - aber *rooten* muss sein, glaub ich. Ohne [Adaway][4] halte ich nicht lange durch.
 
-[0]: {% post_url 2014-09-15-neues-telefon-one-one | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2014-09-15-neues-telefon-one-one %}
 [1]: https://www.sonymobile.com/de/products/phones/xperia-xz-premium/
 [2]: https://www.amazon.de/Sony-High-Resolution-Headset-Funktion-Akkulaufzeit-kohlschwarz/dp/B01EANK8ZO/kopisde-21
 [3]: http://www.sony-wow.de/

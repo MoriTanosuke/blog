@@ -17,5 +17,5 @@ Ich bin ja eher ein Routinemensch (kleine Untertreibung, haha :eyes:) und werde 
 
 Morgen früh werde ich also in den neuen Job starten. Mal gucken, was die neuen Kollegen sagen, wenn ich da gleich mit meinem eigenen [WASD Keyboard][0] auf der Matte stehe. :smile:
 
-[0]: {% post_url 2014-04-02-mechanisches-keyboard-von-wasd | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2014-04-02-mechanisches-keyboard-von-wasd %}
 

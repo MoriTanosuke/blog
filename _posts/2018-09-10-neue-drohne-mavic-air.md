@@ -26,6 +26,6 @@ Bei den Größen dürfte klar sein, dass die kleine Umhängetasche sehr viel ein
 mitzunehmen ist, als der riesige Rucksack. Trotz der vielen Einschränkungen zum
 Flug werde ich mit der *Mavic Air* bestimmt mehr Aufnahmen machen. 🙂
 
-[0]: {% post_url 2016-11-29-neues-spielzeug-dji-phantom-3-standard | prepend: site.baseurl %}
+[0]: {{ site.baseurl }}{% post_url 2016-11-29-neues-spielzeug-dji-phantom-3-standard %}
 [1]: https://www.dji.com/de/mavic-air
 [2]: https://www.flickr.com/photos/cringe/

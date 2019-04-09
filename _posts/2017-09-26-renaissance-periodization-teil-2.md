@@ -13,4 +13,4 @@ Bei meinem aktuellen Gewicht werde ich also ca. im April 2018 dort ankommen. Gut
 grobe Zeitplan sollte passen. 😆
 
 [0]: https://renaissanceperiodization.com/
-[1]: {% post_url 2017-01-02-renaissance-periodization-diaet | prepend: site.baseurl %}
+[1]: {{ site.baseurl }}{% post_url 2017-01-02-renaissance-periodization-diaet %}
