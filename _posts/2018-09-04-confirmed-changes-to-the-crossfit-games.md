@@ -22,5 +22,5 @@ If you're a games athlete, it's a completely different topic. I think [Jacob Hep
 We'll see how this will work out and how the athletes will spread out over the competitions. But for the average crossfitter, all of this doesn't really change anything.
 
 [0]: https://games.crossfit.com/article/dubai-crossfit-championship-be-first-sanctioned-event
-[1]: {% post_url 2018-08-25-changes-to-the-crossfit-games %}
+[1]: {% post_url 2018-08-25-changes-to-the-crossfit-games | prepend: site.baseurl %}
 [2]: https://www.youtube.com/watch?v=4PMUr5v19Uk

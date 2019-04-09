@@ -19,7 +19,7 @@ Vielen Dank an [linuxundich][6] für die Starthilfe! 🙂
 [0]: https://linuxundich.de/gnu-linux/zur-situation-von-adbobe-flash-unter-linux/
 [1]: https://aur.archlinux.org/packages/freshplayerplugin/
 [2]: https://www.archlinux.org
-[3]: {% post_url 2016-09-21-opera-als-standardbrowser %}
+[3]: {% post_url 2016-09-21-opera-als-standardbrowser | prepend: site.baseurl %}
 [4]: https://wiki.archlinux.org/index.php/Pacaur
 [5]: https://wiki.archlinux.org/index.php/Aur
 [6]: https://linuxundich.de/gnu-linux/zur-situation-von-adbobe-flash-unter-linux/

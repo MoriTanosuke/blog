@@ -49,4 +49,4 @@ Mein Score von 2016 war 84. Diesmal habe ich 166 Reps geschafft. Hauptproblem wa
 
 [0]: https://games.crossfit.com/workouts/open/2019/2
 [1]: https://www.youtube.com/watch?v=yJ7zyc8E2gE
-[2]: {% post_url 2016-03-04-crossfit-open-workout-16-2 %}
+[2]: {% post_url 2016-03-04-crossfit-open-workout-16-2 | prepend: site.baseurl %}

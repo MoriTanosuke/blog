@@ -9,5 +9,5 @@ A couple weeks ago I took some photos with my [A7ii][0] and one of them turned o
 
 You can also see it [on Flickr][1].
 
-[0]: {% post_url 2018-03-19-neue-kamera-sony-a7ii %}
+[0]: {% post_url 2018-03-19-neue-kamera-sony-a7ii | prepend: site.baseurl %}
 [1]: https://www.flickr.com/photos/cringe/41388764754/

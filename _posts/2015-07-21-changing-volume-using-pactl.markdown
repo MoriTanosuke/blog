@@ -24,5 +24,5 @@ This commands return the first row of the above output, i.e. *2* when I'm using 
 
 [0]: https://www.asus.com/Sound/Xonar_U7/ 
 [1]: https://github.com/MoriTanosuke/i3wm-config
-[2]: {% post_url 2015-07-11-wechsel-zu-archlinux %}
+[2]: {% post_url 2015-07-11-wechsel-zu-archlinux | prepend: site.baseurl %}
 

@@ -11,4 +11,4 @@ Am Wochenende habe ich mir eine neue Grafikkarte für meinen Desktop PC bestellt
 
 [0]: https://www.nvidia.de/object/geforce-gtx-970-de.html
 [1]: http://www.computerbase.de/2010-10/amd-radeon-hd-6870-und-hd-6850-test/
-[2]: {% post_url 2012-06-20-wunschkonfiguration-fuer-desktop-pc-2012 %}
+[2]: {% post_url 2012-06-20-wunschkonfiguration-fuer-desktop-pc-2012 | prepend: site.baseurl %}

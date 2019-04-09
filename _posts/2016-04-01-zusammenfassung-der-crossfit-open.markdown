@@ -16,9 +16,9 @@ Mein Fazit:
 
 ![Will do again](/images/will-do-again.jpg)
 
-[0]: {% post_url 2016-02-29-crossfit-open-wod-16-1 %}
-[1]: {% post_url 2016-03-04-crossfit-open-workout-16-2 %}
-[2]: {% post_url 2016-03-11-crossfit-open-workout-16-3 %}
-[3]: {% post_url 2016-03-18-crossfit-open-workout-16-4 %}
-[4]: {% post_url 2016-03-25-crossfit-open-workout-16-5 %}
+[0]: {% post_url 2016-02-29-crossfit-open-wod-16-1 | prepend: site.baseurl %}
+[1]: {% post_url 2016-03-04-crossfit-open-workout-16-2 | prepend: site.baseurl %}
+[2]: {% post_url 2016-03-11-crossfit-open-workout-16-3 | prepend: site.baseurl %}
+[3]: {% post_url 2016-03-18-crossfit-open-workout-16-4 | prepend: site.baseurl %}
+[4]: {% post_url 2016-03-25-crossfit-open-workout-16-5 | prepend: site.baseurl %}
 

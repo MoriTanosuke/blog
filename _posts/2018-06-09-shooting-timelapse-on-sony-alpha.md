@@ -11,7 +11,7 @@ To start a timelapse, open the *PlayMemories Apps* panel and then the *Remote Co
 The timelapse pictures are stored as JPEGs, not RAW images. I wasn't too unhappy about this, because I can import the images directly into [Vegas Pro 15][4] as an image series and create a video. Pretty painless, and I guess every video editing application has a feature like this. Now I just have to get the timelapse intervals right for different topics...
 
 [0]: https://play.google.com/store/apps/details?id=com.thibaudperso.sonycamera
-[1]: {% post_url 2018-03-19-neue-kamera-sony-a7ii %}
+[1]: {% post_url 2018-03-19-neue-kamera-sony-a7ii | prepend: site.baseurl %}
 [2]: https://www.canon.de/for_home/product_finder/cameras/digital_camera/powershot/powershot_g7_x_mark_ii/
 [3]: https://www.playmemoriescameraapps.com/portal/usbdetail.php?eid=IS9104-NPIA09014_00-F00002
 [4]: https://www.vegascreativesoftware.com/de/vegas-pro/
