@@ -25,7 +25,7 @@ featured_image: /images/52935489_2344037732297346_4359112039860273152_n.jpg
 
 			<div class="blog-post__content">
 				<p>{{ post.excerpt }}</p>
-				<p><a href="{{ post.url | prepend: site.baseurl }}" class="button">Read More</a>
+				<p><a href="{{ post.url | prepend: site.baseurl }}" class="button">Mehr →</a>
 			</div>
 
 		</article>
@@ -43,13 +43,12 @@ featured_image: /images/52935489_2344037732297346_4359112039860273152_n.jpg
 	{% if paginator.previous_page %}
 	<div class="pagination__prev">
 		<a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="button button--large"><i
-				class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
+				class="fa fa-angle-left" aria-hidden="true"></i> <span>Neuere Beiträge</span></a>
 	</div>
 	{% endif %}
 	{% if paginator.next_page %}
 	<div class="pagination__next">
-		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button button--large"><span>Older
-				Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="button button--large"><span>Ältere Beiträge</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 	</div>
 	{% endif %}
 
