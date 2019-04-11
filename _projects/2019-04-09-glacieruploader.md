@@ -11,8 +11,8 @@ introduces *Glacier* as a cheap solution for long-term storage and I simply want
 to manually backup and restore them.
 
 <div class="gallery" data-columns="2">
-	<img src="/images/glacier1.jpg">
-	<img src="/images/glacier2.jpg">
+	<img src="/blog/images/glacier1.jpg">
+	<img src="/blog/images/glacier2.jpg">
 </div>
 
 Unfortunately the tooling wasn't really up to speed and most of it was focused on graphical user interfaces anyway. So, I decided 
