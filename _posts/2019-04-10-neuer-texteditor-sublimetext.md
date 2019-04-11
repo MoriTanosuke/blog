@@ -32,6 +32,7 @@ Hier noch eine Liste von *Packages*, die ich verwende:
   * [HighlightWords][9]
   * [PackageControl][3]
   * [SideBarEnhancements][10]
+  * [Terminal][11]
 
 Am wichtigsten ist sicher [Package Control][3], mit dem kann man die Pakete
 suchen und mit einem Tastendruck auch gleich installieren kann. Integration von
@@ -48,7 +49,9 @@ Die [SideBarEnhancements][10] erweitern die Ordner-Ansicht um ein paar
 nützliche Aufgaben, wie *Reveal in Sidebar* um eine geöffnete Datei zu finden
 oder einfache Dateioperationen wie Löschen, Umbenennen usw. In die gleiche
 Richtung geht [A File Icon][4], das die Sidebar einfach um ein paar schöne (und
-vor allem schnell zu erkennende) Dateisymbole erweitert.
+vor allem schnell zu erkennende) Dateisymbole erweitert. Was ähnliches bietet
+[Terminal][11], um schnell per *Command Palette* ein Terminalfenster im
+Projektverzeichnis zu öffnen.
 
 Das ganze habe ich auf einem USB Stick installiert, damit ich meine Konfiguration
 mitnehmen kann. Ich werde das ganze aber jetzt auf meinen Rechnern installieren,
@@ -65,3 +68,4 @@ damit ich von einer SSD laufe. 😊
 [8]: https://packagecontrol.io/packages/GitGutter
 [9]: https://packagecontrol.io/packages/HighlightWords
 [10]: https://packagecontrol.io/packages/SideBarEnhancements
+[11]: https://packagecontrol.io/packages/Terminal

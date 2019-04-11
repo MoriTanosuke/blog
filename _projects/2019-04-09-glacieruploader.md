@@ -15,7 +15,7 @@ to manually backup and restore them.
 	<img src="/blog/images/glacier2.jpg">
 </div>
 
-Unfortunately the tooling wasn't really up to speed and most of it was focused on graphical user interfaces anyway. So, I decided 
+Unfortunately the tooling wasn't really up to speed and most of it was focused on graphical user interfaces anyway. So, I decided
 to start my own backup tool for the command line. And of course I build it in *Java*.
 
 {% comment %}
