@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fortschritte und Rückschläge im Training"
+categories: sport
 ---
 
 Seit ein paar Wochen übe ich vermehrt den Handstand, da ich darauf setze, dass in den kommenden *Crossfit Open* Workouts der Handstand wieder eine Rolle spielen wird. Handstand Pushups werden auf jeden Fall dran kommen, aber ich würde mich nicht wundern, wenn man dieses Jahr auch auf den Händen laufen muss...

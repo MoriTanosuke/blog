@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Erneuter Test der Crossfit Open Workouts 2015'
+tags: crossfit
+categories: sport
 ---
 Da die nächsten [Crossfit Open][0] vor der Tür stehen, habe ich mich vor 2 Wochen entschlossen, die Workouts von 2015 noch einmal zu machen und meinen Score zu vergleichen. Leider bin ich dann gleich krank geworden, so dass ich erstmal bei 15.2 stecken geblieben bin.
 

@@ -1,7 +1,8 @@
 ---
 title: 'Neuer Programmplan bei Crossfit HH'
-date: 2014-07-18 00:00:00 
+date: 2014-07-18 00:00:00
 tags: crossfit
+categories: sport
 layout: post
 ---
 Coach Lutz erklärt die Einzelheiten für die neu strukturierten Classes von [Crossfit HH][0]:

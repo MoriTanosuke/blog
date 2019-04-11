@@ -2,6 +2,7 @@
 title: 'Crossfit Open WOD 15.1'
 layout: post
 tags: crossfit crossfitopen
+categories: sport
 ---
 
 Das [Crossfit Open WOD 15.1][0] ist angekündigt.

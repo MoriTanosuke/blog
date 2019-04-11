@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Fran + Annie'
+tags: crossfit
+categories: sport
 ---
 Heute hatte ich *das Glück* (ha ha!), die [Benchmark Workouts][0] [Fran][1] und [Annie][2] machen zu dürfen (ha ha!). Es war so anstrengend wie ich erwartet hatte. Vor allem, weil ich vorher schon meine Einheit vom [barbellwod][3] absolviert hatte und entsprechend erschöpft war - trotz der geringen Gewichte im gerade gestarteten neuen Kraftzyklus. Ich schieb das jetzt einfach mal aufs Wetter, oder aufs Alter, oder auf schlechten Schlaf bei den aktuellen Sommertemperaturen...
 
@@ -9,14 +11,14 @@ Hier nochmal die Workouts:
 **"Fran"**
 
 > Three rounds, 21-15- and 9 reps, for time of:
-> 
+>
 > * 95-pound Thruster
 > * Pull-ups
 
 **"Annie"**
 
 > 50-40-30-20 and 10 rep rounds of:
-> 
+>
 > * Double-unders
 > * Sit-ups
 
@@ -29,7 +31,7 @@ Aber gerade die zweite Runde von [Fran][1] hat mich bei den Klimmzügen fertig g
 Trotz dieses momentanen Rückschlags bin ich ganz zufrieden. Ich kann mich noch wage an meine erste Begegnung mit [Fran][1] erinnern, da konnte ich gerade mal mit der leeren Stange und halbgaren Klimmzügen antreten. Heute hatte ich immerhin 40kg auf der Stange und die Kipping Pull Ups funktionieren auch gut - trotz Krafttraining vor und anstrengendem Training während der Class! Alles in allem bin ich also zufrieden mit meinem Fortschritt.
 
 [0]: http://www.crossfit.com/cf-info/faq.html#WOD0
-[1]: http://www.crossfit.com/mt-archive2/000611.html 
+[1]: http://www.crossfit.com/mt-archive2/000611.html
 [2]: http://www.crossfit.com/mt-archive2/007065.html
 [3]: http://www.thebarbellwod.com/
 [4]: https://en.wikipedia.org/wiki/One-repetition_maximum

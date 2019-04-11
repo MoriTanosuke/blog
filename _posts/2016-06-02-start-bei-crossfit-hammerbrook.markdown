@@ -2,6 +2,7 @@
 layout: post
 title: "Start bei Crossfit Hammerbrook"
 tags: crossfit
+categories: sport
 ---
 [Nach meinem Umzug][1] war es auch Zeit für eine neue Crossfit Box, daher war ich vor ein paar Wochen schonmal für ein Probetraining (*drop in* in Crossfit-speak) bei [Crossfit Hammerbrook][0]. Gestern war ich dann das erste Mal "*offiziell*" dort und habe trainiert. Demnächst werde ich also die ersten Classes dort machen und sonst die Open Gym Zeiten nutzen.
 

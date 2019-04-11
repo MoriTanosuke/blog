@@ -1,7 +1,8 @@
 ---
 title: 'Erstes Fazit nach 6 Monaten Crossfit'
-date: 2014-06-09 00:00:00 
+date: 2014-06-09 00:00:00
 tags: crossfit
+categories: sport
 layout: post
 ---
 ***TL;DR** Wer eine motivierende Sportart sucht und gerne Abwechslung hat, der sollte sich [Crossfit][1] auf jeden Fall angucken. Ich werde jedenfalls weiter machen.*

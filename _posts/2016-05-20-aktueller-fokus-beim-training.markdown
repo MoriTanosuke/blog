@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Aktueller Fokus beim Training"
+categories: sport
 ---
 Seit meinen ersten Crossfit Workouts arbeite ich konstant an meiner Beweglichkeit. Am Anfang war mein Fokus hauptsächlich die tiefe Kniebeuge. Anschliessend sind die Schultern, die Fussknöchel, die Handgelenke, der Rücken dazu gekommen. In den letzten Wochen oder Monaten habe ich mich hauptsächlich auf die Fussknöchel konzentriert, damit meine *Front Squats* besser werden. Und mit besser meine ich: bessere Position in der *Bottom Position* - nicht unbedingt mehr Gewicht.
 

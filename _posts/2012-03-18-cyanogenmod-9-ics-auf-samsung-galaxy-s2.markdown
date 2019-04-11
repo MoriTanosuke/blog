@@ -1,7 +1,8 @@
 ---
 title: 'Cyanogenmod 9 ICS auf Samsung Galaxy S2'
-date: 2012-03-18 00:00:00 
-tags: 
+date: 2012-03-18 00:00:00
+tags: samsung cyanogenmod
+category: technology
 layout: post
 ---
 Heute habe ich nochmal bei [Cyanogenmod][0] vorbeigeschaut und ich musste feststellen, dass mittlerweile ein offizieller Build von [Android 4 alias *Icecream Sandwich*][1] verfügbar ist.

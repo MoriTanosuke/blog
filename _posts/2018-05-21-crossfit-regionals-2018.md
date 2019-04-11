@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crossfit Regionals 2018"
+tags: crossfit
 ---
 Am Wochenende war ich bei den [Crossfit Regionals][0] und habe mir die europäischen Sportler angesehen. Ausserdem war ich bei [Crossfit Aorta][1] und [myLeo][2] trainieren. Hier sind ein paar Bilder:
 

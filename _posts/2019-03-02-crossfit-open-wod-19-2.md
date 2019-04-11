@@ -2,6 +2,7 @@
 layout: post
 title: "Crossfit Open WOD 19.2"
 tags: crossfit crossfitopen
+categories: sport
 ---
 
 Das [Crossfit Open WOD 19.2][0] ist draussen:

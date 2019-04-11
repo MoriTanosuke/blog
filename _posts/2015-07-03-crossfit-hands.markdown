@@ -1,6 +1,8 @@
 ---
 title: 'Crossfit Hands'
 layout: post
+categories: sport
+tags: crossfit
 ---
 Mach Sport, sagen sie. Dann fühlt man sich besser, sagen sie.
 

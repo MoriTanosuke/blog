@@ -2,6 +2,7 @@
 layout: post
 title: "Crossfit Open WOD 17.4"
 tags: crossfit crossfitopen
+categories: sport
 ---
 
 *Update* Mein Score ist 176, d.h. ich habe 8 HSPU mehr geschafft als letztes Jahr.

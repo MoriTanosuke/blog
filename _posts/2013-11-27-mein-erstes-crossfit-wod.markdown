@@ -1,7 +1,8 @@
 ---
 title: 'Mein erstes Crossfit WOD'
-date: 2013-11-27 00:00:00 
+date: 2013-11-27 00:00:00
 tags: crossfit
+categories: sport
 layout: post
 ---
 Letzten Dienstag war ich für ein Intro bei [crossfit hh][0], um mir [Crossfit][1] mal genauer anzusehen. Ich habe schon etwas länger einige der sog. *Workouts Of The Day* (kurz: *WOD*) angesehen und mit meinem aktuellen Training verglichen. Ergebnis: es gibt eine große Übereinstimmung - größer als die üblichen Trainingspläne in Fitnessstudios.
@@ -37,7 +38,7 @@ Für diese Art von Training müsste ich
 
 * die Fahrtstrecke
 * den Preis
-* die Einschränkung, dass ich nur von Montag bis Donnerstag dort trainieren könnte 
+* die Einschränkung, dass ich nur von Montag bis Donnerstag dort trainieren könnte
 
 hinnehmen und mich an den Wochenenden, an denen ich nicht in die Crossfit Box gehen kann, alleine durchzubeissen und mit Medizinball und Springseil auf dem Sportplatz trainieren.
 

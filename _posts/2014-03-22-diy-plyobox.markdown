@@ -1,7 +1,8 @@
 ﻿---
 title: 'DIY Plyobox'
-date: 2014-03-22 00:00:00 
+date: 2014-03-22 00:00:00
 tags: crossfit
+categories: sport
 layout: post
 ---
 Am Wochenende habe ich mir für mein Outdoor Crossfit Training eine sog. [Plyobox][0] gebaut. Natürlich in den Standardmassen für Crossfit Wettkämpfe - 51cm x 61xm x 76cm.

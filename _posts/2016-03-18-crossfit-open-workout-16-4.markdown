@@ -2,6 +2,7 @@
 layout: post
 title: "Crossfit Open Workout 16.4"
 tags: crossfit crossfitopen
+categories: sport
 ---
 **Update** Mein Score ist 168. Ich bin sehr zufrieden!
 

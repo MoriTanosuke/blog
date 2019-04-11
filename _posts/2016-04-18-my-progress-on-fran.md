@@ -2,6 +2,7 @@
 title: "My progress on Crossfit WOD 'Fran'"
 layout: post
 tags: crossfit wod fran
+categories: sport
 ---
 
 Yesterday I did the [Crossfit Workout "Fran"][0] again.
@@ -15,7 +16,7 @@ Three rounds, 21-15- and 9 reps, for time of:
 
 This workout is one of the most iconic workouts of Crossfit and every crossfitter knows his *"fran time"*. My best is 08:06. Yesterday I did it it 08:09, which I consider a good time considering that I sat around on my desk all time and was working out almost 2 hours later as usual.
 
- Date       | Fran Time 
+ Date       | Fran Time
 ------------|----------
  18.04.2016 | 08:09
  17.10.2015 | 08:06

@@ -2,6 +2,7 @@
 title: 'Crossfit Open WOD 15.5'
 layout: post
 tags: crossfit crossfitopen
+categories: sport
 ---
 
 *Update* Ich hab die Tortur in 16:47 hinter mich gebracht. Ein unglaublich anstrengendes Workout...

@@ -1,6 +1,8 @@
 ---
 title: "Zusammenfassung der Crossfit Open"
 layout: post
+tags: crossfit
+categories: sport
 ---
 Die *Crossfit Open 2016* sind vorbei. Mit meinen Ergebnissen bin ich einigermassen zufrieden, meine Erwartungen wurden weder groß übertroffen noch unterschritten. In 2 WODs hätte ich mir ein besseres Abschneiden erhofft, aber dafür habe ich meine ersten *Bar Muscle Up* hinbekommen. Hier meine Punkte in der Kurzübersicht:
 

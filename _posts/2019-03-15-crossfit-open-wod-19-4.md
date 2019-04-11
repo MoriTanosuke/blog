@@ -2,6 +2,7 @@
 layout: post
 title: "Crossfit Open WOD 19.4"
 tags: crossfit crossfitopen
+categories: sport
 featured_image: /images/47396430571_e46203d261_o.png
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Auf Wiedersehen, Crossfit HH'
+tags: crossfit
+categories: sport
 ---
 
 Nach gut 1,5 Jahren beende ich meine Mitgliedschaft bei [Crossfit HH][0] mit schwerem Herzen. Mein Crossfit Training hat dort begonnen und ich habe große Fortschritt gemacht. Viel Technik gelernt, viel *Olympic Lifting* trainiert, die *Crossfit Open 2015* mitgemacht und dabei [meine ersten Muscle Ups][2] geschafft. Wer in Hamburg eine Box für sein Crossfit Training sucht, der sollte unbedingt bei [Crossfit HH][0] vorbei schauen!
@@ -15,4 +17,3 @@ So langsam hält *Functional Training* auch in den eher dünn besiedelten Gegend
 [1]: http://northgym.de/
 [2]: {{ site.baseurl }}{% post_url 2015-03-13-crossfit-open-15.3 %}
 [3]: http://crossformation.de/
-
