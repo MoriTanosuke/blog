@@ -1,5 +1,5 @@
 site: KOPIS.DE
-#url: https://www.kopis.de/blog
+url: https://www.kopis.de/blog
 baseurl: /blog
 
 collections:
