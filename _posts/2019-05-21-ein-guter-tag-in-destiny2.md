@@ -3,7 +3,7 @@ layout: post
 title: "Ein guter Tag in Destiny 2"
 categories: gaming
 tags: gaming destiny2 videos
-featured_image: /images/featured/destiny2-reset-infamy.jpg
+featured_image: /images/featured/destiny2-reset-infamy.png
 ---
 Gestern hatte ich einen weiteren guten Tag in [Destiny 2][0] - ein Spiel, dass
 ich quasi seit Tag 1 spiele. Daran ist bemerkenswert, dass ich eigentlich
