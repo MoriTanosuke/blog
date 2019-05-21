@@ -9,7 +9,7 @@ Gestern hatte ich einen weiteren guten Tag in [Destiny 2][0] - ein Spiel, dass
 ich quasi seit Tag 1 spiele. Daran ist bemerkenswert, dass ich eigentlich
 gar nicht so gern Shooter spiele und erst recht kein [PvP][1].
 
-Als erstes habe cih mal ein paar gute Runden in *Gambit* gespielt, ein
+Als erstes habe ich mal ein paar gute Runden in *Gambit* gespielt, ein
 Spielmodus der einen Mix aus PvE und PvP darstellt und sehr, sehr aufregend sein
 kann. Man ist ständig unterwegs und sammelt Punkte, aber das andere Spiel kann
 diese Punkte wieder wegnehmen oder einen Eindringlich schicken, der die Spieler
