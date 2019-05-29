@@ -51,7 +51,7 @@ Der nächste wirklich interessante Fortschritt kommt, wenn es ein kabelloses
 Standalone-Gerät mit der Grafikleistung der aktuellen Generation gibt. Dann
 würde ich eventuell auch über ein Upgrade nachdenken.
 
-[0]: {% link _posts/2019-05-03-vorbestellt-oculus-rift-s.md %}
+[0]: {{ site.baseurl }}{% post_url 2019-05-03-vorbestellt-oculus-rift-s %}
 [1]: https://www.oculus.com/experiences/rift/1081190428622821/
 [2]: https://www.oculus.com/experiences/rift/1018772231550220
 [3]: https://www.oculus.com/experiences/rift/1942343732456615
