@@ -16,7 +16,9 @@ Zeitaufwändig sind die Raids auch mit einer erfahrenen Gruppe. Manche Bossphase
 Hier noch ein paar Bilder aus dem Raid *Der letzte Wunsch*:
 
 ![]({{ site.baseurl }}/images/destiny2-raid1.png)
+
 ![]({{ site.baseurl }}/images/destiny2-raid2.png)
+
 ![]({{ site.baseurl }}/images/featured/destiny2-raid3.png)
 
 [0]: https://www.bungie.net/de
