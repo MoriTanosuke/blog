@@ -25,14 +25,12 @@
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title"
 		content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
-	<!-- DISABLE some broken properties
 	<meta name="twitter:description"
-		content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}">
+		content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.excerpt | strip_html }}{% endif %}">
 	<meta name="description"
-		content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}">
+		content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.excerpt | strip_html }}{% endif %}">
 	<meta property="og:description"
-		content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}" />
-	-->
+		content="{% if page.description %}{{ page.description | strip_html }}{% else %}{{ page.excerpt | strip_html }}{% endif %}" />
 	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.featured_image | prepend: site.baseurl }}" />
 
 	{% if site.data.settings.font_settings.font_embed %}
