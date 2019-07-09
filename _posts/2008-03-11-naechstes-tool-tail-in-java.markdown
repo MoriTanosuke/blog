@@ -3,15 +3,17 @@ title: "Nächstes Tool: Tail in Java"
 date: 2008-03-11 00:00:00
 layout: post
 ---
-Tja, schon wieder ein neues kleines Tool: Ich hab gerade tail in Java nachgebaut. F&Atilde;&frac14;r alle, die unter Windows sowas&amp;Atilde;&curren;hnliches suchen. ;-) Den Quelltext gibt es im vollst&Atilde;&curren;ndigen Artikel oder unter <a href="http://wikihost.org/wikis/kopis/programm/gebo.prg?name=prog:tail.java">http://wikihost.org/wikis/kopis/programm/gebo.prg?name=prog:tail.java</a>
+Tja, schon wieder ein neues kleines Tool: Ich hab gerade tail in Java nachgebaut.
+Für alle, die unter Windows sowas ähnliches suchen. 😉 Den Quelltext gibt es im
+vollständigen Artikel.
 
-Als n&Atilde;&curren;chstes sind noch das Einlesen von STDIN geplant und die Angabe der auszugebenden Bytes per Parameter. Vorschl&Atilde;&curren;ge bitte wieder in die Kommentare. :-)
+Als nächstes sind noch das Einlesen von STDIN geplant und die Angabe der
+auszugebenden Bytes per Parameter. Vorschläge bitte wieder in die Kommentare. 😀
 
-&lt;!--more-->
+<!--more-->
 
-<code></code>
-<div class="CodeRay">
-  <div class="code"><pre>import java.io.File;
+<pre class="brush: java">
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
@@ -22,7 +24,7 @@ public class Tail {
         /**
          * Application version.
          */
-        private static final String VERSION =&amp;quot;0.1&quot;;
+        private static final String VERSION = "0.1";
 
         /**
          * Default number of bytes to show.
@@ -33,8 +35,8 @@ public class Tail {
                 File f = new File(filename);
                 if(!f.exists()) throw new FileNotFoundException();
 
-                RandomAccessFile file = new RandomAccessFile(f,&amp;quot;r&quot;);
-                if(file.length()&amp;gt; DEFAULT_LENGTH) {
+                RandomAccessFile file = new RandomAccessFile(f);
+                if(file.length() > DEFAULT_LENGTH) {
                         file.seek(file.length() - DEFAULT_LENGTH);
                 }
                 //go back to last n
@@ -53,8 +55,8 @@ public class Tail {
 
         public static void main(String[] args) {
                 if(args.length == 0) {
-                        System.out.println(&quot;tail v&quot; + VERSION);
-                        System.out.println(&quot;USAGE:ttail&amp;quot;);
+                        System.out.println("tail v" + VERSION);
+                        System.out.println("USAGE: tail");
                 } else {
                         try {
                                 Tail.tail(args[0]);
@@ -65,5 +67,5 @@ public class Tail {
                 }
         }
 
-}</pre></div>
-</div>
+}
+</pre>

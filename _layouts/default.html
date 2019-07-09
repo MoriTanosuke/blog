@@ -41,6 +41,8 @@
 	<!-- Styles -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+	<link href="{{ site.baseurl }}/css/shCore.css" rel="stylesheet" type="text/css" />
+	<link href="{{ site.baseurl }}/css/shThemeDefault.css" rel="stylesheet" type="text/css" />
 
 	<!-- Icons -->
 	<script src="{{ site.baseurl }}/fontawesome/js/solid.js"></script>
@@ -110,6 +112,14 @@
 	<!-- Javascript Assets -->
 	<script src="{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
 	<script src="{{ site.baseurl }}/js/journal-min.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/js/shCore.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/js/shBrushBash.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/js/shBrushJava.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/js/shBrushPlain.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/js/shBrushPython.js"></script>
+	<script type="text/javascript">
+		SyntaxHighlighter.all()
+	</script>
 
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->
