@@ -53,7 +53,7 @@ services:
 I added a *volume* and a custom JSP to make this example a bit more my
 own:
 
-````html
+````jsp
 <html>
 <body>
 This is host <strong><%= java.net.InetAddress.getLocalHost().getHostName() %></strong>.
