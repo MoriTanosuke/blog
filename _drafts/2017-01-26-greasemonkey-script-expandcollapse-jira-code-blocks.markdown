@@ -6,8 +6,7 @@ Recently the company I am working for switched to [JIRA][0] as our issue tracker
 
 But what I was missing is expanding/collapsing code blocks in comments and descriptions. This was very handy when you paste really long stacktraces or XML parts. [In JIRA this is not possible][1] without the help of a plugin ([plugin1][2] for example). So I decided to write a little greasemonkey userscript to do it. And here it is:
 
-<pre>
-<code>
+<pre class="brush: js">
 // ==UserScript==
 // @name           JIRA Collapsible Code
 // @namespace      jira_collapsible_code
@@ -16,10 +15,10 @@ But what I was missing is expanding/collapsing code blocks in comments and descr
 // @author         Carsten Ringe
 // @match          https://yourjirahost/*
 // ==/UserScript==
- 
+
 (function() {
     'use strict';
- 
+
     // add style for collapse button
     $(".code.panel").each(function() {
         var random = new Date().getTime();
@@ -45,7 +44,6 @@ But what I was missing is expanding/collapsing code blocks in comments and descr
         $panel.prev().append($clicker);
     });
 })();
-</code>
 </pre>
 
 [0]: https://www.atlassian.com/software/jira

@@ -1,15 +1,16 @@
 ---
 title: 'Infinite Loop'
-date: 2010-01-06 00:00:00 
-tags: 
+date: 2010-01-06 00:00:00
 layout: post
 ---
-<p>Hach, solche Dinge find ich echt sch&ouml;n:</p>
+Hach, solche Dinge find ich echt schön:
 
-<pre class="brush: java">while (true) {
+<pre class="brush: java">
+while (true) {
   try {
     return;
   } finally {
     continue;
   }
-}</pre>
+}
+</pre>

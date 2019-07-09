@@ -1,21 +1,19 @@
 ---
 title: 'Autohotkey: Resize windows'
-date: 2009-12-03 00:00:00 
-tags: 
+date: 2009-12-03 00:00:00
 layout: post
 ---
-<p>I was tired of moving and resizing windows by hand, so I created a small script for <a href="http://www.autohotkey.com/">AutoHotKey</a> that allows quick window organization. I added only what I need right now, so you have the following actions:</p>
+I was tired of moving and resizing windows by hand, so I created a small script for [AutoHotKey][0] that allows quick window organization. I added only what I need right now, so you have the following actions:
 
-<ul>
-<li>WIN+Up: Maximize current window</li>
-<li>WIN+Down: Restore current window</li>
-<li>WIN+Left: Put window to the left side of the screen</li>
-<li>WIN+Right: Put window to the right side of the screen</li>
-</ul>
+  * WIN+Up: Maximize current window
+  * WIN+Down: Restore current window
+  * WIN+Left: Put window to the left side of the screen
+  * WIN+Right: Put window to the right side of the screen
 
-<p>The <em>Left/Right</em> actions are really useful if you like to work in splitscreen mode. I do that often, so this comes in handy. I think this little script allows for quick modification, so feel free to add any functionality you like to have.</p>
+The *Left/Right* actions are really useful if you like to work in splitscreen mode. I do that often, so this comes in handy. I think this little script allows for quick modification, so feel free to add any functionality you like to have.
 
-<pre class="brush: js">#InstallKeybdHook
+<pre class="brush: js">
+#InstallKeybdHook
 #Up::WinMaximize A
 #Down::WinRestore A
 #Left::LeftHalfWindow()
@@ -39,4 +37,7 @@ h:=(areaBottom-areaTop)
 
 WinRestore, A
 WinMove, A, , w, 0, w, h   ;Middle of screen is same as w.
-}</pre>
+}
+</pre>
+
+[0]: http://www.autohotkey.com/
