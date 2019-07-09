@@ -8,7 +8,7 @@ my tomcats. To get started, I took a look at the
 [dockercloud-haproxy][0] image and the provided example configuration
 for *docker-compose*:
 
-````
+````yaml
 version: '2'
 services:
   web:
@@ -33,7 +33,7 @@ To make this a bit more specific to my use case, I decided to replace
 the *hello-world* image with the [official *tomcat* image][1]. Because I
 like small images, I also decided to use *tomcat:alpine*.
 
-````
+````yaml
 version: '2'
 services:
   web:
@@ -53,7 +53,7 @@ services:
 I added a *volume* and a custom JSP to make this example a bit more my
 own:
 
-````
+````html
 <html>
 <body>
 This is host <strong><%= java.net.InetAddress.getLocalHost().getHostName() %></strong>.
