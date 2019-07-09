@@ -17,7 +17,7 @@ Because I'm not interested in storing the data over a long period of time, I don
 
 The way to go is a simple *docker-compose.yml* which I can start with a single command and have everything set up to accept log messages from my *java* applications. So, here we go:
 
-<pre>
+<pre class="brush: plain">
 elasticsearch:
   image: elasticsearch
   ports:
@@ -43,7 +43,7 @@ As you can see, I only use *image*s - no custom *Dockerfile* needed. I also put 
 
 I also exposed port 12201 on the *logstash* host to be able to send log messages from locally running applications. I modified my *log4j.properties* and added a new appender named *logstash* with the following configuration:
 
-<pre>
+<pre class="brush: plain">
 log4j.rootLogger=INFO,logstash
 ...
 log4j.appender.logstash=org.apache.log4j.net.SocketAppender
