@@ -3,7 +3,7 @@ layout: post
 title: "Sommerabend am Meer"
 categories: fotos
 tags: fotos
-featured_image: /images/featured/sommerabend1.png
+featured_image: /images/featured/sommerabend1.jpg
 ---
 Beim letzten [Sommerabend am Meer][0] habe ich versucht, ein paar Fotos im Dunkeln
 zu machen. Hat ganz gut geklappt, aber so richtig zufrieden bin ich noch nicht.
