@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sommerabend am Meer"
+title: "Crossfit Hammerbrook Inhouse Challenge"
 categories: fotos
 tags: fotos
 featured_image: /images/crossfit_hammerbrook.png
